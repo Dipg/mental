@@ -1,0 +1,39 @@
+file:: [Unidad_II_-_Teoría_Prospectiva_1637535162355_0.pdf](../assets/Unidad_II_-_Teoría_Prospectiva_1637535162355_0.pdf)
+file-path:: ../assets/Unidad_II_-_Teoría_Prospectiva_1637535162355_0.pdf
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 24
+  id:: 619aff0a-2243-49b6-8035-109eaadb2603
+  hl-type:: area
+  hl-stamp:: 1637547784642
+- [:span]
+  ls-type:: annotation
+  hl-page:: 24
+  id:: 619aff4b-9adf-4862-9221-d27179becf90
+  hl-type:: area
+  hl-stamp:: 1637547850686
+- [:span]
+  ls-type:: annotation
+  hl-page:: 24
+  id:: 619aff83-a0cf-412f-9ebc-3760f85b814d
+  hl-type:: area
+  hl-stamp:: 1637547906836
+- [:span]
+  ls-type:: annotation
+  hl-page:: 24
+  id:: 619affbe-4020-4cec-942b-6c68392ca7ba
+  hl-type:: area
+  hl-stamp:: 1637547965358
+- [:span]
+  ls-type:: annotation
+  hl-page:: 27
+  id:: 619b0020-b91e-46c5-aaf8-d42df7848b2e
+  hl-type:: area
+  hl-stamp:: 1637548062510
+- [:span]
+  ls-type:: annotation
+  hl-page:: 28
+  id:: 619b00da-d762-4676-a956-7751bfb501c5
+  hl-type:: area
+  hl-stamp:: 1637548249069

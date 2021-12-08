@@ -1,0 +1,2 @@
+- Manejo de datos
+	- Usamos la librería [[Pandas]]

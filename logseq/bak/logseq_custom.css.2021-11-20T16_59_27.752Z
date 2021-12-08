@@ -1,0 +1,28 @@
+.block-ref>div>span>span>span>div>.tag{
+	display: none !important;
+}
+.tag[data-ref*="red"]{
+    content:  url(https://cdn-icons-png.flaticon.com/512/595/595005.png) ;
+        transform: scale(1.5); 
+        display:inline !important ;
+        width: 10.2px; 
+        height: 10.2px; 
+    margin-left:3px !important;
+    margin-right:20px !important;
+    /* filter: invert(69%) sepia(64%) saturate(1583%) hue-rotate(49deg) brightness(108%) contrast(111%); */
+
+    opacity: 0.7;	
+    }
+
+    .tag[data-ref*="yellow"]{
+        content:  url(https://cdn-icons-png.flaticon.com/512/595/595005.png) ;
+            transform: scale(1.5); 
+            display:inline !important ;
+            width: 10.2px; 
+            height: 10.2px; 
+        margin-left:3px !important;
+        margin-right:20px !important;
+        /* filter: invert(69%) sepia(64%) saturate(1583%) hue-rotate(49deg) brightness(108%) contrast(111%); */
+    
+        opacity: 0.7;	
+        }

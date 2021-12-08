@@ -1,0 +1,480 @@
+[{:block/name "\"\"",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "#",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "##",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "#.",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "#1",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "#1.",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "#2.",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "#3.",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "#3.1",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "#3.1.",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "#3.2.",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "#3.3.",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "#3.4.",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "#4",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "#4.",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "#4.incenti",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "#5.",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "#6.",
+  :block/created-at 1638961917541,
+  :block/updated-at 1638961917541}
+ {:block/name "+begin_quote",
+  :block/created-at 1638961917541,
+  :block/updated-at 1638961917541}
+ {:block/name ".",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name
+  "../assets/between_free_trade_and_protectionism_1638791166400_0.pdf",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name
+  "../assets/dialnet-teoriaprospectiva-65981_(1)_1637533445262_0.pdf",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "../assets/handbook_on_impact_1637851091888_0.pdf",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "../assets/image_1637497689911_0.png",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "../assets/image_1637497709827_0.png",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "../assets/image_1637548323013_0.png",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name
+  "../assets/incidencia_tributaria-yanez_1638581778558_0.pdf",
+  :block/created-at 1638961917540,
+  :block/updated-at 1638961917540}
+ {:block/name
+  "../assets/informe_contrato_73_proyecto_alumnus+vf_signed_(1)_1637552839114_0.pdf",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name
+  "../assets/la_economía_del_sector_público_1637674931911_0.pdf",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name
+  "../assets/política_de_comercio_exterior_en_ecuador_un_análisis_comparativo_1638791289725_0.pdf",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name
+  "../assets/protectionism_and_free_trade_a_country‘s_glory_or_doom_1638791239920_0.pdf",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name
+  "../assets/unidad1_impact_evaluation_1637839735097_0.pdf",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "../assets/unidad_1_(1)_1637632703913_0.pptx",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "../assets/unidad_1_1637632758053_0.pdf",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "../assets/unidad_3_1637746412131_0.pdf",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "../assets/unidad_4_1637751172084_0.pdf",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "../assets/unidad_i_-_introducción_1637370795899_0.pdf",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name
+  "../assets/unidad_ii_-_ampliando_la_racionalidad_1637442442873_0.pdf",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name
+  "../assets/unidad_ii_-_preferencias_sociales_1637442525025_0.pdf",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name
+  "../assets/unidad_ii_-_teoría_prospectiva_1637442418807_0.pdf",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name
+  "../assets/unidad_ii_-_teoría_prospectiva_1637535162355_0.pdf",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name
+  "../assets/why_the_move_to_free_trade_1638791104368_0.pdf",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "1",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "3.]",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "61986c0a-c73c-4efc-8d25-a4989c91fe8c",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "61993171-c97f-46cb-a0bf-b2d27fbff677",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "619cf53b-fce0-40c3-b7e3-02e285fcfc34",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "619d1fd5-eb00-418b-b85e-5d724d64e93f",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "619fa0c5-d175-43cc-9167-74b765901e22",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "61a0425b-a280-45ef-8d7e-bd4614cb130b",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "a",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "análisis multivariante",
+  :block/created-at 1637871453639,
+  :block/updated-at 1637876575765}
+ {:block/name "b",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "biólogos",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "c",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "canciones",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "card",
+  :block/created-at 1638961917543,
+  :block/updated-at 1638961917543}
+ {:block/name "checkme",
+  :block/created-at 1637552839661,
+  :block/updated-at 1637858045786}
+ {:block/name "contents",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "coste hundido",
+  :block/created-at 1637428534140,
+  :block/updated-at 1637428554268}
+ {:block/name "dec 1st, 2021",
+  :block/created-at 1638316800000,
+  :block/updated-at 1638316800000}
+ {:block/name "dec 2nd, 2021",
+  :block/created-at 1638451213381,
+  :block/updated-at 1638453900117}
+ {:block/name "dec 3rd, 2021",
+  :block/created-at 1638489600000,
+  :block/updated-at 1638489600000}
+ {:block/name "dec 4th, 2021",
+  :block/created-at 1638576000000,
+  :block/updated-at 1638576000000}
+ {:block/name "dec 5th, 2021",
+  :block/created-at 1638662400000,
+  :block/updated-at 1638662400000}
+ {:block/name "dec 6th, 2021",
+  :block/created-at 1638748800000,
+  :block/updated-at 1638748800000}
+ {:block/name "dec 7th, 2021",
+  :block/created-at 1638835200000,
+  :block/updated-at 1638835200000}
+ {:block/name "dec 8th, 2021",
+  :block/created-at 1638921600000,
+  :block/updated-at 1638921600000}
+ {:block/name "demanda agregada",
+  :block/created-at 1638961917540,
+  :block/updated-at 1638961917540}
+ {:block/name "doing",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "done",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "draws",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "draws/2021-11-21-21-47-15.excalidraw",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "draws/2021-11-21-21-47-57.excalidraw",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "draws/2021-11-23-11-34-25.excalidraw",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "draws/2021-11-23-11-37-20.excalidraw",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "draws/Piensa Matricialmente.excalidraw",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "draws/piensa matricialmente.excalidraw",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "economía",
+  :block/created-at 1637378247129,
+  :block/updated-at 1637677407471}
+ {:block/name "economía conductual",
+  :block/created-at 1637370358178,
+  :block/updated-at 1637630286769}
+ {:block/name "economía ecuatoriana",
+  :block/created-at 1638718469247,
+  :block/updated-at 1638791317955}
+ {:block/name "economía empresarial",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "efecto reputación",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "elección racional",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "elicitación",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "evaluación de impacto",
+  :block/created-at 1637839711146,
+  :block/updated-at 1637892883405}
+ {:block/name "excel",
+  :block/created-at 1638735759273,
+  :block/updated-at 1638736306546}
+ {:block/name "falacias",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "favorites",
+  :block/created-at 1638961917541,
+  :block/updated-at 1638961917541}
+ {:block/name "finanzas públicas",
+  :block/created-at 1637632704507,
+  :block/updated-at 1638913885343}
+ {:block/name "gasto público",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "green",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name
+  "hls__dialnet-teoriaprospectiva-65981_(1)_1637533445262_0",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "hls__handbook_on_impact_1637851091888_0",
+  :block/created-at 1637851312101,
+  :block/updated-at 1637851315222}
+ {:block/name "hls__incidencia_tributaria-yanez_1638581778558_0",
+  :block/created-at 1638878039750,
+  :block/updated-at 1638878039750}
+ {:block/name "hls__teoría_de_la_reguación_económica_1638914167455_0",
+  :block/created-at 1638961917540,
+  :block/updated-at 1638961917540}
+ {:block/name "hls__unidad1_impact_evaluation_1637839735097_0",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "hls__unidad_1_1637632758053_0",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "hls__unidad_i_-_introducción_1637370795899_0",
+  :block/created-at 1637431383461,
+  :block/updated-at 1637431383461}
+ {:block/name
+  "hls__unidad_ii_-_ampliando_la_racionalidad_1637442442873_0",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "hls__unidad_ii_-_teoría_prospectiva_1637535162355_0",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "hola",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "ideas",
+  :block/created-at 1637549282730,
+  :block/updated-at 1637549321224}
+ {:block/name "in-progress",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "kahneman & tversky",
+  :block/created-at 1638961917541,
+  :block/updated-at 1638961917541}
+ {:block/name "kanban",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "later",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "letras",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "marketing",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "mercados financieros",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "microeconomía",
+  :block/created-at 1637679862632,
+  :block/updated-at 1637688306886}
+ {:block/name "modelo económico estándar",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "modelos de equilibrio",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "neureconomía",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "nov 19th, 2021",
+  :block/created-at 1637280000000,
+  :block/updated-at 1637280000000}
+ {:block/name "nov 20th, 2021",
+  :block/created-at 1637366400000,
+  :block/updated-at 1637366400000}
+ {:block/name "nov 21st, 2021",
+  :block/created-at 1637452800000,
+  :block/updated-at 1637452800000}
+ {:block/name "nov 22nd, 2021",
+  :block/created-at 1637539200000,
+  :block/updated-at 1637539200000}
+ {:block/name "nov 23rd, 2021",
+  :block/created-at 1637625600000,
+  :block/updated-at 1637625600000}
+ {:block/name "nov 24th, 2021",
+  :block/created-at 1637789409948,
+  :block/updated-at 1637791593032}
+ {:block/name "nov 25th, 2021",
+  :block/created-at 1637838988745,
+  :block/updated-at 1637839104962}
+ {:block/name "nov 26th, 2021",
+  :block/created-at 1637930900468,
+  :block/updated-at 1637930900468}
+ {:block/name "nov 27th, 2021",
+  :block/created-at 1637971200000,
+  :block/updated-at 1637971200000}
+ {:block/name "nov 28th, 2021",
+  :block/created-at 1638057600000,
+  :block/updated-at 1638057600000}
+ {:block/name "nov 29th, 2021",
+  :block/created-at 1638196211829,
+  :block/updated-at 1638216804826}
+ {:block/name "now",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "objetivos",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "pandas",
+  :block/created-at 1638466455332,
+  :block/updated-at 1638734816170}
+ {:block/name "paradoja del falso positivo",
+  :block/created-at 1637508051006,
+  :block/updated-at 1637508107913}
+ {:block/name "pib",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "probabilidad bayesiana",
+  :block/created-at 1637502401881,
+  :block/updated-at 1637502401881}
+ {:block/name "proyectos",
+  :block/created-at 1637552765137,
+  :block/updated-at 1637552812928}
+ {:block/name "psicología",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "psicólogos",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "python",
+  :block/created-at 1638466419388,
+  :block/updated-at 1638466441988}
+ {:block/name "r",
+  :block/created-at 1637882380483,
+  :block/updated-at 1637884541234}
+ {:block/name "racionalidad",
+  :block/created-at 1637429608811,
+  :block/updated-at 1637448195450}
+ {:block/name "racionalidad limitada",
+  :block/created-at 1637436156491,
+  :block/updated-at 1637436191357}
+ {:block/name "recuérdal",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "recuérdalo",
+  :block/created-at 1637519222055,
+  :block/updated-at 1637519243965}
+ {:block/name "red",
+  :block/created-at 1638961917543,
+  :block/updated-at 1638961917543}
+ {:block/name "regulación",
+  :block/created-at 1638914168036,
+  :block/updated-at 1638929020365}
+ {:block/name "sesgo cognitivo",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "sesgo de durabilidad",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "stata",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "todo",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "tyellow",
+  :block/created-at 1638961917544,
+  :block/updated-at 1638961917544}
+ {:block/name "utilidad esperada",
+  :block/created-at 1637430642604,
+  :block/updated-at 1637430726971}
+ {:block/name "velada",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "vocabulario",
+  :block/created-at 1637371173059,
+  :block/updated-at 1637371410477}
+ {:block/name "wait",
+  :block/created-at 1638961917542,
+  :block/updated-at 1638961917542}
+ {:block/name "waiting",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "yel",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "yellow",
+  :block/created-at 1638961917545,
+  :block/updated-at 1638961917545}
+ {:block/name "·",
+  :block/created-at 1638961917545, 
+  :block/updated-at 1638961917545}]

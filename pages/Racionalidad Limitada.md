@@ -1,0 +1,1 @@
+- Limitaciones Cognitivas que sufren los individuos por falta de información a la hora de tomar decisiones

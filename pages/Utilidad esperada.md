@@ -1,0 +1,3 @@
+- Independencia
+- Alternativas irrelevantes
+- ((619935c0-0934-4fdf-91b7-2cf876f3932e))

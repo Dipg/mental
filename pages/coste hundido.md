@@ -1,0 +1,1 @@
+- Se entiende como costo hundido toda aquella inversión que, por circunstancias objetivas, se muestra  como absolutamente irrecuperable.
