@@ -9,6 +9,7 @@
 # Gráficas en Stata
 - Librerías Necesarias
 	- ```stata
+	  ssc install blindschemes
 	  ```
 - Cambiar estilo de presentación de gráficos
 - ```stata
