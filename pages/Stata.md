@@ -40,16 +40,17 @@ collapsed:: true
 	  graph bar q, ///
 	  over(year , label(angle(90)) ///
 	  ```
-- Lo
-- Loop for en todo el rango de variables. Donde la primera coluna (variable es  `year` y la ultima es `time`). Generamos los logaritmos de cada variable
-- ```stata
-  foreach v of var year-time {
-  gen lg`v'= log(`v')
-   }
-  ```
-- Resultado
-	- ![image.png](../assets/image_1638965003258_0.png){:height 199, :width 689}
-	- ![image.png](../assets/image_1638965051829_0.png){:height 189, :width 689}
+- Loop for en Stata
+  collapsed:: true
+	- Loop for en todo el rango de variables. Donde la primera coluna (variable es  `year` y la ultima es `time`). Generamos los logaritmos de cada variable
+	- ```stata
+	  foreach v of var year-time {
+	  gen lg`v'= log(`v')
+	   }
+	  ```
+	- Resultado
+		- ![image.png](../assets/image_1638965003258_0.png){:height 199, :width 689}
+		- ![image.png](../assets/image_1638965051829_0.png){:height 189, :width 689}
 -
 -
 -
