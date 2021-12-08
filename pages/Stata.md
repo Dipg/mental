@@ -56,7 +56,8 @@ collapsed:: true
 	- Resultado
 		- ![image.png](../assets/image_1638965003258_0.png){:height 199, :width 689}
 		- ![image.png](../assets/image_1638965051829_0.png){:height 189, :width 689}
-# [](#3.)  Modificar elementos de variable
+- # [](#3.)  Modificar elementos de variable
+  collapsed:: true
 	- Cambiar nombres por labels en elementos de columna/variable Stata
 	- ```stata
 	  > label define sector 1 "SECTOR 1" 2 "SECTOR 2" 3 "SECTOR 3"
