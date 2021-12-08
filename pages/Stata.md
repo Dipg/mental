@@ -40,5 +40,5 @@
    }
   ```
 - Resultado
-	- ![image.png](../assets/image_1638965003258_0.png){:height 141, :width 351}
-	- ![image.png](../assets/image_1638965051829_0.png){:height 108, :width 317}
+	- ![image.png](../assets/image_1638965003258_0.png){:height 199, :width 617}
+	- ![image.png](../assets/image_1638965051829_0.png){:height 189, :width 689}
