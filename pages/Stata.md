@@ -8,7 +8,8 @@
   ```
 # Gráficas en Stata
 - Librerías Necesarias
--
+	- ```stata
+	  ```
 - Cambiar estilo de presentación de gráficos
 - ```stata
   set scheme s2color
