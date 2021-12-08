@@ -6,6 +6,7 @@
 - ```stata
   set scheme s2color
   ```
+#
 - Cambiar estilo de presentación de gráficos
 - ```stata
   set scheme s2color
