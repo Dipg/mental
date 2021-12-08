@@ -12,6 +12,7 @@
 	- ```stata
 	  set scheme s2color
 	  ```
+	- Mas temas para
 	- Cambiar estilo de presentación de gráficos
 	- ```stata
 	  set scheme s2color
