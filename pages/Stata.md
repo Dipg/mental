@@ -7,6 +7,7 @@
   set scheme s2color
   ```
 # Gráficas en Stata
+collapsed:: true
 	- Librerías Necesarias
 	  collapsed:: true
 		- ```stata
@@ -34,11 +35,12 @@
 	  note("Fuente: Dennis Epple y Bennett McCallum            Elaboración: Autor  ")  
 	  ```
 	- ![image.png](../assets/image_1638964870055_0.png)
-	- Cambiar el anglo de los axis en Stata
+	- Cambiar el angUlo de los axis en Stata
 	- ```stata
 	  graph bar q, ///
 	  over(year , label(angle(90)) ///
 	  ```
+-
 - Loop for en todo el rango de variables. Donde la primera coluna (variable es  `year` y la ultima es `time`). Generamos los logaritmos de cada variable
 - ```stata
   foreach v of var year-time {
