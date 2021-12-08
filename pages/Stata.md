@@ -39,4 +39,4 @@
   gen lg`v'= log(`v')
    }
   ```
--
+- ![image.png](../assets/image_1638965003258_0.png)
