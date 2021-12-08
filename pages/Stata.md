@@ -33,7 +33,7 @@
   graph bar q, ///
   over(year , label(angle(90)) ///
   ```
-- Loop for en todo el rango de variables. Donde la primera coluna ()
+- Loop for en todo el rango de variables. Donde la primera coluna (variable es )
 - ```stata
   foreach v of var year-time {
   gen lg`v'= log(`v')
