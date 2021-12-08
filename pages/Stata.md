@@ -17,4 +17,6 @@
   . grstyle yesno grid_draw_min yes
   . grstyle yesno grid_draw_max yes
   ```
-- Crear grafico  de barras
+- Crear grafico  de barras , con todos los detalles
+- ```stata
+  ```
