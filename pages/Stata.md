@@ -56,8 +56,8 @@ collapsed:: true
 	- Resultado
 		- ![image.png](../assets/image_1638965003258_0.png){:height 199, :width 689}
 		- ![image.png](../assets/image_1638965051829_0.png){:height 189, :width 689}
-# Modificar elementos de variable
--
+# [](#3.)  Modificar elementos de variable
+	- Cambiar
 -
 -
 -
