@@ -4,4 +4,6 @@
   ```
 - Definir Color de tema standar
 - ```stata
+  set scheme s2color
   ```
+-
