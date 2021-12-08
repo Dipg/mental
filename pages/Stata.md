@@ -17,3 +17,4 @@
   . grstyle yesno grid_draw_min yes
   . grstyle yesno grid_draw_max yes
   ```
+- Crear gr
