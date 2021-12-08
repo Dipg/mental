@@ -33,4 +33,4 @@
   graph bar q, ///
   over(year , label(angle(90)) ///
   ```
--
+- Loop for en todo el rango de variables
