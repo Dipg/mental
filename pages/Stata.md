@@ -29,4 +29,6 @@
   ```
 - Cambiar el anglo de los axis en Stata
 - ```stata
+  graph bar q, ///
+  over(year , label(labsize(2) angle(90) labgap(1)  ) relabel(`r(relabel)')) ///
   ```
