@@ -4,6 +4,7 @@
   import delimited "\Trabajos\3. Endogenidad\Items\endogeneidad\broiler.csv"
   ```
 - #  [](#1.) Gráficas en Stata
+  collapsed:: true
 	- Librerías Necesarias
 		- ```stata
 		  ssc install blindschemes
@@ -55,7 +56,7 @@ collapsed:: true
 	- Resultado
 		- ![image.png](../assets/image_1638965003258_0.png){:height 199, :width 689}
 		- ![image.png](../assets/image_1638965051829_0.png){:height 189, :width 689}
--
+# Modifcar
 -
 -
 -
