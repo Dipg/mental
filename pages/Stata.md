@@ -27,6 +27,7 @@
   blabel(bar, format(%4.1f) size(1.5) ) ///
   note("Fuente: Dennis Epple y Bennett McCallum            Elaboración: Autor  ")  
   ```
+- ![image.png](../assets/image_1638964870055_0.png)
 - Cambiar el anglo de los axis en Stata
 - ```stata
   graph bar q, ///
