@@ -16,6 +16,4 @@
   . grstyle yesno draw_major_hgrid yes
   . grstyle yesno grid_draw_min yes
   . grstyle yesno grid_draw_max yes
-  * Descripción de los datos
-  
   ```
