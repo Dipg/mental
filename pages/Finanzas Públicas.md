@@ -236,49 +236,50 @@ collapsed:: true
 # Unidad 2 ![📑](../assets/UNIDAD_2._1637746281546_0.pdf)
 # Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
 # Unidad 4 ![📑](../assets/Unidad_4_1637751172084_0.pdf)
-	- Incidencia tributaria a trevés del ciclo de vida ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf)
-		- ¿ En que consiste la incidencia  tributaria?
-			- Consiste en saber qui paga verdaderamente la carga de impuestos
-			- ¿ Que se entiende por cargas de impuestos?
+	- ¿ En que consiste la incidencia  tributaria?
+	  collapsed:: true
+		- Consiste en saber qui paga verdaderamente la carga de impuestos
+		- ¿ Que se entiende por cargas de impuestos?
+		  collapsed:: true
+			- Se refiere a la proporción de impuesto que paga cada lado del mercado mas la proporción de la pérdida de eficiencia que soporta cada uno de ellos, esto es esta formada por dos componentes:
 			  collapsed:: true
-				- Se refiere a la proporción de impuesto que paga cada lado del mercado mas la proporción de la pérdida de eficiencia que soporta cada uno de ellos, esto es esta formada por dos componentes:
+				- La carga tributaria o directa 
 				  collapsed:: true
-					- La carga tributaria o directa 
-					  collapsed:: true
-						- La carga tributaria o carga directa del impuesto es la proporción de impuesto pagado por cada  lado del mercado, consumidores y productores.
-						- Corresponde al monto del impuesto cancelado por los contribuyentes o recaudación total
-					- Carga excesiva o ineficiencia o perdida neta de bienestar social del impuesto
-					  collapsed:: true
-						- Es la perdida de eficiencia esta perdida de eficiencia  es una perdida de bienestar que incurre los agentes económicos al pagar un impuesto.
-						- Esta peridida de eficiencia se genera al modificar la asignacoion de recursos (originalmente perfecta)
-			- ¿Cuales son los componenestes de la carga total?
-			  collapsed:: true
-				- Carga directa
+					- La carga tributaria o carga directa del impuesto es la proporción de impuesto pagado por cada  lado del mercado, consumidores y productores.
+					- Corresponde al monto del impuesto cancelado por los contribuyentes o recaudación total
+				- Carga excesiva o ineficiencia o perdida neta de bienestar social del impuesto
 				  collapsed:: true
-					- La cargad directa es el total de impuestos recaudados por el gobierno que pagan los contribuyentes , se representa normalmente como porcentaje o fracción  del [[PIB]]
-					-
-				- Carga indirecta
-				  collapsed:: true
-					- Incluye la  perdida de eficiencia o carga excesiva que puede generar el impuesto , incluyendo a esto los gastos administrativos por recaudación y fiscalización, costos de cumplimiento de impuestos, costos de cambiar de sistema tributario, la elusión y la evasión.
-				- La medición de los costos indirectos es complicado, por eso solo se observa la carga directa y ,la carga excesiva del impuesto
-			- ¿Es lo mismo carga  que cargas ?
+					- Es la perdida de eficiencia esta perdida de eficiencia  es una perdida de bienestar que incurre los agentes económicos al pagar un impuesto.
+					- Esta peridida de eficiencia se genera al modificar la asignacoion de recursos (originalmente perfecta)
+		- ¿Cuales son los componenestes de la carga total?
+		  collapsed:: true
+			- Carga directa
 			  collapsed:: true
-				- No, por las diferencias de arriba
-			- ¿Cuál es la representación grafica de las cargas?
-			  collapsed:: true
-				- ((61af5b06-6e31-4a79-929c-8d7c382096a5))
+				- La cargad directa es el total de impuestos recaudados por el gobierno que pagan los contribuyentes , se representa normalmente como porcentaje o fracción  del [[PIB]]
 				-
-			- ¿Cuales son los tipos de incidencia?
+			- Carga indirecta
 			  collapsed:: true
-				- Incidencia estatutaria
-				  collapsed:: true
-					- Es la obligación legal de un impuesto  referente a la persona que fue fijada por laley para pagar el impuesto
-				- incidencia económica
-				  collapsed:: true
-					- Consiste en determinar quien paga realmente las cargas  que colocan los  impuestos en la práctica.
-					- ¿Puede la ley establecer la incidencia económica?
-					  collapsed:: true
-						- No, por que esta se deriva de la elasticidad de oferta y demanda que se presenten en los mercados en los cuales se impone un impuesto
-				-
-				-
+				- Incluye la  perdida de eficiencia o carga excesiva que puede generar el impuesto , incluyendo a esto los gastos administrativos por recaudación y fiscalización, costos de cumplimiento de impuestos, costos de cambiar de sistema tributario, la elusión y la evasión.
+			- La medición de los costos indirectos es complicado, por eso solo se observa la carga directa y ,la carga excesiva del impuesto
+		- ¿Es lo mismo carga  que cargas ?
+		  collapsed:: true
+			- No, por las diferencias de arriba
+		- ¿Cuál es la representación grafica de las cargas?
+		  collapsed:: true
+			- ((61af5b06-6e31-4a79-929c-8d7c382096a5))
 			-
+		- ¿Cuales son los tipos de incidencia?
+		  collapsed:: true
+			- Incidencia estatutaria
+			  collapsed:: true
+				- Es la obligación legal de un impuesto  referente a la persona que fue fijada por laley para pagar el impuesto
+			- incidencia económica
+			  collapsed:: true
+				- Consiste en determinar quien paga realmente las cargas  que colocan los  impuestos en la práctica.
+				- ¿Puede la ley establecer la incidencia económica?
+				  collapsed:: true
+					- No, por que esta se deriva de la elasticidad de oferta y demanda que se presenten en los mercados en los cuales se impone un impuesto
+			-
+			-
+		-
+	- Incidencia tributaria a trevés del ciclo de vida ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf)
