@@ -12,7 +12,8 @@
 	- ```stata
 	  set scheme s2color
 	  ```
-	- Mas temas para
+	- Mas temas para stata
+		- {{renderer :linkpreview,https://blog.stata.com/2018/10/02/scheming-your-way-to-your-favorite-graph-style/}}
 	- Cambiar estilo de presentación de gráficos
 	- ```stata
 	  set scheme s2color
