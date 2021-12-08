@@ -1,4 +1,4 @@
 - Importar un archivo csv
-- ```python
+- ```stata
   ```
 -
