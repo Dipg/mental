@@ -17,7 +17,7 @@
   . grstyle yesno grid_draw_min yes
   . grstyle yesno grid_draw_max yes
   ```
-- Crear grafico  de barras , con todos los detalles. Donde q es la
+- Crear grafico  de barras , con todos los detalles. Donde q es la variable en el eje de la las $
 - ```stata
   graph bar q, ///
   over(year , label(labsize(2) angle(90) labgap(1)  ) relabel(`r(relabel)')) ///
