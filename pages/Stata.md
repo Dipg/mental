@@ -7,6 +7,7 @@
   set scheme s2color
   ```
 # Gráficas en Stata
+- Librerías Necesarias
 -
 - Cambiar estilo de presentación de gráficos
 - ```stata
