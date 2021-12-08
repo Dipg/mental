@@ -265,7 +265,6 @@ collapsed:: true
 			  collapsed:: true
 				- No, por las diferencias de arriba
 			- ¿Cuál es la representación grafica de las cargas?
-			  collapsed:: true
 				- ((61af5b06-6e31-4a79-929c-8d7c382096a5))
 				-
 			- ¿Cuales son los tipos de incidencia?
@@ -273,8 +272,10 @@ collapsed:: true
 				  collapsed:: true
 					- Es la obligación legal de un impuesto  referente a la persona que fue fijada por laley para pagar el impuesto
 				- incidencia económica
+				  collapsed:: true
 					- Consiste en determinar quien paga realmente las cargas  que colocan los  impuestos en la práctica.
 					- ¿Puede la ley establecer la incidencia económica?
+					  collapsed:: true
 						- No, por que esta se deriva de la elasticidad de oferta y demanda que se presenten en los mercados en los cuales se impone un impuesto
 				-
 				-
