@@ -26,7 +26,7 @@
 	  . grstyle yesno grid_draw_max yes
 	  ```
 	- Pagina para cambiar el diseño, referencia de lo anterior
-		-
+		- {{renderer :linkpreview,https://www.stata.com/meeting/germany18/slides/germany18_Jann.pdf}}
 		-
 	- Crear grafico  de barras , con todos los detalles. Donde $q$ es la variable en el eje de la las $Y$ y $year$ es la variable en el eje de las $X$
 	- ```stata
