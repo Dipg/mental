@@ -82,10 +82,6 @@ collapsed:: true
     padding: 20px;
     width: auto;
   }
-- .toc_title {
-    font-weight: 700;
-    text-align: center;
-  }
 - #toc_container li, #toc_container ul, #toc_container ul li{
     list-style: outside none none !important;
   }
