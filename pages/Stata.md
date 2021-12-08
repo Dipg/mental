@@ -28,3 +28,5 @@
   note("Fuente: Dennis Epple y Bennett McCallum            Elaboración: Autor  ")  
   ```
 - Cambiar el anglo de los axis en Stata
+- ```stata
+  ```
