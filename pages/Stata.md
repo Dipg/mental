@@ -6,4 +6,4 @@
 - ```stata
   set scheme s2color
   ```
--
+- Cambiar stilo de presentación degrafic
