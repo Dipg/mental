@@ -4,10 +4,10 @@
   import delimited "\Trabajos\3. Endogenidad\Items\endogeneidad\broiler.csv"
   ```
 - Definir Color de tema standar de las graficas
-- ```stata
-  set scheme s2color
-  ```
-- # Gráficas en Stata
+	- ```stata
+	  set scheme s2color
+	  ```
+# Gráficas en Stata
 	- Librerías Necesarias
 	  collapsed:: true
 		- ```stata
