@@ -2,4 +2,5 @@
 - ```Stata
   import delimited "\Trabajos\3. Endogenidad\Items\endogeneidad\broiler.csv"
   ```
-- Definir
+- Definir Color de tema standar
+-
