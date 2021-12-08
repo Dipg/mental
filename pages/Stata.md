@@ -7,10 +7,11 @@
   set scheme s2color
   ```
 # Gráficas en Stata
-- Librerías Necesarias
-	- ```stata
-	  ssc install blindschemes
-	  ```
+	- Librerías Necesarias
+	  collapsed:: true
+		- ```stata
+		  ssc install blindschemes
+		  ```
 	- Cambiar estilo de presentación de gráficos
 	- ```stata
 	  set scheme s2color
@@ -33,7 +34,7 @@
 	  note("Fuente: Dennis Epple y Bennett McCallum            Elaboración: Autor  ")  
 	  ```
 	- ![image.png](../assets/image_1638964870055_0.png)
-	- Cambiar el angulo de los axis en Stata
+	- Cambiar el anglo de los axis en Stata
 	- ```stata
 	  graph bar q, ///
 	  over(year , label(angle(90)) ///
