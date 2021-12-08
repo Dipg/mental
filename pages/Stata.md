@@ -5,14 +5,13 @@
   ```
 # Gráficas en Stata
 	- Librerías Necesarias
-	  collapsed:: true
 		- ```stata
 		  ssc install blindschemes
 		  ```
 	- Definir Color de tema standar de las graficas
-		- ```stata
-		  set scheme s2color
-		  ```
+	- ```stata
+	  set scheme s2color
+	  ```
 	- Cambiar estilo de presentación de gráficos
 	- ```stata
 	  set scheme s2color
