@@ -25,6 +25,7 @@
 	  . grstyle yesno grid_draw_min yes
 	  . grstyle yesno grid_draw_max yes
 	  ```
+	-
 	- Crear grafico  de barras , con todos los detalles. Donde $q$ es la variable en el eje de la las $Y$ y $year$ es la variable en el eje de las $X$
 	- ```stata
 	  graph bar q, ///
