@@ -35,4 +35,8 @@
   ```
 - Loop for en todo el rango de variables
 - ```stata
+  foreach v of var year-time {
+  gen lg`v'= log(`v')
+   }
   ```
+-
