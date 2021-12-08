@@ -235,7 +235,7 @@ collapsed:: true
 	- Economía del sector Público
 # Unidad 2 ![📑](../assets/UNIDAD_2._1637746281546_0.pdf)
 # Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
-# Unidad 4 ![📑](../assets/Unidad_4_1637751172084_0.pdf)
+# Unidad 4 ![📑](../assets/Unidad_4_1637751172084_0.pdf) ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf)
 	- ¿ En que consiste la incidencia  tributaria?
 	  collapsed:: true
 		- Consiste en saber qui paga verdaderamente la carga de impuestos
@@ -282,4 +282,4 @@ collapsed:: true
 			-
 			-
 		-
-	- Incidencia tributaria a trevés del ciclo de vida ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf)
+	- Incidencia tributaria a trevés del ciclo de vida
