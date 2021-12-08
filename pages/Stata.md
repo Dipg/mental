@@ -5,7 +5,3 @@
 - Definir Color de tema standar
 - ```r
   ```
-- ```r
-  ```
-- ```r
-  ```
