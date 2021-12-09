@@ -286,4 +286,4 @@ collapsed:: true
 		- ¿En que consiste el enfoque anual?
 			- Consiste en medir la base del impuesto en un año calendario
 			- ¿Caso chile?
-				- En chile
+				- El impuesto a la
