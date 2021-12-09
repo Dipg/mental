@@ -311,7 +311,7 @@ collapsed:: true
 					- Trabajadores independientes , que trabajan una epoca y otra no
 					- El caso de los despidos
 			- Tercero...
-			- Ligado a la capacidad de pago
+				- Ligado a la capacidad de pago
 			- ¿Qué pasa si el ingreso es igual en todos los individuos a lo largo del ciclo de vida?
 			  collapsed:: true
 				- El individuo quedaría situado en la misma franja de ingreso y la comparación del ciclo de vida con el ingreso anual carecería de relevancia
