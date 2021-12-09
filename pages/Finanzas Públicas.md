@@ -283,4 +283,4 @@ collapsed:: true
 			-
 		-
 	- Incidencia tributaria a trevés del ciclo de vida [ 📜​](61aac79f-6a8f-4c0b-8c59-f3c81744c385)
-	- ¿En que consiste el enfoque anual?
+		- ¿En que consiste el enfoque anual?
