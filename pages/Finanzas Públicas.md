@@ -286,4 +286,4 @@ collapsed:: true
 		- ¿En que consiste el enfoque anual?
 			- Consiste en medir la base del impuesto en un año calendario
 			- ¿Caso chile?
-				- El impuesto a la renta en Chile se aplica en un horizonte de tiempo anual
+				- El impuesto a la renta en Chile se aplica en un horizonte de tiempo anual, en abril
