@@ -1,3 +1,4 @@
-- Pagina para cosntruir BPMN → https://cawemo.com/diagrams/80e8a2b8-d3ee-42e7-b4df-74a79bb550e7--new-bpmn-diagram?v=467,4,0.861
+- Pagina para cosntruir BPMN →
+	- https://cawemo.com/diagrams/80e8a2b8-d3ee-42e7-b4df-74a79bb550e7--new-bpmn-diagram?v=467,4,0.861
 - Como Crear Un BPMN , Lista de videos
 	- {{renderer :linkpreview,https://www.youtube.com/watch?v=0OQiM_0xOv4&list=PLyWQVlp25suQAEb_t8s_p75ACk9AJdWR9&index=1}}
