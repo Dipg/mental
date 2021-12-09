@@ -1,64 +1,4 @@
-[{:block/name "\"\"",
-  :block/created-at 1638961917544,
-  :block/updated-at 1638961917544}
- {:block/name "#",
-  :block/created-at 1638961917542,
-  :block/updated-at 1638961917542}
- {:block/name "##",
-  :block/created-at 1638961917542,
-  :block/updated-at 1638961917542}
- {:block/name "#.",
-  :block/created-at 1638961917542,
-  :block/updated-at 1638961917542}
- {:block/name "#1",
-  :block/created-at 1638961917545,
-  :block/updated-at 1638961917545}
- {:block/name "#1.",
-  :block/created-at 1638961917545,
-  :block/updated-at 1638961917545}
- {:block/name "#2.",
-  :block/created-at 1638961917545,
-  :block/updated-at 1638961917545}
- {:block/name "#3.",
-  :block/created-at 1638961917544,
-  :block/updated-at 1638961917544}
- {:block/name "#3.1",
-  :block/created-at 1638961917544,
-  :block/updated-at 1638961917544}
- {:block/name "#3.1.",
-  :block/created-at 1638961917545,
-  :block/updated-at 1638961917545}
- {:block/name "#3.2.",
-  :block/created-at 1638961917542,
-  :block/updated-at 1638961917542}
- {:block/name "#3.3.",
-  :block/created-at 1638961917542,
-  :block/updated-at 1638961917542}
- {:block/name "#3.4.",
-  :block/created-at 1638961917544,
-  :block/updated-at 1638961917544}
- {:block/name "#4",
-  :block/created-at 1638961917545,
-  :block/updated-at 1638961917545}
- {:block/name "#4.",
-  :block/created-at 1638961917542,
-  :block/updated-at 1638961917542}
- {:block/name "#4.incenti",
-  :block/created-at 1638961917544,
-  :block/updated-at 1638961917544}
- {:block/name "#5.",
-  :block/created-at 1638961917542,
-  :block/updated-at 1638961917542}
- {:block/name "#6.",
-  :block/created-at 1638961917541,
-  :block/updated-at 1638961917541}
- {:block/name "+begin_quote",
-  :block/created-at 1638961917541,
-  :block/updated-at 1638961917541}
- {:block/name ".",
-  :block/created-at 1638961917542,
-  :block/updated-at 1638961917542}
- {:block/name
+[{:block/name
   "../assets/between_free_trade_and_protectionism_1638791166400_0.pdf",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -69,19 +9,10 @@
  {:block/name "../assets/handbook_on_impact_1637851091888_0.pdf",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
- {:block/name "../assets/image_1637497689911_0.png",
-  :block/created-at 1638961917544,
-  :block/updated-at 1638961917544}
- {:block/name "../assets/image_1637497709827_0.png",
-  :block/created-at 1638961917542,
-  :block/updated-at 1638961917542}
- {:block/name "../assets/image_1637548323013_0.png",
-  :block/created-at 1638961917542,
-  :block/updated-at 1638961917542}
  {:block/name
   "../assets/incidencia_tributaria-yanez_1638581778558_0.pdf",
-  :block/created-at 1638961917540,
-  :block/updated-at 1638961917540}
+  :block/created-at 1639001299259,
+  :block/updated-at 1639001299259}
  {:block/name
   "../assets/informe_contrato_73_proyecto_alumnus+vf_signed_(1)_1637552839114_0.pdf",
   :block/created-at 1638961917542,
@@ -99,15 +30,19 @@
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
  {:block/name
+  "../assets/teoría_de_la_reguación_económica_1638914167455_0.pdf",
+  :block/created-at 1639001299259,
+  :block/updated-at 1639001299259}
+ {:block/name
   "../assets/unidad1_impact_evaluation_1637839735097_0.pdf",
-  :block/created-at 1638961917542,
-  :block/updated-at 1638961917542}
- {:block/name "../assets/unidad_1_(1)_1637632703913_0.pptx",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
  {:block/name "../assets/unidad_1_1637632758053_0.pdf",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
+ {:block/name "../assets/unidad_2._1637746281546_0.pdf",
+  :block/created-at 1639001299259,
+  :block/updated-at 1639001299259}
  {:block/name "../assets/unidad_3_1637746412131_0.pdf",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
@@ -126,21 +61,11 @@
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
  {:block/name
-  "../assets/unidad_ii_-_teoría_prospectiva_1637442418807_0.pdf",
-  :block/created-at 1638961917545,
-  :block/updated-at 1638961917545}
- {:block/name
   "../assets/unidad_ii_-_teoría_prospectiva_1637535162355_0.pdf",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
  {:block/name
   "../assets/why_the_move_to_free_trade_1638791104368_0.pdf",
-  :block/created-at 1638961917542,
-  :block/updated-at 1638961917542}
- {:block/name "1",
-  :block/created-at 1638961917542,
-  :block/updated-at 1638961917542}
- {:block/name "3.]",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
  {:block/name "61986c0a-c73c-4efc-8d25-a4989c91fe8c",
@@ -155,12 +80,18 @@
  {:block/name "619d1fd5-eb00-418b-b85e-5d724d64e93f",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
+ {:block/name "619fa0a9-c7e8-46ae-af9a-788d35db006c",
+  :block/created-at 1639001299259,
+  :block/updated-at 1639001299259}
  {:block/name "619fa0c5-d175-43cc-9167-74b765901e22",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
  {:block/name "61a0425b-a280-45ef-8d7e-bd4614cb130b",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
+ {:block/name "61aac79f-6a8f-4c0b-8c59-f3c81744c385",
+  :block/created-at 1639001299259,
+  :block/updated-at 1639001299259}
  {:block/name "a",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -191,27 +122,9 @@
  {:block/name "coste hundido",
   :block/created-at 1637428534140,
   :block/updated-at 1637428554268}
- {:block/name "dec 1st, 2021",
-  :block/created-at 1638316800000,
-  :block/updated-at 1638316800000}
  {:block/name "dec 2nd, 2021",
   :block/created-at 1638451213381,
   :block/updated-at 1638453900117}
- {:block/name "dec 3rd, 2021",
-  :block/created-at 1638489600000,
-  :block/updated-at 1638489600000}
- {:block/name "dec 4th, 2021",
-  :block/created-at 1638576000000,
-  :block/updated-at 1638576000000}
- {:block/name "dec 5th, 2021",
-  :block/created-at 1638662400000,
-  :block/updated-at 1638662400000}
- {:block/name "dec 6th, 2021",
-  :block/created-at 1638748800000,
-  :block/updated-at 1638748800000}
- {:block/name "dec 7th, 2021",
-  :block/created-at 1638835200000,
-  :block/updated-at 1638835200000}
  {:block/name "dec 8th, 2021",
   :block/created-at 1638921600000,
   :block/updated-at 1638921600000}
@@ -227,19 +140,10 @@
  {:block/name "draws",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
- {:block/name "draws/2021-11-21-21-47-15.excalidraw",
-  :block/created-at 1638961917544,
-  :block/updated-at 1638961917544}
- {:block/name "draws/2021-11-21-21-47-57.excalidraw",
-  :block/created-at 1638961917545,
-  :block/updated-at 1638961917545}
  {:block/name "draws/2021-11-23-11-34-25.excalidraw",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
  {:block/name "draws/2021-11-23-11-37-20.excalidraw",
-  :block/created-at 1638961917542,
-  :block/updated-at 1638961917542}
- {:block/name "draws/Piensa Matricialmente.excalidraw",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
  {:block/name "draws/piensa matricialmente.excalidraw",
@@ -272,15 +176,12 @@
  {:block/name "excel",
   :block/created-at 1638735759273,
   :block/updated-at 1638736306546}
- {:block/name "falacias",
-  :block/created-at 1638961917542,
-  :block/updated-at 1638961917542}
  {:block/name "favorites",
   :block/created-at 1638961917541,
   :block/updated-at 1638961917541}
  {:block/name "finanzas públicas",
   :block/created-at 1637632704507,
-  :block/updated-at 1638913885343}
+  :block/updated-at 1638968308685}
  {:block/name "gasto público",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -316,9 +217,6 @@
  {:block/name "hls__unidad_ii_-_teoría_prospectiva_1637535162355_0",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
- {:block/name "hola",
-  :block/created-at 1638961917544,
-  :block/updated-at 1638961917544}
  {:block/name "ideas",
   :block/created-at 1637549282730,
   :block/updated-at 1637549321224}
@@ -358,18 +256,6 @@
  {:block/name "nov 19th, 2021",
   :block/created-at 1637280000000,
   :block/updated-at 1637280000000}
- {:block/name "nov 20th, 2021",
-  :block/created-at 1637366400000,
-  :block/updated-at 1637366400000}
- {:block/name "nov 21st, 2021",
-  :block/created-at 1637452800000,
-  :block/updated-at 1637452800000}
- {:block/name "nov 22nd, 2021",
-  :block/created-at 1637539200000,
-  :block/updated-at 1637539200000}
- {:block/name "nov 23rd, 2021",
-  :block/created-at 1637625600000,
-  :block/updated-at 1637625600000}
  {:block/name "nov 24th, 2021",
   :block/created-at 1637789409948,
   :block/updated-at 1637791593032}
@@ -379,12 +265,6 @@
  {:block/name "nov 26th, 2021",
   :block/created-at 1637930900468,
   :block/updated-at 1637930900468}
- {:block/name "nov 27th, 2021",
-  :block/created-at 1637971200000,
-  :block/updated-at 1637971200000}
- {:block/name "nov 28th, 2021",
-  :block/created-at 1638057600000,
-  :block/updated-at 1638057600000}
  {:block/name "nov 29th, 2021",
   :block/created-at 1638196211829,
   :block/updated-at 1638216804826}
@@ -400,9 +280,6 @@
  {:block/name "paradoja del falso positivo",
   :block/created-at 1637508051006,
   :block/updated-at 1637508107913}
- {:block/name "pib",
-  :block/created-at 1638961917544,
-  :block/updated-at 1638961917544}
  {:block/name "probabilidad bayesiana",
   :block/created-at 1637502401881,
   :block/updated-at 1637502401881}
@@ -427,9 +304,6 @@
  {:block/name "racionalidad limitada",
   :block/created-at 1637436156491,
   :block/updated-at 1637436191357}
- {:block/name "recuérdal",
-  :block/created-at 1638961917542,
-  :block/updated-at 1638961917542}
  {:block/name "recuérdalo",
   :block/created-at 1637519222055,
   :block/updated-at 1637519243965}
@@ -446,20 +320,14 @@
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
  {:block/name "stata",
-  :block/created-at 1638961917544,
-  :block/updated-at 1638961917544}
+  :block/created-at 1638964229538,
+  :block/updated-at 1638966674987}
  {:block/name "todo",
-  :block/created-at 1638961917544,
-  :block/updated-at 1638961917544}
- {:block/name "tyellow",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
  {:block/name "utilidad esperada",
   :block/created-at 1637430642604,
   :block/updated-at 1637430726971}
- {:block/name "velada",
-  :block/created-at 1638961917542,
-  :block/updated-at 1638961917542}
  {:block/name "vocabulario",
   :block/created-at 1637371173059,
   :block/updated-at 1637371410477}
@@ -469,12 +337,6 @@
  {:block/name "waiting",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
- {:block/name "yel",
-  :block/created-at 1638961917545,
-  :block/updated-at 1638961917545}
  {:block/name "yellow",
-  :block/created-at 1638961917545,
-  :block/updated-at 1638961917545}
- {:block/name "·",
   :block/created-at 1638961917545, 
   :block/updated-at 1638961917545}]
