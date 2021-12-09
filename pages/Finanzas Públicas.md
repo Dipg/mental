@@ -295,4 +295,4 @@ collapsed:: true
 				- % de los honorarios
 		- ¿Qué diferencia se espera que exista entre el ingreso anual y el ingreso a través del ciclo de vida?
 			- ¿Qué pasa si el ingreso es igual en todos los individuos a lo largo del ciclo de vida?
-				- El individuo quedaria situado en la misma franja de ingreso y la comparacion del ciclo de vidad con el ingreso anual
+				- El individuo quedaria situado en la misma franja de ingreso y la comparacion del ciclo de vida con el ingreso anual carecería de relevancia
