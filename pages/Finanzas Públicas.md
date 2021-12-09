@@ -302,7 +302,6 @@ collapsed:: true
 			- Primeras etapas de vida → Ingresos bajos o ceo
 			- Después del sistema educacional →  Crecen y se estabilizan por un tiempo
 			- Etapa de jubilación → Ingresos bajos
-			- ¿ A que nos lleva  a pensar esto ?
-			  collapsed:: true
+			- ¿ Que nos lleva  a pensar esto ?
 				- Es nos lleva a pensar que existe una diferencia entre el ingreso anual e ingreso del ciclo de vida
 -
