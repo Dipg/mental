@@ -299,5 +299,5 @@ collapsed:: true
 			  collapsed:: true
 				- El individuo quedaría situado en la misma franja de ingreso y la comparación del ciclo de vida con el ingreso anual carecería de relevancia
 		- ¿Cómo son los ingresos según la teoría del ⌛?
-			- Orime
+			- Primeras etapas de vida →
 -
