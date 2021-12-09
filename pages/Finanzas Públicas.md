@@ -303,5 +303,6 @@ collapsed:: true
 			- Después del sistema educacional →  Crecen y se estabilizan por un tiempo
 			- Etapa de jubilación → Ingresos bajos
 			- ¿ A que nos lleva  a pensar esto ?
-				- Es nos lleva a pernsar que existe una diferencia entre el ingreso anual e ingrso
+			  collapsed:: true
+				- Es nos lleva a pensar que existe una diferencia entre el ingreso anual e ingreso del ciclo de vida
 -
