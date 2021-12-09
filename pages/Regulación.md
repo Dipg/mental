@@ -1,5 +1,5 @@
 -
-# [](#6.) Regulación de Monopolios naturales con información completa ![​📚​ ](../assets/Teoría_de_la_Reguación_Económica_1638914167455_0.pdf)
+# [](#6.) Regulación de Monopolios naturales con información completa ![​📚​ ](../assets/Teoría_de_la_Reguación_Económica_1638914167455_0.pdf) /ass
 	- ## [](#6.1.) Introducción
 	  collapsed:: true
 		- Plante metodos para establecer precios a monopolios naturales
@@ -65,8 +65,8 @@
 		- Existen n productos y/o mercados en los cuales atiende la empresa
 		- Productos no son interdependientes entre si
 		- El bienestar de la sociedad es la sumatoria de los excedentes del consumidores que se generan en la producción de cada bien , que produce y vende el monopolista regulado
-		- Vector de cantidades $y=(y_1,y_2...y_n)
-		- Vector de precios  $p=(p_1,p_2...p_n)
+		- Vector de cantidades $y=(y_1,y_2...y_n)$
+		- Vector de precios  $p=(p_1,p_2...p_n)$
 -
 -
 -
