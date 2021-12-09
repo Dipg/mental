@@ -104,3 +104,11 @@
   ls-type:: annotation
   hl-page:: 19
   id:: 61af5cd0-ec33-4244-a609-d42368315cb3
+- perdería surelevancia
+  ls-type:: annotation
+  hl-page:: 137
+  id:: 61b26298-2e74-4089-9e20-3042eda8dd70
+- mismo nivel de ingreso anual a través de toda su vida
+  ls-type:: annotation
+  hl-page:: 137
+  id:: 61b2629e-ea28-44ac-9ab8-91fd8d53e235
