@@ -295,3 +295,4 @@ collapsed:: true
 				- % de los honorarios
 		- ¿Qué diferencia se espera que exista entre el ingreso anual y el ingreso a través del ciclo de vida?
 			- ¿Qué pasa si el ingreso es igual en todos los individuos a lo largo del ciclo de vida?
+				- El indivi
