@@ -306,7 +306,6 @@ collapsed:: true
 						- Es nos lleva a pensar que existe una diferencia entre el ingreso anual e ingreso del ciclo de vida
 			- Segundo...
 				- La 💣 del 💰en el caso de..
-				  collapsed:: true
 					- Trabajadores independientes , que trabajan una epoca y otra no
 					- El caso de los despidos
 			- ¿Qué pasa si el ingreso es igual en todos los individuos a lo largo del ciclo de vida?
