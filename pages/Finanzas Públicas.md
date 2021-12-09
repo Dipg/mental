@@ -284,8 +284,10 @@ collapsed:: true
 		-
 	- Incidencia tributaria a trevés del ciclo de vida [ 📜​](61aac79f-6a8f-4c0b-8c59-f3c81744c385)
 		- ¿En que consiste el enfoque anual?
+		  collapsed:: true
 			- Consiste en medir la base del impuesto en un año calendario
 			- ¿Caso Chile?
 			  collapsed:: true
 				- El impuesto a la renta en Chile se aplica en un horizonte de tiempo anual, en abril, sin embargo a este se le puede ir contribuyendo mensualmente y con retenciones del 10
 				- % de los honorarios
+		-
