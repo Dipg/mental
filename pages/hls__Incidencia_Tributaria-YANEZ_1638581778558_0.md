@@ -112,3 +112,7 @@
   ls-type:: annotation
   hl-page:: 137
   id:: 61b2629e-ea28-44ac-9ab8-91fd8d53e235
+- sto  no  es  lo  que suele ocurrir en la práctica.
+  ls-type:: annotation
+  hl-page:: 137
+  id:: 61b262a6-89f7-4bf3-b614-3a93510a5f33
