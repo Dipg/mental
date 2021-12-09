@@ -300,5 +300,6 @@ collapsed:: true
 				- El individuo quedaría situado en la misma franja de ingreso y la comparación del ciclo de vida con el ingreso anual carecería de relevancia
 		- ¿Cómo son los ingresos según la teoría del ⌛?
 			- Primeras etapas de vida → Ingresos bajos o ceo
-			- Después del sistema educacional →
+			- Después del sistema educacional →  Crecen y se estabilizan por un tiempo
+			-
 -
