@@ -305,7 +305,7 @@ collapsed:: true
 					  collapsed:: true
 						- Es nos lleva a pensar que existe una diferencia entre el ingreso anual e ingreso del ciclo de vida
 			- Segundo...
-			-
+				- La
 			- ¿Qué pasa si el ingreso es igual en todos los individuos a lo largo del ciclo de vida?
 			  collapsed:: true
 				- El individuo quedaría situado en la misma franja de ingreso y la comparación del ciclo de vida con el ingreso anual carecería de relevancia
