@@ -303,5 +303,5 @@ collapsed:: true
 			- Después del sistema educacional →  Crecen y se estabilizan por un tiempo
 			- Etapa de jubilación → Ingresos bajos
 			- ¿ A que nos lleva  a pensar esto ?
-				- Es d
+				- Es nos lleva a pernsar que existe una diferencia en
 -
