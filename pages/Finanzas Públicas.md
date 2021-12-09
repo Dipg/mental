@@ -299,7 +299,6 @@ collapsed:: true
 				- Después del sistema educacional →  Crecen y se estabilizan por un tiempo
 				- Etapa de jubilación → Ingresos bajos
 				- ¿ Que nos lleva  a pensar esto ?
-				  collapsed:: true
 					- Es nos lleva a pensar que existe una diferencia entre el ingreso anual e ingreso del ciclo de vida
 			- ¿Qué pasa si el ingreso es igual en todos los individuos a lo largo del ciclo de vida?
 			  collapsed:: true
