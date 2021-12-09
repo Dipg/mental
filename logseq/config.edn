@@ -165,9 +165,9 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :ui/show-brackets? false
+ :ui/show-brackets? true
  :editor/logical-outdenting? true
- :favorites ["Análisis Multivariante" "Ideas" "Economía" "Proyectos" "Microeconomía" "Finanzas Públicas" "Economía Conductual"]
+ :favorites ["Regulación" "Análisis Multivariante" "Ideas" "Economía" "Proyectos" "Microeconomía" "Finanzas Públicas" "Economía Conductual"]
  :publishing/all-pages-public? true
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
