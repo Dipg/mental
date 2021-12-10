@@ -128,3 +128,7 @@
   ls-type:: annotation
   hl-page:: 138
   id:: 61b29a3e-d50b-4b5b-aa1d-67f4e570605c
+- equitativo verticalmente,
+  ls-type:: annotation
+  hl-page:: 138
+  id:: 61b29a4a-4fe5-4463-85e1-00558e699938
