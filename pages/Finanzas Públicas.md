@@ -235,7 +235,8 @@ collapsed:: true
 	- Economía del sector Público
 # Unidad 2 ![📑](../assets/UNIDAD_2._1637746281546_0.pdf)
 # Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
-# Unidad 4 ![📑](../assets/Unidad_4_1637751172084_0.pdf) ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf)
+- # Unidad 4 ![📑](../assets/Unidad_4_1637751172084_0.pdf) ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf)
+  collapsed:: true
 	- ¿ En que consiste la incidencia  tributaria?
 	  collapsed:: true
 		- Consiste en saber qui paga verdaderamente la carga de impuestos
@@ -283,6 +284,7 @@ collapsed:: true
 			-
 		-
 	- Incidencia tributaria a trevés del ciclo de vida [ 📜​](61aac79f-6a8f-4c0b-8c59-f3c81744c385)
+	  collapsed:: true
 		- ¿En que consiste el enfoque de la incidencia el ciclo de vida?
 		  collapsed:: true
 			- >Consiste en 📏 el 🤑 recibidos por los contribuyentes  a lo ⌛ y 🕵️‍♂️, la carga tributaria que los afecto a lo largo de la misma.
@@ -333,6 +335,7 @@ collapsed:: true
 					- Ej: Si el ingreso de impuestos al capital es para personas mayores , el ahorro disminuye , esto genera lo que vimos antes , por lo cual la carga del impuesto es tralapdad desde el capital al trabajo.
 					- En cambio si los ingresos de impuestos sobre el capital van a los jovenes , el ahorro aumenta, así como la relación capital-trabajo, aumentando los salarios y cae el retorno de capital
 		- ¿Cómo se han realizado los análisis empíricos de incidencia tributaria?
+		  collapsed:: true
 			- Desde la traslación de las cargas de impuestos que dependen de las elasticidades precio de la demanda y de la oferta
 			- Los estudio comienza con supuestos de como actúa la incidencia  de los impuestos  y se asigna la carga tributaria a diferentes grupos de ingresos hasta agotar el ingreso total.
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
