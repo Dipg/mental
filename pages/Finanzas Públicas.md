@@ -313,7 +313,6 @@ collapsed:: true
 			- Tercero...
 				- Ligado a la capacidad de pago, es erróneo pensar que la visión del ingreso del ciclo de vida  mide mejor la capacidad de pago  que la perspectiva del ingreso anual
 				- Sistema tributario equitativo horizontalmete
-				  collapsed:: true
 					- Se paga impuestos similares sobre su ciclo de vida
 				- Sistema tributario equitativo verticalmente
 				  collapsed:: true
