@@ -120,3 +120,7 @@
   ls-type:: annotation
   hl-page:: 138
   id:: 61b2999a-d7b7-4ce2-be6a-7296a4fbf48c
+- equitativo  horizontalmente
+  ls-type:: annotation
+  hl-page:: 138
+  id:: 61b29a2d-f129-4e33-ba37-3e7963a8b945
