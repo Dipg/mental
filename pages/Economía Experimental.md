@@ -1,3 +1,2 @@
 - Diseño de estructura de incentivos
-	-
 -
