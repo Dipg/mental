@@ -294,6 +294,7 @@ collapsed:: true
 				- El impuesto a la renta en Chile se aplica en un horizonte de tiempo anual, en abril, sin embargo a este se le puede ir contribuyendo mensualmente y con retenciones del 10
 				- % de los honorarios
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
+		  collapsed:: true
 			- Primero ...
 			  collapsed:: true
 				- ¿Cómo evolucionan los ingresos según la teoría del ⌛  a través del tiempo?
@@ -337,6 +338,7 @@ collapsed:: true
 						- Sin embargo la carga tributaria  a través del ciclo de vida no es  independiente del capital , misma carga que será afectada por las decisiones de consumo y ahorro, desde que los ingresos de capital están incluidos en la base dl impuesto al ingreso
 			- Quinta...
 			  id:: 61b2a946-48d5-4940-8ca7-3d38316cb2e9
+			  collapsed:: true
 				- Los datos del ingreso anual son de fácil obtención , los datos del ingreso del ciclo de vida no lo son
 			- ¿Qué pasa si el ingreso es igual en todos los individuos a lo largo del ciclo de vida?
 			  collapsed:: true
