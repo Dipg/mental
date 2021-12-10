@@ -294,6 +294,7 @@ collapsed:: true
 				- El impuesto a la renta en Chile se aplica en un horizonte de tiempo anual, en abril, sin embargo a este se le puede ir contribuyendo mensualmente y con retenciones del 10
 				- % de los honorarios
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida? #yellow
+		  collapsed:: true
 			- Primero ... #yellow
 			  collapsed:: true
 				- ¿Cómo evolucionan los ingresos según la teoría del ⌛  a través del tiempo?
@@ -361,6 +362,7 @@ collapsed:: true
 			  collapsed:: true
 				- La incidencia tributaria sobre el ciclo de vida , resulto similar a la incidencia anual en EEUU
 		- ¿Cómo los economistas han analizado la incidencia tributaria?
+		  collapsed:: true
 			- Tres aproximaciones basicas
 			- Primera... #yellow
 			  collapsed:: true
@@ -386,7 +388,8 @@ collapsed:: true
 				- La incidencia tributaria depende  de como los ingresos impositivos son distribuidos a través de generaciones
 				- Ej: Si el ingreso de impuestos al capital es para personas mayores , el ahorro disminuye , esto genera lo que vimos antes , por lo cual la carga del impuesto es traslapada desde el capital al trabajo.
 				- En cambio si los ingresos de impuestos sobre el capital van a los jovenes , el ahorro aumenta, así como la relación capital-trabajo, aumentando los salarios y cae el retorno de capital
-		- ¿Cómo se han realizado los análisis empíricos de incidencia tributaria?
+		- ¿Cómo se han realizado los análisis empíricos de incidencia tributaria? #yellow
+		  collapsed:: true
 			- Desde la traslación de las cargas de impuestos que dependen de las elasticidades precio de la demanda y de la oferta
 			- Los estudio comienza con supuestos de como actúa la incidencia  de los impuestos  y se asigna la carga tributaria a diferentes grupos de ingresos hasta agotar el ingreso total.
 -
