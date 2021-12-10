@@ -312,7 +312,8 @@ collapsed:: true
 			- Tres aproximaciones basicas
 			- Primera...
 				- Análisis de equilibrio parcial
-				- Análisis estático de quilibrio
+				- Análisis estático de equilibrio general
+				- An
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 		  collapsed:: true
 			- Primero ...
