@@ -79,11 +79,11 @@ div[data-refs-self*="kanban"] >.block-children > div {
 
 
 .tag[data-ref*="red"]{
-    content:  url(https://cdn-icons-png.flaticon.com/512/595/595005.png) ;
-        transform: scale(1.5); 
+    content:  url(https://cdn-icons-png.flaticon.com/512/595/595005.png) !important;
+        transform: scale(1.5) !important; 
         display:inline !important ;
-        width: 10.2px; 
-        height: 10.2px; 
+        width: 10.2px !important; 
+        height: 10.2px !important; 
     margin-left:3px !important;
     margin-right:20px !important;
     /* filter: invert(69%) sepia(64%) saturate(1583%) hue-rotate(49deg) brightness(108%) contrast(111%); */
