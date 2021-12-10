@@ -322,7 +322,7 @@ collapsed:: true
 					- Su limitación es el supuesto de factores productivos fijos
 				- Análisis dinámico de equilibrio general
 					- Desarrollado a través del modelo neoclásicos de crecimiento
-					-
+					- la tributacion de ingresos de capital dim
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 		  collapsed:: true
 			- Primero ...
