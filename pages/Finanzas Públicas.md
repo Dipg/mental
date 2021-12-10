@@ -362,15 +362,14 @@ collapsed:: true
 				- La incidencia tributaria sobre el ciclo de vida , resulto similar a la incidencia anual en EEUU
 		- ¿Cómo los economistas han analizado la incidencia tributaria?
 			- Tres aproximaciones basicas
-			- Primera...
+			- Primera... #yellow
 			  collapsed:: true
 				- Análisis de equilibrio parcial #yellow
 				  collapsed:: true
 					- Es el modelo mas simple
 					- Incidencia en el contexto de un único mercado
 					- Es limitado debido a que no toma en cuenta la incidencia en el resto de mercados
-			- Segunda
-			  collapsed:: true
+			- Segunda... #yellow
 				- Análisis estático de equilibrio general
 				  collapsed:: true
 					- Toma en cuenta los demas mercados , asi como los efects de los impuestos en los mercados relacionados  con el mercado grabado.
