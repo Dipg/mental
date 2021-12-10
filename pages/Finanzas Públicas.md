@@ -377,7 +377,6 @@ collapsed:: true
 					- Su limitación es el supuesto de que la oferta total de  factores productivos  es fijas
 			- Tercera.... #yellow
 				- Análisis dinámico de equilibrio general
-				  collapsed:: true
 					- Desarrollado a través del modelo neoclásicos de crecimiento
 					- La tributación de ingresos de capital disminuye el ahorro, disminuyendo asi la razón capital/ trabajo de equilibrio , como consecuencia cae la productividad del trabajo y disminuyen los salarios, lo que muestra que el impuesto se ha trasladado desde el capital al trabajo
 			- Ciclo de vidad de generaciones traslapadas 
