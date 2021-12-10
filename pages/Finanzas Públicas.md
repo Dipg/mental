@@ -324,6 +324,7 @@ collapsed:: true
 			- Cuarta...
 				- Que se incluye en el ingreso
 				- En la perspectiva Anual
+					- Sueldos y salarios
 					-
 			- ¿Qué pasa si el ingreso es igual en todos los individuos a lo largo del ciclo de vida?
 			  collapsed:: true
