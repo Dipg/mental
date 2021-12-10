@@ -103,7 +103,9 @@
 		-
 		-
 - # Unidad 2  #yellow
+  collapsed:: true
 	- ## [](#1.) Ampliación de la Racionalidad ![📑 ](../assets/Unidad_II_-_Ampliando_la_racionalidad_1637442442873_0.pdf) #yellow
+	  collapsed:: true
 		- ¿ Cuales son las características de los procesos involucrados en la toma de decisiones?
 		  collapsed:: true
 			- Preferencias
