@@ -323,6 +323,7 @@ collapsed:: true
 				  collapsed:: true
 					- Por la equidad de corto y de largo plazo
 			- Cuarta... #yellow
+			  collapsed:: true
 				- Que es lo que se incluye en el ingreso
 					- En la perspectiva Anual
 					  collapsed:: true
@@ -330,9 +331,11 @@ collapsed:: true
 						- Remuneración Empresarial
 						- Ingresos de Capital : Intereses dividendos y ganancias de capital
 					- Ingreso a través del ciclo de vida
+					  collapsed:: true
 						- No requiere los ingresos de capital
 						- Solo incluye los regalos realizados , Herencias  e ingresos laborales
 						- ¿Por que no incluir los ingresos de capital?
+						  collapsed:: true
 							- El ingreso de capital no refleja diferentes niveles de bienestar , sino diferentes  decisiones de cuando consumir
 							- Sin embargo la carga tributaria  a través del ciclo de vida no es  independiente del capital , misma carga que será afectada por las decisiones de consumo y ahorro, desde que los ingresos de capital están incluidos en la base dl impuesto al ingreso
 			- Quinta...
