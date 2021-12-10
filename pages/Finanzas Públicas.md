@@ -349,10 +349,10 @@ collapsed:: true
 			- Primera... #yellow
 			  collapsed:: true
 				- Se requiere gran cantidad de datos de ingresos a través del ciclo de vida
-			- Segunda...
+			- Segunda... #yellow
+			  collapsed:: true
 				- Los individuos cambian de decil de ingresos  de acuerdo a su ciclo de vida
 			- Tercera...
-			  collapsed:: true
 				- El impuesto sobre el 💰 personal y el 💰 de las corporaciones parece menos progresivo a través del ciclo de vida.
 				- Los impuestos al consumo aparecen menos regresivos sobre la base del ciclo de vida
 			- Cuarta...
