@@ -373,6 +373,7 @@ collapsed:: true
 					  collapsed:: true
 						- Toma en cuenta los demas mercados , asi como los efects de los impuestos en los mercados relacionados  con el mercado grabado.
 						- Su limitación es el supuesto de factores productivos fijos
+				-
 				- Análisis dinámico de equilibrio general
 				  collapsed:: true
 					- Desarrollado a través del modelo neoclásicos de crecimiento
