@@ -346,6 +346,7 @@ collapsed:: true
 			  collapsed:: true
 				- El individuo quedaría situado en la misma franja de ingreso y la comparación del ciclo de vida con el ingreso anual carecería de relevancia
 		- ¿Qué conclusiones se extraen de la incidencia tributaria a través del ciclo de vida? #yellow
+		  collapsed:: true
 			- Primera... #yellow
 			  collapsed:: true
 				- Se requiere gran cantidad de datos de ingresos a través del ciclo de vida
@@ -360,10 +361,8 @@ collapsed:: true
 			  collapsed:: true
 				- La incidencia tributaria sobre el ciclo de vida , resulto similar a la incidencia anual en EEUU
 		- ¿Cómo los economistas han analizado la incidencia tributaria?
-		  collapsed:: true
 			- Tres aproximaciones basicas
 			- Primera...
-			  collapsed:: true
 				- Análisis de equilibrio parcial
 				  collapsed:: true
 					- Es el modelo mas simple
