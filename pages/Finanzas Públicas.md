@@ -294,6 +294,7 @@ collapsed:: true
 				- El impuesto a la renta en Chile se aplica en un horizonte de tiempo anual, en abril, sin embargo a este se le puede ir contribuyendo mensualmente y con retenciones del 10
 				- % de los honorarios
 		- ¿Qué conclusiones se extraen de la incidencia tributaria a través del ciclo de vida?
+		  collapsed:: true
 			- Primera...
 			  collapsed:: true
 				- Se requiere gran cantidad de datos de ingresos a través del ciclo de vida
@@ -309,8 +310,10 @@ collapsed:: true
 			  collapsed:: true
 				- La incidencia tributaria sobre el ciclo de vida , resulto similar a la incidencia anual en EEUU
 		- ¿Cómo los economistas han analizado la incidencia tributaria?
+		  collapsed:: true
 			- Tres aproximaciones basicas
 			- Primera...
+			  collapsed:: true
 				- Análisis de equilibrio parcial
 				  collapsed:: true
 					- Es el modelo mas simple
@@ -321,9 +324,11 @@ collapsed:: true
 					- Toma en cuenta los demas mercados , asi como los efects de los impuestos en los mercados relacionados  con el mercado grabado.
 					- Su limitación es el supuesto de factores productivos fijos
 				- Análisis dinámico de equilibrio general
+				  collapsed:: true
 					- Desarrollado a través del modelo neoclásicos de crecimiento
 					- La tributación de ingresos de capital disminuye el ahorro, disminuyendo asi la razón capital/ trabajo de equilibrio , como consecuencia cae la productividad del trabajo y disminuyen los salarios, lo que muestra que el impuesto se ha trasladado desde el capital al trabajo
-				- Ciclo de vidad de generaciones traslapadas
+				- Ciclo de vidad de generaciones traslapadas 
+				  collapsed:: true
 					- La incidencia tributaria depende  de como los ingresos impositivos son distribuidos a través de generaciones
 					- Ej: Si el ingreso de impuestos al capital es para personas mayores , el ahorro disminuye , esto genera lo que vimos antes , por lo cual la carga del impuesto es tralapdad desde el capital al trabajo.
 					- En cambio si los ingresos de impuestos sobre el capital van a los jovenes , el ahorro aumenta, así como la relación capital-trabajo, aumentando los salarios y cae el retorno de capital
