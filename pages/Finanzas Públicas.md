@@ -302,7 +302,7 @@ collapsed:: true
 			  collapsed:: true
 				- Los individuos cambian de decil de ingresos  de acuerdo a su ciclo de vida
 			- Tercera...
-				- El impuesto sobre el 💰 personal y el 💰 de la
+				- El impuesto sobre el 💰 personal y el 💰 de las corporaciones parece menos regresivo a través del tiempo
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 		  collapsed:: true
 			- Primero ...
