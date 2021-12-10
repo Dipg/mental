@@ -108,12 +108,12 @@ div[data-refs-self*="kanban"] >.block-children > div {
             content:  url(https://cdn-icons-png.flaticon.com/512/595/595005.png) !important;
                 transform: scale(1.5) !important; 
                 display:inline !important ;
-                width: 10.2px; 
-                height: 10.2px; 
+                width: 10.2px !important; 
+                height: 10.2px !important; 
             margin-left:3px !important;
             margin-right:20px !important;
-            filter: invert(67%) sepia(89%) saturate(519%) hue-rotate(39deg) brightness(107%) contrast(108%);
-            opacity: 0.7;	
+            filter: invert(67%) sepia(89%) saturate(519%) hue-rotate(39deg) brightness(107%) contrast(108%) !important;
+            opacity: 0.7 !important;	
             }
 
 
