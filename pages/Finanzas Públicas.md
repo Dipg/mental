@@ -286,14 +286,14 @@ collapsed:: true
 		- ¿En que consiste el enfoque de la incidencia tributaria en  el ciclo de vida? #yellow
 		  collapsed:: true
 			- >Consiste en 📏 el 🤑 recibidos por los contribuyentes  a lo ⌛ y 🕵️‍♂️, la carga tributaria que los afecto a lo largo de la misma.
-		- ¿En que consiste el enfoque anual?
+		- ¿En que consiste el enfoque anual? #yellow
+		  collapsed:: true
 			- Consiste en medir la base del impuesto en un año calendario
 			- ¿Caso Chile?
 			  collapsed:: true
 				- El impuesto a la renta en Chile se aplica en un horizonte de tiempo anual, en abril, sin embargo a este se le puede ir contribuyendo mensualmente y con retenciones del 10
 				- % de los honorarios
 		- ¿Qué conclusiones se extraen de la incidencia tributaria a través del ciclo de vida?
-		  collapsed:: true
 			- Primera...
 			  collapsed:: true
 				- Se requiere gran cantidad de datos de ingresos a través del ciclo de vida
