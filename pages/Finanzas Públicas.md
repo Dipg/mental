@@ -318,7 +318,7 @@ collapsed:: true
 					- Es limitado debido a que no toma en cuenta la incidencia en el resto de mercados
 				- Análisis estático de equilibrio general
 					- Toma en cuenta los demas mercados , asi como los efects de los impuestos en los mercados relacionados  con el mercado grabado.
-					- Su limitacion
+					- Su limitacion es el supuesto de
 				- Análisis dinámico de equilibrio general
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 		  collapsed:: true
