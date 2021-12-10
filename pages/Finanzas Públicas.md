@@ -313,7 +313,7 @@ collapsed:: true
 			- Primera...
 				- Análisis de equilibrio parcial
 				- Análisis estático de equilibrio general
-				- An
+				- Análissi dinámico de equilibrio general
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 		  collapsed:: true
 			- Primero ...
