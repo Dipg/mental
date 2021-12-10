@@ -121,7 +121,6 @@
 				- Racionales
 		- ## [](#1.) Sesgo cognitivo #yellow
 		  id:: 61985334-f1bd-466f-a97e-9543d114a293
-		  collapsed:: true
 			- ¿ Donde se presentan los sesgos cognitivos?
 			  collapsed:: true
 				- Antes de revisar los sesgos , debemos plantearnos cuales son los criterios que se postulan en la racionalidad y que se ven influenciados por estos segos
@@ -131,7 +130,6 @@
 			  collapsed:: true
 				- Es una interpretación errónea sistemática de la información disponible  a la hora de procesar pensamientos, hacer juicios de valor y ==tomar decisiones==
 			- Efectos #red
-			  collapsed:: true
 				- Efecto dotación #green
 				  collapsed:: true
 					- Este efecto nos causa que tendemos a valorar más un objeto que poseemos frente a otro que todavía no es nuestro.  Nos cuesta mas despegarnos de las cosas con las que hemos creado un vinculo emocional asociado a la de propiedad.
