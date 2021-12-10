@@ -326,6 +326,7 @@ collapsed:: true
 					- La tributación de ingresos de capital disminuye el ahorro, disminuyendo asi la razón capital/ trabajo de equilibrio , como consecuencia cae la productividad del trabajo y disminuyen los salarios, lo que muestra que el impuesto se ha trasladado desde el capital al trabajo
 				- Ciclo de vidad de generaciones traslapadas
 					- La incidencia tributaria depende  de como los ingresos impositivos son distribuidos a través de generaciones
+					- Ej:
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 		  collapsed:: true
 			- Primero ...
