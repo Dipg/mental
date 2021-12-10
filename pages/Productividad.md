@@ -1,0 +1,2 @@
+- Si necestio aprender algo en na semana
+	-
