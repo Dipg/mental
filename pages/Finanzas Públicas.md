@@ -325,8 +325,8 @@ collapsed:: true
 				- Que se incluye en el ingreso
 				- En la perspectiva Anual
 					- Sueldos y salarios
-					- Remuneracion Empresarial
-					-
+					- Remuneración Empresarial
+					- Ingresos de Capital
 			- ¿Qué pasa si el ingreso es igual en todos los individuos a lo largo del ciclo de vida?
 			  collapsed:: true
 				- El individuo quedaría situado en la misma franja de ingreso y la comparación del ciclo de vida con el ingreso anual carecería de relevancia
