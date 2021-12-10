@@ -345,7 +345,7 @@ collapsed:: true
 			- ¿Qué pasa si el ingreso es igual en todos los individuos a lo largo del ciclo de vida?
 			  collapsed:: true
 				- El individuo quedaría situado en la misma franja de ingreso y la comparación del ciclo de vida con el ingreso anual carecería de relevancia
-		- ¿Qué conclusiones se extraen de la incidencia tributaria a través del ciclo de vida?
+		- ¿Qué conclusiones se extraen de la incidencia tributaria a través del ciclo de vida? #yellow
 			- Primera... #yellow
 			  collapsed:: true
 				- Se requiere gran cantidad de datos de ingresos a través del ciclo de vida
