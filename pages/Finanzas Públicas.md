@@ -347,8 +347,8 @@ collapsed:: true
 				- El individuo quedaría situado en la misma franja de ingreso y la comparación del ciclo de vida con el ingreso anual carecería de relevancia
 		- ¿Qué conclusiones se extraen de la incidencia tributaria a través del ciclo de vida?
 			- Primera...
+			  collapsed:: true
 				- Se requiere gran cantidad de datos de ingresos a través del ciclo de vida
-				-
 			- Segunda...
 			  collapsed:: true
 				- Los individuos cambian de decil de ingresos  de acuerdo a su ciclo de vida
