@@ -321,7 +321,7 @@ collapsed:: true
 					- Toma en cuenta los demas mercados , asi como los efects de los impuestos en los mercados relacionados  con el mercado grabado.
 					- Su limitación es el supuesto de factores productivos fijos
 				- Análisis dinámico de equilibrio general
-					-
+					- Desarrollado a través del modelo
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 		  collapsed:: true
 			- Primero ...
