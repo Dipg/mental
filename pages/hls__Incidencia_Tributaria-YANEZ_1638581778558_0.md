@@ -132,3 +132,7 @@
   ls-type:: annotation
   hl-page:: 138
   id:: 61b29a4a-4fe5-4463-85e1-00558e699938
+- economía,  así  como  los  efectos  que los  impuestos  producen  en  los mercados  relacionados  con  el  mercado  gravado
+  ls-type:: annotation
+  hl-page:: 139
+  id:: 61b2aeee-136c-4926-b0f6-4097264d9073
