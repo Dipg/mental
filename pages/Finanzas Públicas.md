@@ -313,7 +313,7 @@ collapsed:: true
 			- Primera...
 				- Análisis de equilibrio parcial
 					- Es el modelo mas simple
-					- Contexto de un unico mercao
+					- Contexto de un único mercado
 				- Análisis estático de equilibrio general
 				- Análisis dinámico de equilibrio general
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
