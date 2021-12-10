@@ -322,7 +322,7 @@ collapsed:: true
 					- Su limitación es el supuesto de factores productivos fijos
 				- Análisis dinámico de equilibrio general
 					- Desarrollado a través del modelo neoclásicos de crecimiento
-					- La tributación de ingresos de capital disminuye el ahorro, disminuyendo asi la razon capital/ trabajo de equilibrio , como consecuencia cae la productividad del trabajo y disminuyen los salarios, lo que muestra que
+					- La tributación de ingresos de capital disminuye el ahorro, disminuyendo asi la razon capital/ trabajo de equilibrio , como consecuencia cae la productividad del trabajo y disminuyen los salarios, lo que muestra que el impuesto
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 		  collapsed:: true
 			- Primero ...
