@@ -334,6 +334,7 @@ collapsed:: true
 					- En cambio si los ingresos de impuestos sobre el capital van a los jovenes , el ahorro aumenta, así como la relación capital-trabajo, aumentando los salarios y cae el retorno de capital
 		- ¿Cómo se han realizado los análisis empíricos de incidencia tributaria?
 			- Desde la traslación de las cargas de impuestos que dependen de las elasticidades precio de la demanda y de la oferta
+			-
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 		  collapsed:: true
 			- Primero ...
