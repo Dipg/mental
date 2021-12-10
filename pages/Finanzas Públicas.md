@@ -333,6 +333,7 @@ collapsed:: true
 					- Ej: Si el ingreso de impuestos al capital es para personas mayores , el ahorro disminuye , esto genera lo que vimos antes , por lo cual la carga del impuesto es tralapdad desde el capital al trabajo.
 					- En cambio si los ingresos de impuestos sobre el capital van a los jovenes , el ahorro aumenta, así como la relación capital-trabajo, aumentando los salarios y cae el retorno de capital
 		- ¿Cómo se han realizado los análisis empíricos de incidencia tributaria?
+			-
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 		  collapsed:: true
 			- Primero ...
