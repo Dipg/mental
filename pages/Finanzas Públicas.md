@@ -322,6 +322,7 @@ collapsed:: true
 				- ¿Por que deberían estar preocupados los hacedores d política?
 					- Por la equidad de corto y de largo plazo
 			- Cuarta...
+			  collapsed:: true
 				- Que se incluye en el ingreso
 				- En la perspectiva Anual
 				  collapsed:: true
@@ -334,6 +335,7 @@ collapsed:: true
 					- ¿Por que no incluir los ingresos de capital?
 						- El ingreso de capital no refleja diferentes niveles de bienestar , sino diferentes  decisiones de cuando consumir
 						- Sin embargo la carga tributaria  a través del ciclo de vida no es  independiente del capital , misma carga que será afectada por las decisiones de consumo y ahorro, desde que los ingresos de capital están incluidos en la base dl impuesto al ingreso
+			- Quinta...
 			- ¿Qué pasa si el ingreso es igual en todos los individuos a lo largo del ciclo de vida?
 			  collapsed:: true
 				- El individuo quedaría situado en la misma franja de ingreso y la comparación del ciclo de vida con el ingreso anual carecería de relevancia
