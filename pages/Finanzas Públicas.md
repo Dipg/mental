@@ -311,7 +311,6 @@ collapsed:: true
 					- Trabajadores independientes , que trabajan una epoca y otra no
 					- El caso de los despidos
 			- Tercero...
-			  collapsed:: true
 				- Ligado a la capacidad de pago, es erróneo pensar que la visión del ingreso del ciclo de vida  mide mejor la capacidad de pago  que la perspectiva del ingreso anual
 				- Sistema tributario equitativo horizontalmete
 				  collapsed:: true
