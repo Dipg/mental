@@ -295,7 +295,7 @@ collapsed:: true
 				- % de los honorarios
 		- ¿Qué conclusiones se extraen de la incidencia tributaria a través del ciclo de vida?
 			- Primera...
-				- Se requiere gran cantidad de datos de
+				- Se requiere gran cantidad de datos de ingresos a través del ciclo de vida
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 		  collapsed:: true
 			- Primero ...
