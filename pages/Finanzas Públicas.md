@@ -342,7 +342,7 @@ collapsed:: true
 			  id:: 61b2a946-48d5-4940-8ca7-3d38316cb2e9
 			  collapsed:: true
 				- Los datos del ingreso anual son de fácil obtención , los datos del ingreso del ciclo de vida no lo son
-			- ¿Qué pasa si el ingreso es igual en todos los individuos a lo largo del ciclo de vida?
+			- ¿Qué pasa si el ingreso es igual en todos los individuos a lo largo del ciclo de vida? #green
 			  collapsed:: true
 				- El individuo quedaría situado en la misma franja de ingreso y la comparación del ciclo de vida con el ingreso anual carecería de relevancia
 		- ¿Qué conclusiones se extraen de la incidencia tributaria a través del ciclo de vida? #yellow
