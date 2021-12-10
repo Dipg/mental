@@ -372,7 +372,7 @@ collapsed:: true
 			- Segunda... #yellow
 				- Análisis estático de equilibrio general
 					- Toma en cuenta los demás mercados , así como los efectos de los impuestos en los mercados relacionados  con el mercado grabado.
-					- Su limitación es el supuesto de wu factores productivos fijos
+					- Su limitación es el supuesto de que la oferta total de  factores productivos  es fijas
 			- Tercera....
 			  collapsed:: true
 				- Análisis dinámico de equilibrio general
