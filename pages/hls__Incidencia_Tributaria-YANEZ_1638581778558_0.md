@@ -136,3 +136,11 @@
   ls-type:: annotation
   hl-page:: 139
   id:: 61b2aeee-136c-4926-b0f6-4097264d9073
+- l  análisisde  equilibrio  parcial,
+  ls-type:: annotation
+  hl-page:: 139
+  id:: 61b2af41-19ef-44d2-b3dd-73c605a38fa1
+- El  análisis  estático  de  equilibrio  general,
+  ls-type:: annotation
+  hl-page:: 139
+  id:: 61b2af46-e097-4c63-9565-fe49147a3d30
