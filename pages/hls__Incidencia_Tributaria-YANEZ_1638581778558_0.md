@@ -124,3 +124,7 @@
   ls-type:: annotation
   hl-page:: 138
   id:: 61b29a2d-f129-4e33-ba37-3e7963a8b945
+- pagan impuestos  similares  sobre  su  ciclo  de  vida.
+  ls-type:: annotation
+  hl-page:: 138
+  id:: 61b29a3e-d50b-4b5b-aa1d-67f4e570605c
