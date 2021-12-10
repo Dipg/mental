@@ -148,3 +148,7 @@
   ls-type:: annotation
   hl-page:: 140
   id:: 61b2b083-996c-460e-a737-a0fe229466ab
+- dependen  de  las  elasticidades  precios  de  la  demanda  
+  ls-type:: annotation
+  hl-page:: 140
+  id:: 61b2b6d0-038f-4bce-999b-3263d7572b28
