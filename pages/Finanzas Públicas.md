@@ -360,6 +360,7 @@ collapsed:: true
 			  collapsed:: true
 				- La incidencia tributaria sobre el ciclo de vida , resulto similar a la incidencia anual en EEUU
 		- ¿Cómo los economistas han analizado la incidencia tributaria?
+		  collapsed:: true
 			- Tres aproximaciones basicas
 			- Primera... #yellow
 			  collapsed:: true
@@ -369,12 +370,15 @@ collapsed:: true
 					- Incidencia en el contexto de un único mercado
 					- Es limitado debido a que no toma en cuenta la incidencia en el resto de mercados
 			- Segunda... #yellow
+			  collapsed:: true
 				- Análisis estático de equilibrio general
 				  collapsed:: true
 					- Toma en cuenta los demás mercados , así como los efectos de los impuestos en los mercados relacionados  con el mercado grabado.
 					- Su limitación es el supuesto de que la oferta total de  factores productivos  es fijas
 			- Tercera.... #yellow
+			  collapsed:: true
 				- Análisis dinámico de equilibrio general
+				  collapsed:: true
 					- Desarrollado a través del modelo neoclásicos de crecimiento
 					- La tributación de ingresos de capital disminuye el ahorro, disminuyendo asi la razón capital/ trabajo de equilibrio , como consecuencia cae la productividad del trabajo y disminuyen los salarios, lo que muestra que el impuesto se ha trasladado desde el capital al trabajo
 			- Ciclo de vida de generaciones traslapadas #yellow
