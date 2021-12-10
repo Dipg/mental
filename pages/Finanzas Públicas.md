@@ -322,7 +322,7 @@ collapsed:: true
 				- ¿Por que deberían estar preocupados los hacedores d política?
 					- Por la equidad de corto y de largo plazo
 			- Cuarta...
-				-
+				- Se debe inc
 			- ¿Qué pasa si el ingreso es igual en todos los individuos a lo largo del ciclo de vida?
 			  collapsed:: true
 				- El individuo quedaría situado en la misma franja de ingreso y la comparación del ciclo de vida con el ingreso anual carecería de relevancia
