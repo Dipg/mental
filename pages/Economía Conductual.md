@@ -104,7 +104,6 @@
 		-
 - # Unidad 2  #yellow
 	- ## [](#1.) Ampliación de la Racionalidad ![📑 ](../assets/Unidad_II_-_Ampliando_la_racionalidad_1637442442873_0.pdf) #yellow
-	  collapsed:: true
 		- ¿ Cuales son las características de los procesos involucrados en la toma de decisiones?
 		  collapsed:: true
 			- Preferencias
@@ -328,7 +327,6 @@
 					- crear el sentido de pertenencia en mujeres ayuda a incrementar permanencia y representación
 	- ## [](#2.) Teoría Prospectiva ![📑](../assets/Unidad_II_-_Teoría_Prospectiva_1637535162355_0.pdf) ![📜](../assets/Dialnet-TeoriaProspectiva-65981_(1)_1637533445262_0.pdf) #yellow
 	  id:: 619acd7b-c30d-4687-b87f-c7d1ad7bb6a3
-	  collapsed:: true
 		- Es un modelo alternativo para que explica la toma de decisiones individuales bajo riesgo. Esta teoría fue desarrollada para alternativas simples con resultados monetarios y probabilidades dadas.
 		- La teoría prospectiva distingue dos fases en el proceso de elección : una fase de preparación o edición y una subsecuente de evaluación.
 		- [](#1.) Fase de Edición
