@@ -293,7 +293,7 @@ collapsed:: true
 			  collapsed:: true
 				- El impuesto a la renta en Chile se aplica en un horizonte de tiempo anual, en abril, sin embargo a este se le puede ir contribuyendo mensualmente y con retenciones del 10
 				- % de los honorarios
-		- ¿Que conclusiones se extraen
+		- ¿Que conclusiones se extraen de la incidencia tributarua a través del ciclo de vida?
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 		  collapsed:: true
 			- Primero ...
