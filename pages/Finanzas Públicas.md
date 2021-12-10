@@ -317,6 +317,7 @@ collapsed:: true
 					- Incidencia en el contexto de un único mercado
 					- Es limitado debido a que no toma en cuenta la incidencia en el resto de mercados
 				- Análisis estático de equilibrio general
+				-
 				- Análisis dinámico de equilibrio general
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 		  collapsed:: true
