@@ -368,24 +368,24 @@ collapsed:: true
 					- Es el modelo mas simple
 					- Incidencia en el contexto de un único mercado
 					- Es limitado debido a que no toma en cuenta la incidencia en el resto de mercados
-				- Segunda
-				  collapsed:: true
-					- Análisis estático de equilibrio general
-					  collapsed:: true
-						- Toma en cuenta los demas mercados , asi como los efects de los impuestos en los mercados relacionados  con el mercado grabado.
-						- Su limitación es el supuesto de factores productivos fijos
-				- Tercera....
-				  collapsed:: true
-					- Análisis dinámico de equilibrio general
-					  collapsed:: true
-						- Desarrollado a través del modelo neoclásicos de crecimiento
-						- La tributación de ingresos de capital disminuye el ahorro, disminuyendo asi la razón capital/ trabajo de equilibrio , como consecuencia cae la productividad del trabajo y disminuyen los salarios, lo que muestra que el impuesto se ha trasladado desde el capital al trabajo
 				-
-				- Ciclo de vidad de generaciones traslapadas 
+			- Segunda
+			  collapsed:: true
+				- Análisis estático de equilibrio general
 				  collapsed:: true
-					- La incidencia tributaria depende  de como los ingresos impositivos son distribuidos a través de generaciones
-					- Ej: Si el ingreso de impuestos al capital es para personas mayores , el ahorro disminuye , esto genera lo que vimos antes , por lo cual la carga del impuesto es tralapdad desde el capital al trabajo.
-					- En cambio si los ingresos de impuestos sobre el capital van a los jovenes , el ahorro aumenta, así como la relación capital-trabajo, aumentando los salarios y cae el retorno de capital
+					- Toma en cuenta los demas mercados , asi como los efects de los impuestos en los mercados relacionados  con el mercado grabado.
+					- Su limitación es el supuesto de factores productivos fijos
+			- Tercera....
+			  collapsed:: true
+				- Análisis dinámico de equilibrio general
+				  collapsed:: true
+					- Desarrollado a través del modelo neoclásicos de crecimiento
+					- La tributación de ingresos de capital disminuye el ahorro, disminuyendo asi la razón capital/ trabajo de equilibrio , como consecuencia cae la productividad del trabajo y disminuyen los salarios, lo que muestra que el impuesto se ha trasladado desde el capital al trabajo
+			- Ciclo de vidad de generaciones traslapadas 
+			  collapsed:: true
+				- La incidencia tributaria depende  de como los ingresos impositivos son distribuidos a través de generaciones
+				- Ej: Si el ingreso de impuestos al capital es para personas mayores , el ahorro disminuye , esto genera lo que vimos antes , por lo cual la carga del impuesto es tralapdad desde el capital al trabajo.
+				- En cambio si los ingresos de impuestos sobre el capital van a los jovenes , el ahorro aumenta, así como la relación capital-trabajo, aumentando los salarios y cae el retorno de capital
 		- ¿Cómo se han realizado los análisis empíricos de incidencia tributaria?
 		  collapsed:: true
 			- Desde la traslación de las cargas de impuestos que dependen de las elasticidades precio de la demanda y de la oferta
