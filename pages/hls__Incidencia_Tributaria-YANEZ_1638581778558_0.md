@@ -144,3 +144,7 @@
   ls-type:: annotation
   hl-page:: 139
   id:: 61b2af46-e097-4c63-9565-fe49147a3d30
+- cómo  los ingresos impositivos son distribuidos a través de las generaciones.
+  ls-type:: annotation
+  hl-page:: 140
+  id:: 61b2b083-996c-460e-a737-a0fe229466ab
