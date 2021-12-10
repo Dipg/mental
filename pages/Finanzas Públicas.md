@@ -299,7 +299,9 @@ collapsed:: true
 				- Se requiere gran cantidad de datos de ingresos a través del ciclo de vida
 				-
 			- Segunda...
+			  collapsed:: true
 				- Los individuos cambian de decil de ingresos  de acuerdo a su ciclo de vida
+			- Tercera
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 		  collapsed:: true
 			- Primero ...
