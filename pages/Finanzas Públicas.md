@@ -393,5 +393,5 @@ collapsed:: true
 			- Desde la traslación de las cargas de impuestos que dependen de las elasticidades precio de la demanda y de la oferta
 			- Los estudio comienza con supuestos de como actúa la incidencia  de los impuestos  y se asigna la carga tributaria a diferentes grupos de ingresos hasta agotar el ingreso total.
 		- Conclusión
-			- La incidencia tributaria sobre el ciclo de vida analiza mi evolucion con respecto a mi
+			- La incidencia tributaria sobre el ciclo de vida analiza mi evolución con respecto a mi edad  y
 -
