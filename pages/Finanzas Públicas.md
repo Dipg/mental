@@ -328,7 +328,8 @@ collapsed:: true
 					- Sueldos y salarios
 					- Remuneración Empresarial
 					- Ingresos de Capital : Intereses dividendos y ganancias de capital
-				- Ingreso a trav
+				- Ingreso a través del ciclo de vida
+					-
 			- ¿Qué pasa si el ingreso es igual en todos los individuos a lo largo del ciclo de vida?
 			  collapsed:: true
 				- El individuo quedaría situado en la misma franja de ingreso y la comparación del ciclo de vida con el ingreso anual carecería de relevancia
