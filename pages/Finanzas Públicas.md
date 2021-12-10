@@ -312,6 +312,7 @@ collapsed:: true
 			- Tres aproximaciones basicas
 			- Primera...
 				- Análisis de equilibrio parcial
+				  collapsed:: true
 					- Es el modelo mas simple
 					- Incidencia en el contexto de un único mercado
 					- Es limitado debido a que no toma en cuenta la incidencia en el resto de mercados
