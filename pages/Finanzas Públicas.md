@@ -283,7 +283,6 @@ collapsed:: true
 			-
 		-
 	- Incidencia tributaria a trevés del ciclo de vida [ 📜​](61aac79f-6a8f-4c0b-8c59-f3c81744c385) #yellow
-	  collapsed:: true
 		- ¿En que consiste el enfoque de la incidencia tributaria en  el ciclo de vida? #yellow
 		  collapsed:: true
 			- >Consiste en 📏 el 🤑 recibidos por los contribuyentes  a lo ⌛ y 🕵️‍♂️, la carga tributaria que los afecto a lo largo de la misma.
