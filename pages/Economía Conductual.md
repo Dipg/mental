@@ -131,7 +131,6 @@
 				- Es una interpretación errónea sistemática de la información disponible  a la hora de procesar pensamientos, hacer juicios de valor y ==tomar decisiones==
 			- Efectos #red
 				- Efecto dotación #green
-				  collapsed:: true
 					- Este efecto nos causa que tendemos a valorar más un objeto que poseemos frente a otro que todavía no es nuestro.  Nos cuesta mas despegarnos de las cosas con las que hemos creado un vinculo emocional asociado a la de propiedad.
 					- Esto quiere decir que damos utilidad a algo dependiendo de la posesión de aquello.
 					- Factor [[Psicología]] principal: aversión al riesgo
