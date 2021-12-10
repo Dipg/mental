@@ -1,2 +1,2 @@
 - Si necestio aprender algo en na semana
-	- DEbo repsar 2 veces al dia eso los 2 rimrros dias y los siguientes
+	- DEbo repsar 2 veces al dia eso los 2 rimrros dias y los siguientes 1 vecez aldia
