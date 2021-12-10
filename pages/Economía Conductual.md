@@ -60,14 +60,12 @@
 			  collapsed:: true
 				- Se evidencia mediante estudios las anomalías a la hora de tomar decisiones
 				-
-			-
-			  ---
+			- ---
 			- Daniel Kahneman y Amos Tverskey (' 70s)
 			  collapsed:: true
 				- Nace la  Economía del Comportamiento con la obra:
 					- Prospect theory: An analysis of decision under risk’
-			-
-			  ---
+			- ---
 			-
 		- Metodología de la Economía del comportamiento 
 		  collapsed:: true
@@ -151,8 +149,7 @@
 				- Efecto Anclaje #green
 				  collapsed:: true
 					- Es un  [[sesgo cognitivo]] debido al anclaje ya ajuste que provoca darle un mayor peso a la primera noticia, argumento o evidencia que se tiene sobre algo a la hora de tomar una decisión, de esta forma ajustando la respuesta del individuo hasta tener una respuesta final, usando esta primera impresión como ancla de su respuesta. Sesgando la respuesta final entorno a este ajuste o ancla inicial.
-					-
-					  id:: 619a437e-524a-4307-af41-bd6334f6012b
+					- id:: 619a437e-524a-4307-af41-bd6334f6012b
 					  link:: https://bit.ly/3nDh9BH
 				- Efecto gratis #green
 				  collapsed:: true
@@ -180,16 +177,14 @@
 				- Danos la probabilidad de ocurrencia de B con respecto al grado de relación o similaridad que guarde con A, sin tomar en cuenta las ocurrencias por separado de B
 				- Ejemplo:
 					- Si un producto es caro , solemos encasillarlo como producto de buena calidad, y de la misma forma si algo es de buena calidad solemos encasillarlo como algo caro
-				-
-				  link:: [🔗](https://www.divulgaciondinamica.es/blog/3-heuristicos-clave-la-toma-decisiones/)
+				- link:: [🔗](https://www.divulgaciondinamica.es/blog/3-heuristicos-clave-la-toma-decisiones/)
 			- Sesgo de Frecuencia Base #green
 			  collapsed:: true
 				- Solemos dar mas peso a la información de un caso en particular de un evento que al información  del mismo evento, ósea la información base o  general.
 				- De este modo daremos la probabilidad de un evento en base a un caso en particular que a la  probabilidad general o base de ese evento
 				- Consecuencias: Sobreestimación de eventos
 				- Ejemplo:[[Paradoja del Falso Positivo]]
-				-
-				  link:: [🔗](https://psicologiaymente.com/inteligencia/falacia-frecuencia-base)
+				- link:: [🔗](https://psicologiaymente.com/inteligencia/falacia-frecuencia-base)
 			- La ley de los pequeño números #green
 			  collapsed:: true
 				- Sujetos tienden a pensar que una pequeña muestra es representativa de la sociedad
@@ -387,9 +382,9 @@
 	-
 -
 -
--
-  ---
+- ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
 	- Pagina de interés para conocer todos los sesgos y heurísticas  https://bit.ly/2Z93Dwh
 	- Pagina de propuesta de forma de pensar matricial [🔗](https://www.esan.edu.pe/apuntes-empresariales/2021/08/la-heuristica-de-representatividad-y-los-errores-que-cometemos-en-las-decisiones-economicas/)
+-

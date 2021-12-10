@@ -285,8 +285,8 @@ collapsed:: true
 	- Incidencia tributaria a trevés del ciclo de vida [ 📜​](61aac79f-6a8f-4c0b-8c59-f3c81744c385) #yellow
 		- ¿En que consiste el enfoque de la incidencia tributaria en  el ciclo de vida? #yellow
 		  collapsed:: true
-			- >Consiste en 📏 el 🤑 recibidos por los contribuyentes  a lo ⌛ y 🕵️‍♂️, la carga tributaria que los afecto a lo largo de la misma.
-		- ¿En que consiste el enfoque anual? #yellow
+			- >Consiste en 📏 el 🤑 recibidos por los 👥  a lo ⌛ y 🕵️‍♂️, la carga tributaria que los afecto a lo largo de la misma.
+		- ¿En que consiste el enfoque anual? #green
 		  collapsed:: true
 			- Consiste en medir la base del impuesto en un año calendario
 			- ¿Caso Chile?
@@ -295,7 +295,7 @@ collapsed:: true
 				- % de los honorarios
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida? #yellow
 		  collapsed:: true
-			- Primero ... #yellow
+			- Primero ... #green
 			  collapsed:: true
 				- ¿Cómo evolucionan los ingresos según la teoría del ⌛  a través del tiempo?
 				  collapsed:: true
@@ -305,10 +305,9 @@ collapsed:: true
 					- ¿ Que nos lleva  a pensar esto ?
 					  collapsed:: true
 						- Es nos lleva a pensar que existe una diferencia entre el ingreso anual e ingreso del ciclo de vida
-			- Segundo... #yellow
+			- Segundo... #green
 			  collapsed:: true
-				- La 💣 del 💰en el caso de.. #yellow
-				  collapsed:: true
+				- La 💣 del 💰en el caso de.. #green
 					- Trabajadores independientes , que trabajan una epoca y otra no
 					- El caso de los despidos
 			- Tercero... #yellow
@@ -318,7 +317,6 @@ collapsed:: true
 				  collapsed:: true
 					- Se paga impuestos similares sobre su ciclo de vida
 				- Sistema tributario equitativo verticalmente
-				  collapsed:: true
 					- Pagan impuestos mas altos los ingresos mas altos del ciclo de vida
 				- ¿Por que deberían estar preocupados los hacedores d política?
 				  collapsed:: true
@@ -362,7 +360,6 @@ collapsed:: true
 			  collapsed:: true
 				- La incidencia tributaria sobre el ciclo de vida , resulto similar a la incidencia anual en EEUU
 		- ¿Cómo los economistas han analizado la incidencia tributaria?
-		  collapsed:: true
 			- Tres aproximaciones basicas
 			- Primera... #yellow
 			  collapsed:: true
@@ -372,15 +369,12 @@ collapsed:: true
 					- Incidencia en el contexto de un único mercado
 					- Es limitado debido a que no toma en cuenta la incidencia en el resto de mercados
 			- Segunda... #yellow
-			  collapsed:: true
 				- Análisis estático de equilibrio general
 				  collapsed:: true
 					- Toma en cuenta los demás mercados , así como los efectos de los impuestos en los mercados relacionados  con el mercado grabado.
 					- Su limitación es el supuesto de que la oferta total de  factores productivos  es fijas
 			- Tercera.... #yellow
-			  collapsed:: true
 				- Análisis dinámico de equilibrio general
-				  collapsed:: true
 					- Desarrollado a través del modelo neoclásicos de crecimiento
 					- La tributación de ingresos de capital disminuye el ahorro, disminuyendo asi la razón capital/ trabajo de equilibrio , como consecuencia cae la productividad del trabajo y disminuyen los salarios, lo que muestra que el impuesto se ha trasladado desde el capital al trabajo
 			- Ciclo de vida de generaciones traslapadas #yellow
@@ -395,4 +389,5 @@ collapsed:: true
 		- Conclusión #yellow
 		  collapsed:: true
 			- La incidencia tributaria sobre el ciclo de vida analiza mi evolución de ingresos con respecto a mi edad  y al final se observa que existe un gran sesgo hacia los estratos mas bajos de la distribución de ingresos e impacta mucho la evolución de la temporalidad en la cual una persona se encuentre para fijar ese nivel de ingresos acumulados
+-
 -
