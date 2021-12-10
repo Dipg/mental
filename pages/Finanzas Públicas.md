@@ -311,6 +311,7 @@ collapsed:: true
 					- Trabajadores independientes , que trabajan una epoca y otra no
 					- El caso de los despidos
 			- Tercero...
+			  collapsed:: true
 				- Ligado a la capacidad de pago, es erróneo pensar que la visión del ingreso del ciclo de vida  mide mejor la capacidad de pago  que la perspectiva del ingreso anual
 				- Sistema tributario equitativo horizontalmete
 				  collapsed:: true
@@ -320,6 +321,7 @@ collapsed:: true
 					- Pagan impuestos mas altos los ingresos mas altos del ciclo de vida
 				- ¿Por que deberían estar preocupados los hacedores d política?
 					- Por la equidad de corto y de largo plazo
+			- Cuarta
 			- ¿Qué pasa si el ingreso es igual en todos los individuos a lo largo del ciclo de vida?
 			  collapsed:: true
 				- El individuo quedaría situado en la misma franja de ingreso y la comparación del ciclo de vida con el ingreso anual carecería de relevancia
