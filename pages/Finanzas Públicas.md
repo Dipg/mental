@@ -325,7 +325,7 @@ collapsed:: true
 					- Desarrollado a través del modelo neoclásicos de crecimiento
 					- La tributación de ingresos de capital disminuye el ahorro, disminuyendo asi la razón capital/ trabajo de equilibrio , como consecuencia cae la productividad del trabajo y disminuyen los salarios, lo que muestra que el impuesto se ha trasladado desde el capital al trabajo
 				- Ciclo de vidad de generaciones traslapadas
-					- Como los ingresos son distribuidos a través de generaciones
+					- La incidencia tributaria depende  de como Como los ingresos son distribuidos a través de generaciones
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 		  collapsed:: true
 			- Primero ...
