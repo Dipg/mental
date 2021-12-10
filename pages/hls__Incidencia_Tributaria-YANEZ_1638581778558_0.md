@@ -116,3 +116,7 @@
   ls-type:: annotation
   hl-page:: 137
   id:: 61b262a6-89f7-4bf3-b614-3a93510a5f33
+- capacidad  de  pago
+  ls-type:: annotation
+  hl-page:: 138
+  id:: 61b2999a-d7b7-4ce2-be6a-7296a4fbf48c
