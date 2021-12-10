@@ -294,7 +294,6 @@ collapsed:: true
 				- El impuesto a la renta en Chile se aplica en un horizonte de tiempo anual, en abril, sin embargo a este se le puede ir contribuyendo mensualmente y con retenciones del 10
 				- % de los honorarios
 		- ¿Qué conclusiones se extraen de la incidencia tributaria a través del ciclo de vida?
-		  collapsed:: true
 			- Primera...
 			  collapsed:: true
 				- Se requiere gran cantidad de datos de ingresos a través del ciclo de vida
@@ -303,15 +302,16 @@ collapsed:: true
 			  collapsed:: true
 				- Los individuos cambian de decil de ingresos  de acuerdo a su ciclo de vida
 			- Tercera...
-			  collapsed:: true
 				- El impuesto sobre el 💰 personal y el 💰 de las corporaciones parece menos progresivo a través del ciclo de vida.
 				- Los impuestos al consumo aparecen menos regresivos sobre la base del ciclo de vida
 			- Cuarta...
+			  collapsed:: true
 				- La incidencia tributaria sobre el ciclo de vida , resulto similar a la incidencia anual en EEUU
 		- ¿Cómo los economistas han analizado la incidencia tributaria?
 			- Tres aproximaciones basicas
 			- Primera...
 				- Análisis de equilibrio parcial
+				  collapsed:: true
 					- Es el modelo mas simple
 					- Incidencia en el contexto de un único mercado
 					- Es limitado debido a que no toma en cuenta la incidencia en el resto de mercados
