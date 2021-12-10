@@ -370,11 +370,12 @@ collapsed:: true
 					- Incidencia en el contexto de un único mercado
 					- Es limitado debido a que no toma en cuenta la incidencia en el resto de mercados
 			- Segunda... #yellow
+			  collapsed:: true
 				- Análisis estático de equilibrio general
+				  collapsed:: true
 					- Toma en cuenta los demás mercados , así como los efectos de los impuestos en los mercados relacionados  con el mercado grabado.
 					- Su limitación es el supuesto de que la oferta total de  factores productivos  es fijas
-			- Tercera....
-			  collapsed:: true
+			- Tercera.... #yellow
 				- Análisis dinámico de equilibrio general
 				  collapsed:: true
 					- Desarrollado a través del modelo neoclásicos de crecimiento
