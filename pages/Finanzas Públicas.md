@@ -311,7 +311,7 @@ collapsed:: true
 		- ¿Cómo los economistas han analizado la incidencia tributaria?
 			- Tres aproximaciones basicas
 			- Primera...
-				-
+				- Análisis de equilibiro parcial
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 		  collapsed:: true
 			- Primero ...
