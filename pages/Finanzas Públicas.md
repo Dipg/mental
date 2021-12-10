@@ -323,7 +323,6 @@ collapsed:: true
 				  collapsed:: true
 					- Por la equidad de corto y de largo plazo
 			- Cuarta...
-			  collapsed:: true
 				- Que se incluye en el ingreso
 				- En la perspectiva Anual
 				  collapsed:: true
@@ -331,6 +330,7 @@ collapsed:: true
 					- Remuneración Empresarial
 					- Ingresos de Capital : Intereses dividendos y ganancias de capital
 				- Ingreso a través del ciclo de vida
+				  collapsed:: true
 					- No requiere los ingresos de capital
 					- Solo incluye los regalos realizados , Herencias  e ingresos laborales
 					- ¿Por que no incluir los ingresos de capital?
