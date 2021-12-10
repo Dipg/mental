@@ -306,7 +306,7 @@ collapsed:: true
 				- El impuesto sobre el 💰 personal y el 💰 de las corporaciones parece menos progresivo a través del ciclo de vida.
 				- Los impuestos al consumo aparecen menos regresivos sobre la base del ciclo de vida
 			- Cuarta...
-				- La incidencia
+				- La incidencia tributaria sobre el ciclo de vida , resulto
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 		  collapsed:: true
 			- Primero ...
