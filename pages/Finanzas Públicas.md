@@ -336,7 +336,7 @@ collapsed:: true
 						- El ingreso de capital no refleja diferentes niveles de bienestar , sino diferentes  decisiones de cuando consumir
 						- Sin embargo la carga tributaria  a través del ciclo de vida no es  independiente del capital , misma carga que será afectada por las decisiones de consumo y ahorro, desde que los ingresos de capital están incluidos en la base dl impuesto al ingreso
 			- Quinta...
-				-
+				- Los datos del ingreso anual son de facil optencio , los datos
 			- ¿Qué pasa si el ingreso es igual en todos los individuos a lo largo del ciclo de vida?
 			  collapsed:: true
 				- El individuo quedaría situado en la misma franja de ingreso y la comparación del ciclo de vida con el ingreso anual carecería de relevancia
