@@ -329,6 +329,7 @@ collapsed:: true
 					- Remuneración Empresarial
 					- Ingresos de Capital : Intereses dividendos y ganancias de capital
 				- Ingreso a través del ciclo de vida
+					- No requiere los ingresos de capital
 					-
 			- ¿Qué pasa si el ingreso es igual en todos los individuos a lo largo del ciclo de vida?
 			  collapsed:: true
