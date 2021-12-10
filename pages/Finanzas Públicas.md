@@ -308,7 +308,7 @@ collapsed:: true
 				- Los impuestos al consumo aparecen menos regresivos sobre la base del ciclo de vida
 			- Cuarta...
 				- La incidencia tributaria sobre el ciclo de vida , resulto similar a la incidencia anual en EEUU
-		-
+		- ¿Como los economistas
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 		  collapsed:: true
 			- Primero ...
