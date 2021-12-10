@@ -1,2 +1,2 @@
 - Diseño de estructura de incentivos
--
+- Diseño centrado en Incentivos
