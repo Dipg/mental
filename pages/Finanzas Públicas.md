@@ -304,7 +304,7 @@ collapsed:: true
 					- ¿ Que nos lleva  a pensar esto ?
 					  collapsed:: true
 						- Es nos lleva a pensar que existe una diferencia entre el ingreso anual e ingreso del ciclo de vida
-			- Segundo...
+			- Segundo... #yellow
 			  collapsed:: true
 				- La 💣 del 💰en el caso de.. #yellow
 				  collapsed:: true
