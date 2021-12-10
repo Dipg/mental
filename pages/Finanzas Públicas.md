@@ -309,6 +309,8 @@ collapsed:: true
 			- Cuarta...
 				- La incidencia tributaria sobre el ciclo de vida , resulto similar a la incidencia anual en EEUU
 		- ¿Cómo los economistas han analizado la incidencia tributaria?
+			- Tres aproximaciones basicas
+			-
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 		  collapsed:: true
 			- Primero ...
