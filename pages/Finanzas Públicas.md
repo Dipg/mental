@@ -323,7 +323,6 @@ collapsed:: true
 				  collapsed:: true
 					- Por la equidad de corto y de largo plazo
 			- Cuarta... #yellow
-			  collapsed:: true
 				- Que es lo que se incluye en el ingreso
 					- En la perspectiva Anual
 					  collapsed:: true
