@@ -382,11 +382,11 @@ collapsed:: true
 					- Desarrollado a través del modelo neoclásicos de crecimiento
 					- La tributación de ingresos de capital disminuye el ahorro, disminuyendo asi la razón capital/ trabajo de equilibrio , como consecuencia cae la productividad del trabajo y disminuyen los salarios, lo que muestra que el impuesto se ha trasladado desde el capital al trabajo
 			- Ciclo de vida de generaciones traslapadas #yellow
+			  collapsed:: true
 				- La incidencia tributaria depende  de como los ingresos impositivos son distribuidos a través de generaciones
 				- Ej: Si el ingreso de impuestos al capital es para personas mayores , el ahorro disminuye , esto genera lo que vimos antes , por lo cual la carga del impuesto es traslapada desde el capital al trabajo.
 				- En cambio si los ingresos de impuestos sobre el capital van a los jovenes , el ahorro aumenta, así como la relación capital-trabajo, aumentando los salarios y cae el retorno de capital
 		- ¿Cómo se han realizado los análisis empíricos de incidencia tributaria?
-		  collapsed:: true
 			- Desde la traslación de las cargas de impuestos que dependen de las elasticidades precio de la demanda y de la oferta
 			- Los estudio comienza con supuestos de como actúa la incidencia  de los impuestos  y se asigna la carga tributaria a diferentes grupos de ingresos hasta agotar el ingreso total.
 -
