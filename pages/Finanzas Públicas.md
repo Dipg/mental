@@ -295,7 +295,9 @@ collapsed:: true
 				- % de los honorarios
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida?
 			- Primero ...
+			  collapsed:: true
 				- ¿Cómo evolucionan los ingresos según la teoría del ⌛  a través del tiempo?
+				  collapsed:: true
 					- Primeras etapas de vida → Ingresos bajos o ceo
 					- Después del sistema educacional →  Crecen y se estabilizan por un tiempo
 					- Etapa de jubilación → Ingresos bajos
