@@ -105,7 +105,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
         }
 
         .tag[data-ref*="green"]{
-            content:  url(https://cdn-icons-png.flaticon.com/512/595/595005.png) ;
+            content:  url(https://cdn-icons-png.flaticon.com/512/595/595005.png) !immportant;
                 transform: scale(1.5); 
                 display:inline !important ;
                 width: 10.2px; 
