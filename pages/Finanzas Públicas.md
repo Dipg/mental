@@ -371,7 +371,6 @@ collapsed:: true
 					- Es limitado debido a que no toma en cuenta la incidencia en el resto de mercados
 			- Segunda... #yellow
 				- Análisis estático de equilibrio general
-				  collapsed:: true
 					- Toma en cuenta los demas mercados , asi como los efects de los impuestos en los mercados relacionados  con el mercado grabado.
 					- Su limitación es el supuesto de factores productivos fijos
 			- Tercera....
