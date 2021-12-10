@@ -363,7 +363,7 @@ collapsed:: true
 		- ¿Cómo los economistas han analizado la incidencia tributaria?
 			- Tres aproximaciones basicas
 			- Primera...
-				- Análisis de equilibrio parcial
+				- Análisis de equilibrio parcial #red
 					- Es el modelo mas simple
 					- Incidencia en el contexto de un único mercado
 					- Es limitado debido a que no toma en cuenta la incidencia en el resto de mercados
