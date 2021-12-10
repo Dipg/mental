@@ -319,7 +319,7 @@ collapsed:: true
 				  collapsed:: true
 					- Pagan impuestos mas altos los ingresos mas altos del ciclo de vida
 				- ¿Por que deberían estar preocupados los hacedores d política?
-					-
+					- Por la equidad de corto y de lasrgo plazo
 			- ¿Qué pasa si el ingreso es igual en todos los individuos a lo largo del ciclo de vida?
 			  collapsed:: true
 				- El individuo quedaría situado en la misma franja de ingreso y la comparación del ciclo de vida con el ingreso anual carecería de relevancia
