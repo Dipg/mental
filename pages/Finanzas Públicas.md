@@ -322,7 +322,7 @@ collapsed:: true
 				- ¿Por que deberían estar preocupados los hacedores d política?
 				  collapsed:: true
 					- Por la equidad de corto y de largo plazo
-			- Cuarta...
+			- Cuarta... #yellow
 				- Que se incluye en el ingreso
 				- En la perspectiva Anual
 				  collapsed:: true
