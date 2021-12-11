@@ -74,12 +74,6 @@ collapsed:: true
 	  L3.ingreso
 	  ```
 # [](#6.)  Test Econométricos
-	- Heterocedasticidad -
-		- Breush y pagan
-		- id:: 36eea4e8-4e33-4daf-bae6-f81bb09a4813
-		  ```stata
-		  estat hettest
-		  ```
 	- Test de Heterocedasticidad
 		- Test de White
 		  collapsed:: true
@@ -87,7 +81,12 @@ collapsed:: true
 			  estat imtest
 			  ```
 			-
-		- Breush y pagan
+		- Test Breush y pagan
+		  collapsed:: true
+			- id:: 36eea4e8-4e33-4daf-bae6-f81bb09a4813
+			  ```stata
+			  estat hettest
+			  ```
 -
   ---
 -
