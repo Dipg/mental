@@ -54,7 +54,8 @@
 				- Validez
 				  collapsed:: true
 					- No deben estar relacionadas con el error
-			- Aplicaciond e variabk
+			- Stata
+				-
 			- Test de Sobreinstrumentación
 			  collapsed:: true
 				- Test de Sargan 
