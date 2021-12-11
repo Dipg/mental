@@ -94,7 +94,8 @@ collapsed:: true
 			  ```
 			-
 		- Video
-			- Clase 6 Econometria II
+		  collapsed:: true
+			- Clase 6 Econometría II
 			- {{renderer :linkpreview,https://drive.google.com/file/d/1fyWKT-bprk0qKy1dzQGLzBogxzjB-tTV/view?usp=sharing}}
 	- Test de Especificación del Modelo
 	  collapsed:: true
