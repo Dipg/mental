@@ -79,7 +79,8 @@ collapsed:: true
 		  ```stata
 		  estat hettest
 		  ```
-	- Test de Hete
+	- Test de Heterocedasticidad
+		- Test de W
 -
   ---
 -
