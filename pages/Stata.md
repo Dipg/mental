@@ -127,7 +127,8 @@ collapsed:: true
 # [](#7.)  Regresiones
 	- MCO
 	- IV (Variables instrumentales)
-	- c
+		- ```stata
+		  ```
 -
   ---
 -
