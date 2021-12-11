@@ -1,4 +1,4 @@
-- Heterocedasticidad ![2.2 Expo-Test Heterocedasticidad.pdf](../assets/2.2_Expo-Test_Heterocedasticidad_1639186036848_0.pdf)
+- Heterocedasticidad ![�](../assets/2.2_Expo-Test_Heterocedasticidad_1639186036848_0.pdf)
 	- La varianza de los errores no es constante
 	  collapsed:: true
 		- ![image.png](../assets/image_1639184149358_0.png){:height 282, :width 473}
