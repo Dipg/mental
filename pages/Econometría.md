@@ -2,8 +2,9 @@
 	- La varianza de los errores no es constante
 		- ![image.png](../assets/image_1639184149358_0.png){:height 282, :width 473}
 	- ¿Cómo detectamos la heterocedasticidad?
-	  collapsed:: true
+		- Test de White
 		- Test BREUSH y PAGAN ![📑](../assets/2.2_Expo-Test_Heterocedasticidad_1639184490259_0.pdf)
+		  collapsed:: true
 			- Hipotesis Nula
 			  collapsed:: true
 				- $H_0$ :Varianzas de los errores constantes
