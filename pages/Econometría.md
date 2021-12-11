@@ -48,8 +48,9 @@
 		- Variables Instrumentales
 			- Buscamos variables que cumplan 2 propiedades
 				- Relevancia
-					- Deben estar correlacionadas con
+					- Deben estar correlacionadas con la variable endógena
 				- Validez
+					-
 			- Test de Sobreinstrumentación
 			  collapsed:: true
 				- Test de Sargan 
