@@ -1,3 +1,3 @@
 - Endogeneidad
-	-
+	- Se produce cuando
 	- Variables Instrumentales
