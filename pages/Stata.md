@@ -64,6 +64,7 @@ collapsed:: true
 	  > label values sector sector
 	  ```
 - # [](#4.)  Series de Tiempo
+  collapsed:: true
 	- Rezagar una variable un periodo en Stata
 	- ```stata
 	  *Rezag la variable ingreso un periodo
@@ -101,7 +102,8 @@ collapsed:: true
 		  collapsed:: true
 			- Clase 6 Econometría II
 			- {{renderer :linkpreview,https://drive.google.com/file/d/1fyWKT-bprk0qKy1dzQGLzBogxzjB-tTV/view?usp=sharing}}
-	- Test de Endogenidad
+	- Test de Endogenidad 
+	  collapsed:: true
 		- Tets de Wu- Durbin -Hausman
 		  collapsed:: true
 			- id:: 8cead2be-c19c-4986-a218-9a2dea1256e5
@@ -116,6 +118,7 @@ collapsed:: true
 			  estat ovtest
 			  ```
 	- Test de Sobre instrumentación
+	  collapsed:: true
 		- Test de sargan
 		- ```stata
 		  estat overid
