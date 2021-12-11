@@ -87,7 +87,7 @@ collapsed:: true
 			  ```stata
 			  estat hettest
 			  ```
-			- Si deseamos conocer mayor especificación de que variables pueden estar causando homocedasticidad  añadimos las varaibles exogenas
+			- Si deseamos conocer mayor especificación de que variables pueden estar causando homocedasticidad  añadimos las variables exogenas
 			- ```stata
 			  estat hettest ingreso educación, mtest
 			  ```
