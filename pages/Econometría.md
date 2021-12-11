@@ -37,13 +37,13 @@
 		- Genera estimaciones sesgadas e inconsistentes
 	- ¿ Como corregimos la endogeneidad?
 		- Variables Instrumentales
+		  collapsed:: true
 			- Practica en stata a partir del minuto 1:15:00
-		-
-		  <video width="320" height="240" controls>
-		    <source src="G:\Otros ordenadores\Mi Ordenador\Habilidades\Universidad\Econometria\Endogeneidad\Variables Instrumentales\Stata\Video\Stata Variables Instrumetnales.mp4" type="video/mp4">
-		    Your browser does not support the video tag.
-		  </video>
-		-
+			-
+			  <video width="320" height="240" controls>
+			    <source src="G:\Otros ordenadores\Mi Ordenador\Habilidades\Universidad\Econometria\Endogeneidad\Variables Instrumentales\Stata\Video\Stata Variables Instrumetnales.mp4" type="video/mp4">
+			    Your browser does not support the video tag.
+			  </video>
 - Especificación del modelo
   collapsed:: true
 	- ¿Cómo sabemos la correcta especificación del modelo?
