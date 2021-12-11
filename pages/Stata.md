@@ -77,7 +77,6 @@ collapsed:: true
 	  L(1/5).Ingreso
 	  ```
 - # [](#6.)  Test Econométricos
-  collapsed:: true
 	- Test de Heterocedasticidad
 		- Test de White
 		  collapsed:: true
@@ -97,6 +96,7 @@ collapsed:: true
 			  estat hettest ingreso educación, mtest
 			  ```
 			-
+		-
 		- Video
 		  collapsed:: true
 			- Clase 6 Econometría II
