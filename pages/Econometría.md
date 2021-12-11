@@ -21,7 +21,6 @@
 	  collapsed:: true
 		- A la mala especificación del modelo
 - Endogeneidad
-  collapsed:: true
 	- ¿ Que es la endogeneidad?
 	  collapsed:: true
 		- La Endogeneidad es lo que se produce cuando las variables exógenas están corraladas con los términos de perturbación , con el error de la regresión.
@@ -33,8 +32,10 @@
 			- Cuand hay variables que se han omitido en el modelo
 			- O cuando existen variables sujetas a errores de medición
 	- ¿Qu genera la enodogenidad?
+	  collapsed:: true
 		- Genera estimaciones sesgadas e inconsistentes
 	- ¿ Como corregimos la endogeneidad?
+	  collapsed:: true
 		- Variables Instrumentales
 			-
 - Especificación del modelo
