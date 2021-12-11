@@ -82,10 +82,12 @@ collapsed:: true
 		  ```
 	- Test de Heterocedasticidad
 		- Test de White
+		  collapsed:: true
 			- ```stata
 			  estat imtest
 			  ```
 			-
+		- Breush y pagan
 -
   ---
 -
