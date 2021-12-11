@@ -96,7 +96,7 @@ collapsed:: true
 			  estat hettest ingreso educación, mtest
 			  ```
 			-
-		-
+		- Test de Sobreidenitificación
 		- Video
 		  collapsed:: true
 			- Clase 6 Econometría II
