@@ -54,6 +54,7 @@
 				- Validez
 				  collapsed:: true
 					- No deben estar relacionadas con el error
+			-
 			- Test de Sobreinstrumentación
 			  collapsed:: true
 				- Test de Sargan 
