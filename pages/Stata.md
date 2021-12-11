@@ -77,7 +77,8 @@ collapsed:: true
 	- ```stata
 	  L(1/5).Ingreso
 	  ```
-- # [](#6.)  Test Econométricos
+# [](#6.)  Test Econométricos
+collapsed:: true
 	- Test de Heterocedasticidad
 	  collapsed:: true
 		- Test de White
@@ -123,6 +124,7 @@ collapsed:: true
 		- ```stata
 		  estat overid
 		  ```
+- 7
 -
   ---
 -
