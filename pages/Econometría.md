@@ -4,7 +4,9 @@
 	- ¿Cómo detectamos la heterocedasticidad? ![📑](../assets/2.2_Expo-Test_Heterocedasticidad_1639184490259_0.pdf)
 		- Test de White
 			- En stata
-				- st
+				- ```stata
+				  estat
+				  ```
 		- Test Breush y Pagan
 		  collapsed:: true
 			- Hipotesis Nula
