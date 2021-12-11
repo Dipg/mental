@@ -50,7 +50,7 @@
 				- Relevancia
 					- Deben estar correlacionadas con la variable endógena
 				- Validez
-					-
+					- No deben estar relacionadas con el error
 			- Test de Sobreinstrumentación
 			  collapsed:: true
 				- Test de Sargan 
