@@ -104,6 +104,7 @@ collapsed:: true
 	- Test de Endogenidad
 		- Tets de Wu- Durbin -Hausman
 			- ```stata
+			  estat endogenous
 			  ```
 	- Test de Especificación del Modelo
 	  collapsed:: true
