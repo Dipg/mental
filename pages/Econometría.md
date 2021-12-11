@@ -36,12 +36,6 @@
 	  collapsed:: true
 		- Genera estimaciones sesgadas e inconsistentes
 	- ¿ Como corregimos la endogeneidad?
-		- Test de Sobreinstrumentación
-		  collapsed:: true
-			- Test de Sargan 
-			  collapsed:: true
-				- Permite saber si estamos aplicando demasiados instrumentos o no
-				- La $H_0$ es que existen restricciones sobre identificadas
 		- Variables Instrumentales
 		  collapsed:: true
 			- Practica en stata a partir del minuto 1:15:00
@@ -50,6 +44,12 @@
 			    <source src="G:\Otros ordenadores\Mi Ordenador\Habilidades\Universidad\Econometria\Endogeneidad\Variables Instrumentales\Stata\Video\Stata Variables Instrumetnales.mp4" type="video/mp4">
 			    Your browser does not support the video tag.
 			  </video>
+		- Test de Sobreinstrumentación
+		  collapsed:: true
+			- Test de Sargan 
+			  collapsed:: true
+				- Permite saber si estamos aplicando demasiados instrumentos o no
+				- La $H_0$ es que existen restricciones sobre identificadas
 - Especificación del modelo
   collapsed:: true
 	- ¿Cómo sabemos la correcta especificación del modelo?
