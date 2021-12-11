@@ -87,7 +87,7 @@ collapsed:: true
 			  ```stata
 			  estat hettest
 			  ```
-			- Si deseamos conocer mayor especificación de que variables pueden estar causando homocedassticidad aplicamos
+			- Si deseamos conocer mayor especificación de que variables pueden estar causando homocedassticidad  añadimos las varaibles
 			- ```stata
 			  estat hettest ingreso educación, mtest
 			  ```
