@@ -10,5 +10,5 @@
 			- Cuand hay variables que se han omitido en el modelo
 			- O cuando existen variables sujetas a errores de medición
 	- ¿Qu genera la enodogenidad?
-		- Genera estimaciones sesgadas
+		- Genera estimaciones sesgadas e inconsistentes
 	- Variables Instrumentales
