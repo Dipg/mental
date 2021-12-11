@@ -5,7 +5,7 @@
 		- Test de White
 			- En stata
 				- ```stata
-				  estat
+				  estat imtest
 				  ```
 		- Test Breush y Pagan
 		  collapsed:: true
