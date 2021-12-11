@@ -37,7 +37,8 @@
 		- Genera estimaciones sesgadas e inconsistentes
 	- ¿ Como corregimos la endogeneidad?
 		- Test de Sobreinstrumentación
-			- Test de Sargan
+			- Test de Sargan 
+			  collapsed:: true
 				- Permite saber si estamos aplicando demasiados instrumentos o no
 				- La $H_0$ es que existen restricciones sobre identificadas
 		- Variables Instrumentales
