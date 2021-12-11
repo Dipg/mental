@@ -74,7 +74,7 @@ collapsed:: true
 	  L3.ingreso
 	  ```
 # [](#6.)  Test Econométricos
-	- Heterocedasticidad
+	- Heterocedasticidad -BREUSH y PAGAN
 	- ```stata
 	  estat hettest
 	  ```
