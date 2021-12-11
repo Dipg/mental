@@ -20,7 +20,7 @@
 	- ¿ A que se puede deber la heterocedasticida ?
 	  collapsed:: true
 		- A la mala especificación del modelo
-- Endogeneidad ![3.REGRESORES ESTOCÁSTICOS Y VARIABLES INSTRUMENTALES.pdf](../assets/3.REGRESORES_ESTOCÁSTICOS_Y_VARIABLES_INSTRUMENTALES_1639185978975_0.pdf)
+- Endogeneidad ![📑](../assets/3.REGRESORES_ESTOCÁSTICOS_Y_VARIABLES_INSTRUMENTALES_1639185978975_0.pdf)
 	- ¿ Que es la endogeneidad?
 	  collapsed:: true
 		- La Endogeneidad es lo que se produce cuando las variables exógenas están corraladas con los términos de perturbación , con el error de la regresión.
