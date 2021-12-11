@@ -33,8 +33,10 @@
 			- Cuand hay variables que se han omitido en el modelo
 			- O cuando existen variables sujetas a errores de medición
 	- ¿Como detectamos la endogenidad?
+	  collapsed:: true
 		- Cuando no existe heterocedasticidad
 		- Cuando existe Heterocedasticidad
+		  collapsed:: true
 			- Tets de Wu- Durbin -Hausman
 				- La $H_0$ es que no hay endogenidad
 				- Stata
