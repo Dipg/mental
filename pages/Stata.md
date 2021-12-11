@@ -74,6 +74,7 @@ collapsed:: true
 	  ```
 	- Rezagar una variable mas de un periodo a la vez
 	- ```stata
+	  L(1/5).Ingreso
 	  ```
 - # [](#6.)  Test Econométricos
   collapsed:: true
