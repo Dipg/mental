@@ -35,7 +35,7 @@
 	- ¿Como detectamos la endogenidad?
 		- Cuando no existe heterocedasticidad
 		- Cuando existe Heterocedasticidad
-			- Tets de Wu- durbin
+			- Tets de Wu- Durbin -Hausman
 	- ¿Qué genera la enodogenidad?
 	  collapsed:: true
 		- Genera estimaciones sesgadas e inconsistentes
