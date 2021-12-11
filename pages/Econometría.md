@@ -1,6 +1,7 @@
 - Heterocedasticidad
 	- La varianza de los errores no es constante
 	- ![image.png](../assets/image_1639183952798_0.png){:height 223, :width 488}
+	-
 - Endogeneidad
   collapsed:: true
 	- ¿ Que es la endogeneidad?
