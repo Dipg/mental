@@ -66,6 +66,8 @@ collapsed:: true
 # [](#4.)  Series de Tiempo
 	- Rezagar una variable un periodo en Stata
 	- ```stata
+	  *Rezag la variable ingreso un periodo
+	  L1.ingreso
 	  ```
 -
 -
