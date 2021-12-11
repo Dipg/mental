@@ -1,3 +1,3 @@
 - Endogeneidad
-	- Se produce cuando
+	- Se produce cuando las variables exogenas estan correladas
 	- Variables Instrumentales
