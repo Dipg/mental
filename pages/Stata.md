@@ -90,7 +90,9 @@ collapsed:: true
 			  ```
 	- Test de Especificación del Modelo
 		- Test de Ramse
-			- ```stata
+			- id:: 8d3feec9-0966-42ae-8d02-8186b4043d5a
+			  ```stata
+			  estat ovtest
 			  ```
 -
   ---
