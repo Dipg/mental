@@ -108,7 +108,8 @@ collapsed:: true
 			  ```stata
 			  estat ovtest
 			  ```
-	- Test de Sobreidenitificación
+	- Test de Sobre instrumentación
+	-
 -
   ---
 -
