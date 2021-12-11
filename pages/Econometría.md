@@ -5,5 +5,5 @@
 		- ¿QUe es una relación causa inversa?
 			- Se da cuand la varaible endogena tiene consecuencaias sobre alguna covariable
 			- Cuand hay variables que se han omitido en el modelo
-			-
+			- O cuando existen variables sujetas a errores de medición
 	- Variables Instrumentales
