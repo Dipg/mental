@@ -37,6 +37,7 @@
 		- Genera estimaciones sesgadas e inconsistentes
 	- ¿ Como corregimos la endogeneidad?
 		- Variables Instrumentales
+			-
 		-
 		  <video width="320" height="240" controls>
 		    <source src="G:\Otros ordenadores\Mi Ordenador\Habilidades\Universidad\Econometria\Endogeneidad\Variables Instrumentales\Stata\Video\Stata Variables Instrumetnales.mp4" type="video/mp4">
