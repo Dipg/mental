@@ -78,6 +78,7 @@ collapsed:: true
 	  ```
 - # [](#6.)  Test Econométricos
 	- Test de Heterocedasticidad
+	  collapsed:: true
 		- Test de White
 		  collapsed:: true
 			- id:: c923113e-05a6-4186-8401-3015d4c07281
@@ -96,7 +97,6 @@ collapsed:: true
 			  estat hettest ingreso educación, mtest
 			  ```
 			-
-		- Test de Sobreidenitificación
 		- Video
 		  collapsed:: true
 			- Clase 6 Econometría II
@@ -108,6 +108,7 @@ collapsed:: true
 			  ```stata
 			  estat ovtest
 			  ```
+	- Test de Sobreidenitificación
 -
   ---
 -
