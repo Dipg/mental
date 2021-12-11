@@ -126,7 +126,7 @@ collapsed:: true
 		  ```
 # [](#7.)  Regresiones
 	- MCO
-	- IV()
+	- IV(Variables instruemntales)
 -
   ---
 -
