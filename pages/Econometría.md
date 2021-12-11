@@ -37,7 +37,6 @@
 		- Genera estimaciones sesgadas e inconsistentes
 	- ¿ Como corregimos la endogeneidad?
 		- Variables Instrumentales
-		  collapsed:: true
 			- Practica en stata a partir del minuto 1:15:00
 			-
 			  <video width="320" height="240" controls>
