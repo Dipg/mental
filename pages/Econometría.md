@@ -1,2 +1,3 @@
-- Endogenidad
+- Endogeneidad
+	-
 	- Variables Instrumentales
