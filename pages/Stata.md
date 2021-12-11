@@ -113,7 +113,6 @@ collapsed:: true
 			  estat ovtest
 			  ```
 	- Test de Sobre instrumentación
-	  collapsed:: true
 		- Test de sargan
 		- ```stata
 		  estat overid
