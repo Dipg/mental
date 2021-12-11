@@ -109,7 +109,9 @@ collapsed:: true
 			  estat ovtest
 			  ```
 	- Test de Sobre instrumentación
-	-
+		- Test de sargan
+		- ```stata
+		  ```
 -
   ---
 -
