@@ -38,7 +38,7 @@
 	- ¿ Como corregimos la endogeneidad?
 		- Test de Sobreinstrumentación
 			- Test de Sargan
-			-
+				-
 		- Variables Instrumentales
 			- Practica en stata a partir del minuto 1:15:00
 			-
