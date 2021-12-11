@@ -75,6 +75,7 @@ collapsed:: true
 	  ```
 # [](#6.)  Test Econométricos
 	- Test de Heterocedasticidad
+	  collapsed:: true
 		- Test de White
 		  collapsed:: true
 			- ```stata
@@ -87,6 +88,7 @@ collapsed:: true
 			  ```stata
 			  estat hettest
 			  ```
+	- Test de Especficaci
 -
   ---
 -
