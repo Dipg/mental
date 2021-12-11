@@ -74,7 +74,8 @@ collapsed:: true
 	  L3.ingreso
 	  ```
 # [](#6.)  Test Econométricos
-	- Heterocedasticidad -BREUSH y PAGAN
+	- Heterocedasticidad -
+		- BREUSH y PAGAN
 		- id:: 36eea4e8-4e33-4daf-bae6-f81bb09a4813
 		  ```stata
 		  estat hettest
