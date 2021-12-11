@@ -63,8 +63,8 @@ collapsed:: true
 	  > label define sector 1 "SECTOR 1" 2 "SECTOR 2" 3 "SECTOR 3"
 	  > label values sector sector
 	  ```
--
--
+- [](#4.)
+- Rezagar una variable un periodo en Stat
 -
 -
   ---
