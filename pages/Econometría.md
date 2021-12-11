@@ -1,6 +1,6 @@
 - Endogeneidad
 	- ¿ Que es la endogeneidad?
-	- La produce cuando las variables exogenas estan correladas con los terminosde perturvacion , con el error de la regresión
+	- La Edogenidad es lo que se produce cuando las variables exógenas están correladas con los terminosde perturvacion , con el error de la regresión
 	- ¿Por que se da esto?
 	  collapsed:: true
 		- Puede deberse a una relación causal inversa
