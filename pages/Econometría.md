@@ -38,5 +38,5 @@
 - Especificación del modelo
 	- ¿Cómo sabemos la correcta especificación del modelo?
 		- Test de Ramsey
-			-
+			- En estata
 -
