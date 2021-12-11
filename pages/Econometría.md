@@ -35,6 +35,7 @@
 	- ¿Como detectamos la endogenidad?
 		- Cuando no existe heterocedasticidad
 		- Cuando existe Heterocedasticidad
+			- Tets
 	- ¿Qué genera la enodogenidad?
 	  collapsed:: true
 		- Genera estimaciones sesgadas e inconsistentes
