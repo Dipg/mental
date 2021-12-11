@@ -72,6 +72,7 @@ collapsed:: true
 	  *Ej: Rezago de la varaible ingreso 3 periodos
 	  L3.ingreso
 	  ```
+	- Rezagar
 - # [](#6.)  Test Econométricos
   collapsed:: true
 	- Test de Heterocedasticidad
