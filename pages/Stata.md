@@ -103,7 +103,8 @@ collapsed:: true
 			- {{renderer :linkpreview,https://drive.google.com/file/d/1fyWKT-bprk0qKy1dzQGLzBogxzjB-tTV/view?usp=sharing}}
 	- Test de Endogenidad
 		- Tets de Wu- Durbin -Hausman
-			- ```stata
+			- id:: 8cead2be-c19c-4986-a218-9a2dea1256e5
+			  ```stata
 			  estat endogenous
 			  ```
 	- Test de Especificación del Modelo
