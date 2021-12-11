@@ -47,7 +47,9 @@
 	- ¿ Como corregimos la endogeneidad?
 		- Variables Instrumentales
 			- Buscamos variables que cumplan 2 propiedades
-				-
+				- Relevancia
+					-
+				- Validez
 			- Test de Sobreinstrumentación
 			  collapsed:: true
 				- Test de Sargan 
