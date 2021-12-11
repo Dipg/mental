@@ -46,6 +46,7 @@
 		- Genera estimaciones sesgadas e inconsistentes
 	- ¿ Como corregimos la endogeneidad?
 		- Variables Instrumentales
+			-
 			- Test de Sobreinstrumentación
 			  collapsed:: true
 				- Test de Sargan 
