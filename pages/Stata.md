@@ -87,6 +87,7 @@ collapsed:: true
 			  ```stata
 			  estat hettest
 			  ```
+			-
 	- Test de Especificación del Modelo
 	  collapsed:: true
 		- Test de Ramse
