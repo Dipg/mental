@@ -64,7 +64,6 @@ collapsed:: true
 	  > label values sector sector
 	  ```
 - # [](#4.)  Series de Tiempo
-  collapsed:: true
 	- Rezagar una variable un periodo en Stata
 	- ```stata
 	  *Rezag la variable ingreso un periodo
@@ -73,7 +72,8 @@ collapsed:: true
 	  *Ej: Rezago de la varaible ingreso 3 periodos
 	  L3.ingreso
 	  ```
-# [](#6.)  Test Econométricos
+- # [](#6.)  Test Econométricos
+  collapsed:: true
 	- Test de Heterocedasticidad
 		- Test de White
 		  collapsed:: true
