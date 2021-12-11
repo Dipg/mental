@@ -111,8 +111,7 @@ collapsed:: true
 			  estat endogenous
 			  ```
 	- Test de Especificación del Modelo
-	  collapsed:: true
-		- Test de Ramse
+		- Test de Ramsey
 			- id:: 8d3feec9-0966-42ae-8d02-8186b4043d5a
 			  ```stata
 			  estat ovtest
