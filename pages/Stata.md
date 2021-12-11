@@ -79,7 +79,7 @@ collapsed:: true
 		  ```stata
 		  estat hettest
 		  ```
--
+	-
 -
   ---
 -
