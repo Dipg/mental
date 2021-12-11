@@ -3,5 +3,5 @@
 	- ¿Por que se da esto?
 		- Puede deberse a una relación causal inversa
 		- ¿QUe es una relación causa inversa?
-			-
+			- Se da cuand la varaible endogena
 	- Variables Instrumentales
