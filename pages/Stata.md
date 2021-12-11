@@ -75,10 +75,9 @@ collapsed:: true
 	  ```
 # [](#6.)  Test Econométricos
 	- Test de Heterocedasticidad
-	  collapsed:: true
 		- Test de White
-		  collapsed:: true
-			- ```stata
+			- id:: c923113e-05a6-4186-8401-3015d4c07281
+			  ```stata
 			  estat imtest
 			  ```
 			-
@@ -88,7 +87,7 @@ collapsed:: true
 			  ```stata
 			  estat hettest
 			  ```
-	- Test de Especficaci
+	- Test de Especificación del Modelo
 -
   ---
 -
