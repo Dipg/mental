@@ -89,8 +89,9 @@ collapsed:: true
 			  ```
 			- Si deseamos conocer mayor especificación de que variables pueden estar causando homocedasticidad  añadimos las variables exógenas y ' ' `,mtest`
 			- ```stata
+			  estat hettest ingreso educación, mtest
 			  ```
-			- estat hettest ingreso educación, mtest
+			-
 	- Test de Especificación del Modelo
 	  collapsed:: true
 		- Test de Ramse
