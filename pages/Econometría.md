@@ -1,3 +1,3 @@
 - Endogeneidad
-	- Se produce cuando las variables exogenas estan correladas con los terminosde perturvacion , con el error
+	- Se produce cuando las variables exogenas estan correladas con los terminosde perturvacion , con el error de la regresión
 	- Variables Instrumentales
