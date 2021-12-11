@@ -33,7 +33,8 @@
 			- Cuand hay variables que se han omitido en el modelo
 			- O cuando existen variables sujetas a errores de medición
 	- ¿Como detectamos la endogenidad?
-		- Cuando n
+		- Cuando no existe heterocedasticidad
+		- Cuenado existe Heterocedasticidad
 	- ¿Qué genera la enodogenidad?
 	  collapsed:: true
 		- Genera estimaciones sesgadas e inconsistentes
