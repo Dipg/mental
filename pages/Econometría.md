@@ -4,4 +4,5 @@
 		- Puede deberse a una relación causal inversa
 		- ¿QUe es una relación causa inversa?
 			- Se da cuand la varaible endogena tiene consecuencaias sobre alguna covariable
+			- Cuand hay variables que se han omi
 	- Variables Instrumentales
