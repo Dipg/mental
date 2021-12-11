@@ -32,7 +32,8 @@
 			- Se da cuand la varaible endogena tiene consecuencaias sobre alguna covariable
 			- Cuand hay variables que se han omitido en el modelo
 			- O cuando existen variables sujetas a errores de medición
-	- ¿Que genera la enodogenidad?
+	- ¿Como detectamos la endogenidad?
+	- ¿Qué genera la enodogenidad?
 	  collapsed:: true
 		- Genera estimaciones sesgadas e inconsistentes
 	- ¿ Como corregimos la endogeneidad?
