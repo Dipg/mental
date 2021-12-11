@@ -38,7 +38,7 @@
 - Especificación del modelo
 	- ¿Cómo sabemos la correcta especificación del modelo?
 		- Test de Ramsey
-			-
+			- Donde $H_0$
 			- En Stata
 				- {{embed ((8d3feec9-0966-42ae-8d02-8186b4043d5a))}}
 -
