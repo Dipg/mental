@@ -48,7 +48,7 @@
 		- Variables Instrumentales
 			- Buscamos variables que cumplan 2 propiedades
 				- Relevancia
-					-
+					- Deben estar correlacionadas con
 				- Validez
 			- Test de Sobreinstrumentación
 			  collapsed:: true
