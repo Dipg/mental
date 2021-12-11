@@ -124,8 +124,9 @@ collapsed:: true
 		- ```stata
 		  estat overid
 		  ```
-- [](#7.)  Regresiones
--
+# [](#7.)  Regresiones
+	- MCO
+	- IV()
 -
   ---
 -
