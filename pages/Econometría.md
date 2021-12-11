@@ -1,6 +1,6 @@
 - Heterocedasticidad
 	- La varianza de los errores no es constante
-	- https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Errore_diagrama_03.svg/220px-Errore_diagrama_03.svg.png{:height 220, :width 503}
+	-
 - Endogeneidad
   collapsed:: true
 	- ¿ Que es la endogeneidad?
