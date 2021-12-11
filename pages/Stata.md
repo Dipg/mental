@@ -111,6 +111,7 @@ collapsed:: true
 	- Test de Sobre instrumentación
 		- Test de sargan
 		- ```stata
+		  estat overid
 		  ```
 -
   ---
