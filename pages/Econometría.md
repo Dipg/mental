@@ -45,7 +45,6 @@
 	  collapsed:: true
 		- Genera estimaciones sesgadas e inconsistentes
 	- ¿ Como corregimos la endogeneidad?
-	  collapsed:: true
 		- Variables Instrumentales
 			- Test de Sobreinstrumentación
 			  collapsed:: true
