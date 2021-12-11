@@ -37,5 +37,6 @@
 	- ¿ Como corregimos la endogeneidad?
 		- Variables Instrumentales
 			-
-- Especificaci
+- Especificación del modelo
+	- ¿
 -
