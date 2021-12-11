@@ -44,7 +44,9 @@
 					- Permite saber si estamos aplicando demasiados instrumentos o no
 					- La $H_0$ es que existen restricciones sobre identificadas
 			- Video Variables INstrumetnales
+			  collapsed:: true
 				- Practica en stata a partir del minuto 1:15:00
+				  collapsed:: true
 					-
 					  <video width="320" height="240" controls>
 					    <source src="G:\Otros ordenadores\Mi Ordenador\Habilidades\Universidad\Econometria\Endogeneidad\Variables Instrumentales\Stata\Video\Stata Variables Instrumetnales.mp4" type="video/mp4">
