@@ -1,3 +1,5 @@
+- Heterocedasticidad
+	-
 - Endogeneidad
   collapsed:: true
 	- ¿ Que es la endogeneidad?
@@ -15,4 +17,3 @@
 	- ¿ Como corregimos la endogeneidad?
 		- Variables Instrumentales
 			-
--
