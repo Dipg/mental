@@ -75,7 +75,7 @@ collapsed:: true
 	  ```
 # [](#6.)  Test Econométricos
 	- Heterocedasticidad -
-		- BREUSH y PAGAN
+		- Breush y pagan
 		- id:: 36eea4e8-4e33-4daf-bae6-f81bb09a4813
 		  ```stata
 		  estat hettest
