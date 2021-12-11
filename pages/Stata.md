@@ -73,6 +73,7 @@ collapsed:: true
 	  *Ej: Rezago de la varaible ingreso 3 periodos
 	  L3.ingreso
 	  ```
+- [](#6.)  Test
 -
 -
   ---
