@@ -1,4 +1,5 @@
 - Heterocedasticidad ![📑](../assets/2.2_Expo-Test_Heterocedasticidad_1639186036848_0.pdf)
+  collapsed:: true
 	- La varianza de los errores no es constante
 	  collapsed:: true
 		- ![image.png](../assets/image_1639184149358_0.png){:height 282, :width 473}
@@ -21,6 +22,7 @@
 	  collapsed:: true
 		- A la mala especificación del modelo
 - Endogeneidad ![📑](../assets/3.REGRESORES_ESTOCÁSTICOS_Y_VARIABLES_INSTRUMENTALES_1639185978975_0.pdf)
+  collapsed:: true
 	- ¿ Que es la endogeneidad?
 	  collapsed:: true
 		- La Endogeneidad es lo que se produce cuando las variables exógenas están corraladas con los términos de perturbación , con el error de la regresión.
