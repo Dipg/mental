@@ -1,5 +1,6 @@
 - Endogeneidad
 	- Se produce cuando las variables exogenas estan correladas con los terminosde perturvacion , con el error de la regresión
 	- ¿Por que se da esto?
-		- Puede deberse a una relaci
+		- Puede deberse a una relación causal inversa
+		- ¿
 	- Variables Instrumentales
