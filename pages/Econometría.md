@@ -1,5 +1,5 @@
 - Endogeneidad
-	- ¿ Que es la endigenidad?
+	- ¿ Que es la endogeneidad?
 	- Se produce cuando las variables exogenas estan correladas con los terminosde perturvacion , con el error de la regresión
 	- ¿Por que se da esto?
 	  collapsed:: true
