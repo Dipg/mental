@@ -90,7 +90,8 @@ collapsed:: true
 			  ```
 	- Test de Especificación del Modelo
 		- Test de Ramse
-		-
+			- ```stata
+			  ```
 -
   ---
 -
