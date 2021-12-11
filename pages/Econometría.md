@@ -3,7 +3,7 @@
 		- ![image.png](../assets/image_1639184149358_0.png){:height 282, :width 473}
 	- ¿Cómo detectamos la heterocedasticidad?
 		- Test BREUSH y PAGAN ![📑](../assets/2.2_Expo-Test_Heterocedasticidad_1639184490259_0.pdf)
-			- Stata
+			- Código Stata
 				- {{embed ((36eea4e8-4e33-4daf-bae6-f81bb09a4813))}}
 - Endogeneidad
   collapsed:: true
