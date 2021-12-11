@@ -124,7 +124,7 @@ collapsed:: true
 		- ```stata
 		  estat overid
 		  ```
-- 7
+-
 -
   ---
 -
