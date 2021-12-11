@@ -74,7 +74,9 @@ collapsed:: true
 	  L3.ingreso
 	  ```
 # [](#6.)  Test Econometricos
-	-
+	- Heterocedasticidad
+	- ```stata
+	  ```
 -
 -
   ---
