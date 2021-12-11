@@ -101,7 +101,9 @@ collapsed:: true
 		  collapsed:: true
 			- Clase 6 Econometría II
 			- {{renderer :linkpreview,https://drive.google.com/file/d/1fyWKT-bprk0qKy1dzQGLzBogxzjB-tTV/view?usp=sharing}}
-	-
+	- Test de Endogenidad
+		- Tets de Wu- Durbin -Hausman
+			- CODEES
 	- Test de Especificación del Modelo
 	  collapsed:: true
 		- Test de Ramse
