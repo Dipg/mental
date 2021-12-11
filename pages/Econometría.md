@@ -37,6 +37,12 @@
 		- Genera estimaciones sesgadas e inconsistentes
 	- ¿ Como corregimos la endogeneidad?
 		- Variables Instrumentales
+		-
+		  <video width="320" height="240" controls>
+		    <source src="movie.mp4" type="video/mp4">
+		    <source src="movie.ogg" type="video/ogg">
+		    Your browser does not support the video tag.
+		  </video>
 - Especificación del modelo
   collapsed:: true
 	- ¿Cómo sabemos la correcta especificación del modelo?
