@@ -75,20 +75,20 @@ collapsed:: true
 	  ```
 # [](#6.)  Test Econométricos
 	- Test de Heterocedasticidad
-	  collapsed:: true
 		- Test de White
+		  collapsed:: true
 			- id:: c923113e-05a6-4186-8401-3015d4c07281
 			  ```stata
 			  estat imtest
 			  ```
 			-
 		- Test Breush y pagan
-		  collapsed:: true
 			- id:: 36eea4e8-4e33-4daf-bae6-f81bb09a4813
 			  ```stata
 			  estat hettest
 			  ```
 	- Test de Especificación del Modelo
+	  collapsed:: true
 		- Test de Ramse
 			- id:: 8d3feec9-0966-42ae-8d02-8186b4043d5a
 			  ```stata
