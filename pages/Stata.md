@@ -89,6 +89,7 @@ collapsed:: true
 			  ```
 			- Si deseamos conocer mayor especificación de que variables pueden estar causando homocedassticidad aplicamos
 			- ```stata
+			  estat hettest ingreso educación, mtest
 			  ```
 	- Test de Especificación del Modelo
 	  collapsed:: true
