@@ -76,6 +76,7 @@ collapsed:: true
 # [](#6.)  Test Econométricos
 	- Heterocedasticidad
 	- ```stata
+	  estat hettest
 	  ```
 -
 -
