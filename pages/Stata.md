@@ -75,6 +75,7 @@ collapsed:: true
 	  ```
 # [](#6.)  Test Econométricos
 	- Test de Heterocedasticidad
+	  collapsed:: true
 		- Test de White
 			- id:: c923113e-05a6-4186-8401-3015d4c07281
 			  ```stata
@@ -88,6 +89,8 @@ collapsed:: true
 			  estat hettest
 			  ```
 	- Test de Especificación del Modelo
+		- Test de Ramse
+		-
 -
   ---
 -
