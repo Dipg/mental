@@ -22,7 +22,6 @@
 	  collapsed:: true
 		- A la mala especificación del modelo
 - Endogeneidad ![📑](../assets/3.REGRESORES_ESTOCÁSTICOS_Y_VARIABLES_INSTRUMENTALES_1639185978975_0.pdf)
-  collapsed:: true
 	- ¿ Que es la endogeneidad?
 	  collapsed:: true
 		- La Endogeneidad es lo que se produce cuando las variables exógenas están corraladas con los términos de perturbación , con el error de la regresión.
@@ -37,9 +36,7 @@
 	  collapsed:: true
 		- Genera estimaciones sesgadas e inconsistentes
 	- ¿ Como corregimos la endogeneidad?
-	  collapsed:: true
 		- Variables Instrumentales
-			-
 - Especificación del modelo
   collapsed:: true
 	- ¿Cómo sabemos la correcta especificación del modelo?
