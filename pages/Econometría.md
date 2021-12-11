@@ -36,6 +36,7 @@
 		- Cuando no existe heterocedasticidad
 		- Cuando existe Heterocedasticidad
 			- Tets de Wu- Durbin -Hausman
+			-
 	- ¿Qué genera la enodogenidad?
 	  collapsed:: true
 		- Genera estimaciones sesgadas e inconsistentes
