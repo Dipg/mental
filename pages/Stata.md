@@ -80,7 +80,11 @@ collapsed:: true
 		  estat hettest
 		  ```
 	- Test de Heterocedasticidad
-		- Test de W
+		- Test de White
+			- ```stata
+			  estat imtest
+			  ```
+			-
 -
   ---
 -
