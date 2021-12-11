@@ -72,9 +72,7 @@
 					    Your browser does not support the video tag.
 					  </video>
 - Especificación del modelo
-  collapsed:: true
 	- ¿Cómo sabemos la correcta especificación del modelo?
-	  collapsed:: true
 		- Test de Ramsey
 			- Donde $H_0$ El modelo esta bien especificado, $H_1$ El modelo esta mal especificado
 			- En Stata
