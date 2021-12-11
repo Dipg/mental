@@ -38,7 +38,7 @@
 			- Tets de Wu- Durbin -Hausman
 				- La $H_0$ es que no hay endogenidad
 				- Stata
-					-
+					- {{embed ((8cead2be-c19c-4986-a218-9a2dea1256e5))}}
 	- ¿Qué genera la enodogenidad?
 	  collapsed:: true
 		- Genera estimaciones sesgadas e inconsistentes
