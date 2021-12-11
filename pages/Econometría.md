@@ -1,6 +1,7 @@
 - Endogeneidad
 	- ¿ Que es la endogeneidad?
-	- La Endogeneidad es lo que se produce cuando las variables exógenas están corraladas con los términos de perturbación , con el error de la regresión.
+	  collapsed:: true
+		- La Endogeneidad es lo que se produce cuando las variables exógenas están corraladas con los términos de perturbación , con el error de la regresión.
 	- ¿Por que se da esto?
 	  collapsed:: true
 		- Puede deberse a una relación causal inversa
