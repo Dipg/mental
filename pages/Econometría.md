@@ -10,7 +10,8 @@
 			- Código Stata
 			  collapsed:: true
 				- {{embed ((36eea4e8-4e33-4daf-bae6-f81bb09a4813))}}
-	-
+	- ¿ A que se puede deber la heterocedasticida ?
+		-
 - Endogeneidad
   collapsed:: true
 	- ¿ Que es la endogeneidad?
