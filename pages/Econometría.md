@@ -1,4 +1,5 @@
 - Endogeneidad
+  collapsed:: true
 	- ¿ Que es la endogeneidad?
 	  collapsed:: true
 		- La Endogeneidad es lo que se produce cuando las variables exógenas están corraladas con los términos de perturbación , con el error de la regresión.
@@ -14,3 +15,4 @@
 	- ¿ Como corregimos la endogeneidad?
 		- Variables Instrumentales
 			-
+-
