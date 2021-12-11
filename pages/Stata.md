@@ -68,6 +68,9 @@ collapsed:: true
 	- ```stata
 	  *Rezag la variable ingreso un periodo
 	  L1.ingreso
+	  *Si deseo rezagar mas periodos solo aumento el umero
+	  *Ej: Rezago de la varaible ingreso 3 periodos
+	  L3.ingreso
 	  ```
 -
 -
