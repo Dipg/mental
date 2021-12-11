@@ -4,7 +4,7 @@
 	- ¿Cómo detectamos la heterocedasticidad?
 		- Test BREUSH y PAGAN ![📑](../assets/2.2_Expo-Test_Heterocedasticidad_1639184490259_0.pdf)
 			- Hipotesis Nula
-				- $H_0Varianzas de los errores constantes
+				- $H_0$ :Varianzas de los errores constantes
 			- Código Stata
 				- {{embed ((36eea4e8-4e33-4daf-bae6-f81bb09a4813))}}
 - Endogeneidad
