@@ -87,7 +87,7 @@ collapsed:: true
 			  ```stata
 			  estat hettest
 			  ```
-			- Si deseamos conocer mayor especificación de que variables pueden estar
+			- Si deseamos conocer mayor especificación de que variables pueden estar causando homocedassticidad
 	- Test de Especificación del Modelo
 	  collapsed:: true
 		- Test de Ramse
