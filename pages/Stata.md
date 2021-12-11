@@ -79,7 +79,6 @@ collapsed:: true
 	  ```
 - # [](#6.)  Test Econométricos
 	- Test de Heterocedasticidad
-	  collapsed:: true
 		- Test de White
 		  collapsed:: true
 			- id:: c923113e-05a6-4186-8401-3015d4c07281
@@ -88,7 +87,6 @@ collapsed:: true
 			  ```
 			-
 		- Test Breush y pagan
-		  collapsed:: true
 			- id:: 36eea4e8-4e33-4daf-bae6-f81bb09a4813
 			  ```stata
 			  estat hettest
@@ -102,8 +100,7 @@ collapsed:: true
 		  collapsed:: true
 			- Clase 6 Econometría II
 			- {{renderer :linkpreview,https://drive.google.com/file/d/1fyWKT-bprk0qKy1dzQGLzBogxzjB-tTV/view?usp=sharing}}
-	- Test de Endogenidad 
-	  collapsed:: true
+	- Test de Endogenidad
 		- Tets de Wu- Durbin -Hausman
 		  collapsed:: true
 			- id:: 8cead2be-c19c-4986-a218-9a2dea1256e5
