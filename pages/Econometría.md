@@ -57,9 +57,7 @@
 			- Stata
 				-
 			- Test de Sobreinstrumentación
-			  collapsed:: true
-				- Test de Sargan 
-				  collapsed:: true
+				- Test de Sargan
 					- Permite saber si estamos aplicando demasiados instrumentos o no
 					- La $H_0$ es que existen restricciones sobre identificadas
 			- Video Variables INstrumetnales
