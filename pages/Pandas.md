@@ -77,3 +77,4 @@
 	  frames = [df1, df2, df3]
 	  result = pd.concat(frames)
 	  ```
+	- ![image.png](../assets/image_1639340941350_0.png)
