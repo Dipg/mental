@@ -19,3 +19,6 @@
 	  ```
 	- https://mohammadimranhasan.com/linear-regression-of-time-series-data-with-pandas-library-in-python/
 - Modelo ARIMA en python
+	- ```python
+	  ```
+	- https://towardsdatascience.com/machine-learning-part-19-time-series-and-autoregressive-integrated-moving-average-model-arima-c1005347b0d7
