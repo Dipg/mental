@@ -58,4 +58,6 @@
 - https://stackoverflow.com/questions/31037298/pandas-get-column-average-mean
 - Seleccionar algunas columnas de dataframe pandas
 	- ```python
+	  df['Fruit Total']= df.iloc[:, -4:-1].sum(axis=1)
 	  ```
+-
