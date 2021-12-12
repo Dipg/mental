@@ -12,4 +12,4 @@
   11*400
   ```
 - Seguros en Echador Octubre 2021
-	-
+	- ![image.png](../assets/image_1639328584563_0.png){:height 292, :width 683}
