@@ -40,4 +40,6 @@
   ```
 - Seleccionar  rango de valores de una columna
 - ```python
+  ### Seleciona las 3 primeras filas
+  df[0:3]
   ```
