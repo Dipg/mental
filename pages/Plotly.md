@@ -39,4 +39,5 @@
   
   ```
 - Seleccionar  rango de valores de una columna
--
+- ```python
+  ```
