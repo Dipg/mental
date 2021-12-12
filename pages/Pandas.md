@@ -5,8 +5,8 @@
 	- ```python
 	  df = pd.read_csv("ejemplo.csv")
 	  ```
-- Columnas
 -
+- Columnas
 	-
 	- Cambiar nombres de columnas
 	- ```python
