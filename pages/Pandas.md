@@ -9,7 +9,7 @@
 - ```python
   df.columns = df.columns.str.replace(', '')
   ```
--
+- poner nombre de columnas
 - ```python
   df.columns = ['V', 'W', 'X', 'Y', 'Z']
   ```
