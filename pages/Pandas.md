@@ -24,4 +24,4 @@
 	  
 	  ```
 	- https://pandas.pydata.org/pandas-docs/version/0.19/generated/pandas.DataFrame.sort.html
-	- Seleleccionar valores de una columna  con condicionales
+	- Seleccionar valores de una columna  con condicionales
