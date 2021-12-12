@@ -43,3 +43,5 @@
 - https://intellipaat.com/community/28342/how-to-select-columns-from-dataframe-by-regex
 -
 - Optener Promedio de Columna pandas
+- ```python
+  ```
