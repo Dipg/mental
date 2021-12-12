@@ -79,4 +79,8 @@
 	  ```
 	- ![image.png](../assets/image_1639340941350_0.png)
 	- https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
-- Importar csv en
+- Importar csv en python pandas
+	- ```python
+	  import pandas as pd
+	  df = pd.read_csv('./world-happiness-report-2019.csv')
+	  ```
