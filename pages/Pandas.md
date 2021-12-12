@@ -29,3 +29,4 @@
 	  df.loc[df['A'] > 2, 'B'] = new_val
 	  ```
 	- https://www.it-swarm-es.com/es/python/como-lidiar-con-settingwithcopywarning-en-pandas/1044277694/
+-
