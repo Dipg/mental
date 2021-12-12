@@ -101,3 +101,4 @@
 	- Crear Columna de tiempo pandas
 	- ```python
 	  ```
+	- https://catriscode.com/2021/02/27/creating-time-range-in-python/
