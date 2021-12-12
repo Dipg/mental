@@ -66,5 +66,6 @@
 	- ```Python
 	  list(data.columns)
 	  ```
+	- https://www.geeksforgeeks.org/how-to-get-column-names-in-pandas-dataframe/
 -
 -
