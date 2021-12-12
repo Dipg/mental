@@ -5,7 +5,7 @@
 	- ```python
 	  df = pd.read_csv("ejemplo.csv")
 	  ```
--
+- Crear Index
 - Columnas
 	-
 	- Cambiar nombres de columnas
