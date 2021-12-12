@@ -29,6 +29,7 @@
 	- ```python
 	  df[(df.col1 == 'something1') | (df.col2 == 'something1')]
 	  ```
+	- https://stackoverflow.com/questions/37663931/selecting-columns-with-condition-on-pandas-dataframe
 	- ```python
 	  df.loc[df['A'] > 2, 'B'] = new_val
 	  ```
