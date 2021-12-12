@@ -45,7 +45,6 @@
   ```
 - https://www.guru99.com/python-pandas-tutorial.html
 - Grafica de Pastel - Pie Chart
-  collapsed:: true
 	- ```python
 	  import plotly.graph_objects as go
 	  
@@ -57,3 +56,4 @@
 	  fig.show()
 	  ```
 	- https://plotly.com/python/pie-charts/
+-
