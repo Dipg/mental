@@ -1,4 +1,4 @@
-- Grafica de Barras en Plotly :link
+- Grafica de Barras en Plotly
 -
 - ```python
   ```
