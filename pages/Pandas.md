@@ -97,3 +97,5 @@
 	  df.loc[:, df.columns.str.match('^d')]
 	  ```
 	- https://stackoverflow.com/questions/30808430/how-to-select-columns-from-dataframe-by-regex
+- Crear rango de tiempo en pandas
+	-
