@@ -75,5 +75,5 @@
 - Combinar Dataframe Pandas
 	- ```python
 	  frames = [df1, df2, df3]
-	  
+	  result = pd.concat(frames)
 	  ```
