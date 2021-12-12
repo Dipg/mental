@@ -78,3 +78,5 @@
 	  result = pd.concat(frames)
 	  ```
 	- ![image.png](../assets/image_1639340941350_0.png)
+	- https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
+-
