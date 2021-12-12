@@ -7,6 +7,7 @@
 - https://plotly.com/python/line-charts/
 - Grafica de Barras
 - https://plotly.com/python/bar-charts/
+- https://plotly.com/python/bar-charts/#bar-chart-with-direct-labels
 -
 -
 -
