@@ -67,5 +67,6 @@
 	  list(data.columns)
 	  ```
 	- https://www.geeksforgeeks.org/how-to-get-column-names-in-pandas-dataframe/
-- Conocer el tipo de columnas pandas
+- Conocer el formato de un a columna pandas
+	-
 -
