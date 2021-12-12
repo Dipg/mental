@@ -1,5 +1,5 @@
-- Grafica de Barras en Plotly
-- https://plotly.com/python/bar-charts/
+- Grafica de Barras en Plotly :link
+-
 - ```python
   ```
 -
