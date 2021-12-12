@@ -24,3 +24,4 @@
 	  
 	  ```
 	- https://pandas.pydata.org/pandas-docs/version/0.19/generated/pandas.DataFrame.sort.html
+	- Selecionar valores
