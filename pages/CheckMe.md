@@ -18,5 +18,5 @@
 		- ![image.png](../assets/image_1639328584563_0.png){:height 292, :width 683}
 		- ## Cuales son los seguros que mas se han demandado
 		- ![image.png](../assets/image_1639328794232_0.png)
-		-
+		- ## Variaci
 -
