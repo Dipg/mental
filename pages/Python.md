@@ -15,5 +15,6 @@
 	  ```
 	- https://www.geeksforgeeks.org/log-and-natural-logarithmic-value-of-a-column-in-pandas-python/
 - OLS → Mínimos cuadrados en Python regresión
+	-
 -
 -
