@@ -13,7 +13,7 @@
   ```
 - Seguros en Echador Octubre 2021
 	- # Análisis de Demanda de Seguros en Ecuador
-		- > De la encuesta [ENEMDU](https://www.ecuadorencifras.gob.ec/estadisticas-laborales-octubre-2021/) de octubre del 2021  30.000 personas  se obtuvo los siguientes resultados
+		- > De la encuesta [ENEMDU](https://www.ecuadorencifras.gob.ec/estadisticas-laborales-octubre-2021/) de octubre del 2021 , la cual  30.000 personas  se obtuvo los siguientes resultados
 		- ![image.png](../assets/image_1639328584563_0.png){:height 292, :width 683}
 		- ![image.png](../assets/image_1639328794232_0.png)
 -
