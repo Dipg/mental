@@ -57,5 +57,7 @@
 	  ```
 	- https://plotly.com/python/pie-charts/
 - Cambiar Theme en plotly
-	-
-	-
+	- ```python
+	   fig.update_layout(template="seaborn",)
+	  ```
+	- https://plotly.com/python/templates/
