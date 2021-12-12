@@ -7,6 +7,8 @@
 	  ```
 - Cambiar nombres de columnas
 - ```python
+  ```
+- ```python
   df.columns = ['V', 'W', 'X', 'Y', 'Z']
   ```
 -
