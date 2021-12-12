@@ -16,6 +16,6 @@
 		- > De la encuesta [ENEMDU](https://www.ecuadorencifras.gob.ec/estadisticas-laborales-octubre-2021/) de octubre del 2021 , la cual cuenta con  30.000 personas  encuestadas de diferentes ciudades de Ecuador  se obtuvo los siguientes resultados
 		- ##  Personas que Cuentan  o no Con Algún tipo de de Seguro
 		- ![image.png](../assets/image_1639328584563_0.png){:height 292, :width 683}
-		- ## Cuales son los seguros que mas se demandao
+		- ## Cuales son los seguros que mas se an demandao
 		- ![image.png](../assets/image_1639328794232_0.png)
 -
