@@ -8,6 +8,8 @@
 - Grafica de Barras
 - https://plotly.com/python/bar-charts/
 - https://plotly.com/python/bar-charts/#bar-chart-with-direct-labels
-- Suavizar Graficas
+- Suavizar Grafica de Lineas
+- ```python
+  ```
 -
 -
