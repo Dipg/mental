@@ -1,4 +1,6 @@
--
+- Crear dataframe en Pandas
+	- ```python
+	  ```
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
 	- ```python
 	  ```
