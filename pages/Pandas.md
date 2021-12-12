@@ -20,5 +20,7 @@
 	- Ordenar Columnas Short columns
 	- ```python
 	  result = df.sort(['A', 'B'], ascending=[1, 0])
+	  sorted_df = df.sort_values(by=['Column_name'], ascending=True)
+	  
 	  ```
 	- https://pandas.pydata.org/pandas-docs/version/0.19/generated/pandas.DataFrame.sort.html
