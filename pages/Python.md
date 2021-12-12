@@ -4,7 +4,6 @@
 - Graficas
   collapsed:: true
 	- [[Plotly]]
--
 - Generales
 	- Redondear Numeros
 	- ```python
