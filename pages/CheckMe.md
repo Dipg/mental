@@ -20,4 +20,4 @@
 		- ![image.png](../assets/image_1639328794232_0.png)
 		- ## Variación del total de seguros Contratdos
 		- ![image.png](../assets/image_1639342807510_0.png)
--
+		-
