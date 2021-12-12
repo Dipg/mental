@@ -72,4 +72,4 @@
 	  df['DataFrame Column'].dtypes
 	  ```
 	- https://datatofish.com/data-type-pandas-dataframe/
--
+- Combinar Dataframe Pandas
