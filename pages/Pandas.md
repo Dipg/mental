@@ -98,4 +98,6 @@
 	  ```
 	- https://stackoverflow.com/questions/30808430/how-to-select-columns-from-dataframe-by-regex
 - Crear rango de tiempo en pandas
-	-
+	- Crear Columna de tiempo pandas
+	- ```python
+	  ```
