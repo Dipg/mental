@@ -1,6 +1,7 @@
 - Manejo de datos
   collapsed:: true
 	- Usamos la librería [[Pandas]]
-- Graficas
+- Graficas 
+  collapsed:: true
 	- [[Plotly]]
 -
