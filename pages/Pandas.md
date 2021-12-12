@@ -18,4 +18,6 @@
 	  ```
 	- https://stackoverflow.com/questions/11346283/renaming-column-names-in-pandas
 	- Ordenar Columnas Short columns
-	-
+	- ```python
+	  result = df.sort(['A', 'B'], ascending=[1, 0])
+	  ```
