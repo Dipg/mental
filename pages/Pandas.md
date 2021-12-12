@@ -37,4 +37,5 @@
 	  ```
 	- https://www.geeksforgeeks.org/how-to-replace-values-in-column-based-on-condition-in-pandas/
 - Buscar Valores  mediante expresiones regulares
--
+- ```stata
+  ```
