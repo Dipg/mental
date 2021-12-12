@@ -12,3 +12,7 @@
 	- ```python
 	  data['logarithm_base10'] = np.log10(data['Salary'])
 	  ```
+	- https://www.geeksforgeeks.org/log-and-natural-logarithmic-value-of-a-column-in-pandas-python/
+-
+-
+-
