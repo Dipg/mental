@@ -92,4 +92,6 @@
 	  ```
 	- https://pretagteam.com/question/finding-all-regex-matches-from-a-pandas-dataframe-column
 - Elegir valores de una columna pandas
-	-
+	- ```python
+	  df.loc[:, df.columns.str.match('^d')]
+	  ```
