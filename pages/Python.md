@@ -10,4 +10,5 @@
 	  ```
 - Convertir valores de una columna a logaritmos
 	- ```python
+	  data['logarithm_base10'] = np.log10(data['Salary'])
 	  ```
