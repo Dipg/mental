@@ -7,5 +7,6 @@
 	  ```
 - Cambiar nombres de columnas
 - ```python
+  df.columns = ['V', 'W', 'X', 'Y', 'Z']
   ```
 -
