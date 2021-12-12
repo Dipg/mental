@@ -20,4 +20,5 @@
 		- ![image.png](../assets/image_1639328794232_0.png)
 		- ## Variación del total de seguros Contratdos
 		- ![image.png](../assets/image_1639342807510_0.png)
-		- Tendencia de Crecmineto de la
+		- Tendencia de Crecimiento de las personas afiliadas Voluntariamente al IESS
+		- ![image.png](../assets/image_1639347909705_0.png)
