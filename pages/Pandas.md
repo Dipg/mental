@@ -17,4 +17,5 @@
 	  df.columns = ['V', 'W', 'X', 'Y', 'Z']
 	  ```
 	- https://stackoverflow.com/questions/11346283/renaming-column-names-in-pandas
-	- Ordenar Columnas
+	- Ordenar Columnas Short columns
+	-
