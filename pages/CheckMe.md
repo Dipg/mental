@@ -18,7 +18,7 @@
 		- ![image.png](../assets/image_1639328584563_0.png){:height 292, :width 683}
 		- ## Cuales son los seguros que mas se han demandado
 		- ![image.png](../assets/image_1639328794232_0.png)
-		- ## Variación del total de seguros Contratdos
+		- ## Variación del total de seguros Contratados
 		- ![image.png](../assets/image_1639342807510_0.png)
 		- ## Tendencia de Crecimiento de las personas Afiliadas Voluntariamente al IESS año 2021
 		- ![image.png](../assets/image_1639347909705_0.png)
