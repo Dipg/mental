@@ -18,4 +18,4 @@
 	- ```python
 	  ```
 	- https://mohammadimranhasan.com/linear-regression-of-time-series-data-with-pandas-library-in-python/
-- AI
+- Modelo ARIMA en python
