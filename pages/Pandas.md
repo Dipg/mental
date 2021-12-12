@@ -60,4 +60,5 @@
 	- ```python
 	  df['Fruit Total']= df.iloc[:, -4:-1].sum(axis=1)
 	  ```
+	- https://stackoverflow.com/questions/42063716/pandas-sum-up-multiple-columns-into-one-column-without-last-column
 -
