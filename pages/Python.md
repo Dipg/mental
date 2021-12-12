@@ -8,4 +8,6 @@
 	  import numpy as np
 	  myList = list(np.around(np.array(myList),2))
 	  ```
-- Convertir valores de una columna a
+- Convertir valores de una columna a logaritmos
+	- ```python
+	  ```
