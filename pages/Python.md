@@ -17,5 +17,5 @@
 - OLS → Mínimos cuadrados en Python regresión
 	- ```python
 	  ```
-	-
+	- https://mohammadimranhasan.com/linear-regression-of-time-series-data-with-pandas-library-in-python/
 -
