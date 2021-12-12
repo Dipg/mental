@@ -2,4 +2,5 @@
   collapsed:: true
 	- Usamos la librería [[Pandas]]
 - Graficas
-	- []
+	- [[Plotly]]
+-
