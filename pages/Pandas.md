@@ -6,4 +6,6 @@
 	  df = pd.read_csv("ejemplo.csv")
 	  ```
 - Cambiar nombres de columnas
+- ```python
+  ```
 -
