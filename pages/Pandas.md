@@ -84,3 +84,4 @@
 	  import pandas as pd
 	  df = pd.read_csv('./world-happiness-report-2019.csv')
 	  ```
+	- https://pretagteam.com/question/finding-all-regex-matches-from-a-pandas-dataframe-column
