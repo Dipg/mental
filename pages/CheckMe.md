@@ -26,5 +26,5 @@
 		- ![image.png](../assets/image_1639347909705_0.png)
 		- ## Promedio de ingresos según seguro Contratado
 		- ![image.png](../assets/image_1639348988371_0.png)
-		- Seguros Por Sexo
+		- # Seguros Por Sexo
 		- ![image.png](../assets/image_1639349084029_0.png)
