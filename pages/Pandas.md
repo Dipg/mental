@@ -74,7 +74,7 @@
 	  ```
 	- https://www.geeksforgeeks.org/how-to-get-column-names-in-pandas-dataframe/
 - Conocer el formato de un a columna pandas
-	- Tipo de Columna Pn
+	- Tipo de Columna Pandas
 	- ```python
 	  df['DataFrame Column'].dtypes
 	  ```
