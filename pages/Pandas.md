@@ -91,4 +91,5 @@
 	  df = pd.read_csv('./world-happiness-report-2019.csv')
 	  ```
 	- https://pretagteam.com/question/finding-all-regex-matches-from-a-pandas-dataframe-column
-- Elegir
+- Elegir valores de una columna pandas
+	-
