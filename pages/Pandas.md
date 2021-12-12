@@ -29,6 +29,9 @@
 	  df.loc[df['A'] > 2, 'B'] = new_val
 	  ```
 	- https://www.it-swarm-es.com/es/python/como-lidiar-con-settingwithcopywarning-en-pandas/1044277694/
+	- ```python
+	  df.loc[(df.a < 0), 'a'] = 0
+	  ```
 	- ```stata
 	  df.loc[df["gender"] == "male", "gender"] = 1
 	  ```
