@@ -5,7 +5,9 @@
 	- ```python
 	  df = pd.read_csv("ejemplo.csv")
 	  ```
-- Crear Index
+- Crear Index en Daaframe Pnadas
+- ```python
+  ```
 - Columnas
 	-
 	- Cambiar nombres de columnas
