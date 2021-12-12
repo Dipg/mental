@@ -7,7 +7,9 @@
 	  ```
 - Crear Index en Daaframe Pnadas
 - ```python
+  df = pd.DataFrame(data, index =['position1', 'position2', 'position3', 'position4'])  
   ```
+- https://www.javatpoint.com/how-to-create-a-dataframes-in-python
 - Columnas
 	-
 	- Cambiar nombres de columnas
