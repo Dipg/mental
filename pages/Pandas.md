@@ -32,4 +32,4 @@
 	- ```stata
 	  df.loc[df["gender"] == "male", "gender"] = 1
 	  ```
--
+	- https://www.geeksforgeeks.org/how-to-replace-values-in-column-based-on-condition-in-pandas/
