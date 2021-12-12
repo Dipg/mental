@@ -5,7 +5,7 @@
 	  ```
 -
 -
--
+- Grafica de Barras
 - https://plotly.com/python/bar-charts/
 -
 -
