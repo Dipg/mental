@@ -38,5 +38,5 @@
   fig.show()
   
   ```
-- Seleccionar
+- Seleccionar  rango de valores de una columna
 -
