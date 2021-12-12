@@ -30,5 +30,6 @@
 	  ```
 	- https://www.it-swarm-es.com/es/python/como-lidiar-con-settingwithcopywarning-en-pandas/1044277694/
 	- ```stata
+	  df.loc[df["gender"] == "male", "gender"] = 1
 	  ```
 -
