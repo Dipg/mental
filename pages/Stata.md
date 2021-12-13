@@ -121,7 +121,9 @@ collapsed:: true
 	- MCO
 	- IV (Variables instrumentales)
 		- ```stata
+		  ivregress 2sls lgq (lgpchick = lgpf lgpcor)
 		  ```
+		- Donde
 -
   ---
 -
