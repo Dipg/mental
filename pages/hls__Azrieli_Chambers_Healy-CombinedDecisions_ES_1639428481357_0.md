@@ -18,3 +18,7 @@
   ls-type:: annotation
   hl-page:: 8
   id:: 61b7b2dc-cea8-4f64-8c14-de3771e10727
+- la  compatibilidad  de  incentivos  nunca  es  gratuita
+  ls-type:: annotation
+  hl-page:: 8
+  id:: 61b7b2e8-6b95-4f05-a63a-c6f592189d92
