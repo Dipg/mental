@@ -1,4 +1,4 @@
-- Econometría Gujarati
+- Econometría Gujarati /ass
 - Heterocedasticidad ![📑](../assets/2.2_Expo-Test_Heterocedasticidad_1639186036848_0.pdf)
   collapsed:: true
 	- La varianza de los errores no es constante
