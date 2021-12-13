@@ -22,3 +22,7 @@
   ls-type:: annotation
   hl-page:: 8
   id:: 61b7b2e8-6b95-4f05-a63a-c6f592189d92
+- Ningún  mecanismo  es  compatible  con  los  incentivos  si  no  hay  supuestos  sobre  las  preferencias sobre P(X )
+  ls-type:: annotation
+  hl-page:: 8
+  id:: 61b7b2fd-8224-4397-a2a3-434b38a76082
