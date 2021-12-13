@@ -58,3 +58,7 @@
   ls-type:: annotation
   hl-page:: 9
   id:: 61b7b595-b371-417d-ba67-6d98db9ac5fa
+- Aunque  nuestra  teoría  se  enmarca  en  la  teoría  de  la  decisión,  en  un  apéndice describimos   cómo   la   estructura   se   aplica   también   de   forma   equivalente   a   los   experimentos  de  la  teoría  de  los  juegos. 
+  ls-type:: annotation
+  hl-page:: 10
+  id:: 61b7b869-a5f9-4d9b-9b55-2a3113d169bf
