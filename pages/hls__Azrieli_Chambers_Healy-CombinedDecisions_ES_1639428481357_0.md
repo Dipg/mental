@@ -26,3 +26,7 @@
   ls-type:: annotation
   hl-page:: 8
   id:: 61b7b2fd-8224-4397-a2a3-434b38a76082
+- hay que distinguir cuidadosamente  entre  el  conjunto  de  objetos  de  elección  X y  el  conjunto  de  objetos  de  pago P(X ) en un experimento.
+  ls-type:: annotation
+  hl-page:: 6
+  id:: 61b7b326-de3f-41e0-919e-3de5f5b11700
