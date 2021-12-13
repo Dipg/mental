@@ -53,6 +53,8 @@
 	  ```
 	- ![image.png](../assets/image_1639387544335_0.png)
 	- ```stata
+	  heatplot C, values(format(%9.3f)) color(hcl, diverging intensity(.6)) ///
+	  legend(off) aspectratio(1) lower nodiagonal
 	  ```
 	- ![image.png](../assets/image_1639387566123_0.png)
 	- ```stata
