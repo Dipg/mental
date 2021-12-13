@@ -10,3 +10,7 @@
   ls-type:: annotation
   hl-page:: 4
   id:: 61b7b246-1ba9-47a8-a2d2-82b9c16dc509
+- no  se  asume  ninguna  estructura   sobre   X .   Podría   incluir   bienes   de   consumo,   loterías   objetivas,   actos   ambiguos,  anuncios  de  preferencias  o  estrategias  en  un  juego
+  ls-type:: annotation
+  hl-page:: 8
+  id:: 61b7b2c7-150c-41db-850f-f3e65d9dc7a9
