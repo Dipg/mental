@@ -58,7 +58,8 @@
 	  ```
 	- ![image.png](../assets/image_1639387566123_0.png)
 	- {{renderer :linkpreview,https://www.stata.com/meeting/germany19/slides/germany19_Jann.pdf}}
-	- Scar
+	- Scatterplot en Stata
+	-
 # [](#2.) Loop for en Stata
 collapsed:: true
 	- Loop for en todo el rango de variables. Donde la primera coluna (variable es  `year` y la ultima es `time`). Generamos los logaritmos de cada variable
