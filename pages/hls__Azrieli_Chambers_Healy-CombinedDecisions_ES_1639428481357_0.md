@@ -54,3 +54,7 @@
   ls-type:: annotation
   hl-page:: 8
   id:: 61b7b523-9039-4763-af62-8801a3b6abc4
+- reducción de loterías compuestas)
+  ls-type:: annotation
+  hl-page:: 9
+  id:: 61b7b595-b371-417d-ba67-6d98db9ac5fa
