@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "61b7b1d3-387c-4d9b-97c5-31bd21200ebc", :page 4, :position {:bounding {:x1 322.2947998046875, :y1 222.71875, :x2 703.6357421875, :y2 243.71875, :width 1060.8, :height 1372.8}, :rects ({:x1 322.2947998046875, :y1 222.71875, :x2 703.6357421875, :y2 243.71875, :width 1060.8, :height 1372.8}), :page 4}, :content {:text "pagar por una sola decisión elegida al azar "}, :properties {:color "yellow"}}]}
