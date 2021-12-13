@@ -46,9 +46,7 @@
 	- ¿ Como corregimos la endogeneidad?
 		- Variables Instrumentales
 			- Buscamos variables que cumplan 2 propiedades
-			  collapsed:: true
 				- Relevancia
-				  collapsed:: true
 					- Deben estar correlacionadas con la variable endógena
 				- Validez
 				  collapsed:: true
