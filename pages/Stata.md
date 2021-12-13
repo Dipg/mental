@@ -156,7 +156,8 @@ collapsed:: true
 		- Donde `lgq`  es la variable endógena, `lgpchick` es la variable exógena que se supone que sufre endogeneidad, `lgpf, lgpcor` son las varaibles instrumentales
 # Correlaciones
 	- Correlación de Pearson
-	-
+	- ```stata
+	  ```
 -
 -
   ---
