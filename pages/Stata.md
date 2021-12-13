@@ -160,7 +160,7 @@ collapsed:: true
 	  pwcorr,star(.05)
 	  ```
 	- ![image.png](../assets/image_1639387840831_0.png)
-	-
+	- https://www.reed.edu/psychology/stata/analyses/parametric/correlation.html#:~:text=Correlation%20is%20performed%20using%20the,those%20variables%20will%20be%20displayed.
 -
 -
   ---
