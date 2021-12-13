@@ -159,7 +159,7 @@ collapsed:: true
 	- ```stata
 	  pwcorr,star(.05)
 	  ```
-	-
+	- ![image.png](../assets/image_1639387840831_0.png)
 -
   ---
 -
