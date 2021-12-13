@@ -106,6 +106,7 @@ collapsed:: true
 	  L(1/5).Ingreso
 	  ```
 - # [](#6.)  Test Econométricos
+  collapsed:: true
 	- Test de Heterocedasticidad
 		- Test de White
 		  collapsed:: true
@@ -146,12 +147,15 @@ collapsed:: true
 		  estat overid
 		  ```
 # [](#7.)  Regresiones
+collapsed:: true
 	- MCO
 	- IV (Variables instrumentales)
 		- ```stata
 		  ivregress 2sls lgq (lgpchick = lgpf lgpcor)
 		  ```
 		- Donde `lgq`  es la variable endógena, `lgpchick` es la variable exógena que se supone que sufre endogeneidad, `lgpf, lgpcor` son las varaibles instrumentales
+-
+-
 -
   ---
 -
