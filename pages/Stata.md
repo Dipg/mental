@@ -70,6 +70,7 @@
 	  ```
 	- Simple Scatter
 	- ```stata
+	  scatter mpg weight
 	  ```
 # [](#2.) Loop for en Stata
 collapsed:: true
