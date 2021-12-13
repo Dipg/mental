@@ -8,6 +8,6 @@
 		- En este caso en particular, el concepto de diseño de incentivo se tormna mas tecnico ya que _un diseño centrado en incentivos es aquel que alinea los incentivos de un individuo con las metas generales de un sistema o institución._ - [El éxito de los mercados de cadenas de bloques centrados en incentivos | de KK Jain \(@kk\_ncnt\) | HackerNoon.com | Medio](https://medium.com/hackernoon/the-success-of-incentive-centered-blockchain-markets-f7b63e998a31)
 		- Esta lineación hacia un bien común genera algunos beneficios al instante:
 			- [](#1.)  Una recompensa constante al usuario del sistema, lo cual atrae a nuevos usuarios
-			- [](#2.)
+			- [](#2.) Los datos del sistema pueden se
 -
 -
