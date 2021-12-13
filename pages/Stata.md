@@ -51,6 +51,7 @@
 	  heatplot C, values(format(%9.3f)) color(hcl, diverging intensity(.6)) ///
 	  legend(off) aspectratio(1)
 	  ```
+	- ![image.png](../assets/image_1639387544335_0.png)
 	-
 # [](#2.) Loop for en Stata
 collapsed:: true
