@@ -52,6 +52,7 @@
 	  legend(off) aspectratio(1)
 	  ```
 	- ![image.png](../assets/image_1639387544335_0.png)
+	- ![image.png](../assets/image_1639387566123_0.png)
 -
 # [](#2.) Loop for en Stata
 collapsed:: true
