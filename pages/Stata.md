@@ -61,6 +61,12 @@
 	- Scatterplot en Stata
 	- ![image.png](../assets/image_1639387661252_0.png)
 	- ```stata
+	   scatter  pchick q, ///
+	  title("Precio del Pollo - Demanda de Pollos" ///
+	  , span size(medium)) ///
+	  ytitle("Precio del Pollo") ///
+	  xtitle("Cantidad Demandad de Pollo") ///
+	  note("Fuente: Dennis Epple y Bennett McCallum                                                        Elaboración: Autor  ")  
 	  ```
 	-
 # [](#2.) Loop for en Stata
