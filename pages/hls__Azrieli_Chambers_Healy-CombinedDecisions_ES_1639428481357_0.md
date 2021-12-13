@@ -42,3 +42,7 @@
   ls-type:: annotation
   hl-page:: 8
   id:: 61b7b3e8-7552-4b26-91b6-fb8e6176e003
+- sto   simplemente requiere que si, en cada estado del mundo, la apuesta A paga algo más que la  apuesta  B,  entonces  el  decisor  elige  A  en  lugar  de  B.  Si  esta  es  nuestra  única  suposición, el mecanismo RPS es, en la práctica, el único mecanismo compatible con los incentivos.    
+  ls-type:: annotation
+  hl-page:: 8
+  id:: 61b7b44a-9a38-4bea-b048-45e826256cea
