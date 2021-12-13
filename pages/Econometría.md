@@ -1,4 +1,4 @@
-- Econometría Gujarati /ass
+- Econometría Gujarati ![econometria-damodar-n-gujarati-5ta-ed.pdf](../assets/econometria-damodar-n-gujarati-5ta-ed_1639388002074_0.pdf)
 - Heterocedasticidad ![📑](../assets/2.2_Expo-Test_Heterocedasticidad_1639186036848_0.pdf)
   collapsed:: true
 	- La varianza de los errores no es constante
