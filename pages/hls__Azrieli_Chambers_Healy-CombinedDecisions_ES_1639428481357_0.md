@@ -34,3 +34,7 @@
   ls-type:: annotation
   hl-page:: 8
   id:: 61b7b2fd-8224-4397-a2a3-434b38a76082
+- En otras palabras, para un mecanismo de pago dado, si todas las preferencias   sobre   P(X  )  son   admisibles,   el   mecanismo   no   es   compatible   con   los   incentivos.  
+  ls-type:: annotation
+  hl-page:: 8
+  id:: 61b7b3d2-0fc5-45d6-9862-629ad8516013
