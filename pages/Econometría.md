@@ -44,7 +44,6 @@
 	  collapsed:: true
 		- Genera estimaciones sesgadas e inconsistentes
 	- ¿ Como corregimos la endogeneidad?
-	  collapsed:: true
 		- Variables Instrumentales
 			- Buscamos variables que cumplan 2 propiedades
 			  collapsed:: true
