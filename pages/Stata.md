@@ -45,6 +45,8 @@
 	  over(year , label(angle(90)) ///
 	  ```
 	- ### Heatplot de correlacones
+	- ```stata
+	  ```
 	-
 # [](#2.) Loop for en Stata
 collapsed:: true
