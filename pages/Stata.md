@@ -157,8 +157,9 @@ collapsed:: true
 # Correlaciones
 	- Correlación de Pearson
 	- ```stata
+	  pwcorr,star(.05)
 	  ```
--
+	-
 -
   ---
 -
