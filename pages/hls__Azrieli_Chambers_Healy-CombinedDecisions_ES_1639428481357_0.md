@@ -30,3 +30,7 @@
   ls-type:: annotation
   hl-page:: 6
   id:: 61b7b326-de3f-41e0-919e-3de5f5b11700
+- Los sujetos anuncian las elecciones de X , pero en realidad reciben  pagos  en  P(X ).  Por  tanto,  la  compatibilidad  de  los  incentivos  depende  fundamentalmente de    sus    preferencias    sobre    P(X )
+  ls-type:: annotation
+  hl-page:: 6
+  id:: 61b7b365-ecd6-448d-8a41-244f3aa989c7
