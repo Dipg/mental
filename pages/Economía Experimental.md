@@ -11,6 +11,6 @@
 			- [](#1.)  Una recompensa constante al usuario del sistema, lo cual atrae a nuevos usuarios
 			- [](#2.) Los datos del sistema ayudan a los diseñadores a recopilar datos e influir de mejor manera agregando o modificando dichos incentivos de ser esto necesario (KK Jain , 2018)
 	-
-	-
+	- ![Azrieli_Chambers_Healy-CombinedDecisions ES.pdf](../assets/Azrieli_Chambers_Healy-CombinedDecisions_ES_1639428481357_0.pdf)
 -
 -
