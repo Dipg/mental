@@ -50,3 +50,7 @@
   ls-type:: annotation
   hl-page:: 8
   id:: 61b7b4bc-f939-411e-9503-427811f19de6
+- Teniendo  en  cuenta  estos  resultados,  un  experimentador  que  elija  un  mecanismo  de  pago  sólo necesitadecidir  si  es  probable  que  estos  supuestos  sean  válidos  en  su  entorno. 
+  ls-type:: annotation
+  hl-page:: 8
+  id:: 61b7b523-9039-4763-af62-8801a3b6abc4
