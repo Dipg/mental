@@ -38,3 +38,7 @@
   ls-type:: annotation
   hl-page:: 8
   id:: 61b7b3d2-0fc5-45d6-9862-629ad8516013
+- En segundo lugar, el mecanismo RPS es compatible con los incentivos si las preferencias   sobre   P(X )   satisfacen   una   condición   de   monotonicidad   (estatal). 
+  ls-type:: annotation
+  hl-page:: 8
+  id:: 61b7b3e8-7552-4b26-91b6-fb8e6176e003
