@@ -14,3 +14,7 @@
   ls-type:: annotation
   hl-page:: 8
   id:: 61b7b2c7-150c-41db-850f-f3e65d9dc7a9
+- nuestro   marco   no   requiere   una   utilidad   esperada,
+  ls-type:: annotation
+  hl-page:: 8
+  id:: 61b7b2dc-cea8-4f64-8c14-de3771e10727
