@@ -57,8 +57,7 @@
 	  legend(off) aspectratio(1) lower nodiagonal
 	  ```
 	- ![image.png](../assets/image_1639387566123_0.png)
-	- ```stata
-	  ```
+	- https://www.stata.com/meeting/germany19/slides/germany19_Jann.pdf
 -
 # [](#2.) Loop for en Stata
 collapsed:: true
