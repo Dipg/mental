@@ -49,7 +49,6 @@
 				- Relevancia
 					- Deben estar correlacionadas con la variable endógena
 				- Validez
-				  collapsed:: true
 					- No deben estar relacionadas con el error
 			- Stata
 				-
