@@ -52,6 +52,8 @@
 	  legend(off) aspectratio(1)
 	  ```
 	- ![image.png](../assets/image_1639387544335_0.png)
+	- ```stata
+	  ```
 	- ![image.png](../assets/image_1639387566123_0.png)
 	- ```stata
 	  ```
