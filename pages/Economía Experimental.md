@@ -5,4 +5,4 @@
 - Definición Online
   collapsed:: true
 	- {{renderer :linkpreview,https://icdstuff.wordpress.com/2006/02/04/what-is-incentive-centered-design-icd/}}
-- Dise
+- Diseño de estructura de incentivos
