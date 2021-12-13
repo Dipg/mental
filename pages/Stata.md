@@ -4,7 +4,6 @@
   import delimited "\Trabajos\3. Endogenidad\Items\endogeneidad\broiler.csv"
   ```
 - #  [](#1.) Gráficas en Stata
-  collapsed:: true
 	- Librerías Necesarias
 		- ```stata
 		  ssc install blindschemes
@@ -45,6 +44,7 @@
 	  graph bar q, ///
 	  over(year , label(angle(90)) ///
 	  ```
+	-
 # [](#2.) Loop for en Stata
 collapsed:: true
 	- Loop for en todo el rango de variables. Donde la primera coluna (variable es  `year` y la ultima es `time`). Generamos los logaritmos de cada variable
