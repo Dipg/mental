@@ -4,6 +4,7 @@
   import delimited "\Trabajos\3. Endogenidad\Items\endogeneidad\broiler.csv"
   ```
 - #  [](#1.) Gráficas en Stata
+  collapsed:: true
 	- Librerías Necesarias
 		- ```stata
 		  ssc install blindschemes
