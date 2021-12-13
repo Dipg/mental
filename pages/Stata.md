@@ -59,6 +59,7 @@
 	- ![image.png](../assets/image_1639387566123_0.png)
 	- {{renderer :linkpreview,https://www.stata.com/meeting/germany19/slides/germany19_Jann.pdf}}
 	- Scatterplot en Stata
+	- ![image.png](../assets/image_1639387661252_0.png)
 	-
 # [](#2.) Loop for en Stata
 collapsed:: true
