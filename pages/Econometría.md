@@ -41,7 +41,6 @@
 				- Stata
 					- {{embed ((8cead2be-c19c-4986-a218-9a2dea1256e5))}}
 	- ¿Qué genera la enodogenidad?
-	  collapsed:: true
 		- Genera estimaciones sesgadas e inconsistentes
 	- ¿ Como corregimos la endogeneidad?
 		- Variables Instrumentales
