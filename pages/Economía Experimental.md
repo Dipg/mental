@@ -5,6 +5,6 @@
 	- Definición Online
 		- {{renderer :linkpreview,https://icdstuff.wordpress.com/2006/02/04/what-is-incentive-centered-design-icd/}}
 	- Blockchain Markets y el diseño centrado en incentivos
-		- En este caso en particular, el concepto de diseño de incentivo se torma
+		- En este caso en particular, el concepto de diseño de incentivo se tormna mas tecnico ya que
 -
 -
