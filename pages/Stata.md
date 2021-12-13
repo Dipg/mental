@@ -123,7 +123,7 @@ collapsed:: true
 		- ```stata
 		  ivregress 2sls lgq (lgpchick = lgpf lgpcor)
 		  ```
-		- Donde `lgq`  es la variable endogena, `lgpchick` es la variable exogena
+		- Donde `lgq`  es la variable endogena, `lgpchick` es la variable exogena que se supone que sufre endogenidad
 -
   ---
 -
