@@ -5,7 +5,7 @@
 	- Definición Online
 		- {{renderer :linkpreview,https://icdstuff.wordpress.com/2006/02/04/what-is-incentive-centered-design-icd/}}
 	- Blockchain el diseño centrado en incentivos
-		- Las redes descentralizadas como las cadenas de bloques tienen el potencial de resolver problemas complejos al incentivar a las personas a contribuir con sus conocimientos y habilidades especializados para lograr un objetivo común.(KK Jain (@kk_ncnt, 2018)
+		- Las redes descentralizadas como las cadenas de bloques tienen el potencial de resolver problemas complejos al incentivar a las personas a contribuir con sus conocimientos y habilidades especializados para lograr un objetivo común.[(KK Jain (@kk_ncnt, 2018)](https://medium.com/hackernoon/the-psychology-of-incentives-in-decentralized-networks-d029ddfa30ca)
 		- En este caso en particular, el concepto de diseño de incentivo se tormna mas tecnico ya que _un diseño centrado en incentivos es aquel que alinea los incentivos de un individuo con las metas generales de un sistema o institución._ - [El éxito de los mercados de cadenas de bloques centrados en incentivos | de KK Jain \(@kk\_ncnt\) | HackerNoon.com | Medio](https://medium.com/hackernoon/the-success-of-incentive-centered-blockchain-markets-f7b63e998a31)
 		- Esta lineación hacia un bien común genera algunos beneficios al instante:
 			- [](#1.)  Una recompensa constante al usuario del sistema, lo cual atrae a nuevos usuarios
