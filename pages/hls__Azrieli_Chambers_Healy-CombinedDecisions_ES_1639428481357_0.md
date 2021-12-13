@@ -46,3 +46,7 @@
   ls-type:: annotation
   hl-page:: 8
   id:: 61b7b44a-9a38-4bea-b048-45e826256cea
+- En   tercer   lugar,   demostramos   que   el   mecanismo   de   pago   total   es   compatible con los incentivos si se cumple la condición de "no complementariedad en la cima" (NCaT) en las preferencias sobre P(X ). La condición NCaT requiere que si tomamos el  objeto  favorito  de  una  persona  de  varios  menús  diferentes  y  los  combinamos  en  un  conjunto,  ese  conjunto  debe  ser  el  más  preferido  de  todos  los  posibles.  Si  asumimos  NCaT  y  nada  más,  entonces  el  mecanismo  de  pagar  todo  es,  en  la  práctica,  el  único  mecanismo compatible con los incentivos.
+  ls-type:: annotation
+  hl-page:: 8
+  id:: 61b7b4bc-f939-411e-9503-427811f19de6
