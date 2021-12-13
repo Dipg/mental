@@ -38,7 +38,7 @@
   ls-type:: annotation
   hl-page:: 8
   id:: 61b7b3d2-0fc5-45d6-9862-629ad8516013
-- En segundo lugar, el mecanismo RPS es compatible con los incentivos si las preferencias   sobre   P(X )   satisfacen   una   condición   de   monotonicidad   (estatal).  Esto   simplemente requiere que si, en cada estado del mundo, la apuesta A paga algo más que la  apuesta  B,  entonces  el  decisor  elige  A  en  lugar  de  B.  Si  esta  es  nuestra  única  suposición, el mecanismo RPS es, en la práctica, el único mecanismo compatible con los incentivos.
+- En segundo lugar, el mecanismo RPS es compatible con los incentivos si las preferencias   sobre   P(X )   satisfacen   una   condición   de   monotonicidad   (estatal). 
   ls-type:: annotation
   hl-page:: 8
   id:: 61b7b3e8-7552-4b26-91b6-fb8e6176e003
