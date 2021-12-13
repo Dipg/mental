@@ -53,6 +53,8 @@
 	  ```
 	- ![image.png](../assets/image_1639387544335_0.png)
 	- ![image.png](../assets/image_1639387566123_0.png)
+	- ```stata
+	  ```
 -
 # [](#2.) Loop for en Stata
 collapsed:: true
