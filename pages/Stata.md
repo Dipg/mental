@@ -46,6 +46,10 @@
 	  ```
 	- ### Heatplot de correlacones
 	- ```stata
+	  pwcorr q  pchick y pf pcor pbeef pop, star(0.05)
+	  matrix C = r(C)
+	  heatplot C, values(format(%9.3f)) color(hcl, diverging intensity(.6)) ///
+	  legend(off) aspectratio(1)
 	  ```
 	-
 # [](#2.) Loop for en Stata
