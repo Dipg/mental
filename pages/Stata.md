@@ -154,7 +154,7 @@ collapsed:: true
 		  ivregress 2sls lgq (lgpchick = lgpf lgpcor)
 		  ```
 		- Donde `lgq`  es la variable endógena, `lgpchick` es la variable exógena que se supone que sufre endogeneidad, `lgpf, lgpcor` son las varaibles instrumentales
--
+#
 -
 -
   ---
