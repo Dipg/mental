@@ -152,3 +152,15 @@
   ls-type:: annotation
   hl-page:: 140
   id:: 61b2b6d0-038f-4bce-999b-3263d7572b28
+- 6.DETERMINANTES DE LA INCIDENCIA ECONÓMICADE UN IMPUESTO
+  ls-type:: annotation
+  hl-page:: 49
+  id:: 61b88141-1fa0-4cfe-9c13-89ec985ef1be
+- 6.DETERMINANTES DE LA INCIDENCIA ECONÓMICADE UN IMPUESTO
+  ls-type:: annotation
+  hl-page:: 49
+  id:: 61b88144-6cef-4dcc-84ef-06f661c36261
+- 6.DETERMINANTES DE LA INCIDENCIA ECONÓMICADE UN IMPUESTO
+  ls-type:: annotation
+  hl-page:: 49
+  id:: 61b88149-74e5-4cf1-a628-06bc3fad9295
