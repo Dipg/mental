@@ -188,3 +188,7 @@
   ls-type:: annotation
   hl-page:: 49
   id:: 61b88584-335d-46ce-84ad-74725f93fdc3
+- la  incidencia  económica  del  impuesto  recae  totalmente sobre los consumidores,
+  ls-type:: annotation
+  hl-page:: 50
+  id:: 61b885a6-381d-4ab2-a4ce-f75362aae901
