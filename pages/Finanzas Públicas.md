@@ -273,6 +273,7 @@ collapsed:: true
 				  collapsed:: true
 					- ((61b8847b-e4e2-4b5d-a56e-9bc4d9901f5c))
 				- ¿Cómo es la grafica de oferta y demanda cuando se impone  un ==impuesto ad-Valorem== con incidencia tributaria sobre los oferentes?
+				  collapsed:: true
 					- ((61b88570-f9fd-484c-be48-f5e94a3f0348))
 			- incidencia económica
 				- Consiste en determinar quien paga realmente las cargas  que colocan los  impuestos en la práctica.
@@ -291,7 +292,7 @@ collapsed:: true
 					  collapsed:: true
 						- La carga del impuesto solo tiene el componente carga directa y no carga excesiva
 					- Segundo...
-						- La incidencia económica del impuesto recae totalmente sobre los sumadores, incluso si la ley dice que el impuesto lo pag
+						- La incidencia económica del impuesto recae totalmente sobre los sumadores, incluso si la ley dice que el impuesto lo pagan los oferentes
 			- Elasticidades precio de la función oferta
 			- ¿Cuándo la incidencia económica del impuesto recae totalmente sobre los consumidores?
 				- Cuando se presenta una demanda perfectamente inelástica
