@@ -269,7 +269,7 @@ collapsed:: true
 		- ¿Cuales son los tipos de incidencia?
 			- Incidencia estatutaria
 				- Es la obligación legal de un impuesto  referente a la persona que fue fijada por la ley para pagar el impuesto
-				- ¿Cómo modifica la grafica la un impuesto unitario con incidencia estatutaria sobre los oferentes?
+				- ¿Cómo es la grafica de oferta y demanda cuando s un impuesto unitario con incidencia estatutaria sobre los oferentes?
 				  collapsed:: true
 					- ((61b8847b-e4e2-4b5d-a56e-9bc4d9901f5c))
 				- ¿Cómo es la grafica de oferta y demanda cuando se impone  un impuesto ad-Valorem con incidencia tributaria sobre los oferentes?
