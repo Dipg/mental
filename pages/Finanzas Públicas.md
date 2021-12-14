@@ -312,6 +312,7 @@ collapsed:: true
 						- El precio para los consumidores subió exactamente en la magnitud de la tas de impuestos, demostrando asi que ellos son los que soportan la incidencia económica del impuesto.
 			- Elasticidades precio de la función oferta
 			- ¿Cuándo la incidencia económica del impuesto recae totalmente sobre los consumidores?
+			  collapsed:: true
 				- Cuando se presenta una demanda perfectamente inelástica
 		- Reglas de Incidencia Económica
 		  collapsed:: true
