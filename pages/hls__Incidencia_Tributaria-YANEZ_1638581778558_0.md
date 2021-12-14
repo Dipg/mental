@@ -200,3 +200,11 @@
   ls-type:: annotation
   hl-page:: 50
   id:: 61b886ec-9e22-45ff-8739-d056b4af5e4d
+- consumo   resulta   serinsensible al cambio en el precio generado por la aplicación del impuesto. 
+  ls-type:: annotation
+  hl-page:: 50
+  id:: 61b891d8-2993-4cee-b63f-c9aca48a2a10
+- El   consumo   resulta   serinsensible al cambio en el precio generado por la aplicación del impuesto
+  ls-type:: annotation
+  hl-page:: 50
+  id:: 61b891db-a260-46fa-a3d6-419dcaeca779
