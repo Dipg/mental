@@ -61,5 +61,6 @@
 	   fig.update_layout(template="seaborn",)
 	  ```
 	- https://plotly.com/python/templates/
-- Modificar Posición
+- Modificar Posición y estilo de Leyendas en grafica Plotly
+-
 -
