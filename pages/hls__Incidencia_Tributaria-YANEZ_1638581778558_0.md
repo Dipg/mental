@@ -178,3 +178,9 @@
   id:: 61b8847b-e4e2-4b5d-a56e-9bc4d9901f5c
   hl-type:: area
   hl-stamp:: 1639482490512
+- [:span]
+  ls-type:: annotation
+  hl-page:: 49
+  id:: 61b88570-f9fd-484c-be48-f5e94a3f0348
+  hl-type:: area
+  hl-stamp:: 1639482735522
