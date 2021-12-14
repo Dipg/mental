@@ -301,7 +301,7 @@ collapsed:: true
 					  collapsed:: true
 						- No habrá perdida de eficiencia o carga excesiva colocada por el impuesto
 					- Quinto...
-						- Los oferentes reciben el mismo precio que  ingresaban con y sin impuestos
+						- Los oferentes reciben el mismo precio que  ingresaban con y sin impuestos , e
 			- Elasticidades precio de la función oferta
 			- ¿Cuándo la incidencia económica del impuesto recae totalmente sobre los consumidores?
 				- Cuando se presenta una demanda perfectamente inelástica
