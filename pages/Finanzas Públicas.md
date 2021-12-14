@@ -291,7 +291,7 @@ collapsed:: true
 					  collapsed:: true
 						- La carga del impuesto solo tiene el componente carga directa y no carga excesiva
 					- Segundo...
-						- Los consumidores
+						- La incidencia econ
 			- Elasticidades precio de la función oferta
 			- ¿Cuándo la incidencia económica del impuesto recae totalmente sobre los consumidores?
 				- Cuando se presenta una demanda perfectamente inelástica
