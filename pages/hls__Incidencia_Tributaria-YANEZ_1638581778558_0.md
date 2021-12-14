@@ -184,3 +184,7 @@
   id:: 61b88570-f9fd-484c-be48-f5e94a3f0348
   hl-type:: area
   hl-stamp:: 1639482735522
+- la  carga  del  impuesto  solo tiene  el  componente  carga  directa  y  no  carga  excesiva
+  ls-type:: annotation
+  hl-page:: 49
+  id:: 61b88584-335d-46ce-84ad-74725f93fdc3
