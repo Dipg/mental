@@ -5,7 +5,7 @@
 	  df = pd.DataFrame(data)
 	  ```
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
-	- Im
+	- Importar datos SPSS a Pandas
 	- ```python
 	  ```
 - Importar datos csv
