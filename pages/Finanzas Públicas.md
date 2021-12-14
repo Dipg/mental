@@ -315,7 +315,7 @@ collapsed:: true
 			- ¿Cuándo la incidencia económica del impuesto recae totalmente sobre los consumidores?
 				- Cuando se presenta una demanda perfectamente inelástica
 		- Reglas de Incidencia Económica
-			- Mientras mas inelástica sea la función demandada de precios, mayor será la proporción de las cargas
+			- Mientras mas inelástica sea la función demandada de precios, mayor será la proporción de las cargas del impuesto soportadas
 	- Incidencia tributaria a trevés del ciclo de vida [ 📜​](61aac79f-6a8f-4c0b-8c59-f3c81744c385) #yellow
 	  collapsed:: true
 		- ¿En que consiste el enfoque de la incidencia tributaria en  el ciclo de vida? #yellow
