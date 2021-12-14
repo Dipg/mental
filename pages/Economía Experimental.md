@@ -20,7 +20,7 @@
 		-
 		  ----
 		- ((61b8b628-c90c-4f7a-a05f-1ee2609901bc))
-		- El sujeto tiene una relación de preferencia  $\geq$  sobre $X$. No hacemos ninguna suposición sobre º más que la completitud y la transitividad.
+		- El sujeto tiene una relación de preferencia  $\geq$  sobre $X$. No hacemos ninguna suposición sobre ºmás que la completitud y la transitividad.
 		-
 		-
 		- ((61b8b5e7-da08-4483-a11c-daf83f7339a8))
