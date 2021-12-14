@@ -259,7 +259,6 @@ collapsed:: true
 		  collapsed:: true
 			- No, por las diferencias de arriba
 		- ¿Cuál es la representación grafica de las cargas?
-		  collapsed:: true
 			- ((61af5b06-6e31-4a79-929c-8d7c382096a5))
 			-
 		- ¿Cuales son los tipos de incidencia?
