@@ -270,6 +270,7 @@ collapsed:: true
 			- Incidencia estatutaria
 				- Es la obligación legal de un impuesto  referente a la persona que fue fijada por la ley para pagar el impuesto
 			- incidencia económica
+			  collapsed:: true
 				- Consiste en determinar quien paga realmente las cargas  que colocan los  impuestos en la práctica.
 				- ¿Puede la ley establecer la incidencia económica?
 				  collapsed:: true
