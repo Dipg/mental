@@ -237,7 +237,6 @@ collapsed:: true
 # Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
 - # Unidad 4 ![📑](../assets/Unidad_4_1637751172084_0.pdf) ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf)
 	- ¿ En que consiste la incidencia  tributaria?
-	  collapsed:: true
 		- Consiste en saber qui paga verdaderamente la carga de impuestos
 		- ¿ Que se entiende por cargas de impuestos?
 		  collapsed:: true
@@ -269,7 +268,6 @@ collapsed:: true
 			-
 		- ¿Cuales son los tipos de incidencia?
 			- Incidencia estatutaria
-			  collapsed:: true
 				- Es la obligación legal de un impuesto  referente a la persona que fue fijada por laley para pagar el impuesto
 			- incidencia económica
 			  collapsed:: true
@@ -287,6 +285,7 @@ collapsed:: true
 			- Elasticidades precio de la función oferta
 		-
 	- Incidencia tributaria a trevés del ciclo de vida [ 📜​](61aac79f-6a8f-4c0b-8c59-f3c81744c385) #yellow
+	  collapsed:: true
 		- ¿En que consiste el enfoque de la incidencia tributaria en  el ciclo de vida? #yellow
 		  collapsed:: true
 			- >Consiste en 📏 el 🤑 recibidos por los contribuyentes  a lo ⌛ y 🕵️‍♂️, la carga tributaria que los afecto a lo largo de la misma.
