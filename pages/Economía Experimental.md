@@ -17,6 +17,7 @@
 		- ((61b8ad40-932c-40e8-b87d-050b79417f95))
 		- ((61b8ad6a-0ae3-4188-b746-d99aafe347fe))
 		- Donde en un subconjunto E existe una elección (elemento) dominante x >= y o x>y, donde el investigador tienen una lista exógena de problemas de decisión  ((61b8b387-c8c9-4052-9881-bdcd6c4b63e7))
+		-
 	- ![Azrieli_Chambers_Healy-CombinedDecisions ES.pdf](../assets/Azrieli_Chambers_Healy-CombinedDecisions_ES_1639428481357_0.pdf)
 - ![Experimental Teory ES.pdf](../assets/Experimental_Teory_ES_1639493823887_0.pdf)
 - ![Azrieli_Chambers_Healy-CombinedDecisions_short.pdf](../assets/Azrieli_Chambers_Healy-CombinedDecisions_short_1639495103494_0.pdf)
