@@ -212,3 +212,7 @@
   ls-type:: annotation
   hl-page:: 51
   id:: 61b896d6-b849-4881-9909-7c9eb8721cc8
+- s  oferentes  tienen  una disminución  de  precio  que  es  igual  a  la  tasa  del  impuesto  aplicado.
+  ls-type:: annotation
+  hl-page:: 51
+  id:: 61b89720-9426-4d92-a835-f83c12fc8be1
