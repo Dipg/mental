@@ -62,7 +62,8 @@
 	  ```
 	- https://plotly.com/python/templates/
 - Modificar Posición y estilo de Leyendas en grafica Plotly
-	- Para Modificar  las leyendas puedo usar los comados deplotly expres
+	- Para Modificar  las leyendas puedo usar los comados deplotly expres (px)
+	- https://plotly.com/python/legend/#legend-position
 	- ```python
 	  import plotly.graph_objects as go
 	  import plotly
