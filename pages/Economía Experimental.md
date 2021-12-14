@@ -24,7 +24,7 @@
 		- Las preferencias no tienen por qué ser "egoístas"  y  no  tienen  por  qué  ajustarse  a  ningún  modelo  teórico  de  decisión  como  la utilidad esperada.
 		- Los elementos $\geq$-dominantes de cualquier conjunto $E ⊆X$ se denotan por
 		- ((61b8b5e7-da08-4483-a11c-daf83f7339a8))
-		- Que se lee como: Un elemento dominante del conjunto $$E$$ es igual a $$x$$
+		- Que se lee como: Un elemento dominante del conjunto $E$ es igual a $x$$
 	- ![Azrieli_Chambers_Healy-CombinedDecisions ES.pdf](../assets/Azrieli_Chambers_Healy-CombinedDecisions_ES_1639428481357_0.pdf)
 - ![Experimental Teory ES.pdf](../assets/Experimental_Teory_ES_1639493823887_0.pdf)
 - ![Azrieli_Chambers_Healy-CombinedDecisions_short.pdf](../assets/Azrieli_Chambers_Healy-CombinedDecisions_short_1639495103494_0.pdf)
