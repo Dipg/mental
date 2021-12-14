@@ -208,3 +208,7 @@
   ls-type:: annotation
   hl-page:: 50
   id:: 61b891db-a260-46fa-a3d6-419dcaeca779
+- u excedente  agregado antes de  impuesto es exactamente  igual a cero
+  ls-type:: annotation
+  hl-page:: 51
+  id:: 61b896d6-b849-4881-9909-7c9eb8721cc8
