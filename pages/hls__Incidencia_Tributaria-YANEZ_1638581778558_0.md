@@ -168,3 +168,7 @@
   ls-type:: annotation
   hl-page:: 49
   id:: 61b8814c-5164-427b-a07c-e56e406af7b5
+- La  elasticidad  precio  de  la  demanda  es  un  indicador  del  grado  de  sensibilidad  o  de respuesta de la cantidad consumida de un bien o servicio por los consumidores ante variaciones  en  el  precio  de  compra  del  producto
+  ls-type:: annotation
+  hl-page:: 49
+  id:: 61b881d8-f019-4650-9511-96c23e461959
