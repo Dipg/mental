@@ -426,4 +426,5 @@ collapsed:: true
 -
   ---
 - Rev
-	- ¿Por que la incidencia tributaria se grafica como un rectángulo debajo del precio que incluye el impuesto  y por encima
+	- ¿Por que la incidencia tributaria se grafica como un rectángulo debajo del precio que incluye el impuesto  y por encima  de precio sin impuesto?
+		- Esto es debido a que
