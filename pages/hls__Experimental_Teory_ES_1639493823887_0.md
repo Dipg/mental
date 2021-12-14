@@ -9,3 +9,7 @@ file-path:: ../assets/Experimental_Teory_ES_1639493823887_0.pdf
   ls-type:: annotation
   hl-page:: 8
   id:: 61b8b4a2-e69a-427b-912f-5464d58c9d57
+- El  conjunto  de  posibles objetos  de  elección  viene dado  por X.  No  se  asume  ninguna estructura sobre X; los ejemplos de posibles x ∈X incluyen bienes de consumo, loterías, urnas ambiguas, estrategias en un juego, estrategias de comportamiento en un juego de forma  extensiva,  decisiones  laborales  en  el  campo,  donaciones  a  la  caridad  y  flujos  de consumo futuro.
+  ls-type:: annotation
+  hl-page:: 7
+  id:: 61b8b628-c90c-4f7a-a05f-1ee2609901bc
