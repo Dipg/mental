@@ -289,7 +289,6 @@ collapsed:: true
 				- Es un indicador que mide el grado de ==sensibilidad== o de respuesta de la ==cantidad== consumida de un bien o servicios por los consumidores ==ante variaciones== en el precio de compra del producto
 				- ¿Qué pasa cuando tenemos  una función de demanda infinitamente inelástica?
 					- Primero...
-					  collapsed:: true
 						- La carga del impuesto solo tiene el componente carga directa y no carga excesiva
 					- Segundo...
 					  collapsed:: true
