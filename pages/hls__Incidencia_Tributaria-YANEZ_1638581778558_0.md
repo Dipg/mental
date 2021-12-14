@@ -196,3 +196,7 @@
   ls-type:: annotation
   hl-page:: 50
   id:: 61b886aa-1a10-470d-9707-09511e0b833a
+- no  habrá pérdida  de  eficiencia  o  carga  excesiva  colocada  por  el  impuesto.
+  ls-type:: annotation
+  hl-page:: 50
+  id:: 61b886ec-9e22-45ff-8739-d056b4af5e4d
