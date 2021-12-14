@@ -298,7 +298,6 @@ collapsed:: true
 					  collapsed:: true
 						- La cantidad demanda es la misma antes y despues de aplicar el impuesto
 					- Cuarto...
-					  collapsed:: true
 						- No habrá perdida de eficiencia o carga excesiva colocada por el impuesto
 					- Quinto...
 					  collapsed:: true
