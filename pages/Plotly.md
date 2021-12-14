@@ -118,4 +118,4 @@
 	  fig.show()
 	  # plotly.offline.plot(fig, filename='name.html')
 	  ```
-	-
+	- ![image.png](../assets/image_1639512790381_0.png)
