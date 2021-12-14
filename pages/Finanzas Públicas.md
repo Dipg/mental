@@ -251,7 +251,6 @@ collapsed:: true
 					- Esta peridida de eficiencia se genera al modificar la asignacoion de recursos (originalmente perfecta)
 		- ¿Cuales son los componenestes de la carga total?
 			- Carga directa
-			  collapsed:: true
 				- La cargad directa es el total de impuestos recaudados por el gobierno que pagan los contribuyentes , se representa normalmente como porcentaje o fracción  del [[PIB]]
 				-
 			- Carga indirecta
