@@ -22,7 +22,7 @@
 		- ((61b8b628-c90c-4f7a-a05f-1ee2609901bc))
 		- El sujeto tiene una relación de preferencia  $\geq$  sobre $X$. No hacemos ninguna suposición sobre  $\geq$ más que la completitud y la transitividad.
 		- Las preferencias no tienen por qué ser "egoístas"  y  no  tienen  por  qué  ajustarse  a  ningún  modelo  teórico  de  decisión  como  la utilidad esperada.
-		- Los elementos º-dominantes de cualquier conjunto E ⊆X se denotan por
+		- Los elementos $\geq$-dominantes de cualquier conjunto E ⊆X se denotan por
 		-
 		-
 		- ((61b8b5e7-da08-4483-a11c-daf83f7339a8))
