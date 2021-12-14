@@ -272,7 +272,7 @@ collapsed:: true
 				- ¿Cómo modifica la grafica la un impuesto unitario con incidencia estatutaria sobre los oferentes?
 				  collapsed:: true
 					- ((61b8847b-e4e2-4b5d-a56e-9bc4d9901f5c))
-				- ¿c
+				- ¿C
 			- incidencia económica
 				- Consiste en determinar quien paga realmente las cargas  que colocan los  impuestos en la práctica.
 				- ¿Puede la ley establecer la incidencia económica?
