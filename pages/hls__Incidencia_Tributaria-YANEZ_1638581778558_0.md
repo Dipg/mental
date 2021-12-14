@@ -192,3 +192,7 @@
   ls-type:: annotation
   hl-page:: 50
   id:: 61b885a6-381d-4ab2-a4ce-f75362aae901
+- a  cantidad de  equilibrio es la misma  antes  y  después  de  aplicado  el  impuesto. 
+  ls-type:: annotation
+  hl-page:: 50
+  id:: 61b886aa-1a10-470d-9707-09511e0b833a
