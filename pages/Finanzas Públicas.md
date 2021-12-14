@@ -237,8 +237,10 @@ collapsed:: true
 # Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
 - # Unidad 4 ![📑](../assets/Unidad_4_1637751172084_0.pdf) ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf)
 	- ¿ En que consiste la incidencia  tributaria?
+	  collapsed:: true
 		- Consiste en saber qui paga verdaderamente la carga de impuestos
 		- ¿ Que se entiende por cargas de impuestos?
+		  collapsed:: true
 			- Se refiere a la proporción de impuesto que paga cada lado del mercado mas la proporción de la pérdida de eficiencia que soporta cada uno de ellos, esto es esta formada por dos componentes:
 				- La carga tributaria o directa 
 				  collapsed:: true
@@ -249,6 +251,7 @@ collapsed:: true
 					- Es la perdida de eficiencia esta perdida de eficiencia  es una perdida de bienestar que incurre los agentes económicos al pagar un impuesto.
 					- Esta peridida de eficiencia se genera al modificar la asignacoion de recursos (originalmente perfecta)
 		- ¿Cuales son los componenestes de la carga total?
+		  collapsed:: true
 			- Carga directa
 			  collapsed:: true
 				- La cargad directa es el total de impuestos recaudados por el gobierno que pagan los contribuyentes , se representa normalmente como porcentaje o fracción  del [[PIB]]
