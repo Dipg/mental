@@ -297,7 +297,7 @@ collapsed:: true
 					- Tercero..
 						- La cantidad demanda es la misma antes y despues de aplicar el impuesto
 						- ¿Por que razón los consumidores no alteran su consumo?
-						- Simple, ellos optienen
+						- Simple, ellos optienen de esa cantidad una ganacia
 					- Cuarto...
 					  collapsed:: true
 						- No habrá perdida de eficiencia o carga excesiva colocada por el impuesto
