@@ -426,4 +426,4 @@ collapsed:: true
 -
   ---
 - Rev
-	- ¿
+	- ¿Por que la incidencia tributaria se grafica como un re
