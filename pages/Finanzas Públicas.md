@@ -294,6 +294,8 @@ collapsed:: true
 					- Segundo...
 					  collapsed:: true
 						- La incidencia económica del impuesto recae totalmente sobre los sumadores, incluso si la ley dice que el impuesto lo pagan los oferentes , incidencia estatutaria
+					- Tercero..
+						-
 			- Elasticidades precio de la función oferta
 			- ¿Cuándo la incidencia económica del impuesto recae totalmente sobre los consumidores?
 				- Cuando se presenta una demanda perfectamente inelástica
