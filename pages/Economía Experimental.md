@@ -13,7 +13,7 @@
 		- Esta lineación hacia un bien común genera algunos beneficios al instante:
 			- [](#1.)  Una recompensa constante al usuario del sistema, lo cual atrae a nuevos usuarios
 			- [](#2.) Los datos del sistema ayudan a los diseñadores a recopilar datos e influir de mejor manera agregando o modificando dichos incentivos de ser esto necesario (KK Jain , 2018)
-	- Un conjunto de elecciones   viene dado por $X$
+	- ((61b8ad40-932c-40e8-b87d-050b79417f95))
 	- ![Azrieli_Chambers_Healy-CombinedDecisions ES.pdf](../assets/Azrieli_Chambers_Healy-CombinedDecisions_ES_1639428481357_0.pdf)
 -
 -

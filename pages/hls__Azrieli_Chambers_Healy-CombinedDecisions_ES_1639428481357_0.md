@@ -62,3 +62,7 @@
   ls-type:: annotation
   hl-page:: 10
   id:: 61b7b869-a5f9-4d9b-9b55-2a3113d169bf
+- El  conjunto  de  objetos  de  elección  posibles  viene  dado  por  X .  No  se  asume  ninguna  estructura sobre X
+  ls-type:: annotation
+  hl-page:: 12
+  id:: 61b8ad40-932c-40e8-b87d-050b79417f95
