@@ -282,7 +282,8 @@ collapsed:: true
 		-
 	- [](#6.)  Determinantes de la incidencia económica de un impuesto
 		- ¿Cuales son los principales determinantes de quien paga la carga de impuestos?
-			- Elasticidades precio de la función
+			- Elasticidades precio de la función demanda
+			- Elasticidades precio de la
 		-
 	- Incidencia tributaria a trevés del ciclo de vida [ 📜​](61aac79f-6a8f-4c0b-8c59-f3c81744c385) #yellow
 	  collapsed:: true
