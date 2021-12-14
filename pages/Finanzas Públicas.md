@@ -292,7 +292,7 @@ collapsed:: true
 						- La carga del impuesto solo tiene el componente carga directa y no carga excesiva
 			- Elasticidades precio de la función oferta
 			- ¿Cuándo la incidencia económica del impuesto recae totalmente sobre los consumidores?
-				- Cuando se presenta
+				- Cuando se presenta una demanda perfectamente inelastica
 	- Incidencia tributaria a trevés del ciclo de vida [ 📜​](61aac79f-6a8f-4c0b-8c59-f3c81744c385) #yellow
 	  collapsed:: true
 		- ¿En que consiste el enfoque de la incidencia tributaria en  el ciclo de vida? #yellow
