@@ -297,7 +297,7 @@ collapsed:: true
 					- Tercero..
 						- La cantidad demanda es la misma antes y despues de aplicar el impuesto
 						- ¿Por que razón los consumidores no alteran su consumo?
-						- Simple, ellos obtienen de esa cantidad una ganancia o excedente agregado infinitamente grande o necesario, como lo producen los bienes de consumo básico, biens o servicios que satis
+						- Simple, ellos obtienen de esa cantidad una ganancia o excedente agregado infinitamente grande o necesario, como lo producen los bienes de consumo básico, biens o servicios que satisfacen urgencias , vicios
 					- Cuarto...
 					  collapsed:: true
 						- No habrá perdida de eficiencia o carga excesiva colocada por el impuesto
