@@ -237,7 +237,6 @@ collapsed:: true
 # Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
 - # Unidad 4 ![📑](../assets/Unidad_4_1637751172084_0.pdf) ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf)
 	- ¿ En que consiste la incidencia  tributaria?
-	  collapsed:: true
 		- Consiste en saber qui paga verdaderamente la carga de impuestos
 		- ¿ Que se entiende por cargas de impuestos?
 		  collapsed:: true
@@ -283,10 +282,11 @@ collapsed:: true
 			-
 		-
 	- Incidencia tributaria a trevés del ciclo de vida [ 📜​](61aac79f-6a8f-4c0b-8c59-f3c81744c385) #yellow
+	  collapsed:: true
 		- ¿En que consiste el enfoque de la incidencia tributaria en  el ciclo de vida? #yellow
 		  collapsed:: true
-			- >Consiste en 📏 el 🤑 recibidos por los 👥  a lo ⌛ y 🕵️‍♂️, la carga tributaria que los afecto a lo largo de la misma.
-		- ¿En que consiste el enfoque anual? #green
+			- >Consiste en 📏 el 🤑 recibidos por los contribuyentes  a lo ⌛ y 🕵️‍♂️, la carga tributaria que los afecto a lo largo de la misma.
+		- ¿En que consiste el enfoque anual? #yellow
 		  collapsed:: true
 			- Consiste en medir la base del impuesto en un año calendario
 			- ¿Caso Chile?
@@ -295,7 +295,7 @@ collapsed:: true
 				- % de los honorarios
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida? #yellow
 		  collapsed:: true
-			- Primero ... #green
+			- Primero ... #yellow
 			  collapsed:: true
 				- ¿Cómo evolucionan los ingresos según la teoría del ⌛  a través del tiempo?
 				  collapsed:: true
@@ -305,9 +305,10 @@ collapsed:: true
 					- ¿ Que nos lleva  a pensar esto ?
 					  collapsed:: true
 						- Es nos lleva a pensar que existe una diferencia entre el ingreso anual e ingreso del ciclo de vida
-			- Segundo... #green
+			- Segundo... #yellow
 			  collapsed:: true
-				- La 💣 del 💰en el caso de.. #green
+				- La 💣 del 💰en el caso de.. #yellow
+				  collapsed:: true
 					- Trabajadores independientes , que trabajan una epoca y otra no
 					- El caso de los despidos
 			- Tercero... #yellow
@@ -317,6 +318,7 @@ collapsed:: true
 				  collapsed:: true
 					- Se paga impuestos similares sobre su ciclo de vida
 				- Sistema tributario equitativo verticalmente
+				  collapsed:: true
 					- Pagan impuestos mas altos los ingresos mas altos del ciclo de vida
 				- ¿Por que deberían estar preocupados los hacedores d política?
 				  collapsed:: true
@@ -393,5 +395,4 @@ collapsed:: true
 		- Conclusión #yellow
 		  collapsed:: true
 			- La incidencia tributaria sobre el ciclo de vida analiza mi evolución de ingresos con respecto a mi edad  y al final se observa que existe un gran sesgo hacia los estratos mas bajos de la distribución de ingresos e impacta mucho la evolución de la temporalidad en la cual una persona se encuentre para fijar ese nivel de ingresos acumulados
--
 -
