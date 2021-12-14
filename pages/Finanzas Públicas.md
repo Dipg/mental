@@ -301,7 +301,10 @@ collapsed:: true
 					  collapsed:: true
 						- No habrá perdida de eficiencia o carga excesiva colocada por el impuesto
 					- Quinto...
+					  collapsed:: true
 						- Los oferentes reciben el mismo precio que  ingresaban con y sin impuestos , esto debido a que aunque aumente el precio, este aumento es debido al impuesto por lo que se va al gobierno y no a las empresas oferentes
+					- Sexto...
+					-
 			- Elasticidades precio de la función oferta
 			- ¿Cuándo la incidencia económica del impuesto recae totalmente sobre los consumidores?
 				- Cuando se presenta una demanda perfectamente inelástica
