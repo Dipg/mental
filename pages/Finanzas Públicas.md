@@ -281,7 +281,7 @@ collapsed:: true
 			-
 		-
 	- [](#6.)  Determinantes de la incidencia económica de un impuesto
-		-
+		- ¿Cuales son los principales
 	- Incidencia tributaria a trevés del ciclo de vida [ 📜​](61aac79f-6a8f-4c0b-8c59-f3c81744c385) #yellow
 	  collapsed:: true
 		- ¿En que consiste el enfoque de la incidencia tributaria en  el ciclo de vida? #yellow
