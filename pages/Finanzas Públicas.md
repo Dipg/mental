@@ -298,6 +298,7 @@ collapsed:: true
 					  collapsed:: true
 						- La cantidad demanda es la misma antes y despues de aplicar el impuesto
 					- Cuarto
+					  collapsed:: true
 						- No habrá perdida de eficiencia o carga excesiva colocada por el impuesto
 			- Elasticidades precio de la función oferta
 			- ¿Cuándo la incidencia económica del impuesto recae totalmente sobre los consumidores?
