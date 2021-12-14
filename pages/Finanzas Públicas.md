@@ -237,6 +237,7 @@ collapsed:: true
 # Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
 - # Unidad 4 ![📑](../assets/Unidad_4_1637751172084_0.pdf) ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf)
 	- ¿ En que consiste la incidencia  tributaria?
+	  collapsed:: true
 		- Consiste en saber qui paga verdaderamente la carga de impuestos
 		- ¿ Que se entiende por cargas de impuestos?
 		  collapsed:: true
@@ -267,6 +268,7 @@ collapsed:: true
 			- ((61af5b06-6e31-4a79-929c-8d7c382096a5))
 			-
 		- ¿Cuales son los tipos de incidencia?
+		  collapsed:: true
 			- Incidencia estatutaria
 				- Es la obligación legal de un impuesto  referente a la persona que fue fijada por la ley para pagar el impuesto
 				- ¿Cómo es la grafica de oferta y demanda cuando se impone   un ==impuesto unitario== con incidencia estatutaria sobre los oferentes?
