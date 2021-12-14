@@ -66,3 +66,7 @@
   ls-type:: annotation
   hl-page:: 12
   id:: 61b8ad40-932c-40e8-b87d-050b79417f95
+- incluyen bienes de consumo, loterías,urnas ambiguas,  estrategias  en  un  juego,  estrategias  de  comportamiento  en  un  juego  de  forma  extensiva,  decisiones  laborales  en  el  campo,  donaciones  a  la  caridad  y  flujos  de consumo futuro.
+  ls-type:: annotation
+  hl-page:: 12
+  id:: 61b8ad6a-0ae3-4188-b746-d99aafe347fe
