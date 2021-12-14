@@ -20,7 +20,7 @@
 		-
 		  ----
 		- ((61b8b628-c90c-4f7a-a05f-1ee2609901bc))
-		- E
+		- El sujeto tiene una relación de preferencia   sobre X. No hacemos ninguna suposición sobre º más que la completitud y la transitividad.
 		- ((61b8b5e7-da08-4483-a11c-daf83f7339a8))
 	- ![Azrieli_Chambers_Healy-CombinedDecisions ES.pdf](../assets/Azrieli_Chambers_Healy-CombinedDecisions_ES_1639428481357_0.pdf)
 - ![Experimental Teory ES.pdf](../assets/Experimental_Teory_ES_1639493823887_0.pdf)
