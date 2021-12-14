@@ -62,7 +62,7 @@
 	  ```
 	- https://plotly.com/python/templates/
 - Modificar Posición y estilo de Leyendas en grafica Plotly
-	- Para Modificar el
+	- Para Modificar  las
 	- ```python
 	  import plotly.graph_objects as go
 	  import plotly
