@@ -63,5 +63,59 @@
 	- https://plotly.com/python/templates/
 - Modificar Posición y estilo de Leyendas en grafica Plotly
 	- ```python
+	  import plotly.graph_objects as go
+	  import plotly
+	  fig = go.Figure()
+	  
+	  fig.add_trace(go.Scatter(
+	              x=result["t"],
+	              y=result["SegP_Hospita"],
+	              text=result["SegP_Hospita"],
+	              mode='lines+markers+text',
+	      textposition='top center',
+	              name="Seguro Privado  Hospitalario",
+	  #             line_shape='linear'
+	              
+	  #             marker_color='indianred',
+	  #             textposition="inside",
+	          ))
+	  
+	  fig.add_trace(go.Scatter(
+	              x=result["t"],
+	              y=result["SegP_NO_Hospita"],
+	              text=result["SegP_NO_Hospita"],
+	              mode='lines+markers+text',
+	      textposition='top center',
+	              name="Seguro Privado No Hospitalario",
+	  #             line_shape='linear'
+	              
+	  #             marker_color='indianred',
+	  #             textposition="inside",
+	          ))
+	  
+	  fig.update_layout(title='Crecimiento de Seguros Privados Hospitalarios y No Hospitalarios',  title_x=0.2,
+	                     xaxis_title='Meses',
+	                     yaxis_title='Nº de Personas')
+	  
+	  
+	  fig.update_layout(legend=dict(
+	      orientation="h",
+	      yanchor="bottom",
+	      y=-0.3,
+	      xanchor="right",
+	      x=0.82,
+	           font=dict(
+	  #             family="Times",
+	              size=16,
+	              color="black"
+	          ),
+	  #             bgcolor="LightSteelBlue",
+	          bordercolor="Black",
+	          borderwidth=1
+	      
+	  ))
+	  
+	  fig.show()
+	  # plotly.offline.plot(fig, filename='name.html')
 	  ```
 -
