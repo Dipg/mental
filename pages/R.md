@@ -6,4 +6,4 @@
 - ```terminal
   version
   ```
--
+- Cambiar Imagen de t
