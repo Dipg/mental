@@ -18,7 +18,8 @@
   ```
 - https://www.javatpoint.com/how-to-create-a-dataframes-in-python
 - Importar Excel en Pandas
-	-
+	- ```python
+	  ```
 - Columnas
 	-
 	- Cambiar nombres de columnas
