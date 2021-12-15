@@ -30,5 +30,5 @@
 	  ```
 	- https://www.tutorialspoint.com/how-to-remove-rows-from-data-frame-in-r-that-contains-nan
 -
-- Analisis Clusters
-	-
+- Análisis Clústers
+	- K-Means
