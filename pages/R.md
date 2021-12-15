@@ -12,7 +12,7 @@
 	  ```
 	- ![image.png](../assets/image_1639531345532_0.png){:height 182, :width 239}
 	- ![image.png](../assets/image_1639531351044_0.png){:height 473, :width 683}
-	-
+	- {{renderer :linkpreview,https://blog.revolutionanalytics.com/2015/09/resizing-plots-in-the-r-kernel-for-jupyter-notebooks.html}}
 - Importar datos de Spss en R - Importar dataframe sps en R
 	- ```r
 	  library(haven)
