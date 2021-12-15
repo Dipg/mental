@@ -28,4 +28,5 @@
 	- ```r
 	  df2<−na.omit(df2)
 	  ```
+-
 - Analisis
