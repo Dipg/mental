@@ -21,7 +21,8 @@
 	- ```python
 	  df = pd.read_excel('example.xlsx', sheet_name='example')
 	  ```
-- Convertir datafrme
+- Convertir dataframe pandas en excel
+- df = pd.read_excel('example.xlsx', sheet_name='example')
 - Columnas
 	-
 	- Cambiar nombres de columnas
