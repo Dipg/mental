@@ -116,4 +116,4 @@
 	  df.isna().sum()
 	  ```
 	- {{renderer :linkpreview,https://stackoverflow.com/questions/26266362/how-to-count-the-nan-values-in-a-column-in-pandas-dataframe}}
-- Rel
+- Rellenar valores faltantes con
