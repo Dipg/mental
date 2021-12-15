@@ -104,4 +104,4 @@
 	  ```
 	- https://catriscode.com/2021/02/27/creating-time-range-in-python/
 	- https://stackoverflow.com/questions/34915828/pandas-date-range-to-generate-monthly-data-at-beginning-of-the-month
-- Estraer nombre de columnas Pandas
+- Extraer nombre de columnas Pandas, optener no
