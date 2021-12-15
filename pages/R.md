@@ -21,4 +21,6 @@
 	- {{renderer :linkpreview,https://rpubs.com/dsulmont/475703}}
 - Seleccionar un Subconjunto especifico de  de columnas por nombre en R
 	- ```r
+	  df[,c("A","B","E")] 
 	  ```
+-
