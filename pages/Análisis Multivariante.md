@@ -1,4 +1,5 @@
 - Análisis descimiéntate
+  collapsed:: true
 	- Supuestos de Normalidad Multivariante
 	- Supuesto de Homocedasticidad
 	- Supuesto de Homocedasticidad
@@ -11,3 +12,4 @@
 	- Discriminante de Fisher
 	- Calculo de la probabilidad de error
 	- lambda da de Wilks
+-
