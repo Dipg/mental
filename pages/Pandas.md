@@ -19,7 +19,9 @@
 - https://www.javatpoint.com/how-to-create-a-dataframes-in-python
 - Importar Excel en Pandas
 	- ```python
+	  df = pd.read_excel('example.xlsx', sheet_name='example')
 	  ```
+- Convertir datafrme
 - Columnas
 	-
 	- Cambiar nombres de columnas
