@@ -28,5 +28,6 @@
 	- ```r
 	  df2<−na.omit(df2)
 	  ```
+	- https://www.tutorialspoint.com/how-to-remove-rows-from-data-frame-in-r-that-contains-nan
 -
 - Analisis
