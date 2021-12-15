@@ -17,4 +17,4 @@
 	  library(haven)
 	  enaho17_m1_A <- as.data.frame(read_sav("Enaho01-2017-100.sav"))
 	  ```
-	-
+	- {{renderer :linkpreview,https://rpubs.com/dsulmont/475703}}
