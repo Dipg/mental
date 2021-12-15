@@ -24,7 +24,7 @@
 	  df[,c("A","B","E")] 
 	  ```
 	- {{renderer :linkpreview,https://stackoverflow.com/questions/10085806/extracting-specific-columns-from-a-data-frame}}
-- Eliminar NaN en datafr R- Eliminar valores ausentes en R
+- Eliminar NaN en datafrane  R- Eliminar valores ausentes de dataframe en R
 	- ```r
 	  df2<−na.omit(df2)
 	  ```
