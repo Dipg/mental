@@ -120,4 +120,4 @@
 	- ```python
 	  df.fillna(df.mean())
 	  ```
-	- https://stackoverflow.com/questions/18689823/pandas-dataframe-replace-nan-values-with-average-of-columns
+	- {{renderer :linkpreview,https://stackoverflow.com/questions/18689823/pandas-dataframe-replace-nan-values-with-average-of-columns}}
