@@ -25,7 +25,7 @@
 	- ```python
 	  df.to_excel('example.xlsx', sheet_name='example')
 	  ```
-	-
+	- {{renderer :linkpreview,https://www.analyticslane.com/2018/07/30/guardar-y-leer-archivos-excel-en-python/}}
 - Columnas
 	-
 	- Cambiar nombres de columnas
