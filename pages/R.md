@@ -6,4 +6,4 @@
 - ```terminal
   version
   ```
-- Cambiar Imagen de t
+- Cambiar Imagen de tamaño - Cambiar plot de tamaño en J
