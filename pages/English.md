@@ -1,4 +1,4 @@
 - It was about time!
 	- ¡Era cuestión de tiempo!
 - improvements
-	- Mejor
+	- Mejoras
