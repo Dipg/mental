@@ -13,5 +13,8 @@
 	- ![image.png](../assets/image_1639531345532_0.png){:height 182, :width 239}
 	- ![image.png](../assets/image_1639531351044_0.png){:height 473, :width 683}
 - Importar datos de Spss en R - Importar dataframe sps en R
-	-
+	- ```r
+	  library(haven)
+	  enaho17_m1_A <- as.data.frame(read_sav("Enaho01-2017-100.sav"))
+	  ```
 	-
