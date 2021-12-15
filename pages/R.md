@@ -24,4 +24,5 @@
 	  df[,c("A","B","E")] 
 	  ```
 	- {{renderer :linkpreview,https://stackoverflow.com/questions/10085806/extracting-specific-columns-from-a-data-frame}}
+- Eliminar
 - Analisis
