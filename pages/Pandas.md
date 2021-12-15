@@ -117,4 +117,7 @@
 	  ```
 	- {{renderer :linkpreview,https://stackoverflow.com/questions/26266362/how-to-count-the-nan-values-in-a-column-in-pandas-dataframe}}
 - Rellenar valores faltantes con promedio de columna en pandas,  Fill NaN whit average in data frame pandas
-	-
+	- ```python
+	  df.fillna(df.mean())
+	  ```
+	- https://stackoverflow.com/questions/18689823/pandas-dataframe-replace-nan-values-with-average-of-columns
