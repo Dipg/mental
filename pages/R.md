@@ -10,4 +10,5 @@
 	- ```R
 	  options(repr.plot.width=22, repr.plot.height=15)
 	  ```
-	-
+	- ![image.png](../assets/image_1639531345532_0.png){:height 182, :width 239}
+	- ![image.png](../assets/image_1639531351044_0.png){:height 473, :width 683}
