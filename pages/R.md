@@ -7,4 +7,5 @@
   version
   ```
 - Cambiar Imagen de tamaño en r  - Cambiar plot de tamaño en r en Jupyter
-	- C
+	- ```R
+	  ```
