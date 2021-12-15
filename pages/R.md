@@ -6,4 +6,5 @@
 - ```terminal
   version
   ```
-- Cambiar Imagen de tamaño - Cambiar plot de tamaño en r en Jupyter
+- Cambiar Imagen de tamaño en r  - Cambiar plot de tamaño en r en Jupyter
+	- C
