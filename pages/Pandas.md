@@ -116,4 +116,5 @@
 	  df.isna().sum()
 	  ```
 	- {{renderer :linkpreview,https://stackoverflow.com/questions/26266362/how-to-count-the-nan-values-in-a-column-in-pandas-dataframe}}
-- Rellenar valores faltantes con promedio de columna en pandas,  Fill NaN whit average
+- Rellenar valores faltantes con promedio de columna en pandas,  Fill NaN whit average in data frame pandas
+	-
