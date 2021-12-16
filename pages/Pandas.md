@@ -140,4 +140,5 @@
 	- ```python
 	  df.dropna(axis='columns')
 	  ```
-	- cedeep
+	- ```python
+	  ```
