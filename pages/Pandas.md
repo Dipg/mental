@@ -135,4 +135,4 @@
 	  class_23 = titanic[titanic["Pclass"].isin([2, 3])]
 	  ```
 	- ![image.png](../assets/image_1639648274136_0.png)
-	- https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html
+	- {{renderer :linkpreview,https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html}}
