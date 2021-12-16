@@ -134,3 +134,4 @@
 	- ```python
 	  class_23 = titanic[titanic["Pclass"].isin([2, 3])]
 	  ```
+	- ![image.png](../assets/image_1639648274136_0.png)
