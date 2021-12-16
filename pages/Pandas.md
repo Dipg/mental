@@ -138,4 +138,6 @@
 	- {{renderer :linkpreview,https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html}}
 - Eliminar columnas que contengan NaN pandas
 	- ```python
+	  df.dropna(axis='columns')
 	  ```
+	-
