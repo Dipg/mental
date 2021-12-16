@@ -242,6 +242,5 @@
 	  ```
 	- ![image.png](../assets/image_1639648033214_0.png)
 - Scatter Plot en plotly
-	- ```python
-	  ```
+	- https://plotly.com/python/line-and-scatter/
 - incremnetar el numero de tickets axis label plotly
