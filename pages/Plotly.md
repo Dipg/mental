@@ -65,7 +65,6 @@
 	- Para Modificar  las leyendas puedo usar los comados deplotly expres (px)
 	- https://plotly.com/python/legend/#legend-position
 	- Code
-	  collapsed:: true
 		- ```python
 		  import plotly.graph_objects as go
 		  import plotly
