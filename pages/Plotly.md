@@ -188,7 +188,7 @@
 		  ```
 - Incrementar NUmero de Ticks , Incrementar numero de labels axis plotly
 	- change zise plotly plot
-	- cmabiar tamño de
+	- cmabiar tamño de grafico plotly
 	- ```python
 	  import plotly.graph_objects as go
 	  import numpy as np
