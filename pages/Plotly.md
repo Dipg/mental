@@ -244,3 +244,4 @@
 - Scatter Plot en plotly
 	- {{renderer :linkpreview,https://plotly.com/python/line-and-scatter/}}
 - incremnetar el numero de tickets axis label plotly
+-
