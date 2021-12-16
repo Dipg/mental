@@ -188,4 +188,5 @@
 		  ```
 - Incrementar NUmero de Ticks , Incrementar numero de labels axis plotly
 	- ![image.png](../assets/image_1639648033214_0.png)
-- Sc
+- Scatter Plot en plotly
+	- ![image.png](../assets/image_1639648045211_0.png)
