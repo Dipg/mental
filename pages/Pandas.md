@@ -162,4 +162,4 @@
 	  ```
 	- ![image.png](../assets/image_1639648921748_0.png)
 	- {{renderer :linkpreview,https://stackoverflow.com/questions/38927099/keyerror-nan-in-dict}}
-- COnvertir todo un dataframe en formato numerico
+- Convertir todo un dataframe en formato numérico
