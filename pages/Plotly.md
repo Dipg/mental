@@ -187,6 +187,55 @@
 		  # plotly.offline.plot(fig, filename='name.html')
 		  ```
 - Incrementar NUmero de Ticks , Incrementar numero de labels axis plotly
+	- ```python
+	  import plotly.graph_objects as go
+	  import numpy as np
+	  
+	  x = med_1_AMS["Gini"]
+	  y = med_1_AMS["Promedio"]
+	  
+	  fig = go.Figure(data=go.Scatter(x=x,
+	                                  y=y,
+	    
+	  #                                 marker_color=data['Population'],
+	  #                                 text=data['State']
+	                                              text=med_1_AMS["index"],
+	              mode='markers+text',
+	      textposition='top center',
+	              name="Seguro Privado  Hospitalario",
+	                                 
+	                                 )) # hover text goes here
+	  
+	  fig.update_layout(
+	      margin=dict(l=20, r=20, t=40, b=40),
+	  #     paper_bgcolor="LightSteelBlue",
+	  )
+	  
+	  fig.update_layout(
+	      autosize=False,
+	      width=800,
+	      height=800,
+	  
+	  #     paper_bgcolor="LightSteelBlue",
+	  )
+	  fig.update_yaxes(
+	  #     range=(-1, 10),
+	  #     ticksubfix="%",
+	      constrain='domain'
+	  )
+	  fig.update_yaxes(nticks=20,tickwidth=2,ticks="outside")
+	  
+	  
+	  fig.update_xaxes(ticks="outside", tickwidth=2,nticks=20)
+	  # fig.update_yaxes(ticks="outside", tickwidth=2, tickcolor='crimson', ticklen=10, col=1)
+	  
+	  
+	  fig.update_layout(title='Growth and equity: some international comparisons',  title_x=0.2,
+	                     xaxis_title='Coeficiente de Gini',
+	                     yaxis_title='Crecimiento Per Capita porcentual promedio 2001-2019')
+	  
+	  fig.show()
+	  ```
 	- ![image.png](../assets/image_1639648033214_0.png)
 - Scatter Plot en plotly
 	- ![image.png](../assets/image_1639648045211_0.png)
