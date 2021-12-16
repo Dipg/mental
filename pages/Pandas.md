@@ -160,3 +160,5 @@
 	- ```python
 	  df['a'] = df['a'].fillna(55)
 	  ```
+	- ![image.png](../assets/image_1639648921748_0.png)
+- stackoverflow
