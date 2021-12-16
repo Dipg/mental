@@ -187,6 +187,7 @@
 		  # plotly.offline.plot(fig, filename='name.html')
 		  ```
 - Incrementar NUmero de Ticks , Incrementar numero de labels axis plotly
+	- change
 	- ```python
 	  import plotly.graph_objects as go
 	  import numpy as np
