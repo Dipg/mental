@@ -152,5 +152,6 @@
 - Buscar todas las columnas sin nombre
 	- Buscar todas las columnas con nana
 	- ```python
+	  df.columns[df.notna().all()]
 	  ```
 -
