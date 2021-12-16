@@ -166,3 +166,4 @@
 	- ```python
 	  df.apply(pd.to_numeric)
 	  ```
+	- {{renderer :linkpreview,https://stackoverflow.com/questions/34844711/convert-entire-pandas-dataframe-to-integers-in-pandas-0-17-0/34844867}}
