@@ -189,7 +189,7 @@
 - Incrementar NUmero de Ticks , Incrementar numero de labels axis plotly
 	- change zise plotly plot
 	- cmabiar tamaño de grafico plotly
-	- https://plotly.com/python/axes/
+	- {{renderer :linkpreview,https://plotly.com/python/axes/}}
 	- ```python
 	  import plotly.graph_objects as go
 	  import numpy as np
