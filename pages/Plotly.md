@@ -186,3 +186,4 @@
 		  fig.show()
 		  # plotly.offline.plot(fig, filename='name.html')
 		  ```
+- Incrementar NUmero de Ti
