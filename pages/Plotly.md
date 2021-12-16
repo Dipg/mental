@@ -186,4 +186,4 @@
 		  fig.show()
 		  # plotly.offline.plot(fig, filename='name.html')
 		  ```
-- Incrementar NUmero de Ti
+- Incrementar NUmero de Ticks , Incrementar numero de
