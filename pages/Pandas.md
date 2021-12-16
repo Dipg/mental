@@ -136,3 +136,4 @@
 	  ```
 	- ![image.png](../assets/image_1639648274136_0.png)
 	- {{renderer :linkpreview,https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html}}
+- Eliminar columnas que c
