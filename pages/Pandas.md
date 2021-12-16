@@ -143,3 +143,4 @@
 	- {{renderer :linkpreview,https://www.codegrepper.com/code-examples/python/pandas+drop+if+all+columns+are+nan}}
 - Eliminar columnas sin nombre
 	- Eliminar columnas con NaN
+	-
