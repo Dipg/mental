@@ -132,4 +132,5 @@
 	- {{renderer :linkpreview,https://stackoverflow.com/questions/18689823/pandas-dataframe-replace-nan-values-with-average-of-columns}}
 - Seleccionar lista de elementos en columna pandas
 	- ```python
+	  class_23 = titanic[titanic["Pclass"].isin([2, 3])]
 	  ```
