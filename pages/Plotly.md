@@ -187,4 +187,5 @@
 		  # plotly.offline.plot(fig, filename='name.html')
 		  ```
 - Incrementar NUmero de Ticks , Incrementar numero de labels axis plotly
-	-
+	- ![image.png](../assets/image_1639648033214_0.png)
+- Sc
