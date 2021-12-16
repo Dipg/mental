@@ -140,5 +140,4 @@
 	- ```python
 	  df.dropna(axis='columns')
 	  ```
-	- ```python
-	  ```
+	- {{renderer :linkpreview,https://www.codegrepper.com/code-examples/python/pandas+drop+if+all+columns+are+nan}}
