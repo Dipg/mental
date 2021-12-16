@@ -130,3 +130,4 @@
 	  df.fillna(df.mean())
 	  ```
 	- {{renderer :linkpreview,https://stackoverflow.com/questions/18689823/pandas-dataframe-replace-nan-values-with-average-of-columns}}
+- Selecionar lista de eleentos en c
