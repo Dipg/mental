@@ -161,4 +161,4 @@
 	  df['a'] = df['a'].fillna(55)
 	  ```
 	- ![image.png](../assets/image_1639648921748_0.png)
-	- https://stackoverflow.com/questions/38927099/keyerror-nan-in-dict *
+	- {{renderer :linkpreview,https://stackoverflow.com/questions/38927099/keyerror-nan-in-dict}}
