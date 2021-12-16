@@ -148,3 +148,4 @@
 	   df = df.loc[:, df.columns.notnull()]
 	  ```
 	- ![image.png](../assets/image_1639648709196_0.png)
+	-
