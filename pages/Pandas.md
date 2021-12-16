@@ -154,4 +154,5 @@
 	- ```python
 	  df.columns[df.notna().all()]
 	  ```
+	- {{renderer :linkpreview,https://www.codegrepper.com/code-examples/python/get+columns+names+having+nan+values+pandas}}
 -
