@@ -148,4 +148,6 @@
 	   df = df.loc[:, df.columns.notnull()]
 	  ```
 	- ![image.png](../assets/image_1639648709196_0.png)
-	-
+	- ```python
+	  https://stackoverflow.com/questions/46101714/pandas-how-to-drop-multiple-columns-with-nan-as-col-name
+	  ```
