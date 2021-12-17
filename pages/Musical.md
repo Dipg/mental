@@ -7,5 +7,5 @@
 	  ---
 	- Tu principe
 	- Amor de pobre
-	- Sensacio
+	- Sensación del bloque
 -
