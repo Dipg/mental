@@ -193,6 +193,7 @@
 - Eliminar la primera  fila de un dataframe pandas
 	- ```python
 	  df = df.iloc[1: , :]
+	  df.drop(df.index[1])
 	  ```
 	- {{renderer :linkpreview,https://thispointer.com/drop-first-row-of-pandas-dataframe-3-ways/}}
 - Poner primera fila como columna pandas
