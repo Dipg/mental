@@ -25,7 +25,7 @@
 	- Amor de pobre
 	- Sensación del bloque
 	- Aparentemente
-	- Soy una gargo
+	- Soy una gargola
 	-
 	  ---
 	- Nadie es mejor que tu -Wisin y yandel Don Omar
