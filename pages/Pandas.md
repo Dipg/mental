@@ -194,3 +194,4 @@
 	- ```python
 	  df = df.iloc[1: , :]
 	  ```
+- Poner
