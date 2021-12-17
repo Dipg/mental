@@ -50,6 +50,8 @@
 	-
 	  ---
 	- 6am jbalbin
+	- ginza -gvallbin
+	- mi
 	-
 	  ---
 	- Morire factoria
