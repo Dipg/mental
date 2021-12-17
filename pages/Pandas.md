@@ -186,4 +186,5 @@
 	- ```python
 	  float(a)
 	  ```
-- Contar el numero de
+- Contar el numero de nan
+-
