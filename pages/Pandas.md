@@ -190,4 +190,4 @@
 	- ```python
 	  df['column name'].isna().sum()
 	  ```
--
+- Eliminar la primera fila
