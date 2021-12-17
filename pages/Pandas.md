@@ -186,5 +186,7 @@
 	- ```python
 	  float(a)
 	  ```
-- Contar el numero de nan
+- Contar el numero de nan ausentes
+	- ```python
+	  ```
 -
