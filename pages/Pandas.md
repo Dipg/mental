@@ -194,6 +194,7 @@
 	- ```python
 	  df = df.iloc[1: , :]
 	  ```
+	- {{renderer :linkpreview,https://thispointer.com/drop-first-row-of-pandas-dataframe-3-ways/}}
 - Poner primera fila como columna pandas
 	- ```python
 	  new_header = df.iloc[0] #Get the first row for the header
