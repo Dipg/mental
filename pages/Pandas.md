@@ -180,6 +180,7 @@
 - Convertir en numero python pandas , convertir en entero
 	- ```python
 	  int(float(a))
+	  pd.to_numeric(s)
 	  ```
 - Convertir en flotante
 	- ```python
