@@ -25,7 +25,6 @@
 		- rakata
 		- Calor Sudor -Wisn
 		- Mayor que yo
-	- 5 letras me quiere besar
 	- eso no quiere decir que pa la cama voy
 	- Noche de sexo
 	- Yo no soy tu marido
@@ -46,6 +45,7 @@
 	- Atrevete
 	- pegao wison
 	- por eso mirame estoy justo a tus pies -wisin
+	- 5 letras me quiere besar
 	-
 	  ---
 	- Sexo calor y sudor - J alvarez
