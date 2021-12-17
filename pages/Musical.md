@@ -6,7 +6,7 @@
 	- Gasolina
 	- Rompe
 	- Machucrando /Bailando -Daddy Yaky
-	- Gata fiera - Hector el father treblo
+	- Gata fiera - Hector el father treblo clan
 	-
 	  ---
 	- Prrum-Coscu
