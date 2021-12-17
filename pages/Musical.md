@@ -5,7 +5,7 @@
 	- Cuéntale -Don Omar
 	- Gasolina
 	- Rompe
-	- Machucrando /Bailando -Daddy Ynaky
+	- Machucrando /Bailando -Daddy Yaky
 	-
 	  ---
 	- Prrum-Coscu
