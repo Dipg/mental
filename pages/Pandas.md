@@ -192,4 +192,5 @@
 	  ```
 - Eliminar la primera  fila de un dataframe pandas
 	- ```python
+	  df = df.iloc[1: , :]
 	  ```
