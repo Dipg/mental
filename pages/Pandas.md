@@ -176,7 +176,7 @@
 	- ![image.png](../assets/image_1639706319518_0.png)
 	- {{renderer :linkpreview,https://www.kite.com/python/examples/3182/pandas-select-columns-of-a-%60dataframe%60-by-column-names}}
 	- {{renderer :linkpreview,https://towardsdatascience.com/interesting-ways-to-select-pandas-dataframe-columns-b29b82bbfb33}}
-	- https://stackoverflow.com/questions/11285613/selecting-multiple-columns-in-a-pandas-dataframe
+	- {{renderer :linkpreview,https://stackoverflow.com/questions/11285613/selecting-multiple-columns-in-a-pandas-dataframe}}
 - Convertir en numero python pandas , convertir en entero
 	- ```python
 	  int(float(a))
