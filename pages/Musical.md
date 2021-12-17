@@ -37,6 +37,7 @@
 	  ---
 	- Morire factoria
 	- Perdoname Factoria
+	- Fotogenica
 	-
 	-
 	  ---
