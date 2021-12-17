@@ -7,7 +7,8 @@
 	- Rompe
 	- Machucrando /Bailando -Daddy Yaky
 	- Gata fiera - Hector el father treblo clan
-	- Pa qu
+	- Pa que se lo gocen- Tengo Calderon
+	-
 	-
 	  ---
 	- Prrum-Coscu
