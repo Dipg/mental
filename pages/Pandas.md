@@ -169,6 +169,7 @@
 	- {{renderer :linkpreview,https://stackoverflow.com/questions/34844711/convert-entire-pandas-dataframe-to-integers-in-pandas-0-17-0/34844867}}
 - Seleccionar rango de Columnas por nombre en Pandas
 	- ```python
+	  df[['alcohol','hue']]
 	  data[['A', 'B']]
 	  ```
 	- ![image.png](../assets/image_1639706319518_0.png)
