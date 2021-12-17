@@ -196,6 +196,7 @@
 	  df.drop(df.index[1])
 	  ```
 	- {{renderer :linkpreview,https://thispointer.com/drop-first-row-of-pandas-dataframe-3-ways/}}
+	- https://www.codegrepper.com/code-examples/python/pandas+set+first+row+as+column+names
 - Poner primera fila como columna pandas
 	- ```python
 	  new_header = df.iloc[0] #Get the first row for the header
