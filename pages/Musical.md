@@ -17,7 +17,8 @@
 	- rakata
 	- Calor Sudor -Wisn
 	-
-	  ----
+	  ---
+	- Morire factoria
 	-
 	  ---
 	- Prrum-Coscu
@@ -33,4 +34,5 @@
 	- Nadie es mejor que tu -Wisin y yandel Don Omar
 	-
 	  ---
-	- Dow-
+	- Dow- Rakim
+-
