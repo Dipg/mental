@@ -45,6 +45,7 @@
 	- por que te demoras
 	- Permitame - Wisin y yandel
 	- la nena de Papi
+	- Nadie es mejor que tu -Wisin y yandel Don Omar
 	-
 	  ---
 	- Morire factoria
@@ -64,7 +65,6 @@
 	- No se si fue arcangel
 	-
 	  ---
-	- Nadie es mejor que tu -Wisin y yandel Don Omar
 	- Zumdada
 	-
 	  ---
