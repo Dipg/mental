@@ -194,4 +194,5 @@
 	- ```python
 	  df = df.iloc[1: , :]
 	  ```
-- Poner
+- Poner primera fila como columna pandas
+	- df = df.iloc[1: , :]
