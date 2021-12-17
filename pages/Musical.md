@@ -60,7 +60,7 @@
 	- Borro caset
 	- el perdedor
 	- FArruco - lentamente nos sube la note velas encendidas
-	- g bab
+	- g bablbin ahi vamos
 	-
 	  ---
 	- Morire factoria
