@@ -25,6 +25,8 @@
 	- 5 letras me quiere besar
 	- eso no quiere decir que pa la cama voy
 	- Noche de sexo
+	- Yo no soy tu marido
+	- H
 	-
 	  ---
 	- Sexo calor y sudor - J alvarez
