@@ -11,7 +11,7 @@
 	- Metele sason- Tengo calderon
 	- Ven báilalo - Angel y cris
 	- Agarral pegala azotala
-	- Pum you readry- Alexis y fi
+	- Pum you readry- Alexis y fido
 	-
 	  ---
 	- Prrum-Coscu
