@@ -175,3 +175,4 @@
 	- ![image.png](../assets/image_1639706319518_0.png)
 	- {{renderer :linkpreview,https://www.kite.com/python/examples/3182/pandas-select-columns-of-a-%60dataframe%60-by-column-names}}
 	- {{renderer :linkpreview,https://towardsdatascience.com/interesting-ways-to-select-pandas-dataframe-columns-b29b82bbfb33}}
+- Cnvertir en numero
