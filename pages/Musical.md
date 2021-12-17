@@ -1,6 +1,5 @@
 - Old
 	- En List
-	  collapsed:: true
 		- El telefono hector el father
 		- My Space
 		- Anoche
@@ -14,7 +13,6 @@
 		- Machucrando /Bailando -Daddy Yaky
 		- Gata fiera - Hector el father treblo clan
 		- Baila Morena
-		- Pa que se lo gocen- Tengo Calderon
 	- Metele sason- Tengo calderon
 	- Ven báilalo - Angel y cris
 	- Agarral pegala azotala
