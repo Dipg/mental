@@ -51,5 +51,5 @@
 	-
 	  ---
 	- Dow- Rakim
-	- Lo
+	- Locura Automatica
 -
