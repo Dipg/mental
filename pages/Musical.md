@@ -5,6 +5,7 @@
 	- Me pones en tensión
 	- Cuéntale -Don Omar
 	- Dale don dale-Don omar
+	- Salio
 	- Gasolina
 	- Rompe
 	- Machucrando /Bailando -Daddy Yaky
