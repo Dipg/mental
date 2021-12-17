@@ -56,7 +56,7 @@
 	- 6am jbalbin
 	- ginza -gvallbin
 	- mi gente -gvalbin
-	- Borro
+	- Borro caset
 	-
 	  ---
 	- Morire factoria
