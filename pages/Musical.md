@@ -34,6 +34,7 @@
 	- Sexo calor y sudor - J alvarez
 	- Un secreto -plan B
 	- por que te demoras
+	- Permitame - Wisin y yandel
 	-
 	  ---
 	- Morire factoria
