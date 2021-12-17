@@ -77,7 +77,7 @@
 	  ---
 	- Dow- Rakim
 	- Locura Automatica
-	- Hace mucho itiempo - a
+	- Hace mucho itiempo - arcangel
 	-
 	  ---
 	- Tu estas con el
