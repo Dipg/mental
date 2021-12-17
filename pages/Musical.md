@@ -59,7 +59,7 @@
 	- mi gente -gvalbin
 	- Borro caset
 	- el perdedor
-	- FArruco - lentamente nos
+	- FArruco - lentamente nos sube la note velas encendidas
 	-
 	  ---
 	- Morire factoria
