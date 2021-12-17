@@ -62,6 +62,7 @@
 	- el perdedor
 	- FArruco - lentamente nos sube la note velas encendidas
 	- g bablbin ahi vamos
+	- Llamado de emergenvi
 	-
 	  ---
 	- Morire factoria
