@@ -1,5 +1,6 @@
 - Old
 	- En List
+	  collapsed:: true
 		- Pam  Pam
 		- El telefono hector el father
 		- My Space
