@@ -190,4 +190,6 @@
 	- ```python
 	  df['column name'].isna().sum()
 	  ```
-- Eliminar la primera  fila de un dataframe
+- Eliminar la primera  fila de un dataframe pandas
+	- ```python
+	  ```
