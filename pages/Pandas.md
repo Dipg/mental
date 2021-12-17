@@ -181,5 +181,5 @@
 	  ```
 - Convertir en flotante
 	- ```python
-	  int(float(a))
+	  float(a)
 	  ```
