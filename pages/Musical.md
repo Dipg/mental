@@ -15,7 +15,7 @@
 	- Pam  Pam
 	- Noche de Entierro
 	- rakata
-	- Calor Sudor -
+	- Calor Sudor -Wisn
 	-
 	  ---
 	- Prrum-Coscu
