@@ -51,7 +51,7 @@
 	  ---
 	- 6am jbalbin
 	- ginza -gvallbin
-	- mi
+	- mi gente -gvalbin
 	-
 	  ---
 	- Morire factoria
