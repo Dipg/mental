@@ -188,5 +188,6 @@
 	  ```
 - Contar el numero de nan ausentes
 	- ```python
+	  df['column name'].isna().sum()
 	  ```
 -
