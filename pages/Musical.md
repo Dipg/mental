@@ -58,7 +58,8 @@
 	- ginza -gvallbin
 	- mi gente -gvalbin
 	- Borro caset
-	- el p
+	- el perdedor
+	-
 	-
 	  ---
 	- Morire factoria
