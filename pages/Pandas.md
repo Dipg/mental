@@ -177,6 +177,7 @@
 	- {{renderer :linkpreview,https://towardsdatascience.com/interesting-ways-to-select-pandas-dataframe-columns-b29b82bbfb33}}
 - Convertir en numero python pandas , convertir en entero
 	- ```python
+	  int(float(a))
 	  ```
 - Convertir en flotante
 	- ```python
