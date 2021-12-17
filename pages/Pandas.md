@@ -196,4 +196,8 @@
 	  ```
 - Poner primera fila como columna pandas
 	- ```python
+	  new_header = df.iloc[0] #Get the first row for the header
+	  df = df[1:] #Take the data less the header row
+	  df.columns = new_header #Set the header row as the df header
 	  ```
+-
