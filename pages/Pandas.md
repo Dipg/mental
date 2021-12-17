@@ -171,3 +171,4 @@
 	- ```python
 	  data[['A', 'B']]
 	  ```
+	- ![image.png](../assets/image_1639706319518_0.png)
