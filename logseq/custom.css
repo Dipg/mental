@@ -170,6 +170,6 @@ div[data-refs-self*="kanban"] >.block-children > div {
 }
 
 
-.ui-items-container{
+ui-items-container{
     height:12px;
     }
