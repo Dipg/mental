@@ -1,19 +1,19 @@
 [{:block/name
   "../assets/2.2_expo-test_heterocedasticidad_1639184490259_0.pdf",
-  :block/created-at 1639757831509,
-  :block/updated-at 1639757831509}
+  :block/created-at 1639789118608,
+  :block/updated-at 1639789118608}
  {:block/name
   "../assets/3.regresores_estocásticos_y_variables_instrumentales_1639185978975_0.pdf",
-  :block/created-at 1639757831508,
-  :block/updated-at 1639757831508}
+  :block/created-at 1639789118607,
+  :block/updated-at 1639789118607}
  {:block/name
   "../assets/azrieli_chambers_healy-combineddecisions_es_1639428481357_0.pdf",
-  :block/created-at 1639757831510,
-  :block/updated-at 1639757831510}
+  :block/created-at 1639789118611,
+  :block/updated-at 1639789118611}
  {:block/name
   "../assets/azrieli_chambers_healy-combineddecisions_short_1639495103494_0.pdf",
-  :block/created-at 1639757831508,
-  :block/updated-at 1639757831508}
+  :block/created-at 1639789118607,
+  :block/updated-at 1639789118607}
  {:block/name
   "../assets/between_free_trade_and_protectionism_1638791166400_0.pdf",
   :block/created-at 1638961917544,
@@ -24,18 +24,18 @@
   :block/updated-at 1638961917544}
  {:block/name
   "../assets/econometria-damodar-n-gujarati-5ta-ed_1639388002074_0.pdf",
-  :block/created-at 1639757831506,
-  :block/updated-at 1639757831506}
+  :block/created-at 1639789118607,
+  :block/updated-at 1639789118607}
  {:block/name "../assets/experimental_teory_es_1639493823887_0.pdf",
-  :block/created-at 1639757831506,
-  :block/updated-at 1639757831506}
+  :block/created-at 1639789118607,
+  :block/updated-at 1639789118607}
  {:block/name "../assets/handbook_on_impact_1637851091888_0.pdf",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
  {:block/name
   "../assets/incidencia_tributaria-yanez_1638581778558_0.pdf",
-  :block/created-at 1639757831510,
-  :block/updated-at 1639757831510}
+  :block/created-at 1639789118611,
+  :block/updated-at 1639789118611}
  {:block/name
   "../assets/informe_contrato_73_proyecto_alumnus+vf_signed_(1)_1637552839114_0.pdf",
   :block/created-at 1638961917542,
@@ -54,8 +54,8 @@
   :block/updated-at 1638961917542}
  {:block/name
   "../assets/teoría_de_la_reguación_económica_1638914167455_0.pdf",
-  :block/created-at 1639757831510,
-  :block/updated-at 1639757831510}
+  :block/created-at 1639789118611,
+  :block/updated-at 1639789118611}
  {:block/name
   "../assets/unidad1_impact_evaluation_1637839735097_0.pdf",
   :block/created-at 1638961917542,
@@ -64,8 +64,8 @@
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
  {:block/name "../assets/unidad_2._1637746281546_0.pdf",
-  :block/created-at 1639757831509,
-  :block/updated-at 1639757831509}
+  :block/created-at 1639789118610,
+  :block/updated-at 1639789118610}
  {:block/name "../assets/unidad_3_1637746412131_0.pdf",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
@@ -92,8 +92,8 @@
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
  {:block/name "36eea4e8-4e33-4daf-bae6-f81bb09a4813",
-  :block/created-at 1639757831509,
-  :block/updated-at 1639757831509}
+  :block/created-at 1639789118609,
+  :block/updated-at 1639789118609}
  {:block/name "61986c0a-c73c-4efc-8d25-a4989c91fe8c",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
@@ -107,8 +107,8 @@
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
  {:block/name "619fa0a9-c7e8-46ae-af9a-788d35db006c",
-  :block/created-at 1639757831511,
-  :block/updated-at 1639757831511}
+  :block/created-at 1639789118611,
+  :block/updated-at 1639789118611}
  {:block/name "619fa0c5-d175-43cc-9167-74b765901e22",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -116,11 +116,11 @@
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
  {:block/name "8cead2be-c19c-4986-a218-9a2dea1256e5",
-  :block/created-at 1639757831509,
-  :block/updated-at 1639757831509}
+  :block/created-at 1639789118610,
+  :block/updated-at 1639789118610}
  {:block/name "8d3feec9-0966-42ae-8d02-8186b4043d5a",
-  :block/created-at 1639757831511,
-  :block/updated-at 1639757831511}
+  :block/created-at 1639789118612,
+  :block/updated-at 1639789118612}
  {:block/name "a",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -140,8 +140,8 @@
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
  {:block/name "c923113e-05a6-4186-8401-3015d4c07281",
-  :block/created-at 1639757831508,
-  :block/updated-at 1639757831508}
+  :block/created-at 1639789118607,
+  :block/updated-at 1639789118607}
  {:block/name "canciones",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -212,11 +212,11 @@
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
  {:block/name "draws/2021-12-14-07-12-25.excalidraw",
-  :block/created-at 1639757831511,
-  :block/updated-at 1639757831511}
+  :block/created-at 1639789118612,
+  :block/updated-at 1639789118612}
  {:block/name "draws/2021-12-14-07-12-42.excalidraw",
-  :block/created-at 1639757831511,
-  :block/updated-at 1639757831511}
+  :block/created-at 1639789118612,
+  :block/updated-at 1639789118612}
  {:block/name "draws/piensa matricialmente.excalidraw",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -274,8 +274,8 @@
   :block/updated-at 1639428977049}
  {:block/name
   "hls__azrieli_chambers_healy-combineddecisions_short_1639495103494_0",
-  :block/created-at 1639757831509,
-  :block/updated-at 1639757831509}
+  :block/created-at 1639789118610,
+  :block/updated-at 1639789118610}
  {:block/name
   "hls__dialnet-teoriaprospectiva-65981_(1)_1637533445262_0",
   :block/created-at 1638961917542,
@@ -343,7 +343,7 @@
   :block/updated-at 1638961917545}
  {:block/name "musical",
   :block/created-at 1639707054629,
-  :block/updated-at 1639746075755}
+  :block/updated-at 1639771395503}
  {:block/name "neureconomía",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -375,8 +375,8 @@
   :block/created-at 1637508051006,
   :block/updated-at 1637508107913}
  {:block/name "pib",
-  :block/created-at 1639757831510,
-  :block/updated-at 1639757831510}
+  :block/created-at 1639789118611,
+  :block/updated-at 1639789118611}
  {:block/name "plotly",
   :block/created-at 1639339679804,
   :block/updated-at 1639648542688}
@@ -432,8 +432,8 @@
   :block/created-at 1637430642604,
   :block/updated-at 1637430726971}
  {:block/name "ver",
-  :block/created-at 1639757831511,
-  :block/updated-at 1639757831511}
+  :block/created-at 1639789118612,
+  :block/updated-at 1639789118612}
  {:block/name "vocabulario",
   :block/created-at 1637371173059,
   :block/updated-at 1637371410477}
