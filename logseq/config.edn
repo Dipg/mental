@@ -167,7 +167,7 @@
  :ref/linked-references-collapsed-threshold 50
  :ui/show-brackets? false
  :editor/logical-outdenting? true
- :favorites ["Regulación" "Análisis Multivariante" "Ideas" "Economía" "Proyectos" "Microeconomía" "Finanzas Públicas" "Economía Conductual"]
+ :favorites ["Economía Experimental" "Regulación" "Análisis Multivariante" "Ideas" "Economía" "Proyectos" "Microeconomía" "Finanzas Públicas" "Economía Conductual"]
  :publishing/all-pages-public? true
  :graph/settings {:orphan-pages? true, :journal? false}
 
