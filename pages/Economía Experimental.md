@@ -41,3 +41,4 @@
 	- # 4. ¿Siguen siendo útiles los experimentos sin incentivos basados en el rendimiento?
 	- # 5.Pagar por todas las rondas o sólo por una en los experimentos de varias rondas
 	-
+	-
