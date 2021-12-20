@@ -81,3 +81,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 6
   id:: 61c0df7f-120b-4ca7-9bc4-2aeb28a9145d
+- La condición de las preferencias
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 61c0df89-72b5-47f5-81b2-45631e481302
