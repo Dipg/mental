@@ -63,6 +63,7 @@
 		- Pago por una Ronda
 			- El pago es mayor con una pequeña probabilidad de que cada ronda sea elegida
 			- Este método puede reducir los efectos de la cobertura y simular un experimento de una ronda
+			- El método de "pagar una" puede ayudar a evitar los efectos de la riqueza, la cobertura y las  consideraciones  de  quiebra.
 	- # 6.Pagar a todos los participantes o a un subconjunto de ellos
 	- # 7.Tipos de conversión de moneda experimental a dinero real
 	- # 8.Incentivos no monetarios
