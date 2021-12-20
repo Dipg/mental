@@ -13,3 +13,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 4
   id:: 61c0afce-f4e1-4a8a-856d-706bc51f8b26
+- hacer    preguntas    hipotéticas    para    obtener    preferencias    no    proporciona  incentivos  para  responder  con  la  verdad. 
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 61c0b207-aa39-4b76-b480-5add48827bc7
