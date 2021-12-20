@@ -75,7 +75,7 @@
 		  2. Incentivo en efectivo prepagado
 		  3. Muchos premios de loterías bajos y 
 		  4. Pocos premios de lotería elevados.
-	- Donde se encontró que que la tasa mas alta de encusetas se dio en el grupo que se le presento algunos premiso de loteria pero ^{ 1}ados
+	- Donde se encontró que que la tasa mas alta de encusetas se dio en el grupo que se le presento algunos premiso de loteria peroado
 	- # 7.Tipos de conversión de moneda experimental a dinero real
 	- # 8.Incentivos no monetarios
 	- # 9.Incentivos en los experimentos de campo
