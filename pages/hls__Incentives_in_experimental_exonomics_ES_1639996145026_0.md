@@ -25,3 +25,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 4
   id:: 61c0bb2d-2cb9-43a1-8136-6ef19d7ed00f
+- en  estos  casos,  el  mero  hecho  de  tener  incentivos  basados  en  el  rendimiento  puede  no  ser  suficiente si los incentivos son pequeños, por lo que hay que asegurarse no  sólo  de  que  se  ofrecen  incentivos,  sino  también  de  que  son  lo  suficientemente grandes.
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 61c0bb44-4928-4aeb-a7fe-b6702310855c
