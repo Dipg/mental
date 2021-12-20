@@ -53,3 +53,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 5
   id:: 61c0bdcf-f73d-4668-8543-94f714776ba0
+- imular  un  experimento  de  una  ronda.
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 61c0be7c-1664-4910-ac92-a7b91933bff6
