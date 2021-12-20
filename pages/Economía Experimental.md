@@ -76,6 +76,7 @@
 		  3. Muchos premios de loterías bajos y 
 		  4. Pocos premios de lotería elevados.
 	- Donde se encontró que que la tasa mas alta de encuesta se dio en el grupo que se le presento pocos premios de loterías pero elevados
+	-
 	- # 7.Tipos de conversión de moneda experimental a dinero real
 	- # 8.Incentivos no monetarios
 	- # 9.Incentivos en los experimentos de campo

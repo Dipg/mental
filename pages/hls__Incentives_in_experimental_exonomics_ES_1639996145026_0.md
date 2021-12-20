@@ -93,3 +93,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 6
   id:: 61c0e334-6259-4bf7-99c4-f0abefca2ad1
+- Pagar   a   un   subconjunto  de  sujetos,  lo  que  permite  elevar  el  pago,  se  ajusta  al  presupuesto    y    hace    que    los    sujetos    consideren    seriamente    sus    elecciones.
+  ls-type:: annotation
+  hl-page:: 6
+  id:: 61c0e39d-437f-42f2-ae4f-30f13ffee6ac
