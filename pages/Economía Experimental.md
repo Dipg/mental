@@ -94,7 +94,6 @@
 	- # 9.Incentivos en los experimentos de campo
 	- Una parte importante de la economía experimental utiliza experimentos de campo, En  los  experimentos  de  campo,  los  participantes  no  suelen  saber  que  forman parte de un experimento y no se les paga por su participación, lo que impide la posibilidad  de  pagarles  en  función  del  rendimiento..
 	- Tanaka et al. (2018) realizan un experimento de campo en el cual estudian el efecto de diferentes incentivos  económicos así como la persuasión moral al momento de  no consumir un nivel elevado de energía y reducir a si su consumo  , los incentivos planteado son utilizados por los creadores de políticas a lo largo del tiempo, sin embar
-	-
 	- Por su parte Goetteetal (2019)  realizo un experimento de campo para motivar la conservación del agua, experimento en el cual se  proporciono información periódica  a diferentes hogares con incentivos de tipo:
 		- Informativos
 		- Normativos
