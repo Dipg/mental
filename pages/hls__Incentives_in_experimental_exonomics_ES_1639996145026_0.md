@@ -141,3 +141,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 9
   id:: 61c11253-b088-4c15-8b05-03b8a49ea55b
+- En  los  experimentos  de  campo,  los  participantes  no  suelen  saber  que  forman partede un experimento y no se les paga por su participación,
+  ls-type:: annotation
+  hl-page:: 9
+  id:: 61c11316-fffa-40b0-9d5c-0180f18326ac
