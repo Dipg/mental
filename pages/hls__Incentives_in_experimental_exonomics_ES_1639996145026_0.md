@@ -29,3 +29,11 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 4
   id:: 61c0bb44-4928-4aeb-a7fe-b6702310855c
+- ostiene  que  los  incentivos  afectan  al  comportamiento  a  través de su
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 61c0bcf9-25cf-4108-8126-6541de9e973a
+- no  es  necesario  utilizar  incentivos  reales  en  la  economía experimental.
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 61c0bd00-d0c7-436b-a39d-ac77dd220942
