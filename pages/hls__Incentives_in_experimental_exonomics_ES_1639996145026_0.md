@@ -65,3 +65,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 5
   id:: 61c0bf96-8ee1-45c7-acba-3982012cf85a
+- pagar  por  un  subconjunto  de  decisiones  es  al  menos  tan  eficaz  como  pagar  por  todas  las  decisiones  
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 61c0bfeb-3b8e-463f-befa-df62732ee228
