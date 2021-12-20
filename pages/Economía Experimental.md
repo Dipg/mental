@@ -94,6 +94,6 @@
 		- Informativos
 		- Normativos
 		- Monetarios
-	- Los resultados obtenidos por Goetteetal(2019) no muestran ninguna diferencia
+	- Los resultados obtenidos por Goetteetal(2019) no muestran ninguna diferencia en el efecto del a través de
 	- # 9.Incentivos en los experimentos de campo
 	-
