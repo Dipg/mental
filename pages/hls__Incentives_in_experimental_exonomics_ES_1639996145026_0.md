@@ -61,3 +61,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 5
   id:: 61c0bef9-c7b6-4e3a-b014-94a8bd221257
+- El método de "pagar una" puede ayudar a evitar los efectos de la riqueza, la cobertura y las  consideraciones  de  quiebra.  
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 61c0bf96-8ee1-45c7-acba-3982012cf85a
