@@ -101,3 +101,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 7
   id:: 61c0e69e-6b7b-47f6-9ad6-ecc0e30eae67
+- Algunos estudios   anteriores   demostraron   experimentalmente   el   efecto   de   la   ilusión  del  dinero.  Fehr yTyran  (2007)  diseñan  un  juego  de  precios  simétrico de n jugadores con  tres  equilibrios  de  Pareto  y  muestran  que  la  representación   de   los   pagos   en   términos   nominales   conduce   a   la   selección  del  equilibrio  ineficiente  de  Pareto,  pero  la  representación  de  los  pagos  en  términos  reales  da  lugar  a  elecciones  que  convergen  al  equilibrio eficiente de Pareto.
+  ls-type:: annotation
+  hl-page:: 7
+  id:: 61c0e71a-ba89-4208-a8b2-d3d0c8740980
