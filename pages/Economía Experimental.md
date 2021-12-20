@@ -64,7 +64,7 @@
 			- Este método puede reducir los efectos de la cobertura y simular un experimento de una ronda
 			- Puede ayudar a evitar los efectos de la riqueza, la cobertura y las  consideraciones  de  quiebra.
 			- Pagar  por  un  subconjunto  de  decisiones  es  al  menos  tan  eficaz  como  pagar  por  todas  las  decisiones y  puede  ser  incluso  más  eficaz.
-	- Azrieli,ChambersyHealy(2018) afirman que no existe una convención entre los economistas sobre cómo pagar a los sujetos en experimentos con múltiples tareas. Sin embargo demuestran que ==ante preferencias monótonas, pagar por una elección elegida al azar es el único método apropiado==, recordando que la condicion de preferencias monotonas requiere que si en cada lugar
+	- Azrieli,ChambersyHealy(2018) afirman que no existe una convención entre los economistas sobre cómo pagar a los sujetos en experimentos con múltiples tareas. Sin embargo demuestran que ==ante preferencias monótonas, pagar por una elección elegida al azar es el único método apropiado==, recordando que la condicion de preferencias monotonas requiere que si en cada lugar la apuesta A
 	- Las
 	- # 6.Pagar a todos los participantes o a un subconjunto de ellos
 	- # 7.Tipos de conversión de moneda experimental a dinero real
