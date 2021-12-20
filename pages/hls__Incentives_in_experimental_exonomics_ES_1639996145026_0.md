@@ -113,3 +113,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 8
   id:: 61c0f074-a2e4-4489-85c4-b1e411405511
+- tarjeta  regalo.
+  ls-type:: annotation
+  hl-page:: 8
+  id:: 61c0f07b-8ee4-4f8f-83dd-f0c9f46840e8
