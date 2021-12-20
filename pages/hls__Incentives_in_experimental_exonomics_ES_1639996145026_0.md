@@ -97,3 +97,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 6
   id:: 61c0e39d-437f-42f2-ae4f-30f13ffee6ac
+- Discuten  la  posibilidad de que "un  filtro monetario pueda aumentar los incentivos" y sugieren  que  el  dinero  nominal  puede  "enmascarar  o  incluso  diluir  los  incentivos financieros". " 
+  ls-type:: annotation
+  hl-page:: 7
+  id:: 61c0e69e-6b7b-47f6-9ad6-ecc0e30eae67
