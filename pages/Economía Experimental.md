@@ -72,7 +72,8 @@
 		  #+END_NOTE
 		- Por su parte Gajic et al. (2012) analizo la tasa de respuesta de una encuesta usando diferente  incentivos:
 		- 1. Ningún Incentivo 
-		  2.
+		  2. Incentivo en efectivo
+		  3.
 	- # 7.Tipos de conversión de moneda experimental a dinero real
 	- # 8.Incentivos no monetarios
 	- # 9.Incentivos en los experimentos de campo
