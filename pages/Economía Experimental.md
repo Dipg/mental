@@ -100,6 +100,6 @@
 		- Monetarios
 	- Los resultados obtenidos por Goetteetal(2019) no muestran ninguna diferencia en el efecto del a través de os diferente incentivos.
 	-
-	- Voslinsky (2021) menciona sobre el comportamiento de los consumidores, que puede ser util dejar que los particioantes compren ciertos bienes con su dinero o con el  dienero
+	- Voslinsky (2021) menciona sobre el comportamiento de los consumidores, que puede ser util dejar que los particioantes compren ciertos bienes con su dinero o con el  dienero que reciben por participar, y entonces
 	- # 9.Incentivos en los experimentos de campo
 	-
