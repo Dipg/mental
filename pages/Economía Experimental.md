@@ -41,6 +41,5 @@
 	- # 4. ¿Siguen siendo útiles los experimentos sin incentivos basados en el rendimiento?
 	- # 5.Pagar por todas las rondas o sólo por una en los experimentos de varias rondas
 	- # 6.Pagar a todos los participantes o a un subconjunto de ellos
-	-
-	  #
+	- # 7.Tipos de conversión de moneda experimental a dinero real
 	-
