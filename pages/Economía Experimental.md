@@ -86,6 +86,6 @@
 		  3. Las bajas ganancias reales pueden ser consideradas como un engaño por los sujetos, y puede dar lugar a problemas de reputación para el laboratorio
 	- Ante esto plantea que se puede pagar un numero variable de periodos dependiendo del papel al que los sujetos fueron asignados aleatoriamente. Esto quiere  decir que a los participantes con una mayor remuneración esperada por periodo se les paga por menos periodos  y a los participantes con una menor remuneración se le paga por mas periodos.
 	- # 8.Incentivos no monetarios
-	- k
+	- En  los  experimentos  de  campo,  los  sujetos  pueden  tener  diversos tipos   de   incentivos,   según   el   entorno   en   el   que   se   desarrolle   el   experimento.  En  los  experimentos  de  laboratorio,  el  tipo  de  incentivos  estándar  en  la  economía  experimental  es  el  dinero  en  efectivo,  o  los  pagos equivalentes mediante una transferencia bancaria, un cheque, una aplicación  de  pago,  etc.
 	- # 9.Incentivos en los experimentos de campo
 	-
