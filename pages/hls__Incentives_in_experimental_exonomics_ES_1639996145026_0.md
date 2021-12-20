@@ -45,3 +45,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 5
   id:: 61c0bd8c-c862-4fbd-a85e-b10f5f8789a5
+- pagar  un  subconjunto  de  las  rondas.
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 61c0bd92-ee25-4800-9a4a-2cc44c5d9a78
