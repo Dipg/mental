@@ -62,7 +62,7 @@
 			- EL pago es menor
 		- Pago por una Ronda
 			- El pago es mayor con una pequeña probabilidad de que cada ronda sea elegida
-			-
+			- Este método puede
 	- # 6.Pagar a todos los participantes o a un subconjunto de ellos
 	- # 7.Tipos de conversión de moneda experimental a dinero real
 	- # 8.Incentivos no monetarios
