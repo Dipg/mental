@@ -17,3 +17,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 4
   id:: 61c0b207-aa39-4b76-b480-5add48827bc7
+- Si    la    decisión    requiere    un    esfuerzo    cognitivo    considerable,    la    importancia  de  ofrecer  incentivos  es  mayor;
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 61c0b91f-5072-483e-881f-a2b2b7d4af97

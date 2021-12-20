@@ -49,6 +49,8 @@
 	  Hacer preguntas  hipotéticas para obtener preferencias no proporciona incentivos para responder con la verdad
 	  #+END_NOTE
 	- Si  bien  esto  es  cierto,  los  sujetos  tampoco  suelen  tener  incentivos  para  mentir  sobre  sus preferencias
+	-
+	-
 	- # 5.Pagar por todas las rondas o sólo por una en los experimentos de varias rondas
 	- # 6.Pagar a todos los participantes o a un subconjunto de ellos
 	- # 7.Tipos de conversión de moneda experimental a dinero real
