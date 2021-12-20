@@ -68,7 +68,7 @@
 	- # 6.Pagar a todos los participantes o a un subconjunto de ellos
 	- La elección del pago se puede dar entre rondas o entre participantes , esto debido al presupuesto, Algunos experimentos aleatorizan el pago, lo cual incrementa su valor para los que se benefician, Voslinsky (2021) propone que este método podría ser mas eficiente tanto para el experimentador como para los participantes. Por ejemplo :
 		- #+BEGIN_NOTE
-		  Es mejor realizar un experimento donde exista la probabilidad de 2% de recibir 100 dolare 
+		  Es mejor realizar un experimento donde exista la probabilidad de 2% de recibir 100  
 		  #+END_NOTE
 	- # 7.Tipos de conversión de moneda experimental a dinero real
 	- # 8.Incentivos no monetarios
