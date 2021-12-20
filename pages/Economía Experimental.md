@@ -31,9 +31,9 @@
 -
 - Diseño de Estructura de Incentivos
 	- ![Incentives in experimental exonomics ES.pdf](../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pdf)
-	- # Introducción
+	- # 1. Introducción
 	- La primera literatura económica solía consistir en modelos teóricos o estudios empíricos, pero en los últimos años una parte cada vez mayor de los estudios económicos utilizan experimentos para obtener información sobre el comportamiento económico. Uno de los principales aspectos de los experimentos económicos es el diseño de los incentivos en el experimento. Un enfoque común es que para motivar a los sujetos a tomar decisiones de acuerdo con sus creencias y comportamientos reales, el pago debe depender de su rendimiento .
-	- # Los incentivos ayudan a reclutar sujetos
+	- # 2. Los incentivos ayudan a reclutar sujetos
 	- Está ampliamente aceptado en la economía experimental que se paga a los sujetos por participar en los experimentos. Pagar a los sujetos ayuda gastos que puedan tener para acudir al experimento. Estudios anteriores muestran que el pago a los sujetos motiva la participación , en particular para los estudios que tienen dificultades para reclutar participantes . Además del dinero, también pueden utilizarse otros factores de motivación para reclutar sujetos de investigación .
 	- Sin embargo, algunas pruebas sugieren que los incentivos financieros proporcionan una mejor motivación para la participación. Krawczyk (2011) lleva a cabo un experimento de campo en el que el investigador envía dos tipos de invitaciones. Una de las invitaciones hacía hincapié en las ventajas económicas de la participación, mientras que la otra hacía hincapié en las ventajas no económicas.. Si se comparan las tasas de inscripción de las recompensas monetarias y de las dos motivaciones, no hay ningún efecto de apelar a la voluntad de los sujetos de ayudar a la investigación sobre la inscripción.
 	- Kerr et al (2012) descubren en experimentos de campo en zonas rurales de México y Tanzania que los pagos ayudan a aumentar la participación cuando la gente no está interesada, pero que la participación en las tareas comunales puede ser alta independientemente de los incentivos si las normas sociales que favorecen la participación están presentes.
