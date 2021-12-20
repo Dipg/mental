@@ -121,3 +121,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 8
   id:: 61c0f098-e3e6-4725-9daf-a2d4c6752218
+- e    hace    más    difícil    diseñar    los    in-    centivos experimentales  de  la  misma  manera  que  se  puede  hacer  con  los  pagos  en  efectivo,  debido  a  la  discontinuidad  en  las  posibles  cantidades  de  pago.
+  ls-type:: annotation
+  hl-page:: 8
+  id:: 61c0f0a6-dcba-45df-ba3c-466644289ccd
