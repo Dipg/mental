@@ -57,3 +57,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 5
   id:: 61c0be7c-1664-4910-ac92-a7b91933bff6
+- Descubren que pagar  a  los  sujetos  por  un  periodo  aleatorio  difiere  de  los  esquemas  de  pago acumulativo y del último periodo.
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 61c0bef9-c7b6-4e3a-b014-94a8bd221257
