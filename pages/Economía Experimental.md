@@ -70,7 +70,7 @@
 		- #+BEGIN_NOTE
 		  Es mejor realizar un experimento donde exista para cada participante la  probabilidad de 2% de recibir 100  dólares, en lugar de enviar a cada participante un cheque de 2 dólares.
 		  #+END_NOTE
-		- Por su parte Gjic et al. (2012) analizo la tasa de respuesta de una encuesta de preferencia
+		- Por su parte Gjic et al. (2012) analizo la tasa de respuesta de una encuesta
 	- # 7.Tipos de conversión de moneda experimental a dinero real
 	- # 8.Incentivos no monetarios
 	- # 9.Incentivos en los experimentos de campo
