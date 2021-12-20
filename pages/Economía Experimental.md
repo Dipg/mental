@@ -49,7 +49,7 @@
 	  Hacer preguntas  hipotéticas para obtener preferencias no proporciona incentivos para responder con la verdad
 	  #+END_NOTE
 	- Si  bien  esto  es  cierto,  los  sujetos  tampoco  suelen  tener  incentivos  para  mentir  sobre  sus preferencias
-	- ((61c0b91f-5072-483e-881f-a2b2b7d4af97))
+	- Si    la    decisión    requiere    un    esfuerzo    cognitivo    considerable,    la    importancia  de  ofrecer  incentivos  es  mayor;
 	-
 	- # 5.Pagar por todas las rondas o sólo por una en los experimentos de varias rondas
 	- # 6.Pagar a todos los participantes o a un subconjunto de ellos
