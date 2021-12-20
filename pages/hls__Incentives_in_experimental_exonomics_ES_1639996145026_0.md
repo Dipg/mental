@@ -133,3 +133,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 8
   id:: 61c1103a-966f-43a4-872c-96b6ea5ed115
+- puede ser útil dejar que los participantes compren ciertos bienes con su dinero o con el dinero que reciben por participar, y entonces parte del pago por la participación serán los productos con los que el participante se va.
+  ls-type:: annotation
+  hl-page:: 9
+  id:: 61c1120a-43a5-41e8-866f-73414937b9c2
