@@ -82,7 +82,8 @@
 	- Sin embargo en algunos casos el efecto de la ilusión del dinero puede ser una ventaja si hace que los incentivos parezcan mas altos y , cómo resultado, se puede reducir los costes experimentales
 	- WongyOrtmann  (2014)  abordan  las  ganancias  esperadas  desiguales  en   el   laboratorio   y   describen   tres   problemas   relacionados   con   las ganancias   desiguales   en   el   laboratorio:
 		- 1. Las preferencias sociales pueden confundir los resultados experimentales
-		  2. Los bajos rendimientos marginales pueden
+		  2. Los bajos rendimientos marginales pueden dat lugar a problemas de motivación
+		  3.
 	- # 8.Incentivos no monetarios
 	- # 9.Incentivos en los experimentos de campo
 	-
