@@ -44,7 +44,7 @@
 	- # 4. ¿Siguen siendo útiles los experimentos sin incentivos basados en el rendimiento?
 	- A pesar de las ventajas de los incentivos basados en el rendimiento, los experimentos   sin   dichos   incentivos   también   son   útiles   en   muchas   situaciones.  De  hecho,  en  psicología  este  tipo  de  experimentos  son  muy  comunes  y  muchos  de  ellos  no  pagan  a  los  sujetos  en  función  de  su  rendimiento, sino de una cantidad fija.
 	- Hay  varios  argumentos  a  favor  de  aceptar  también  los  experimentos que carecen de incentivos basados en el rendimiento. Contextos  que  implican  un  horizonte  temporal  muy  largo  o  grandes cantidades de dinero son difíciles de estudiar con experimentos con  incentivos  reales por ejemplo decisiones d ahorro de jubilación. A mas de esto realizar un experimento sin incentivos puede tener algunas ventajas, con el echo de que la ciencia avance si la idea de un experimento que no se puedo llevar a cabo por falta de incentivos se llevara acabo sin estos, preferiblemente a no realizar ninguntipo de estudio. Otro beneficio de los experimentos sin incentivos es que no generan una respuesta artificial  por lo que no perjudica de gran manera a la validez  externa.
-	- Ahora bien si hablamos de argumentos ligados con apoyar a los incentivos basados en rendimiento
+	- Ahora bien si hablamos de argumentos ligados con apoyar a los incentivos basados en rendimiento nos podemos plantear l
 	- #+BEGIN_NOTE
 	  Hacer preguntas  hipotéticas para obtener preferencias no proporciona incentivos para responder con la verdad
 	  #+END_NOTE
