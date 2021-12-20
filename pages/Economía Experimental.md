@@ -91,13 +91,10 @@
 	- Cuando  no  se  puede  utilizar  efectivo  en  absoluto,  puede  ser  útil  una  combinación de lotería y tarjetas regalo. Por ejemplo, ganar 23$ en este caso  podría  pagarse  con  una  tarjeta  regalo  de  20$  y  una  lotería  con  probabilidad de 0,3 para ganar otra tarjeta regalo de 10$.
 	- Así mismo dentro de los incentivos no económicos encontramos un  que un incentivo para participar en un experimento puede ser la obtención de créditos para cumplir con  un  requisito de titulación par a estudiantes universitarios. Esto se puede llevar acabo con otro tipo de crédito académico el cual consiste en que los estudiantes obtengan unos puntos extra en la nota del curso  si participan en un experimento, al igual que en el caso anterior si el numero de puntos es fijo, esto incentiva la participación pero no el rendimiento especifico en el experimento, pero si el numero de puntos depende del rendimiento, puede imitar los incentivos de pago por rendimiento.
 	- Voslinsky (2021) menciona sobre el comportamiento de los consumidores, que puede ser util dejar que los participantes compren ciertos bienes con su dinero o con el  dinero que reciben por participar, y entonces por parte del pago por la participación serán los productos  con los que el participante se va. En esta misma dirección el uso de productos muestra eficiencia cuando se trata con niños en los que pagar dinero puede no ser lo suficientemente relevante apropiado o motivador para el niño.
-	-
-	-
-	- Los resultados obtenidos por Goetteetal(2019) no muestran ninguna diferencia en el efecto del a través de os diferente incentivos.
-	-
 	- # 9.Incentivos en los experimentos de campo
 	-
 	- Por su parte Goetteetal (2019)  realizo un experimento de campo para motivar la conservación del agua, experimento en el cual se  proporciono información periódica  a diferentes hogares con incentivos de tipo:
 		- Informativos
 		- Normativos
 		- Monetarios
+	- Los resultados obtenidos por Goetteetal(2019) no muestran ninguna diferencia en el efecto del a través de os diferente incentivos.
