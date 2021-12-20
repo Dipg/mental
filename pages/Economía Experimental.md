@@ -59,7 +59,7 @@
 	- # 5.Pagar por todas las rondas o sólo por una en los experimentos de varias rondas
 	- Se plantea pagar por cada ronda o por una ronda seleccionada al azar o pagar un subconjunto de rondas.
 		- Pago de en cada ronda
-		-
+			- EL Pago es menor
 	- # 6.Pagar a todos los participantes o a un subconjunto de ellos
 	- # 7.Tipos de conversión de moneda experimental a dinero real
 	- # 8.Incentivos no monetarios
