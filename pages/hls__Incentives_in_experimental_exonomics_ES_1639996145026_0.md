@@ -117,3 +117,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 8
   id:: 61c0f07b-8ee4-4f8f-83dd-f0c9f46840e8
+- Si la tarjeta regalo sólo puede aceptar determinados valores redondos 
+  ls-type:: annotation
+  hl-page:: 8
+  id:: 61c0f098-e3e6-4725-9daf-a2d4c6752218
