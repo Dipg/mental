@@ -129,3 +129,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 8
   id:: 61c0fe15-a805-4b88-996f-401415ae10b1
+- pero si el   número   de   puntos   depende   del   rendimiento,   puede   imitar   los   incentivos de pago por rendimiento. 
+  ls-type:: annotation
+  hl-page:: 8
+  id:: 61c1103a-966f-43a4-872c-96b6ea5ed115
