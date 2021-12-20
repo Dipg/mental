@@ -84,7 +84,7 @@
 		- 1. Las preferencias sociales pueden confundir los resultados experimentales
 		  2. Los bajos rendimientos marginales pueden dat lugar a problemas de motivación
 		  3. Las bajas ganancias reales pueden ser consideradas como un engaño por los sujetos, y puede dar lugar a problemas de reputación para el laboratorio
-	- Ante esto plantea que se puede pagar un numero variable de periodos dependiendo del papel al que los sujetos fueron asignados aleatoriamente. Esto quiere  decir que a los participantes con una mayor remuneracion esperada por periodo se les paga por menos periodos  y a los patic
+	- Ante esto plantea que se puede pagar un numero variable de periodos dependiendo del papel al que los sujetos fueron asignados aleatoriamente. Esto quiere  decir que a los participantes con una mayor remuneracion esperada por periodo se les paga por menos periodos  y a los participantes con una menor remuneración se le paga por mas peridoso
 	- # 8.Incentivos no monetarios
 	- # 9.Incentivos en los experimentos de campo
 	-
