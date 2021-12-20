@@ -100,6 +100,6 @@
 		- Monetarios
 	- Los resultados obtenidos por Goetteetal(2019) no muestran ninguna diferencia en el efecto del a través de os diferente incentivos.
 	-
-	- Voslinsky (2021) menciona sobre el comportamiento de los consumidores, que puede ser util dejar que los participantes compren ciertos bienes con su dinero o con el  dinero que reciben por participar, y entonces por parte del pago por la participación serán los productos  con los que el participante se va. En esta misma dirección el uso de productos muestra eficiencia cuando se trata con niños en los que pagar dinero puede no ser lo suficientemente relevante
+	- Voslinsky (2021) menciona sobre el comportamiento de los consumidores, que puede ser util dejar que los participantes compren ciertos bienes con su dinero o con el  dinero que reciben por participar, y entonces por parte del pago por la participación serán los productos  con los que el participante se va. En esta misma dirección el uso de productos muestra eficiencia cuando se trata con niños en los que pagar dinero puede no ser lo suficientemente relevante apropiado o
 	- # 9.Incentivos en los experimentos de campo
 	-
