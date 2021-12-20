@@ -9,3 +9,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 4
   id:: 61c0ae8a-29c2-4a92-8ef0-5a52312c8313
+- la validez externa del experimento
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 61c0afce-f4e1-4a8a-856d-706bc51f8b26
