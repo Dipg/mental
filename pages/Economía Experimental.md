@@ -94,6 +94,6 @@
 		- Informativos
 		- Normativos
 		- Monetarios
-	- Los resultados obtenidos por Goetteetal(2019)
+	- Los resultados obtenidos por Goetteetal(2019 )
 	- # 9.Incentivos en los experimentos de campo
 	-
