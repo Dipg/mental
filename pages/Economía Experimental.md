@@ -83,7 +83,7 @@
 	- WongyOrtmann  (2014)  abordan  las  ganancias  esperadas  desiguales  en   el   laboratorio   y   describen   tres   problemas   relacionados   con   las ganancias   desiguales   en   el   laboratorio:
 		- 1. Las preferencias sociales pueden confundir los resultados experimentales
 		  2. Los bajos rendimientos marginales pueden dat lugar a problemas de motivación
-		  3. Las bajas gnanacias reales pueden ser
+		  3. Las bajas gnanacias reales pueden ser consideradas como un engaño
 	- # 8.Incentivos no monetarios
 	- # 9.Incentivos en los experimentos de campo
 	-
