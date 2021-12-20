@@ -93,7 +93,7 @@
 	- Voslinsky (2021) menciona sobre el comportamiento de los consumidores, que puede ser útil dejar que los participantes compren ciertos bienes con su dinero o con el  dinero que reciben por participar, y entonces por parte del pago por la participación serán los productos  con los que el participante se va. En esta misma dirección el uso de productos muestra eficiencia cuando se trata con niños en los que pagar dinero puede no ser lo suficientemente relevante apropiado o motivador para el niño.
 	- # 9.Incentivos en los experimentos de campo
 	- Una parte importante de la economía experimental utiliza experimentos de campo, En  los  experimentos  de  campo,  los  participantes  no  suelen  saber  que  forman parte de un experimento y no se les paga por su participación, lo que impide la posibilidad  de  pagarles  en  función  del  rendimiento..
-	- Tanaka et al. (2018) realizan un experimento de campo en el cual estudian el efecto de diferentes incentivos  económicos frente a la persuasión moral
+	- Tanaka et al. (2018) realizan un experimento de campo en el cual estudian el efecto de diferentes incentivos  económicos frente a la persuasión moral, metodos utilizados por los creadores de politicas
 	-
 	- Por su parte Goetteetal (2019)  realizo un experimento de campo para motivar la conservación del agua, experimento en el cual se  proporciono información periódica  a diferentes hogares con incentivos de tipo:
 		- Informativos
