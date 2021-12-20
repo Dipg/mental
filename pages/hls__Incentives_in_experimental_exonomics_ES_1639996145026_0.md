@@ -21,3 +21,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 4
   id:: 61c0b91f-5072-483e-881f-a2b2b7d4af97
+- Si  la  falta  de  incentivos  no  afecta  al  comportamiento  de  forma  sistemática  en  una  dirección,  sino  que  hace  que  el  comportamiento  sea  más  ruidoso,  esto  debería  hacer  más  difícil  mostrar  un  determinado  sesgo   u   otro   efecto   de   la   manipulación   experimental,   debido   al   comportamiento   más   ruidoso.   Si,   a   pesar   de   este   problema,   un   experimento    sin    incentivos    consigue    mostrar    un    efecto    de    la    manipulación,  sus  resultados  podrían  ser  tan  significativos  como  los  de  un experimento similar con incentivos.
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 61c0bb2d-2cb9-43a1-8136-6ef19d7ed00f
