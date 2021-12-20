@@ -109,3 +109,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 8
   id:: 61c0ef3a-7a6a-4fad-a63e-04214226bd69
+- también   hay   otros   tipos   de   incentivos   que   pueden   utilizarse enexperimentos.  
+  ls-type:: annotation
+  hl-page:: 8
+  id:: 61c0f074-a2e4-4489-85c4-b1e411405511
