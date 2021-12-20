@@ -29,7 +29,6 @@
 					- 👁️ Se puede remplazar la demanda Marshallianas de $$X$$  en $X$ optenida al momento de despejar $Y$ de las ecuaciones (1) y (2)
 					-
 			- Función de utilidad indirecta
-			  collapsed:: true
 				- Para encontrar la función de utilidad indirecta remplazamos las Demandas Marshallianas de $X$ y de $Y$ en la función de utilidad, simplificando obtenemos $v$ , la función de utilidad indirecta
 				-
 				  $$V=V(M,P_x,P_y) \tag{3}$$
@@ -66,7 +65,6 @@
 				  collapsed:: true
 					- {{youtube https://www.youtube.com/watch?v=hot0OKUAYSg}}
 				- Demandas Hicksianas
-				  collapsed:: true
 					- {{youtube https://www.youtube.com/?hl=es-419}}
 - Monopolio
   id:: 619d1fd5-eb00-418b-b85e-5d724d64e93f
