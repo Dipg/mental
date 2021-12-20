@@ -29,7 +29,7 @@
 - ![Experimental Teory ES.pdf](../assets/Experimental_Teory_ES_1639493823887_0.pdf)
 - ![Azrieli_Chambers_Healy-CombinedDecisions_short.pdf](../assets/Azrieli_Chambers_Healy-CombinedDecisions_short_1639495103494_0.pdf)
 -
-- Diseño de Estructura de Incentivos  {{renderer :wordcount_masmdewch}}   Maximo de Palabras 3.500 – 4.000
+- Diseño de Estructura de Incentivos  {{renderer :wordcount_masmdewch}}   ==Maximo de Palabras 3.500 – 4.000==
 	- ![Incentives in experimental exonomics ES.pdf](../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pdf)
 	- # 1. Introducción
 	- La primera literatura económica solía consistir en modelos teóricos o estudios empíricos, pero en los últimos años una parte cada vez mayor de los estudios económicos utilizan experimentos para obtener información sobre el comportamiento económico. Uno de los principales aspectos de los experimentos económicos es el diseño de los incentivos en el experimento. Un enfoque común es que para motivar a los sujetos a tomar decisiones de acuerdo con sus creencias y comportamientos reales, el pago debe depender de su rendimiento .
