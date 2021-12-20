@@ -44,3 +44,4 @@
 	- # 6.Pagar a todos los participantes o a un subconjunto de ellos
 	- # 7.Tipos de conversión de moneda experimental a dinero real
 	-
+	-
