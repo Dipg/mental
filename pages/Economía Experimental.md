@@ -92,7 +92,7 @@
 	- Así mismo dentro de los incentivos no económicos encontramos un  que un incentivo para participar en un experimento puede ser la obtención de créditos para cumplir con  un  requisito de titulación par a estudiantes universitarios, .
 	- Por su parte Goetteetal (2019) Proporciono información periódica  a diferentes hogares con incentivos de tipo:
 		- Informativos
-		- normativos
+		- Normativos
 		- Monetarios
 	- # 9.Incentivos en los experimentos de campo
 	-
