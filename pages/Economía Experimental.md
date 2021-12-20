@@ -73,7 +73,8 @@
 		- Por su parte Gajic et al. (2012) analizo la tasa de respuesta de una encuesta usando diferente  incentivos:
 		- 1. Ningún Incentivo 
 		  2. Incentivo en efectivo prepagado
-		  3. Muchos premios de loterías bajos
+		  3. Muchos premios de loterías bajos y 
+		  4. ALgunos premios
 	- # 7.Tipos de conversión de moneda experimental a dinero real
 	- # 8.Incentivos no monetarios
 	- # 9.Incentivos en los experimentos de campo
