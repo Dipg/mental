@@ -61,7 +61,7 @@
 		- Pago en cada ronda
 			- EL pago es menor
 		- Pago por una Ronda
-			- El pago es mayor con una  probabilidad
+			- El pago es mayor con una pequeña probabilidad
 	- # 6.Pagar a todos los participantes o a un subconjunto de ellos
 	- # 7.Tipos de conversión de moneda experimental a dinero real
 	- # 8.Incentivos no monetarios
