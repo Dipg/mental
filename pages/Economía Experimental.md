@@ -52,7 +52,8 @@
 	- Si    la    decisión    requiere    un    esfuerzo    cognitivo    considerable,    la    importancia  de  ofrecer  incentivos  es  mayor;
 	- Si  la  falta  de  incentivos  no  afecta  al  comportamiento  de  forma  sistemática  en  una  dirección,  sino  que  hace  que  el  comportamiento  sea  más  ruidoso,  esto  debería  hacer  más  difícil  mostrar  un  determinado  sesgo   u   otro   efecto   de   la   manipulación   experimental,   debido   al   comportamiento   más   ruidoso.   Si,   a   pesar   de   este   problema,   un   experimento    sin    incentivos    consigue    mostrar    un    efecto    de    la    manipulación,  sus  resultados  podrían  ser  tan  significativos  como  los  de  un experimento similar con incentivos.
 	- Read(2005) sostiene  que  los  incentivos  afectan  al  comportamiento  a  través de su influencia  en uno o más de tres factores:
-		- 1. Esfuerzo Mo
+		- 1. Esfuerzo Cognitivo 
+		   2. Enfoque Em
 	- # 5.Pagar por todas las rondas o sólo por una en los experimentos de varias rondas
 	- # 6.Pagar a todos los participantes o a un subconjunto de ellos
 	- # 7.Tipos de conversión de moneda experimental a dinero real
