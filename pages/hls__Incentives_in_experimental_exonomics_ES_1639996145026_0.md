@@ -85,3 +85,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 5
   id:: 61c0df89-72b5-47f5-81b2-45631e481302
+- odría  ser  mucho  más  eficiente  y  preferido  tanto  por  el  experimentador  como  por  los  participantes 
+  ls-type:: annotation
+  hl-page:: 6
+  id:: 61c0e06d-3474-401f-afb7-3495a48f92aa
