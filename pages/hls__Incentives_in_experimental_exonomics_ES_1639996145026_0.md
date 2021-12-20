@@ -137,3 +137,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 9
   id:: 61c1120a-43a5-41e8-866f-73414937b9c2
+- Otra situación   en   la   que   el   uso   de   productos   puede   ser   útil   es   en   los   experimentos   con   niños,   en   los   que   pagar   dinero   puede   no   ser   lo   suficientemente relevante, apropiado o motivador para el niño.
+  ls-type:: annotation
+  hl-page:: 9
+  id:: 61c11253-b088-4c15-8b05-03b8a49ea55b
