@@ -73,3 +73,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 5
   id:: 61c0bff9-ce0d-4dce-b2e5-36d553ddb3fd
+- firman que no existe una convenciónentre los economistas sobre cómo pagar a los sujetos en experimentos con múltiples tareas.
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 61c0c22b-2b90-44bf-97b0-a186d36cdfb3
