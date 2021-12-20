@@ -37,3 +37,11 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 5
   id:: 61c0bd00-d0c7-436b-a39d-ac77dd220942
+- por cada ronda
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 61c0bd85-6dda-4ef5-b3a8-bb87868047a2
+- pagar sólo por una ronda elegida al azar
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 61c0bd8c-c862-4fbd-a85e-b10f5f8789a5
