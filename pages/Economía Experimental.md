@@ -29,4 +29,4 @@
 - ![Experimental Teory ES.pdf](../assets/Experimental_Teory_ES_1639493823887_0.pdf)
 - ![Azrieli_Chambers_Healy-CombinedDecisions_short.pdf](../assets/Azrieli_Chambers_Healy-CombinedDecisions_short_1639495103494_0.pdf)
 -
-- Diseño de
+- Diseño de Estructura de Incentivos
