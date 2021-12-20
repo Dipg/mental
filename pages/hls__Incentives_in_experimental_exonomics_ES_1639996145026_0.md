@@ -89,3 +89,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 6
   id:: 61c0e06d-3474-401f-afb7-3495a48f92aa
+- Encuentran que la tasa más alta de encuestas completadas fue para el grupo de pocos premios de lotería altos.
+  ls-type:: annotation
+  hl-page:: 6
+  id:: 61c0e334-6259-4bf7-99c4-f0abefca2ad1
