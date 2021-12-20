@@ -81,7 +81,7 @@
 	- Davis (1993) plantea la no utilizar dinero nominal, unidad monetaria experimental, a menos que el investigador tenga alguna razón especifica para hacerlo. Davis plantea   la  posibilidad de que "un  filtro monetario pueda aumentar los incentivos" y sugieren  que  el  dinero  nominal  puede  "enmascarar  o  incluso  diluir  los  incentivos financieros".   Algunos estudios   anteriores   demostraron   experimentalmente   el   efecto   de   la   ilusión  del  dinero, relacionado con el dinero nominal.  Fehr yTyran  (2007)  diseñan  un  juego  de  precios  simétrico de n jugadores con  tres  equilibrios  de  Pareto  y  muestran  que  ==la  representación   de   los   pagos   en   términos   nominales   conduce   a   la   selección  del  equilibrio  ineficiente  de  Pareto,  pero  la  representación  de  los  pagos  en  términos  reales  da  lugar  a  elecciones  que  convergen  al  equilibrio eficiente de Pareto.==
 	- Sin embargo en algunos casos el efecto de la ilusión del dinero puede ser una ventaja si hace que los incentivos parezcan mas altos y , cómo resultado, se puede reducir los costes experimentales
 	- WongyOrtmann  (2014)  abordan  las  ganancias  esperadas  desiguales  en   el   laboratorio   y   describen   tres   problemas   relacionados   con   las ganancias   desiguales   en   el   laboratorio:
-		- 1. Las preferencias Sociales
+		- 1. Las preferencias sociales pueden confundir
 	- # 8.Incentivos no monetarios
 	- # 9.Incentivos en los experimentos de campo
 	-
