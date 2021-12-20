@@ -29,7 +29,7 @@
 - ![Experimental Teory ES.pdf](../assets/Experimental_Teory_ES_1639493823887_0.pdf)
 - ![Azrieli_Chambers_Healy-CombinedDecisions_short.pdf](../assets/Azrieli_Chambers_Healy-CombinedDecisions_short_1639495103494_0.pdf)
 -
-- Diseño de Estructura de Incentivos
+- Diseño de Estructura de Incentivos {{renderer :wordcount_masmdewch}}
 	- ![Incentives in experimental exonomics ES.pdf](../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pdf)
 	-
 	- # 1. Introducción
