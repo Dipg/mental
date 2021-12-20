@@ -125,3 +125,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 8
   id:: 61c0f0a6-dcba-45df-ba3c-466644289ccd
+- un incentivo para participar en un experimento puede ser la obtención de créditos para cumplir con este requisito de titulación. 
+  ls-type:: annotation
+  hl-page:: 8
+  id:: 61c0fe15-a805-4b88-996f-401415ae10b1
