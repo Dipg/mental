@@ -55,8 +55,9 @@
 		- 1. Esfuerzo Cognitivo 
 		   2. Enfoque Motivacional
 		   3. Desencadenantes Emocionales
-	- Sin embargo Read sostiene que no se necesitan incentivos monetarios para conseguir estos efectos.Sosteneindo asi que no es necesario utilizar incentivos reales en la economía experimental.
+	- Sin embargo Read sostiene que no se necesitan incentivos monetarios para conseguir estos efectos. Sosteniendo así que no es necesario utilizar incentivos reales en la economía experimental.
 	- # 5.Pagar por todas las rondas o sólo por una en los experimentos de varias rondas
+	-
 	- # 6.Pagar a todos los participantes o a un subconjunto de ellos
 	- # 7.Tipos de conversión de moneda experimental a dinero real
 	- # 8.Incentivos no monetarios
