@@ -34,3 +34,4 @@
 	-
 	- # Introducción
 	- La primera literatura económica solía consistir en modelos teóricos o estudios empíricos, pero en los últimos años una parte cada vez mayor de los estudios económicos utilizan experimentos para obtener información sobre el comportamiento económico. Uno de los principales aspectos de los experimentos económicos es el diseño de los incentivos en el experimento. Un enfoque común es que para motivar a los sujetos a tomar decisiones de acuerdo con sus creencias y comportamientos reales, el pago debe depender de su rendimiento .
+	- Los incentivos ayudan a reclutar sujetos
