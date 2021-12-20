@@ -38,4 +38,4 @@
 	- Sin embargo, algunas pruebas sugieren que los incentivos financieros proporcionan una mejor motivación para la participación. Krawczyk (2011) lleva a cabo un experimento de campo en el que el investigador envía dos tipos de invitaciones. Una de las invitaciones hacía hincapié en las ventajas económicas de la participación, mientras que la otra hacía hincapié en las ventajas no económicas.. Si se comparan las tasas de inscripción de las recompensas monetarias y de las dos motivaciones, no hay ningún efecto de apelar a la voluntad de los sujetos de ayudar a la investigación sobre la inscripción.
 	- Kerr et al (2012) descubren en experimentos de campo en zonas rurales de México y Tanzania que los pagos ayudan a aumentar la participación cuando la gente no está interesada, pero que la participación en las tareas comunales puede ser alta independientemente de los incentivos si las normas sociales que favorecen la participación están presentes.
 	- # 3. Los incentivos basados en el rendimiento pueden motivar una toma de decisiones cuidadosa
-	-
+	- # 4. ¿Siguen siendo útiles los experimentos sin incentivos basados en el rendimiento?
