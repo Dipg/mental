@@ -94,6 +94,6 @@
 		- Informativos
 		- Normativos
 		- Monetarios
-	- Los resultados optenidos por Goett
+	- Los resultados obtenidos por Goett
 	- # 9.Incentivos en los experimentos de campo
 	-
