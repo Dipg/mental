@@ -105,3 +105,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 7
   id:: 61c0e71a-ba89-4208-a8b2-d3d0c8740980
+- Es    decir,    a    los    participantes    con    una    mayor    remuneración esperada por periodo se les paga por menos periodos y a los participantes con una menor remuneración esperada se les paga por más periodos
+  ls-type:: annotation
+  hl-page:: 8
+  id:: 61c0ef3a-7a6a-4fad-a63e-04214226bd69
