@@ -55,10 +55,10 @@
 		- 1. Esfuerzo Cognitivo 
 		   2. Enfoque Motivacional
 		   3. Desencadenantes Emocionales
+	- Sin embargo sostiene
 	- # 5.Pagar por todas las rondas o sólo por una en los experimentos de varias rondas
 	- # 6.Pagar a todos los participantes o a un subconjunto de ellos
 	- # 7.Tipos de conversión de moneda experimental a dinero real
 	- # 8.Incentivos no monetarios
 	- # 9.Incentivos en los experimentos de campo
-	-
 	-
