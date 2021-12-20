@@ -79,7 +79,7 @@
 	- ==Anderson et al. (2019)  por su parte propone pagar   a   un   subconjunto  de  sujetos,  lo  que  permite  elevar  el  pago,  se  ajusta  al  presupuesto    y    hace    que    los    sujetos    consideren    seriamente    sus    elecciones. ya que demuestra que pagar a un subconjunto da lugar a una mayor aversión al riesgo en comparación con el pago a todos los sujetos==, con valores esperados equivalentes a la condición del "subconjunto"
 	- # 7.Tipos de conversión de moneda experimental a dinero real
 	- Davis (1993) plantea la no utilizar dinero nominal, unidad monetaria experimental, a menos que el investigador tenga alguna razón especifica para hacerlo. Davis plantea   la  posibilidad de que "un  filtro monetario pueda aumentar los incentivos" y sugieren  que  el  dinero  nominal  puede  "enmascarar  o  incluso  diluir  los  incentivos financieros".   Algunos estudios   anteriores   demostraron   experimentalmente   el   efecto   de   la   ilusión  del  dinero, relacionado con el dinero nominal.  Fehr yTyran  (2007)  diseñan  un  juego  de  precios  simétrico de n jugadores con  tres  equilibrios  de  Pareto  y  muestran  que  ==la  representación   de   los   pagos   en   términos   nominales   conduce   a   la   selección  del  equilibrio  ineficiente  de  Pareto,  pero  la  representación  de  los  pagos  en  términos  reales  da  lugar  a  elecciones  que  convergen  al  equilibrio eficiente de Pareto.==
-	- Sin embargo en algunos casos
+	- Sin embargo en algunos casos el efecto de la ilusion del dinero
 	- # 8.Incentivos no monetarios
 	- # 9.Incentivos en los experimentos de campo
 	-
