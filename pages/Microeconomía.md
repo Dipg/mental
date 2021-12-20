@@ -33,7 +33,6 @@
 				-
 				  $$V=V(M,P_x,P_y) \tag{3}$$
 			- Identidad de Roy
-			  collapsed:: true
 				- La identidad de Roy nos sirve para probar la igualdad entre la función de utilidad indirecta $$v$$ y la Demanda Marshallianas de  $$Y ^{ Dm}$$
 				-
 				  $$X ^{Dm }=- \frac{\frac{\partial v}{\partial P_x}}{\frac{\partial v}{\partial M}}$$
