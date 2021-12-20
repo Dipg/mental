@@ -67,7 +67,6 @@
 	- Azrieli,ChambersyHealy(2018) afirman que no existe una convención entre los economistas sobre cómo pagar a los sujetos en experimentos con múltiples tareas. Sin embargo demuestran que ==ante preferencias monótonas, pagar por una elección elegida al azar es el único método apropiado==, recordando que la condición de preferencias monótonas requiere que si la apuesta A proporciona un pago preferente al de la apuesta B , entonces se elije A en lugar de B. Sin embargo cuando  se presenta  lo que se conoce como  la condición de "no complementariedad en la cima"  se ve justificada que se pague por cada decisión,, recordando que esta condición requiere que si un sujeto elije  su objeto favorito y lo presentamos dentro de menús diferente y combinamos en un grupo debe favorecerse la elección de este grupo
 	- # 6.Pagar a todos los participantes o a un subconjunto de ellos
 	-
-	-
 	- # 7.Tipos de conversión de moneda experimental a dinero real
 	- # 8.Incentivos no monetarios
 	- # 9.Incentivos en los experimentos de campo
