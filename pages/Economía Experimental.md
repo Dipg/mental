@@ -42,3 +42,5 @@
 	- # 5.Pagar por todas las rondas o sólo por una en los experimentos de varias rondas
 	- # 6.Pagar a todos los participantes o a un subconjunto de ellos
 	-
+	  #
+	-
