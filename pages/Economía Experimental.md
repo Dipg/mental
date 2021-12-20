@@ -39,3 +39,4 @@
 	- Kerr et al (2012) descubren en experimentos de campo en zonas rurales de México y Tanzania que los pagos ayudan a aumentar la participación cuando la gente no está interesada, pero que la participación en las tareas comunales puede ser alta independientemente de los incentivos si las normas sociales que favorecen la participación están presentes.
 	- # 3. Los incentivos basados en el rendimiento pueden motivar una toma de decisiones cuidadosa
 	- # 4. ¿Siguen siendo útiles los experimentos sin incentivos basados en el rendimiento?
+	- 5.Pagar por todas las rondas o sólo por una en los experimentos de varias rondas
