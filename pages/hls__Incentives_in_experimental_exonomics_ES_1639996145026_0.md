@@ -49,3 +49,7 @@ file-path:: ../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pd
   ls-type:: annotation
   hl-page:: 5
   id:: 61c0bd92-ee25-4800-9a4a-2cc44c5d9a78
+- pagar  por  todas  las  rondas  implica  que  se  paga  una  cantidad  menor  
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 61c0bdcf-f73d-4668-8543-94f714776ba0
