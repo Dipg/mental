@@ -1,10 +1,9 @@
 # [](#1.) Manejo de lista de datos
 - Filtro Avanzado
 	- [Clase grabada](https://onedrive.live.com/?authkey=%21ACqdORu04Ug8foc&cid=D4C8613E4F1EC400&id=D4C8613E4F1EC400%2159015&parId=D4C8613E4F1EC400%2159009&o=OneUp)
-- Tablas dinámicas
+- Tablas dinámicas :reed
 	- {{youtube https://www.youtube.com/watch?v=gsxCopOjGZo}}
 - Gráficos dinámicos
-  collapsed:: true
 	- {{youtube https://www.youtube.com/watch?v=ghyGNJKjPsQ}}
 - Subtotales ⭐
   collapsed:: true
