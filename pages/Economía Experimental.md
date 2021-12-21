@@ -117,6 +117,7 @@
 	- Donde $x_i$ es la elección o acción del sujeto $i$. Si el numero de sujetos en un experimento es $n$, $X{x_1,....,x_n}$ se denomina el perfil de acción. Denotamos ahora $P(x_i)$ como la recompensa por la elección de $x_i$
 	- - u es la función de utilidad del sujeto $i$ definida sobre el perfil de pagos $P(X)=\left(P\left(x_{1}\right), \ldots, P\left(x_{n}\right)\right)$
 	- - $e_i$ es el conjunto de restricciones o entorno al que se enfrenta el sujeto $i$
+	- -$
 	- ## 10.2 Teoría de los incentivos en múltiples decisiones
 	- Sólo el 23% de los autores justifican explícitamente su mecanismo dentro del manuscrito, y la mayoría lo hace sólo brevemente.
 	- la idea más importante de nuestro análisis es que hay que distinguir cuidadosamente entre el conjunto de objetos de elección X y el conjunto de objetos de pago P(X)  en  un  experimento. Por  ejemplo,  si  los  sujetos  eligen  entre  loterías  simples  y  se utiliza  el  mecanismo  RPS,  entonces X es  un  conjunto  de  loterías  simples  y P(X)  es  un conjunto de loterías compuestas. Los sujetos anuncian elecciones de X, pero en realidad reciben   pagos   en P(X).   Por   tanto,   la   compatibilidad   de   los   incentivos   depende fundamentalmente de sus preferencias sobre P(X). Pero los autores diseñan experimentos para  conocer  las  preferencias  sobre X, por  lo  que  sus  teorías  e  hipótesis  rara  vez  se extienden  a P(X).  Cuando  no  lo  hacen,  no  podemos  evaluar  si  el  experimento  es  o  no compatible con los incentivos según los supuestos del autor.
