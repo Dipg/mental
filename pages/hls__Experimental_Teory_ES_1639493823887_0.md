@@ -45,3 +45,7 @@ file-path:: ../assets/Experimental_Teory_ES_1639493823887_0.pdf
   ls-type:: annotation
   hl-page:: 5
   id:: 61c17bcb-e194-48ba-926b-0529965f7dff
+- En  uno  de  los  primeros  trabajos sobre este tema, Smith (1976) describe cómo utilizar pagos monetarios para inducir una función de utilidad deseada sobre bienes ficticios en un único mercado experimental. 
+  ls-type:: annotation
+  hl-page:: 7
+  id:: 61c180d6-14e3-4831-b3ff-fb1d9c3a0760
