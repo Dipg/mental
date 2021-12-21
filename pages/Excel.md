@@ -4,7 +4,6 @@
 - Tablas dinámicas
 	- {{youtube https://www.youtube.com/watch?v=gsxCopOjGZo}}
 - Gráficos dinámicos
-  collapsed:: true
 	- {{youtube https://www.youtube.com/watch?v=ghyGNJKjPsQ}}
 - Subtotales ⭐
   collapsed:: true
@@ -18,10 +17,8 @@
   collapsed:: true
 	- {{youtube https://www.youtube.com/watch?v=YQ9wGXtr-9E}}
 - Buscar Objetivos
-  collapsed:: true
 	- {{youtube https://www.youtube.com/watch?v=XqxdjUk3DvU}}
 - Solver
-  collapsed:: true
 	- {{youtube https://www.youtube.com/watch?v=pDJxCG76BaM}}
 	- {{youtube https://www.youtube.com/watch?v=XTX_5Kwg2DY}}
 	- {{youtube https://www.youtube.com/watch?v=dLw8ZrWT8pc}}
