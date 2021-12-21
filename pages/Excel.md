@@ -16,7 +16,7 @@
 - Buscar Objetivos
 	- {{youtube https://www.youtube.com/watch?v=XqxdjUk3DvU}}
 - Función BUSCARV
-	-
+	- {{youtube }}
 - Solver
 	- {{youtube https://www.youtube.com/watch?v=pDJxCG76BaM}}
 		- ![image.png](../assets/image_1640116850978_0.png)
