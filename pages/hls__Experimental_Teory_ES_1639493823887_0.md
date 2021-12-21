@@ -49,3 +49,7 @@ file-path:: ../assets/Experimental_Teory_ES_1639493823887_0.pdf
   ls-type:: annotation
   hl-page:: 7
   id:: 61c180d6-14e3-4831-b3ff-fb1d9c3a0760
+- En  términos  de  nuestra  contribución  teórica,  empleamos  un  enfoque  de  diseño  de mecanismos estándar que permite mecanismos aleatorios, por lo que nuestro trabajo está estrechamente  relacionado  con  los  trabajos  sobre  mecanismos  aleatorios  de  Gibbard 
+  ls-type:: annotation
+  hl-page:: 7
+  id:: 61c18428-b549-467b-aa3a-5f3cc82e6eec
