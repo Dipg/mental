@@ -9,3 +9,7 @@ file-path:: ../assets/Reconsiderando_la_teoría_del_valor_inducido_1640077414448
   ls-type:: annotation
   hl-page:: 4
   id:: 61c19af3-8a0f-409a-b716-3a0b70e7ac07
+- las  únicas  fuentes  de  diferencia  en  el  comportamiento  del  sujeto  deben  estar  en  los  principios  de  toma  de  decisiones  de  los sujetos fi. 
+  ls-type:: annotation
+  hl-page:: 9
+  id:: 61c1a5fb-620b-4e75-8771-700be8946982
