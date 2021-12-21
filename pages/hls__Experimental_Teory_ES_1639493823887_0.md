@@ -33,3 +33,7 @@ file-path:: ../assets/Experimental_Teory_ES_1639493823887_0.pdf
   ls-type:: annotation
   hl-page:: 5
   id:: 61c179b9-c5a0-45e1-8e55-2598ee9f1f8e
+- Nuestro  primer  resultado  es  que  la  compatibilidad  de  incentivos  nuncaes  gratuita: Ningún mecanismo es compatible con los incentivos si no se cumplen los supuestos de las preferencias sobre P(X). En otras palabras, para un mecanismo de pago dado, si todas las preferencias sobre P(X) son admisibles, el mecanismo no es compatible con los incentivos. 
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 61c17a15-8da8-419e-9328-ee0df6eed99d
