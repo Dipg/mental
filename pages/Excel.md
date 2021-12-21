@@ -12,7 +12,6 @@
 # [](#2.) Análisis de Datos
 - Tablas de una entrada y dos entradas
 - Escenarios
-  collapsed:: true
 	- {{youtube https://www.youtube.com/watch?v=YQ9wGXtr-9E}}
 - Buscar Objetivos
 	- {{youtube https://www.youtube.com/watch?v=XqxdjUk3DvU}}
