@@ -21,3 +21,7 @@ file-path:: ../assets/Experimental_Teory_ES_1639493823887_0.pdf
   ls-type:: annotation
   hl-page:: 4
   id:: 61c174c1-4bae-466f-8269-912f9481f6c4
+- la idea más importante de nuestro análisis es que hay que distinguir cuidadosamente entre el conjunto de objetos de elección X y el conjunto de objetos de pago P(X)  en  un  experimento.  
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 61c1767a-52c7-4f99-b5f8-f0e4e398c361
