@@ -99,7 +99,8 @@
 	- Tanaka et al. (2018) realizan un experimento de campo en el cual estudian el efecto de diferentes incentivos  económicos así como la persuasión moral al momento de  no consumir un nivel elevado de energía y reducir a si su consumo  , los incentivos planteado son utilizados por los creadores de políticas a lo largo del tiempo. En este experimento se encontró que ==los incentivos económicos inducen afectos de tratamiento mas grandes, poca habituación (evita que ante un estímulo repetido, la respuesta es cada vez menos intensa ) y una formación de hábitos significativa, una frente a la persuasión moral.==
 	- Por su parte Goetteetal (2019)  realizo un experimento de campo para motivar la conservación del agua, experimento en el cual se  proporciono información periódica  a diferentes hogares con incentivos de tipo:
 		- Informativos 
-		  Normativos
+		  Normativos 
+		  Monetarios
 	- Los resultados obtenidos por Goetteetal(2019) no muestran ninguna diferencia en el efecto del a través de los diferente incentivos.
 	-
 	- # 10. Formalización de la generación de incentivos
