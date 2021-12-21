@@ -13,3 +13,7 @@ file-path:: ../assets/Experimental_Teory_ES_1639493823887_0.pdf
   ls-type:: annotation
   hl-page:: 8
   id:: 61b8b6e6-d768-4917-8a1c-b556144a8d86
+- Pero nos encontramos con que la mayoría de los autores no intentan justificar el mecanismo de pago elegido en su manuscrito.Si la elección del mecanismo es deliberada, no se suele indicar su justificación.
+  ls-type:: annotation
+  hl-page:: 2
+  id:: 61c14f88-9b3b-45f2-a190-d5be3e56b978
