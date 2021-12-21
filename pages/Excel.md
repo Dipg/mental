@@ -23,6 +23,7 @@
   collapsed:: true
 	- {{youtube https://www.youtube.com/watch?v=XqxdjUk3DvU}}
 - Solver
+  collapsed:: true
 	- {{youtube https://www.youtube.com/watch?v=pDJxCG76BaM}}
 		- ![image.png](../assets/image_1640116850978_0.png)
 		  id:: 61c23267-59db-4075-9ac3-d6f54c88b907
