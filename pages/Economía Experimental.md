@@ -102,7 +102,7 @@
 		- Monetarios
 	- Los resultados obtenidos por Goetteetal(2019) no muestran ninguna diferencia en el efecto del a través de los diferente incentivos.
 	-
-	- # Forma
+	- # Formalización de la generación de incentivos
 	-
 	-
 	-
