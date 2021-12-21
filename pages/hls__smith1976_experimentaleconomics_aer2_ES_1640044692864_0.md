@@ -1,0 +1,7 @@
+file:: [smith1976_experimentaleconomics_aer2_ES_1640044692864_0.pdf](../assets/smith1976_experimentaleconomics_aer2_ES_1640044692864_0.pdf)
+file-path:: ../assets/smith1976_experimentaleconomics_aer2_ES_1640044692864_0.pdf
+
+- I. La teoría de la valoración inducid
+  ls-type:: annotation
+  hl-page:: 2
+  id:: 61c11901-8726-4fc1-a07e-6e6cff1a8e30

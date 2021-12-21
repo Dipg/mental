@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "61c11901-8726-4fc1-a07e-6e6cff1a8e30", :page 2, :position {:bounding {:x1 430.515625, :y1 323.296875, :x2 689.3482666015625, :y2 342.296875, :width 796.8, :height 1211.6}, :rects ({:x1 430.515625, :y1 323.296875, :x2 689.3482666015625, :y2 342.296875, :width 796.8, :height 1211.6}), :page 2}, :content {:text "I. La teoría de la valoración inducid"}, :properties {:color "yellow"}}]}
