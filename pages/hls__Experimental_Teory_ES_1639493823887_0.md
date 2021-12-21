@@ -29,3 +29,7 @@ file-path:: ../assets/Experimental_Teory_ES_1639493823887_0.pdf
   ls-type:: annotation
   hl-page:: 4
   id:: 61c179a3-d8b1-4470-8bb0-058ea716e252
+- anuncios  de  preferencias  o  estrategias  en  un  juego.  En  segundo  lugar,  no  imponemos ninguna restricción sobre la forma en que los sujetos evalúan las apuestas; nuestro marco no requiere una utilidad esperada, ni siquiera que se asignen probabilidades subjetivas a las apuestas (Machina y Schmeidler, 1992).
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 61c179b9-c5a0-45e1-8e55-2598ee9f1f8e
