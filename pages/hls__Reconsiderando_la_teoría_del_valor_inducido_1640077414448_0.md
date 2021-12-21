@@ -5,3 +5,7 @@ file-path:: ../assets/Reconsiderando_la_teoría_del_valor_inducido_1640077414448
   ls-type:: annotation
   hl-page:: 4
   id:: 61c19a02-244c-46d6-b1b3-be1d7a4d2ef7
+- realizaban experimentos  sin  pagos  reales,  es  decir,  simplemente  pedían  a  los  sujetos  que  pensaran  en  recompensas  hipotéticas  y  pagaban  la  misma  cantidad  de  dinero  a  todos  los sujetos, independientemente de sus elecciones.
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 61c19af3-8a0f-409a-b716-3a0b70e7ac07
