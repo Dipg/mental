@@ -105,7 +105,7 @@
 	-
 	- # 10. Formalización de la generación de incentivos
 	- ## 10.1 Teoría del Valor inducido
-	-
+	- El  control  de  las  preferencias  es  el  elemento  más  significativo  que  distingue  a  los  experimentos  de  laboratorio  de  otros  métodos  de  investigación  económica.  En  estos  experimentos,  es  muy  importante  poder  afirmar  que,  entre  dos  experimentos,  los  valores  individuales (o conceptos derivados, como  la  demanda  o  la  oferta)  difieren  o  no  difieren  de  una  manera  determinada.  Este  control  puede  ejercerse  utilizando  una  estructura  de  recompensas  y  un  sistema  de  derechos  de  propiedad  para  inducir  un  valor  monetario  prescrito en los resultados (abstractos). (Smith 1982)
 	- Partimos de la concepción de que la utilidad es una función monótona creciente de la recompensa monetaria $U(M), U'>0$ es decir dada  una elección sin  coste entre  dos alternativas  idénticas  salvo  que  la  primera rinde    más    del    medio    de    recompensa (normalmente  moneda)  que  la  segunda,  la primera   siempre   será   elegida   (preferida) sobre    la    segunda,    por    un individuo autónomo (Smith 1973)
 	- ## 10.2 Teoría de los incentivos en múltiples decisiones
 	- Sólo el 23% de los autores justifican explícitamente su mecanismo dentro del manuscrito, y la mayoría lo hace sólo brevemente.
