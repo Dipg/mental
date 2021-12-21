@@ -17,3 +17,7 @@ file-path:: ../assets/Reconsiderando_la_teoría_del_valor_inducido_1640077414448
   ls-type:: annotation
   hl-page:: 9
   id:: 61c1a6a8-5465-48e8-b3ac-7cb295a61ad4
+- Enfoque de diseño de mecanismos para varios sistemas de pago 
+  ls-type:: annotation
+  hl-page:: 23
+  id:: 61c1a760-5b21-4b89-b04c-6f015af75cbe
