@@ -104,6 +104,7 @@
 	-
 	- # Formalización de la generación de incentivos
 	- Sólo el 23% de los autores justifican explícitamente su mecanismo dentro del manuscrito, y la mayoría lo hace sólo brevemente.
+	- la idea más importante de nuestro análisis es que hay que distinguir cuidadosamente entre el conjunto de objetos de elección X y el conjunto de objetos de pago P(X)  en  un  experimento.
 	-
 	-
 	-
