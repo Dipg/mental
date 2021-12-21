@@ -13,3 +13,7 @@ file-path:: ../assets/Reconsiderando_la_teoría_del_valor_inducido_1640077414448
   ls-type:: annotation
   hl-page:: 9
   id:: 61c1a5fb-620b-4e75-8771-700be8946982
+- Por  lo  tanto,  el  objetivo  del  experimento  económico  es  averiguar  la  diferencia  en los principios de toma de decisiones fientre los sujetos mediante el control del entorno eiy la función de utilidad ui.
+  ls-type:: annotation
+  hl-page:: 9
+  id:: 61c1a6a8-5465-48e8-b3ac-7cb295a61ad4
