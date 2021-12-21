@@ -105,7 +105,7 @@
 	- # Formalización de la generación de incentivos
 	- Sólo el 23% de los autores justifican explícitamente su mecanismo dentro del manuscrito, y la mayoría lo hace sólo brevemente.
 	- la idea más importante de nuestro análisis es que hay que distinguir cuidadosamente entre el conjunto de objetos de elección X y el conjunto de objetos de pago P(X)  en  un  experimento. Por  ejemplo,  si  los  sujetos  eligen  entre  loterías  simples  y  se utiliza  el  mecanismo  RPS,  entonces X es  un  conjunto  de  loterías  simples  y P(X)  es  un conjunto de loterías compuestas. Los sujetos anuncian elecciones de X, pero en realidad reciben   pagos   en P(X).   Por   tanto,   la   compatibilidad   de   los   incentivos   depende fundamentalmente de sus preferencias sobre P(X). Pero los autores diseñan experimentos para  conocer  las  preferencias  sobre X, por  lo  que  sus  teorías  e  hipótesis  rara  vez  se extienden  a P(X).  Cuando  no  lo  hacen,  no  podemos  evaluar  si  el  experimento  es  o  no compatible con los incentivos según los supuestos del autor.
-	-
+	- El  marco  que  desarrollamos  es  muygeneral.  En  primer  lugar,  no  se  asume  ninguna estructura sobre X. Podría incluir bienes de consumo, loterías objetivas, actos ambiguos,
 	-
 	-
 	-

@@ -25,3 +25,7 @@ file-path:: ../assets/Experimental_Teory_ES_1639493823887_0.pdf
   ls-type:: annotation
   hl-page:: 4
   id:: 61c1767a-52c7-4f99-b5f8-f0e4e398c361
+- El  marco  que  desarrollamos  es  muygeneral.  En  primer  lugar,  no  se  asume  ninguna estructura sobre X. Podría incluir bienes de consumo, loterías objetivas, actos ambiguos, 
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 61c179a3-d8b1-4470-8bb0-058ea716e252
