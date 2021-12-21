@@ -9,3 +9,7 @@ file-path:: ../assets/smith1976_experimentaleconomics_aer2_ES_1640044692864_0.pd
   ls-type:: annotation
   hl-page:: 2
   id:: 61c11cd0-f50b-4026-aebb-b43b02cc9f0b
+- la utilidad   es   una función monótona crecientede la recompensa  monetaria,
+  ls-type:: annotation
+  hl-page:: 2
+  id:: 61c11d11-6ded-4f1a-9469-273f9875d506
