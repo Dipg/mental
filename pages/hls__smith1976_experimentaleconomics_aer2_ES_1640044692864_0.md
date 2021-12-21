@@ -5,3 +5,7 @@ file-path:: ../assets/smith1976_experimentaleconomics_aer2_ES_1640044692864_0.pd
   ls-type:: annotation
   hl-page:: 2
   id:: 61c11901-8726-4fc1-a07e-6e6cff1a8e30
+- Este    control    puede    lograrse utilizando   una   estructura   de   recompensa paramonetario  prescrito  en  las  acciones
+  ls-type:: annotation
+  hl-page:: 2
+  id:: 61c11cd0-f50b-4026-aebb-b43b02cc9f0b
