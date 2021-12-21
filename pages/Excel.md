@@ -24,6 +24,7 @@
 	- {{youtube https://www.youtube.com/watch?v=XqxdjUk3DvU}}
 - Solver
 	- {{youtube https://www.youtube.com/watch?v=pDJxCG76BaM}}
+		- id:: 61c23267-59db-4075-9ac3-d6f54c88b907
 	- {{youtube https://www.youtube.com/watch?v=XTX_5Kwg2DY}}
 	- {{youtube https://www.youtube.com/watch?v=dLw8ZrWT8pc}}
 -
