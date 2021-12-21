@@ -101,7 +101,7 @@
 		- Monetarios
 	- Los resultados obtenidos por Goetteetal(2019) no muestran ninguna diferencia en el efecto del a través de los diferente incentivos.
 	-
-	- La Teoria del Valor Inducido
+	- # La Teoría del Valor Inducido
 	-
 	-
 	-
