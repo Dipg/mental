@@ -17,3 +17,7 @@ file-path:: ../assets/Experimental_Teory_ES_1639493823887_0.pdf
   ls-type:: annotation
   hl-page:: 2
   id:: 61c14f88-9b3b-45f2-a190-d5be3e56b978
+- Sólo el 23% de los autores justifican explícitamente su mecanismo dentro del manuscrito, y la mayoría lo hace sólo brevemente.
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 61c174c1-4bae-466f-8269-912f9481f6c4
