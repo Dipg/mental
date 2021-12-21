@@ -20,7 +20,6 @@
   collapsed:: true
 	- {{youtube https://www.youtube.com/watch?v=YQ9wGXtr-9E}}
 - Buscar Objetivos
-  collapsed:: true
 	- {{youtube https://www.youtube.com/watch?v=XqxdjUk3DvU}}
 - Solver
   collapsed:: true
