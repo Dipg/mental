@@ -41,3 +41,7 @@ file-path:: ../assets/Experimental_Teory_ES_1639493823887_0.pdf
   ls-type:: annotation
   hl-page:: 5
   id:: 61c17bb8-416c-4c5f-9cb9-3517b4a4f9bf
+- En tercer lugar, demostramos que elmecanismo de pago total es compatible con los incentivos si se cumple la condición de "no complementariedad en la cima" (NCaT) en  las  preferencias  sobre P(X).  
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 61c17bcb-e194-48ba-926b-0529965f7dff
