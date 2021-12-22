@@ -41,3 +41,4 @@
 	- ![image.png](../assets/image_1640197275679_0.png){:height 258, :width 597}
 	- ![image.png](../assets/image_1640197284175_0.png){:height 388, :width 597}
 	- ![image.png](../assets/image_1640197295484_0.png)
+- Extraer texto de una celda strin
