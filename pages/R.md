@@ -45,6 +45,8 @@
 		- ## Seleccionar Columnas Por ubicación -Numero
 			- ```r
 			  ```
+			- Ej
+				- ![image.png](../assets/image_1640168678302_0.png)
 		- ## Eliminar NaN en datafrane  R
 		  collapsed:: true
 			- - Eliminar valores ausentes de dataframe en R
