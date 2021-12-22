@@ -54,6 +54,7 @@
 			- Ej
 				- ![image.png](../assets/image_1640161903722_0.png)
 		- ## Primeros valores de un dataframe r
+		  collapsed:: true
 			- ```r
 			  head(df)
 			  ```
