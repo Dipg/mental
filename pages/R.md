@@ -1,10 +1,10 @@
 -
 - {{renderer :toc_cqtnwk}}
-	- Configuraciones
-	- ## Instalar Paquetes
-		- ```r
-		  install.packages("tidyverse")
-		  ```
+	- # Configuraciones
+		- ## Instalar Paquetes
+			- ```r
+			  install.packages("tidyverse")
+			  ```
 - # Conocer versión de R que utilizo
 - ```terminal
   version
