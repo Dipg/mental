@@ -38,7 +38,7 @@
 			  df[,c("A","B","E")] 
 			  ```
 			- Referencias
-			- {{renderer :linkpreview,https://stackoverflow.com/questions/10085806/extracting-specific-columns-from-a-data-frame}}
+				- {{renderer :linkpreview,https://stackoverflow.com/questions/10085806/extracting-specific-columns-from-a-data-frame}}
 		- ## Eliminar NaN en datafrane  R
 		  collapsed:: true
 			- - Eliminar valores ausentes de dataframe en R
