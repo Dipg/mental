@@ -78,4 +78,6 @@
 				  ```
 			- Librerías necesarias
 				- ```r
+				  library(rpart)
+				  library(rpart.plot)
 				  ```
