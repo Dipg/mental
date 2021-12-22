@@ -40,7 +40,6 @@
 			  ```
 			- {{renderer :linkpreview,https://stackoverflow.com/questions/10085806/extracting-specific-columns-from-a-data-frame}}
 		- ## Eliminar NaN en datafrane  R
-		  collapsed:: true
 			- - Eliminar valores ausentes de dataframe en R
 			- ```r
 			  df2<−na.omit(df2)
@@ -59,11 +58,12 @@
 			  head(df)
 			  ```
 		- ## Últimos valores de un dataframe en R
+		  collapsed:: true
 			- ```r
 			  tail(titanic)
 			  ```
 			- ej
-				-
+				- ![image.png](../assets/image_1640162076013_0.png)
 	- # 4. Análisis Multivariado
 		- ## Análisis Clústers
 		  collapsed:: true
