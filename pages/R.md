@@ -13,7 +13,7 @@
 			  version
 			  ```
 	- # 2. Graficas
-		- # Cambiar Imagen de tamaño en r  
+		- ## Cambiar Imagen de tamaño en r
 		  collapsed:: true
 			- Cambiar plot de tamaño en r en Jupyter
 			- ```R
