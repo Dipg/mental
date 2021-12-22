@@ -22,12 +22,13 @@
 			- ![image.png](../assets/image_1639531351044_0.png){:height 473, :width 683}
 			- {{renderer :linkpreview,https://blog.revolutionanalytics.com/2015/09/resizing-plots-in-the-r-kernel-for-jupyter-notebooks.html}}
 	- # 3. Manejo de Data
-- Importar datos de Spss en R - Importar dataframe sps en R
-	- ```r
-	  library(haven)
-	  enaho17_m1_A <- as.data.frame(read_sav("Enaho01-2017-100.sav"))
-	  ```
-	- {{renderer :linkpreview,https://rpubs.com/dsulmont/475703}}
+		- Importar datos de Spss en R
+			- Importar dataframe sps en R
+			- ```r
+			  library(haven)
+			  enaho17_m1_A <- as.data.frame(read_sav("Enaho01-2017-100.sav"))
+			  ```
+			- {{renderer :linkpreview,https://rpubs.com/dsulmont/475703}}
 - Seleccionar un Subconjunto especifico de  de columnas por nombre en R
 	- ```r
 	  df[,c("A","B","E")] 
