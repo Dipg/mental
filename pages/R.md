@@ -30,7 +30,7 @@
 			  enaho17_m1_A <- as.data.frame(read_sav("Enaho01-2017-100.sav"))
 			  ```
 			- {{renderer :linkpreview,https://rpubs.com/dsulmont/475703}}
-		- ## Seleccionar  columnas
+		- ## Seleccionar  columnas Especificas
 			- Seleccionar un Subconjunto especifico de  de columnas por nombre en R
 			- ```r
 			  df[,c("A","B","E")] 
