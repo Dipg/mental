@@ -22,8 +22,8 @@
 			- ![image.png](../assets/image_1639531351044_0.png){:height 473, :width 683}
 			- {{renderer :linkpreview,https://blog.revolutionanalytics.com/2015/09/resizing-plots-in-the-r-kernel-for-jupyter-notebooks.html}}
 	- # 3. Manejo de Data
-	  collapsed:: true
 		- ## Importar datos de Spss en R
+		  collapsed:: true
 			- Importar dataframe sps en R
 			- ```r
 			  library(haven)
@@ -46,7 +46,9 @@
 			  df2<−na.omit(df2)
 			  ```
 			- https://www.tutorialspoint.com/how-to-remove-rows-from-data-frame-in-r-that-contains-nan
+		-
 	- # 4. Análisis Multivariado
+	  collapsed:: true
 		- ## Análisis Clústers
 		  collapsed:: true
 			- K-Means
