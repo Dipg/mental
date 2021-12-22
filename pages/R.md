@@ -1,4 +1,4 @@
-- {{renderer :toc_eixgexwnon}}
+-
 - {{renderer :toc_cqtnwk}}
 	- # Instalar Paquetes
 - ```r
