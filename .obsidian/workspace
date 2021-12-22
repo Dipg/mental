@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/R.md",
+            "file": "pages/Finanzas Públicas.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/R.md",
+                "file": "pages/Finanzas Públicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "2b71f5773a6fbe53",
   "lastOpenFiles": [
+    "pages/Finanzas Públicas.md",
     "pages/R.md",
     "pages/Economía.md",
     "pages/Economía Conductual.md",
@@ -97,7 +98,6 @@
     "pages/contents.md",
     "pages/Code.md",
     "pages/BPNM.md",
-    "pages/Canciones.md",
-    "pages/CheckMe.md"
+    "pages/Canciones.md"
   ]
 }
