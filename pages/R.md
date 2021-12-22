@@ -1,7 +1,6 @@
 -
 - {{renderer :toc_cqtnwk}}
 	- # 1. Configuraciones
-	  collapsed:: true
 		- ## Instalar Paquetes
 			- ```r
 			  install.packages("tidyverse")
@@ -11,7 +10,8 @@
 			  version
 			  ```
 	- # 2. Graficas
-		- # Cambiar Imagen de tamaño en r
+		- # Cambiar Imagen de tamaño en r  
+		  collapsed:: true
 			- Cambiar plot de tamaño en r en Jupyter
 			- ```R
 			  options(repr.plot.width=22, repr.plot.height=15)
@@ -40,6 +40,7 @@
 			  collapsed:: true
 				- {{renderer :linkpreview,https://stackoverflow.com/questions/10085806/extracting-specific-columns-from-a-data-frame}}
 		- ## Eliminar NaN en datafrane  R
+		  collapsed:: true
 			- - Eliminar valores ausentes de dataframe en R
 			- ```r
 			  df2<−na.omit(df2)
