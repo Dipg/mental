@@ -35,6 +35,7 @@
 				- {{renderer :linkpreview,https://rpubs.com/dsulmont/475703}}
 		- ## Seleccionar UNA  columna Especiica en R
 			- ```r
+			  df$edad
 			  ```
 		- ## Seleccionar  columnas Especificas
 		  collapsed:: true
