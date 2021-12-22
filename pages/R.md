@@ -31,16 +31,17 @@
 			  ```
 			- {{renderer :linkpreview,https://rpubs.com/dsulmont/475703}}
 		- ## Seleccionar  columnas Especificas
+		  collapsed:: true
 			- Seleccionar un Subconjunto especifico de  de columnas por nombre en R
 			- ```r
 			  df[,c("A","B","E")] 
 			  ```
 			- {{renderer :linkpreview,https://stackoverflow.com/questions/10085806/extracting-specific-columns-from-a-data-frame}}
-- Eliminar NaN en datafrane  R- Eliminar valores ausentes de dataframe en R
-	- ```r
-	  df2<−na.omit(df2)
-	  ```
-	- https://www.tutorialspoint.com/how-to-remove-rows-from-data-frame-in-r-that-contains-nan
+		- Eliminar NaN en datafrane  R- Eliminar valores ausentes de dataframe en R
+			- ```r
+			  df2<−na.omit(df2)
+			  ```
+			- https://www.tutorialspoint.com/how-to-remove-rows-from-data-frame-in-r-that-contains-nan
 -
 - Análisis Clústers
 	- K-Means
