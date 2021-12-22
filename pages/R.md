@@ -58,8 +58,9 @@
 			- ```r
 			  head(df)
 			  ```
-		- ## Ultimos valores de un dataframe en R
+		- ## Últimos valores de un dataframe en R
 			- ```r
+			  tail(titanic)
 			  ```
 	- # 4. Análisis Multivariado
 		- ## Análisis Clústers
