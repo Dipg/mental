@@ -1,14 +1,15 @@
 -
 - {{renderer :toc_cqtnwk}}
 	- # 1. Configuraciones
+	  collapsed:: true
 		- ## Instalar Paquetes
 			- ```r
 			  install.packages("tidyverse")
 			  ```
 		- ## Coocer versión de R que utilizo
-- ```terminal
-  version
-  ```
+			- ```terminal
+			  version
+			  ```
 - Cambiar Imagen de tamaño en r  - Cambiar plot de tamaño en r en Jupyter
 	- ```R
 	  options(repr.plot.width=22, repr.plot.height=15)
