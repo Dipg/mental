@@ -37,4 +37,4 @@
 -
   ---
 - Hacer que todas las filas en excel tengan el mismo altao o altura
-	-
+	- ![image.png](../assets/image_1640197275679_0.png)
