@@ -33,7 +33,9 @@
 			- Referencia
 			  collapsed:: true
 				- {{renderer :linkpreview,https://rpubs.com/dsulmont/475703}}
-		- ## Seleccionar UNA  columna
+		- ## Seleccionar UNA  columna Especiica en R
+			- ```r
+			  ```
 		- ## Seleccionar  columnas Especificas
 		  collapsed:: true
 			- Seleccionar un Subconjunto especifico de  de columnas por nombre en R
