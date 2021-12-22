@@ -43,6 +43,7 @@
 			  collapsed:: true
 				- {{renderer :linkpreview,https://stackoverflow.com/questions/10085806/extracting-specific-columns-from-a-data-frame}}
 		- ## Seleccionar Columnas Por ubicación -Numero
+		  collapsed:: true
 			- ```r
 			  df[,1:2]
 			  ```
