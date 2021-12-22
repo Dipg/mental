@@ -2,4 +2,4 @@
 - ![image.png](../assets/image_1640204231196_0.png){:height 484, :width 778}
 -
 - Migración ç
-- ¿El efecto de las coperativasn en
+- ¿El efecto de las coperativasn en los creditos en el Azuay
