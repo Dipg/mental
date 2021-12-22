@@ -1,6 +1,6 @@
 - {{renderer :toc_eixgexwnon}}
 -
-- # Instalar Paquetes
+	- # Instalar Paquetes
 - ```r
   install.packages("tidyverse")
   ```
