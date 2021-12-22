@@ -52,4 +52,5 @@
 		  =EXTRAE(A2, 5, 5)
 		  ```
 		- ![image.png](../assets/image_1640197409456_0.png)
-		- rEFEREN
+		- Referencia
+			- https://exceltotal.com/separar-una-cadena-de-texto/
