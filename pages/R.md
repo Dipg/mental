@@ -45,8 +45,10 @@
 			  df2<−na.omit(df2)
 			  ```
 			- https://www.tutorialspoint.com/how-to-remove-rows-from-data-frame-in-r-that-contains-nan
-	- 4. Análisis Multivariado
-		- Análisis Clústers
+	- collapsed:: true
+	  4. Análisis Multivariado
+		- ## Análisis Clústers
+		  collapsed:: true
 			- K-Means
 				- {{renderer :linkpreview,https://www.youtube.com/watch?v=c1E_4lzfUBw}}
 				- {{renderer :linkpreview,https://www.youtube.com/watch?v=WM3VfPLVFNw}}
