@@ -46,6 +46,7 @@
 			- ```r
 			  ```
 			- Ej
+			  collapsed:: true
 				- ![image.png](../assets/image_1640168678302_0.png)
 		- ## Eliminar NaN en datafrane  R
 		  collapsed:: true
