@@ -53,6 +53,7 @@
 			  ```
 			- Ej
 				- ![image.png](../assets/image_1640161903722_0.png)
+		- ## Primeros valores
 	- # 4. Análisis Multivariado
 		- ## Análisis Clústers
 		  collapsed:: true
