@@ -1,5 +1,5 @@
 - ¿Existe alguna diferenciación en la evolución del PIB de los países desarrollados?
 - ![image.png](../assets/image_1640204231196_0.png){:height 484, :width 778}
 -
-- Migración ç
+- Migración
 - ¿El efecto de las cooperativas en los créditos en el Azuay
