@@ -73,4 +73,5 @@
 		- ## Árbol de Decisiones
 			- Librerias Necesarias
 				- ```r
+				  install.packages("rpart.plot")  
 				  ```
