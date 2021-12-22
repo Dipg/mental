@@ -50,7 +50,8 @@
 			- ```r
 			  str(df)
 			  ```
-			-
+			- Ej
+				- ![image.png](../assets/image_1640161903722_0.png)
 	- # 4. Análisis Multivariado
 	  collapsed:: true
 		- ## Análisis Clústers
