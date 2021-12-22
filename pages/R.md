@@ -42,7 +42,9 @@
 			- Referencias
 			  collapsed:: true
 				- {{renderer :linkpreview,https://stackoverflow.com/questions/10085806/extracting-specific-columns-from-a-data-frame}}
-		- ## Selecionar Columnas Por ubicacion
+		- ## Seleccionar Columnas Por ubicación -Numero
+			- ```r
+			  ```
 		- ## Eliminar NaN en datafrane  R
 		  collapsed:: true
 			- - Eliminar valores ausentes de dataframe en R
