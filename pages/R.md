@@ -1,11 +1,14 @@
 -
 - {{renderer :toc_cqtnwk}}
 	- # 1. Configuraciones
+	  collapsed:: true
 		- ## Instalar Paquetes
+		  collapsed:: true
 			- ```r
 			  install.packages("tidyverse")
 			  ```
 		- ## Coocer versión de R que utilizo
+		  collapsed:: true
 			- ```terminal
 			  version
 			  ```
