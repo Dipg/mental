@@ -58,7 +58,9 @@
 			- ```r
 			  head(df)
 			  ```
-		- ## Ultimos valores de un dataframe en
+		- ## Ultimos valores de un dataframe en R
+			- ```r
+			  ```
 	- # 4. Análisis Multivariado
 		- ## Análisis Clústers
 		  collapsed:: true
