@@ -24,7 +24,6 @@
 	- # 3. Manejo de Data
 	  collapsed:: true
 		- ## Importar datos de Spss en R
-		  collapsed:: true
 			- Importar dataframe sps en R
 			- ```r
 			  library(haven)
