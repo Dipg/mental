@@ -53,4 +53,4 @@
 		  ```
 		- ![image.png](../assets/image_1640197409456_0.png)
 		- Referencia
-			- https://exceltotal.com/separar-una-cadena-de-texto/
+			- {{renderer :linkpreview,https://exceltotal.com/separar-una-cadena-de-texto/}}
