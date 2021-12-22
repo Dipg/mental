@@ -47,4 +47,5 @@
 		  =DERECHA(A2, 10)
 		  ```
 		- ![image.png](../assets/image_1640197368101_0.png){:height 410, :width 512}
+	- Extraer un texto de la mitad del texto
 	-
