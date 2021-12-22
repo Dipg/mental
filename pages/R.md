@@ -77,4 +77,5 @@
 				  install.packages("rpart.plot")  
 				  ```
 			- Librerías necesarias
-				- co
+				- ```r
+				  ```
