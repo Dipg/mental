@@ -50,6 +50,7 @@
 			- ```r
 			  str(df)
 			  ```
+			-
 	- # 4. Análisis Multivariado
 	  collapsed:: true
 		- ## Análisis Clústers
