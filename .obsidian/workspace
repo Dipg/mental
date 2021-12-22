@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Excel.md",
+            "file": "pages/Stata.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Excel.md",
+                "file": "pages/Stata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2b71f5773a6fbe53",
   "lastOpenFiles": [
+    "pages/Stata.md",
+    "pages/R.md",
     "pages/Excel.md",
     "pages/Finanzas Públicas.md",
-    "pages/R.md",
     "pages/Economía.md",
     "pages/Economía Conductual.md",
     "pages/Econometría.md",
     "pages/coste hundido.md",
     "pages/contents.md",
-    "pages/Code.md",
-    "pages/BPNM.md"
+    "pages/Code.md"
   ]
 }
