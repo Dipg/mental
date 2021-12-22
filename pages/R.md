@@ -62,6 +62,8 @@
 			- ```r
 			  tail(titanic)
 			  ```
+			- ej
+				-
 	- # 4. Análisis Multivariado
 		- ## Análisis Clústers
 		  collapsed:: true
