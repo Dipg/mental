@@ -33,11 +33,11 @@
 			  collapsed:: true
 				- {{renderer :linkpreview,https://rpubs.com/dsulmont/475703}}
 		- ## Seleccionar  columnas Especificas
-		  collapsed:: true
 			- Seleccionar un Subconjunto especifico de  de columnas por nombre en R
 			- ```r
 			  df[,c("A","B","E")] 
 			  ```
+			- Referencias
 			- {{renderer :linkpreview,https://stackoverflow.com/questions/10085806/extracting-specific-columns-from-a-data-frame}}
 		- ## Eliminar NaN en datafrane  R
 		  collapsed:: true
