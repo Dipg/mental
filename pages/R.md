@@ -23,17 +23,18 @@
 			- {{renderer :linkpreview,https://blog.revolutionanalytics.com/2015/09/resizing-plots-in-the-r-kernel-for-jupyter-notebooks.html}}
 	- # 3. Manejo de Data
 		- ## Importar datos de Spss en R
+		  collapsed:: true
 			- Importar dataframe sps en R
 			- ```r
 			  library(haven)
 			  enaho17_m1_A <- as.data.frame(read_sav("Enaho01-2017-100.sav"))
 			  ```
 			- {{renderer :linkpreview,https://rpubs.com/dsulmont/475703}}
-- Seleccionar un Subconjunto especifico de  de columnas por nombre en R
-	- ```r
-	  df[,c("A","B","E")] 
-	  ```
-	- {{renderer :linkpreview,https://stackoverflow.com/questions/10085806/extracting-specific-columns-from-a-data-frame}}
+		- Seleccionar un Subconjunto especifico de  de columnas por nombre en R
+			- ```r
+			  df[,c("A","B","E")] 
+			  ```
+			- {{renderer :linkpreview,https://stackoverflow.com/questions/10085806/extracting-specific-columns-from-a-data-frame}}
 - Eliminar NaN en datafrane  R- Eliminar valores ausentes de dataframe en R
 	- ```r
 	  df2<−na.omit(df2)
