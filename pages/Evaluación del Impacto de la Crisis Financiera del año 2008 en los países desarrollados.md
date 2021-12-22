@@ -1,3 +1,3 @@
-- ¿Existe alguna diferenciación en la evolucion del PIB de los paises desarrollados
+- ¿Existe alguna diferenciación en la evolución del PIB de los paises desarrollados
 - ![image.png](../assets/image_1640204231196_0.png){:height 484, :width 778}
 -
