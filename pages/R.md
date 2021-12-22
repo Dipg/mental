@@ -38,6 +38,7 @@
 			  df[,c("A","B","E")] 
 			  ```
 			- Referencias
+			  collapsed:: true
 				- {{renderer :linkpreview,https://stackoverflow.com/questions/10085806/extracting-specific-columns-from-a-data-frame}}
 		- ## Eliminar NaN en datafrane  R
 		  collapsed:: true
