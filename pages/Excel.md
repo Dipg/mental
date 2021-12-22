@@ -43,3 +43,4 @@
 	- ![image.png](../assets/image_1640197295484_0.png)
 - Extraer texto de una celda Sting o con palabras o cadenas
 	- SEPARAR UNA CADENA DE TEXTO
+		- <code
