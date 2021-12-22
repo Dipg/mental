@@ -51,4 +51,4 @@
 			- K-Means
 				- {{renderer :linkpreview,https://www.youtube.com/watch?v=c1E_4lzfUBw}}
 				- {{renderer :linkpreview,https://www.youtube.com/watch?v=WM3VfPLVFNw}}
-		- ## Arb
+		- ## Árbol de Decisiones
