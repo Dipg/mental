@@ -1,6 +1,6 @@
 -
 - {{renderer :toc_cqtnwk}}
-	- # Configuraciones
+	- #1. Configuraciones
 		- ## Instalar Paquetes
 			- ```r
 			  install.packages("tidyverse")
