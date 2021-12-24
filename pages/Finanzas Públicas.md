@@ -239,7 +239,7 @@ collapsed:: true
 	- 1. Introducción
 	- 2. Incidencia tributaria
 		- ¿ En que consiste la incidencia  tributaria?
-			- Consiste en saber qui paga verdaderamente la carga de impuestos
+			- Consiste en saber quien paga verdaderamente la carga de impuestos
 			- ¿ Que se entiende por cargas de impuestos?
 			  collapsed:: true
 				- Se refiere a la proporción de impuesto que paga cada lado del mercado mas la proporción de la pérdida de eficiencia que soporta cada uno de ellos, esto es esta formada por dos componentes:
@@ -269,6 +269,7 @@ collapsed:: true
 				- ((61af5b06-6e31-4a79-929c-8d7c382096a5))
 				-
 			- ¿Cuales son los tipos de incidencia?
+			  collapsed:: true
 				- Incidencia estatutaria
 				  collapsed:: true
 					- Es la obligación legal de un impuesto  referente a la persona que fue fijada por la ley para pagar el impuesto
