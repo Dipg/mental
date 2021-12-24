@@ -237,8 +237,7 @@ collapsed:: true
 # Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
 - # Unidad 4 ![📑](../assets/Unidad_4_1637751172084_0.pdf) ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf)
 	- 1. Introducción
-	- collapsed:: true
-	  2. Incidencia tributaria
+	- 2. Incidencia tributaria
 		- ¿ En que consiste la incidencia  tributaria?
 		  collapsed:: true
 			- Consiste en saber qui paga verdaderamente la carga de impuestos
