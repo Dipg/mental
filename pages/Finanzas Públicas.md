@@ -239,7 +239,6 @@ collapsed:: true
 	- 1. Introducción
 	- 2. Incidencia tributaria
 		- ¿ En que consiste la incidencia  tributaria?
-		  collapsed:: true
 			- Consiste en saber qui paga verdaderamente la carga de impuestos
 			- ¿ Que se entiende por cargas de impuestos?
 			  collapsed:: true
