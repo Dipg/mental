@@ -3,4 +3,4 @@
 	  content: url("pdficon.jpg");
 	  ```
 	- ref
-		- https://developer.mozilla.org/en-US/docs/Web/CSS/url()
+		- {{renderer :linkpreview,https://developer.mozilla.org/en-US/docs/Web/CSS/url()}}
