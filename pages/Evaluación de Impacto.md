@@ -69,4 +69,4 @@ collapsed:: true
 -
 - Control Sintético
 	- {{youtube https://www.youtube.com/watch?v=uT6Gtzg1dyw&t=4491s}}
-	- Los modelos de contros sintéticos
+	- Los modelos de contros sintéticos son aquellos que el
