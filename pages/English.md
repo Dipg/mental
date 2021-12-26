@@ -1,4 +1,4 @@
-- It was about time!
+- It was about time!  #card
 	- ¡Era cuestión de tiempo!
 - improvements #card
 	- Mejoras
