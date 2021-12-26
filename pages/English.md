@@ -8,7 +8,7 @@
 	- Puesto en cola
 - Research #card
 	- Investigar
-- I'm looking forward
+- I'm looking forward #card
 	- Estoy esperando
 	-
 	  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\1.wav"
