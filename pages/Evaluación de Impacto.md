@@ -69,4 +69,4 @@ collapsed:: true
 -
 - Control Sintético
 	- {{youtube https://www.youtube.com/watch?v=uT6Gtzg1dyw&t=4491s}}
-	- El con
+	- Los modelos de contros sintéticos
