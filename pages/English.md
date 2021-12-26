@@ -9,3 +9,4 @@
 - Research #card
 	- Investigar
 - I'm looking forward
+	- Estoy esperando
