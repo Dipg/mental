@@ -11,7 +11,7 @@
 - I'm looking forward
 	- Estoy esperando
 	-
-	  <html>   <audio controls src=""G:\Mi unidad\Autosync\Logmy\NewLog\Audios\1.wav""
+	  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\1.wav"
 	        style=" " >
 	  </audio>
 	  </html>
