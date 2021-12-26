@@ -2,4 +2,5 @@
 	- ¡Era cuestión de tiempo!
 - improvements
 	- Mejoras
--
+- No One
+	- Nadie
