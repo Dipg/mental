@@ -6,3 +6,5 @@
 	- Nadie
 - queued #card
 	- Puesto en cola
+- Research
+	- Investigar
