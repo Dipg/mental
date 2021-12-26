@@ -2,5 +2,5 @@
 	- ¡Era cuestión de tiempo!
 - improvements
 	- Mejoras
-- No One
+- No One  #card
 	- Nadie
