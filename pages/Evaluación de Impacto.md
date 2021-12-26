@@ -70,4 +70,4 @@ collapsed:: true
 - Control Sintético
 	- {{youtube https://www.youtube.com/watch?v=uT6Gtzg1dyw&t=4491s}}
 	- Los modelos de control sintéticos son aquellos que eligen de manea optima un conjunto de pesos o ponderaciones que, cuando se aplican a un grupo de unidades, producen un contrafactual estimado de manera óptima para la unidad tratada
-	-
+	- {{youtube-timestamp 23}}
