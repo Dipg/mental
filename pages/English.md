@@ -4,5 +4,5 @@
 	- Mejoras
 - No One  #card
 	- Nadie
-- queued
+- queued #card
 	- Puesto en cola
