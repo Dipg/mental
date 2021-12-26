@@ -12,4 +12,4 @@
 	  </iframe>
 	  ```
 	- Ref
-		- https://www.w3schools.com/html/html_youtube.asp {{cards }}
+		- {{renderer :linkpreview,https://www.w3schools.com/html/html_youtube.asp}}
