@@ -1,2 +1,4 @@
-- AI Research Assi
-	- https://elicit.org/
+- AI Research Assistant
+	-
+	- {{renderer :linkpreview,https://elicit.org/}}
+-
