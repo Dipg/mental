@@ -10,3 +10,9 @@
 	- Investigar
 - I'm looking forward
 	- Estoy esperando
+	-
+	  <html>   <audio controls src="C:\Users\Diego\Desktop\Logseqrepo\audios\1.wav"
+	        style=" " >
+	  </audio>
+	  </html>
+-
