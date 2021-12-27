@@ -71,8 +71,6 @@ collapsed:: true
 	- {{youtube https://www.youtube.com/watch?v=uT6Gtzg1dyw&t=4491s}}
 	- {{youtube-timestamp 20}} Definición de modelo de Control Sintético
 		- Los modelos de control sintéticos son aquellos que eligen de manea optima un conjunto de pesos o ponderaciones que, cuando se aplican a un grupo de unidades, producen un contrafactual estimado de manera óptima para la unidad tratada
-	- Pruebas Sor Cutk
-	- dfsd
 	- sdf
 	- sd
 	- f
@@ -81,3 +79,5 @@ collapsed:: true
 	-
 	-
 		-
+- Pruebas Sor Cutk
+	- dfsd
