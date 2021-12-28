@@ -1,5 +1,5 @@
+-
 - # SENTENCES
-	-
 	- It was about time!  #card
 		- ¡Era cuestión de tiempo!
 	- No One  #card
