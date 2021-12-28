@@ -140,7 +140,7 @@
 	- ![Azrieli_Chambers_Healy-CombinedDecisions ES.pdf](../assets/Azrieli_Chambers_Healy-CombinedDecisions_ES_1639428481357_0.pdf)
 	-
 	-
-- # Experimentos  en Linea - Influencia del Efecto Gratis en
+- # Experimentos  en Linea - Influencia del Efecto Gratis en promoci
 	-
 	- Un área que ha atraído recientemente una nueva atención pero que todavía tiene muchas preguntas abiertas es el área de la realización de experimentos en un entorno online o de red. Es posible que desee estudiar la influencia de los compañeros entre los estudiantes o los miembros de una red social como Facebook. O bien, los vendedores pueden competir entre sí en un sitio web de comercio electrónico, y los productos \(o consultas de los usuarios\) donde sus productos aparecen junto pueden considerarse como un vínculo indirecto entre los vendedores. En ese entorno, es posible que deseemos realizar experimentos que afecten a los vendedores y evaluar sus resultados._ - [How Do Academic Economists Use A/B Testing?](https://www.forbes.com/sites/quora/2016/04/05/how-do-academic-economists-use-ab-testing/?sh=181d4d0c1dec)
 -
