@@ -1,6 +1,5 @@
 - {{renderer :toc_cuzhbnkbs}}
 	- # SENTENCES
-	  collapsed:: true
 		- It was about time!  #card
 			- ¡Era cuestión de tiempo!
 		- No One  #card
@@ -41,7 +40,6 @@
 			  </audio>
 			  </html>
 	- # WORDS
-	  collapsed:: true
 		- Research #card
 			- Investigar
 		- queued #card
