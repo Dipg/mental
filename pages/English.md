@@ -18,7 +18,7 @@
 - hiring #card
 	- Contratación
 - talked about by many #card
-	-
+	- de lo que muchos hablan
 	-
 	  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\2.wav"
 	        style=" " >
