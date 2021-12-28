@@ -394,6 +394,7 @@
 			- Un experimento es un proceso de generación de datos controlado
 		- ¿A que nos referimos cuando hablamos de control?
 			- Se da cuando la mayoría de los factores que influyen en el comportamiento se mantienen y solo se varía un factor de interés (el "tratamiento") a la vez
+			- E
 	- ¿ Cual es el objetivo de un experimento?
 	  collapsed:: true
 		- Inferir relaciones causales entre el entorno  diseñado y el comportamiento de los individuos
