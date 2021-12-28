@@ -410,7 +410,8 @@
 		- De Campo
 		- De Laboratorio
 	- ¿Los experimentos se ven influenciados únicamente por los ==n== inputs controlados?
-		- No debido a que influyen muchas mas decisiones que no controlamos _ej : el nivel de ruido que se prioduce fuera del laboratiro
+		- No debido a que influyen muchas mas decisiones que no controlamos _ej : el nivel de ruido que se prioduce fuera del laboratorio_
+		-
 		-
 		-
 -
