@@ -1,6 +1,5 @@
 - Diseño de estructura de incentivos
 - Diseño centrado en Incentivos
-  collapsed:: true
 	- Diseño de Estructura de Incentivos  {{renderer :wordcount_masmdewch}}   ==Maximo de Palabras 3.500 – 4.000==
 		- ![Incentives in experimental exonomics ES.pdf](../assets/Incentives_in_experimental_exonomics_ES_1639996145026_0.pdf)
 		- ![smith1976_experimentaleconomics_aer2 ES.pdf](../assets/smith1976_experimentaleconomics_aer2_ES_1640044692864_0.pdf)
