@@ -409,7 +409,7 @@
 	  collapsed:: true
 		- De Campo
 		- De Laboratorio
-	- ¿Los exper
+	- ¿Los experimentos se ven influenciados unicamente por los n impu
 -
   ---
 - [[Ideas]][[Marketing]]
