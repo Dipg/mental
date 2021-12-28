@@ -393,8 +393,8 @@
 	- ¿ Cual es el objetivo de un experimento
 	  collapsed:: false
 		- Inferir relaciones causales entre el entorno  diseñado y el comportamiento de los individuos
+	- o
 	-
-	  collapsed:: false
 	-
 -
   ---
