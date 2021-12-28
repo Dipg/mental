@@ -1,4 +1,4 @@
-- # SENTENCE
+- # SENTENCEs
 - It was about time!  #card
 	- ¡Era cuestión de tiempo!
 - improvements #card
