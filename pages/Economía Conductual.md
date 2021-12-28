@@ -391,11 +391,12 @@
 	- ¿ Que es un exprimento?
 		- Es una situación controlada, muchas de las características son implementadas por diseño, con el fin de observar las decisiones e interacciones individuales resultantes.
 	- ¿ Cual es el objetivo de un experimento
-		- Inferir relaciones causales entre el entorno y el coportamieto de los individuos
+		- Inferir relaciones causales entre el entorno y el comportamiento de los individuos
 -
   ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
 	- Pagina de interés para conocer todos los sesgos y heurísticas  https://bit.ly/2Z93Dwh
 	- Pagina de propuesta de forma de pensar matricial [🔗](https://www.esan.edu.pe/apuntes-empresariales/2021/08/la-heuristica-de-representatividad-y-los-errores-que-cometemos-en-las-decisiones-economicas/)
+-
 -
