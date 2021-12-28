@@ -406,8 +406,10 @@
 	  collapsed:: true
 		- Inferir relaciones causales entre el entorno  diseñado y el comportamiento de los individuos
 	- ¿Qué tipo de experimentos podemos realizar?
+	  collapsed:: true
 		- De Campo
 		- De Laboratorio
+	- ¿
 -
   ---
 - [[Ideas]][[Marketing]]
