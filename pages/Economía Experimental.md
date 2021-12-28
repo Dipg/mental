@@ -110,10 +110,6 @@
 			- ![Experimental Teory ES.pdf](../assets/Experimental_Teory_ES_1639493823887_0.pdf)
 			- ![Azrieli_Chambers_Healy-CombinedDecisions_short.pdf](../assets/Azrieli_Chambers_Healy-CombinedDecisions_short_1639495103494_0.pdf)
 		- Notas Aleatorias
-	- # Historia
-	  collapsed:: true
-	  id:: 61c33938-d214-4b4a-aad7-9e567e1d622c
-		- _En 1996, el Premio Nobel de Economía fue otorgado a William Vickrey y James Mirrlees por su trabajo en "La teoría económica de los incentivos bajo información asimétrica", que fue un tema central abordado por la teoría del diseño de mecanismos . La teoría del diseño de mecanismos fue un antecedente del diseño centrado en incentivos, y el 15 de octubre de 2007, Roger Myerson , Leonid Hurwicz y Eric Maskin recibieron el Premio Nobel de Economía de la Real Academia Sueca de Ciencias por sus contribuciones a esa teoría. \[3\]Leonid Hurwicz fue el fundador de la teoría del diseño de mecanismos, que es una rama de la economía que se ocupa de la teoría de juegos . En el diseño de mecanismos, los diseñadores intentan satisfacer los objetivos de diseño en conjuntos específicos de juegos estableciendo funciones de resultado y espacio de mensajes del juego. La idea de diseñar "mecanismos", o conjuntos de reglas de participación institucional, con el fin de lograr los objetivos del diseñador para un sistema, es un concepto central para ICD._ - [Diseño centrado en incentivos - Wikipedia](https://en.wikipedia.org/wiki/Incentive-centered\_design)
 	- Definición Onlineo
 	  collapsed:: true
 		- {{renderer :linkpreview,https://icdstuff.wordpress.com/2006/02/04/what-is-incentive-centered-design-icd/}}
@@ -122,8 +118,12 @@
 	- ![Azrieli_Chambers_Healy-CombinedDecisions ES.pdf](../assets/Azrieli_Chambers_Healy-CombinedDecisions_ES_1639428481357_0.pdf)
 	- o
 	-
-	-
 		-
+			-
+- # Historia
+  collapsed:: true
+  id:: 61c33938-d214-4b4a-aad7-9e567e1d622c
+	- _En 1996, el Premio Nobel de Economía fue otorgado a William Vickrey y James Mirrlees por su trabajo en "La teoría económica de los incentivos bajo información asimétrica", que fue un tema central abordado por la teoría del diseño de mecanismos . La teoría del diseño de mecanismos fue un antecedente del diseño centrado en incentivos, y el 15 de octubre de 2007, Roger Myerson , Leonid Hurwicz y Eric Maskin recibieron el Premio Nobel de Economía de la Real Academia Sueca de Ciencias por sus contribuciones a esa teoría. \[3\]Leonid Hurwicz fue el fundador de la teoría del diseño de mecanismos, que es una rama de la economía que se ocupa de la teoría de juegos . En el diseño de mecanismos, los diseñadores intentan satisfacer los objetivos de diseño en conjuntos específicos de juegos estableciendo funciones de resultado y espacio de mensajes del juego. La idea de diseñar "mecanismos", o conjuntos de reglas de participación institucional, con el fin de lograr los objetivos del diseñador para un sistema, es un concepto central para ICD._ - [Diseño centrado en incentivos - Wikipedia](https://en.wikipedia.org/wiki/Incentive-centered\_design)
 - Blockchain el diseño centrado en incentivos
   collapsed:: true
 	- Las redes descentralizadas como las cadenas de bloques tienen el potencial de resolver problemas complejos al incentivar a las personas a contribuir con sus conocimientos y habilidades especializados para lograr un objetivo común.[(KK Jain (@kk_ncnt, 2018)](https://medium.com/hackernoon/the-psychology-of-incentives-in-decentralized-networks-d029ddfa30ca)
