@@ -401,15 +401,15 @@
 		  collapsed:: true
 			- Un experimento es la elección de un conjunto de ==n== inputs, que definen el entorno, asicado con ==m== medidas de sus consecuencias con el objetivo de inferir su relación causal ==F==
 		-
-	- ¿ Cual es el objetivo de un experimento?
-	  collapsed:: true
-		- Inferir relaciones causales entre el entorno  diseñado y el comportamiento de los individuos
 	-
 	-
 	-
 	-
 	  collapsed:: false
 	-
+	- ¿ Cual es el objetivo de un experimento?
+	  collapsed:: true
+		- Inferir relaciones causales entre el entorno  diseñado y el comportamiento de los individuos
 -
   ---
 - [[Ideas]][[Marketing]]
