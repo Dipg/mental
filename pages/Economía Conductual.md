@@ -405,7 +405,8 @@
 	- ¿ Cual es el objetivo de un experimento?
 	  collapsed:: true
 		- Inferir relaciones causales entre el entorno  diseñado y el comportamiento de los individuos
-	- ¿Qué tipo de experimentos podemos realizar
+	- ¿Qué tipo de experimentos podemos realizar?
+		- De
 -
   ---
 - [[Ideas]][[Marketing]]
