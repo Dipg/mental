@@ -146,7 +146,7 @@
 	- Sin embargo no solo basta con analizar datos, empresas como Google, Amazon o Ebay requieren de mecanismos de optimización de tiempos, entregas, precios, subastas, preferencias, incentivos al consumidor y al productor  y demás áreas ligadas directamente al campo económico tradicional así como campos mas actuales como la economía experimental neuro economía y economía del comportamiento. Ahora bien, el compendio de una gran cantidad de datos, junto con la búsqueda constante de la mejora de los servicios digitales , a llevado a las grades tecnológicas a liderar con problemas a la hora de determinar si  un producto esta o no funcionando en el mercado, y si lo hace , que lo esta causando. Una de las soluciones a las que mas se recuren para solucionar el problema mencionado, es la realización de experimentos, dichos experimentos se sirven de las extensas bases de datos de usuarios y el conocimiento de sus características y comportamiento para generar resultados útiles para fines comerciales.
 	- En este trabajo se realizar un experimento para determinar la existe de un cambia o no, en  el ratio de conversión de una publicación pagada en Facebook, debido a la modificación de información presentada a los usuarios de la red social.
 	- Problema:
-		- El sistema de publicidad de Facebook, pese
+		- El sistema de publicidad de Facebook, pese a estar al alcance de cualquier negocio,
 	- Hipótesis:
 		- Existe la posibilidad de conocer la mejor estrategia de alcance de un producto o servicio  a través de un experimento mediante el Servicio de publicidad  de  Facebook.
 	-
