@@ -103,6 +103,7 @@
 		-
 		-
 - # Unidad 2  #yellow
+  collapsed:: true
 	- ## [](#1.) Ampliación de la Racionalidad ![📑 ](../assets/Unidad_II_-_Ampliando_la_racionalidad_1637442442873_0.pdf) #yellow
 	  collapsed:: true
 		- ¿ Cuales son las características de los procesos involucrados en la toma de decisiones?
@@ -378,6 +379,7 @@
 		- [🎥 0 ](https://www.youtube.com/watch?v=upVbs5j15mA&t=308s)  [🎥 1 ](https://www.youtube.com/watch?v=PqUZ9H_XOb8) [🎥 2 ](https://www.youtube.com/watch?v=jS1kjXu2q3Y)
 		  background-color:: #793e3e
 	- ## [](#3.) Preferencias Sociales ![ 📑](../assets/Unidad_II_-_Preferencias_sociales_1637442525025_0.pdf) #red
+	  collapsed:: true
 		- [](#3.1.) Juego del Ultimátum
 		- [](#3.2.) Juego del Dictador
 		- [](#3.3.) Juego de Confianza/reciprocidad
