@@ -112,9 +112,8 @@
 		- Notas Aleatorias
 	- # Historia
 	  collapsed:: true
-	  id:: 61c33938-d214-4b4a-aad7-9e567e1d622c
 		- _En 1996, el Premio Nobel de Economía fue otorgado a William Vickrey y James Mirrlees por su trabajo en "La teoría económica de los incentivos bajo información asimétrica", que fue un tema central abordado por la teoría del diseño de mecanismos . La teoría del diseño de mecanismos fue un antecedente del diseño centrado en incentivos, y el 15 de octubre de 2007, Roger Myerson , Leonid Hurwicz y Eric Maskin recibieron el Premio Nobel de Economía de la Real Academia Sueca de Ciencias por sus contribuciones a esa teoría. \[3\]Leonid Hurwicz fue el fundador de la teoría del diseño de mecanismos, que es una rama de la economía que se ocupa de la teoría de juegos . En el diseño de mecanismos, los diseñadores intentan satisfacer los objetivos de diseño en conjuntos específicos de juegos estableciendo funciones de resultado y espacio de mensajes del juego. La idea de diseñar "mecanismos", o conjuntos de reglas de participación institucional, con el fin de lograr los objetivos del diseñador para un sistema, es un concepto central para ICD._ - [Diseño centrado en incentivos - Wikipedia](https://en.wikipedia.org/wiki/Incentive-centered\_design)
-	- Definición Onlineo
+	- Definición Online
 	  collapsed:: true
 		- {{renderer :linkpreview,https://icdstuff.wordpress.com/2006/02/04/what-is-incentive-centered-design-icd/}}
 	- Blockchain el diseño centrado en incentivos
@@ -124,7 +123,6 @@
 		- Esta lineación hacia un bien común genera algunos beneficios al instante:
 			- [](#1.)  Una recompensa constante al usuario del sistema, lo cual atrae a nuevos usuarios
 			- [](#2.) Los datos del sistema ayudan a los diseñadores a recopilar datos e influir de mejor manera agregando o modificando dichos incentivos de ser esto necesario (KK Jain , 2018)
-	-
 	- Marco General
 	  collapsed:: true
 		- ((61b8ad40-932c-40e8-b87d-050b79417f95))
@@ -138,7 +136,6 @@
 		- Los elementos $\geq$-dominantes de cualquier conjunto $E ⊆X$ se denotan por
 		- ((61b8b5e7-da08-4483-a11c-daf83f7339a8))
 		- Que se lee como: Un elemento dominante del conjunto $E$ es igual a $x$ dado que $x$ pertenence al conjunto $E$ tal que para todo $y$ que pertenece a $E$  $x$ es mayor o igual a $y$
-	-
 	- ![Azrieli_Chambers_Healy-CombinedDecisions ES.pdf](../assets/Azrieli_Chambers_Healy-CombinedDecisions_ES_1639428481357_0.pdf)
 	- o
 	-
