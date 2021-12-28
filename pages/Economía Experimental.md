@@ -137,4 +137,6 @@
 		- ((61b8b5e7-da08-4483-a11c-daf83f7339a8))
 		- Que se lee como: Un elemento dominante del conjunto $E$ es igual a $x$ dado que $x$ pertenence al conjunto $E$ tal que para todo $y$ que pertenece a $E$  $x$ es mayor o igual a $y$
 	- ![Azrieli_Chambers_Healy-CombinedDecisions ES.pdf](../assets/Azrieli_Chambers_Healy-CombinedDecisions_ES_1639428481357_0.pdf)
+	-
+	-
 -
