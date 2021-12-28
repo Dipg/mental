@@ -148,7 +148,7 @@
 		- {{youtube https://www.youtube.com/watch?v=1nvMOhNtJX8}}
 -
 - ```calc
-  30*0.06*20
+  30*0.06*20 + 
   ```
 - ```calc
   60*0.07*25
