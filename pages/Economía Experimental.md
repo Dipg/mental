@@ -123,6 +123,7 @@
 		- Esta lineación hacia un bien común genera algunos beneficios al instante:
 			- [](#1.)  Una recompensa constante al usuario del sistema, lo cual atrae a nuevos usuarios
 			- [](#2.) Los datos del sistema ayudan a los diseñadores a recopilar datos e influir de mejor manera agregando o modificando dichos incentivos de ser esto necesario (KK Jain , 2018)
+	-
 	- Marco General
 	  collapsed:: true
 		- ((61b8ad40-932c-40e8-b87d-050b79417f95))
@@ -136,8 +137,10 @@
 		- Los elementos $\geq$-dominantes de cualquier conjunto $E ⊆X$ se denotan por
 		- ((61b8b5e7-da08-4483-a11c-daf83f7339a8))
 		- Que se lee como: Un elemento dominante del conjunto $E$ es igual a $x$ dado que $x$ pertenence al conjunto $E$ tal que para todo $y$ que pertenece a $E$  $x$ es mayor o igual a $y$
+	-
 	- ![Azrieli_Chambers_Healy-CombinedDecisions ES.pdf](../assets/Azrieli_Chambers_Healy-CombinedDecisions_ES_1639428481357_0.pdf)
 	- o
+	-
 	-
 	-
 -
