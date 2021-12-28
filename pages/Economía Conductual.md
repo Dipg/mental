@@ -409,7 +409,8 @@
 	  collapsed:: true
 		- De Campo
 		- De Laboratorio
-	- ¿Los experimentos se ven influenciados únicamente por los ==n== inputs?
+	- ¿Los experimentos se ven influenciados únicamente por los ==n== inputs controlados?
+		- No debido a que
 -
   ---
 - [[Ideas]][[Marketing]]
