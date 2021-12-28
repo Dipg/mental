@@ -16,5 +16,5 @@
 	  </audio>
 	  </html>
 - hiring #card
-	-
 	- Contratación
+- talked about by many
