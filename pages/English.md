@@ -1,8 +1,6 @@
 - # SENTENCES
 - It was about time!  #card
 	- ¡Era cuestión de tiempo!
-- improvements #card
-	- Mejoras
 - No One  #card
 	- Nadie
 - queued #card
@@ -47,6 +45,8 @@
 	  </audio>
 	  </html>
 - # WORDS
+- improvements #card
+	- Mejoras
 - tweak #card
 	- Ajustar
 	-
