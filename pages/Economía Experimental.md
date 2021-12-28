@@ -145,4 +145,5 @@
 -
 - Bideografía
 	- ⭐ ⭐ ⭐ ⭐ - Testing A/B
+	  collapsed:: true
 		- {{youtube https://www.youtube.com/watch?v=1nvMOhNtJX8}}
