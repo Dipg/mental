@@ -147,7 +147,7 @@
 	- En este trabajo se realizar un experimento para determinar la existe de un cambia o no, en  el ratio de conversión de una publicación pagada en Facebook, debido a la modificación de información presentada a los usuarios de la red social.
 	- Problema:
 		- El sistema de publicidad de Facebook, pese a estar al alcance de cualquier negocio, no
-		- Las empresas cada día buscan alternativas en la red a los medios tradicionales de venta y publicidad, sin embargo la gran mayoría de estas, no saben como enfrentarse a la gran cantidad de usuarios en línea,
+		- Las empresas cada día buscan alternativas en la red a los medios tradicionales de venta y publicidad, sin embargo la gran mayoría de estas, no saben como enfrentarse a la cantidad de usuarios en línea,
 		- plataformas afine a esto como las que oferta  facebook, no han sido
 	- Hipótesis:
 		- Existe la posibilidad de conocer la mejor estrategia de alcance de un producto o servicio  a través de un experimento mediante el Servicio de publicidad  de  Facebook.
