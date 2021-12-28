@@ -17,4 +17,3 @@
 	  </html>
 - hiring #card
 	- Contratación
-	-
