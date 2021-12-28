@@ -26,3 +26,8 @@
 	  </html>
 - run by many #card
 	- Dirigido por muchos
+	-
+	  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\1.wav"
+	        style=" " >
+	  </audio>
+	  </html>
