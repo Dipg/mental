@@ -3,8 +3,6 @@
 	- ¡Era cuestión de tiempo!
 - No One  #card
 	- Nadie
-- queued #card
-	- Puesto en cola
 - Research #card
 	- Investigar
 - I'm looking forward #card
@@ -43,6 +41,8 @@
 	  </audio>
 	  </html>
 - # WORDS
+- queued #card
+	- Puesto en cola
 - hiring #card
 	- Contratación
 - improvements #card
