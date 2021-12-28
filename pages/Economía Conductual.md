@@ -392,6 +392,7 @@
 		- Es una situación controlada, muchas de las características son implementadas por diseño, con el fin de observar las decisiones e interacciones individuales resultantes.
 		- ¿ Como se consideran un experimento respecto a los datos?
 			- Un experimento es un proceso de generación de datos controlado
+		- ¿A que nos re
 	- ¿ Cual es el objetivo de un experimento?
 	  collapsed:: true
 		- Inferir relaciones causales entre el entorno  diseñado y el comportamiento de los individuos
