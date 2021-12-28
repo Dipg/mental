@@ -390,8 +390,8 @@
 - # 0. Introducción ![📑](../assets/Unidad_III_-_Principios_de_diseño_experimental_(Parte_1)_1640726025438_0.pdf)
 	- ¿ Que es un exprimento?
 		- Es una situación controlada, muchas de las características son implementadas por diseño, con el fin de observar las decisiones e interacciones individuales resultantes.
-			- ¿ Como se consideran un experimento respecto a los datos?
-				- Un experimento es un proceso de generación de datos controlado?
+		- ¿ Como se consideran un experimento respecto a los datos?
+			- Un experimento es un proceso de generación de datos controlado?
 	- ¿ Cual es el objetivo de un experimento?
 	  collapsed:: true
 		- Inferir relaciones causales entre el entorno  diseñado y el comportamiento de los individuos
