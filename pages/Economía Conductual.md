@@ -389,7 +389,7 @@
 - # Unidad 3
 - # 0. Introducción ![📑](../assets/Unidad_III_-_Principios_de_diseño_experimental_(Parte_1)_1640726025438_0.pdf)
 	- ¿ Que es un exprimento?
-	- Es una situación controlada, muchas de las caracteristicas son implementadas
+	- Es una situación controlada, muchas de las características son implementadas por diseño,
 -
 -
   ---
