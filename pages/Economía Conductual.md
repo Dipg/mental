@@ -391,7 +391,10 @@
 	- ¿ Que es un exprimento?
 		- Es una situación controlada, muchas de las características son implementadas por diseño, con el fin de observar las decisiones e interacciones individuales resultantes.
 	- ¿ Cual es el objetivo de un experimento
+	  collapsed:: false
 		- Inferir relaciones causales entre el entorno  diseñado y el comportamiento de los individuos
+	-
+	  collapsed:: false
 	-
 -
   ---
