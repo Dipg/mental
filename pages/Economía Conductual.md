@@ -391,8 +391,10 @@
 	- ¿ Que es un exprimento?
 		- Es una situación controlada, muchas de las características son implementadas por diseño, con el fin de observar las decisiones e interacciones individuales resultantes.
 		- ¿ Como se consideran un experimento respecto a los datos?
+		  collapsed:: true
 			- Un experimento es un proceso de generación de datos controlado
 		- ¿A que nos referimos cuando hablamos de control?
+		  collapsed:: true
 			- Se da cuando la mayoría de los factores que influyen en el comportamiento se mantienen y solo se varía un factor de interés (el "tratamiento") a la vez
 			- La variación controlada es un factor crucial para hacer inferencia causal
 	- ¿ Cual es el objetivo de un experimento?
