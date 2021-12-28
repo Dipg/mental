@@ -393,7 +393,7 @@
 		- ¿ Como se consideran un experimento respecto a los datos?
 			- Un experimento es un proceso de generación de datos controlado
 		- ¿A que nos referimos cuando hablamos de control?
-			- Se da cuando la ma
+			- Se da cuando la mayoria de los factores que ing
 	- ¿ Cual es el objetivo de un experimento?
 	  collapsed:: true
 		- Inferir relaciones causales entre el entorno  diseñado y el comportamiento de los individuos
