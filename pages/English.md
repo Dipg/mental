@@ -47,3 +47,5 @@
 	  </html>
 - # WORDS
 - tweak #card
+	- Ajustar
+	-
