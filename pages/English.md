@@ -14,8 +14,6 @@
 	        style=" " >
 	  </audio>
 	  </html>
-- hiring #card
-	- Contratación
 - talked about by many #card
 	- de lo que muchos hablan
 	-
@@ -45,6 +43,8 @@
 	  </audio>
 	  </html>
 - # WORDS
+- hiring #card
+	- Contratación
 - improvements #card
 	- Mejoras
 - tweak #card
