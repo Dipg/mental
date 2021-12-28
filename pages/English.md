@@ -1,5 +1,5 @@
 - {{renderer :toc_cuzhbnkbs}}
-	- # SENTENCES
+	- # 1. ENTENCES
 		- It was about time!  #card
 			- ¡Era cuestión de tiempo!
 		- No One  #card
