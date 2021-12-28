@@ -398,7 +398,7 @@
 			- Se da cuando la mayoría de los factores que influyen en el comportamiento se mantienen y solo se varía un factor de interés (el "tratamiento") a la vez
 			- La variación controlada es un factor crucial para hacer inferencia causal
 		- ¿Cuál es una definición mas formal de experimento?
-			-
+			- Un experimento es la e
 	- ¿ Cual es el objetivo de un experimento?
 	  collapsed:: true
 		- Inferir relaciones causales entre el entorno  diseñado y el comportamiento de los individuos
