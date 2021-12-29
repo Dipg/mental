@@ -523,7 +523,7 @@
 			  collapsed:: true
 				- Es a través del cambio promedio inducido por el tratamiento para cualquier individuo en la población= Efecto promedio del tratamiento
 				-
-			-
+			- [](#1.)
 		-
 - ---
 - [[Ideas]][[Marketing]]
