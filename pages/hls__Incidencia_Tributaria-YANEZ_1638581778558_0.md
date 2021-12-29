@@ -236,3 +236,7 @@
   ls-type:: annotation
   hl-page:: 34
   id:: 61cc6265-0851-4a52-875b-c806fb033ed2
+- forma ad-valorem. 
+  ls-type:: annotation
+  hl-page:: 34
+  id:: 61cc626c-5127-4334-a5ea-a3b295e183ff
