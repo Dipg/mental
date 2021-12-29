@@ -449,7 +449,8 @@
 			- Economía de la salud
 			- Economía y derecho
 		- [](#4.) Aspectos Metodológicos
-			-
+			- Perspectivas del participante
+			- Cómo
 		-
 -
   ---
