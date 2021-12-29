@@ -423,7 +423,7 @@
 		-
 	- ¿Cuál es la relación que guarda con los modelos teóricos y con la vida económica real?
 		- Similar a un modelo teórico ya que selecciona un conjunto de dimensiones a estudiar , de un fenómeno de interés.
-		- Se asemeja con la realidad
+		- Se asemeja con la realidad , ya que existen diversas cusas que no podemos controlar ni entender
 -
   ---
 - [[Ideas]][[Marketing]]
