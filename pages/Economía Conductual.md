@@ -546,7 +546,7 @@
 				- ¿Cómo se calcula el estimador de corte transversal con datos observacionales?
 					- ((61cce2a4-e43d-4576-9095-ab886e5227b0))
 					- ¿Que refleja  la ecuación anterior?
-						-
+						- Que el estimador de corte transversal usa
 		-
 - ---
 - [[Ideas]][[Marketing]]
