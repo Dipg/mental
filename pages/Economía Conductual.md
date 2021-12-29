@@ -571,7 +571,7 @@
 				- La eliminación de correlación entre elementos no observados y el cambio en la variable explicitica de interés
 				- Medir y así eliminar el efecto de los factores confsores
 			-
-		- Identificaci
+		- Identificación mediante aleatorización
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
