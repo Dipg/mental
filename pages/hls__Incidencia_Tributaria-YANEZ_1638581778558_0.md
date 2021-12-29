@@ -224,3 +224,7 @@
   ls-type:: annotation
   hl-page:: 33
   id:: 61cc5d2b-e3e2-4eef-ad9e-3989c940c22a
+- efectos  de  primer  orden  o  más  sustantivos  de  la  aplicación  del  impuesto
+  ls-type:: annotation
+  hl-page:: 33
+  id:: 61cc5d65-d5b7-41fd-aead-67484a2bd1df
