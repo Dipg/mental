@@ -465,18 +465,19 @@
 		- Tratamiento experimental
 	- # [](#1.)  El enfoque econométrico al análisis de datos
 		- ¿Por que los experimentos son controlados?
+		  collapsed:: true
 			- Por que el ambiente /contexto son construidos de acuerdo a los objetivos de la pregunta de investigación
 			  id:: 61cbbdec-8c47-4ff2-bd23-f2f2104a323e
 			- Por que al decidir el diseño del "juego", la información prevista, el experimentador decide lo que se llama "proceso de generación de datos"(PGD)
 			- En econometría se busca supuestos que se ajusten a un PGD desconocido.
 			- Los experimentos controlan el PGD
 		- {{embed ((61cbbf57-2572-4d58-9382-507f0f5375b9))}}
-		- ¿Cómo intervienen en los experimentos los supuesto de identificación?
-		  collapsed:: true
-			- Proveen una guía de como identificar a los experimentos, otra fuente para guiarnos son los cuasi experimentos
 		- ¿Los experimentos revierten el método econométrico?
 		  collapsed:: true
 			- Sí, ya que revierten este proceso y escogen el mejor PSD(Proceso de generación de daos ) que se adapte a la pregunta de investigación.
+		- ¿Cómo intervienen en los experimentos los supuesto de identificación?
+		  collapsed:: true
+			- Proveen una guía de como identificar a los experimentos, otra fuente para guiarnos son los cuasi experimentos
 		- ## Estimación de efectos Causales en tratamientos
 -
   ---
