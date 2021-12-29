@@ -530,7 +530,8 @@
 			  collapsed:: true
 				- Solo aquellos que recibieron el tratamiento
 			- ¿Cuándo son iguales el ATE y el ATT?
-				- Esto va a depender del mecanismo detrás del cambio en el resultado, o lo que es lo mismo, depende de  que influyo para que se de ese resultado.
+				- Esto va a depender del mecanismo detrás del cambio en el resultado, o lo que es lo mismo, depende de  que influyo para que se de ese resultado o cambio.
+				-
 		-
 - ---
 - [[Ideas]][[Marketing]]
