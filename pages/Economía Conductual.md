@@ -524,7 +524,7 @@
 				- Es a través del cambio promedio inducido por el tratamiento para cualquier individuo en la población= Efecto promedio del tratamiento
 				-
 			- [](#1.)  Efecto promedio del Tratamiento (ATE)
-				- Mide el impacto del tratamiento en cualquier individuo de la población
+				- Mide el impacto del tratamiento en cualquier individuo de la población , tratados
 		-
 - ---
 - [[Ideas]][[Marketing]]
