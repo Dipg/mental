@@ -41,10 +41,11 @@
 			  </html>
 		- was it like
 			- Fue como
+			-
 		- there were times
 			- Hubo momentos en los que
 			-
-			  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\1.wav"
+			  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\there were times.wav"
 			        style=" " >
 			  </audio>
 			  </html>
