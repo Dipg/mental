@@ -72,6 +72,7 @@
 		  collapsed:: true
 			- Reasignación de recursos implica que un aumento del bienestar de una persona no lleva aparejada la reducción del bienestar de ningún otra .
 - Objetivo de los trabajos empíricos en economía [📑](61cbbfba-6638-4f18-adc4-6b70b62219ad)
+  collapsed:: true
 	- Extraer lecciones generales sobre la evidencia disponible en los datos
 	- Responde preguntas de aspecto inferencial
 	  collapsed:: true
@@ -79,8 +80,10 @@
 		- [](#1.)  Relación con los mecanismos que producen lo observado
 		- [](#2.) Relacionado con cuán informativas son las esdísticas generales a partir de lo observado
 	- ¿Cómo se operativiza tradicionalmente?
+	  collapsed:: true
 		- Mediante supuestos de identificación
 	- ¿Cuál es el reto por lograr=?
+	  collapsed:: true
 		- Encontrar el mejor conjunto de supuestos que mejor se adapta a procesos d generación de datos
 -
 -
