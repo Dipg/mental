@@ -548,7 +548,8 @@
 					- ¿Que refleja  la ecuación anterior?
 						- Que el estimador de corte transversal usa el resultado en el grupo de control como un contrafactual del resultado del grupo tratado.
 						- Este estimador seria valido si $y(0)|X, T=0$ es una medida correcta del resultado que el individuo tratado habría obtenido sin tratamiento.
-						- Sin embargo esto no sucede y produce un
+						- Sin embargo esto no sucede y produce sesgo
+						- El sesgo es la
 		-
 - ---
 - [[Ideas]][[Marketing]]
