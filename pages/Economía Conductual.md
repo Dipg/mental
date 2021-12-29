@@ -532,7 +532,7 @@
 			- ¿Cuándo son iguales el ATE y el ATT?
 				- Esto va a depender del mecanismo detrás del cambio en el resultado, o lo que es lo mismo, depende de  que influyo para que se de ese resultado o cambio.
 				- [](#1.)  Si la respuesta individual al tratamiento es homogénea en la población, entonces los dos parámetros serán los mismos
-				- [](#2.) Si
+				- [](#2.) Si la población es e
 				-
 		-
 - ---
