@@ -565,6 +565,7 @@
 			- la variación de interés se implementa intencionalmente de acuerdo con la pregunta de investigación
 			- La participación es un elemento mas del experimento
 			-
+			-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
