@@ -435,10 +435,12 @@
 			- Psicología del comportamiento
 			- Neurociencia
 		- [](#2.) Juegos y entornos de toma de decisiones
+		  collapsed:: true
 			- Formad de elicitación
 			- Los juegos experimentales
 			- Los cuestionarios psicológicos
 			-
+		-
 		-
 -
   ---
