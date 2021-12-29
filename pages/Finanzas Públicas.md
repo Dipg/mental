@@ -1,4 +1,5 @@
 - # Unida 1 ![📑](../assets/UNIDAD_1_1637632758053_0.pdf) ![​📚​ ](../assets/La_Economía_del_Sector_Público_1637674931911_0.pdf)
+  collapsed:: true
 	- Objetivos de la política fiscal #red
 	  collapsed:: true
 		- ¿Cuáles son los objetivos de la política fiscal?
@@ -236,7 +237,6 @@
 # Unidad 2 ![📑](../assets/UNIDAD_2._1637746281546_0.pdf)
 # Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
 - # Unidad 4 ![📑](../assets/Unidad_4_1637751172084_0.pdf) ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf)
-  collapsed:: true
 	- 1. Introducción
 	- collapsed:: true
 	  2. Incidencia tributaria
@@ -325,6 +325,7 @@
 			- Mientras mas inelástica sea la función demandada de precios, mayor será la proporción de las cargas del impuesto soportadas por los consumidores y viceversa
 	- 7. Ecuación Fundamental de la Incidencia Económica de un impuesto
 	- Incidencia tributaria a trevés del ciclo de vida [ 📜​](61aac79f-6a8f-4c0b-8c59-f3c81744c385) #yellow
+	  collapsed:: true
 		- ¿En que consiste el enfoque de la incidencia tributaria en  el ciclo de vida? #yellow
 			- >Consiste en 📏 el 🤑 recibidos por los contribuyentes  a lo ⌛ y 🕵️‍♂️, la carga tributaria que los afecto a lo largo de la misma.
 		- ¿En que consiste el enfoque anual? #yellow
