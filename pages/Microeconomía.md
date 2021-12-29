@@ -68,7 +68,7 @@
 					- {{youtube https://www.youtube.com/?hl=es-419}}
 - Mercado de Competencia perfecta
 	- Supuestos:
-		- Existe un gran nuemro de consumidores y oferentes, pero todos pequeños en su participación del mercado, por lo que ninguno de ellos tendrá poder suficiente
+		- Existe un gran nuemro de consumidores y oferentes, pero todos pequeños en su participación del mercado, por lo que ninguno de ellos tendrá poder suficiente para alterar el precio de equilibrio de mercado
 - Monopolio
   id:: 619d1fd5-eb00-418b-b85e-5d724d64e93f
   collapsed:: true
