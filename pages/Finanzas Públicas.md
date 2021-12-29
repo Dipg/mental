@@ -292,7 +292,7 @@
 	- 5 Incidencia Estatutaria vs Incidencia Económica
 		- 5.1 Análisis de equilibrio parcial de la incidencia económica de un impuesto
 			- Solo se analiza el mercado de consumo final donde se aplico el impuesto
-			- En el equilibrio pacial no se toman en cuenta las repercusiones del impuesto en otros mercados , esto es solo preseta efectos de primer orden
+			- En el equilibrio parcial no se toman en cuenta las repercusiones del impuesto en otros mercados , esto es solo presenta efectos de primer orden
 	- [](#6.)  Determinantes de la incidencia económica de un impuesto
 	  collapsed:: true
 		- ¿Cuales son los principales determinantes de quien paga la carga de impuestos?
