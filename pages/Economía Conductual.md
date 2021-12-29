@@ -528,7 +528,7 @@
 			- [](#2.) Tratamiento promedio en los tratados (ATT)
 				- Solo aquellos que recibieron el tratamiento
 				- ¿Cuál es su representación Matemática?
-					-
+					- ((61cce14d-7116-45b8-970c-a9e057620c96))
 			- ¿Cuándo son iguales el ATE y el ATT?
 			  collapsed:: true
 				- Esto va a depender del mecanismo detrás del cambio en el resultado, o lo que es lo mismo, depende de  que influyo para que se de ese resultado o cambio.
