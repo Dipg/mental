@@ -529,7 +529,7 @@
 			- [](#2.) tratamiento promedio en los tratados (ATT)
 			  collapsed:: true
 				- Solo aquellos que recibieron el tratamiento
-			-
+			- ¿Cuándo son iguales el ATE y el ATT
 		-
 - ---
 - [[Ideas]][[Marketing]]
