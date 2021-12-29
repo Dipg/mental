@@ -485,7 +485,8 @@
 				- Se puede basar en el marco de evaluación causal: donde se mide  {{cloze efecto causal de un tratamiento}}
 			- ¿Cuales son los estados de la naturaleza en un experimento?
 				- $T=0$ Situación Base
-				- $T=1$ Cambia de dimensi
+				- $T=1$ Cambia de dimensión
+				-
 -
   ---
 - [[Ideas]][[Marketing]]
