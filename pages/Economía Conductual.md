@@ -566,7 +566,7 @@
 			- La participación es un elemento mas del experimento
 			- Nos ayudamos de supuestos econométricos para saber como diseñar para observar efectos de tratamiento de interés.
 			- Se presentan dos nuevos mecanismos de identificación de efectos:
-				- La eliminaciónde correlación entre elementos no observados y el cambio en la variable explicatica de inte´res
+				- La eliminación de correlación entre elementos no observados y el cambio en la variable explicitica de interés
 			-
 - ---
 - [[Ideas]][[Marketing]]
