@@ -1,1 +1,2 @@
-- Economía cerrrda
+- Economía cerrrada
+- alias
