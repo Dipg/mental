@@ -472,7 +472,7 @@
 			- Los experimentos controlan el PGD
 			- {{embed ((61cbbf57-2572-4d58-9382-507f0f5375b9))}}
 			- ¿Los experimentos revierten el método econométrico?
-				- Sì
+				- Sí, ya que revierten
 			-
 -
   ---
