@@ -71,7 +71,7 @@
 		- ***Mejora en el sentido de Pareto***
 		  collapsed:: true
 			- Reasignación de recursos implica que un aumento del bienestar de una persona no lleva aparejada la reducción del bienestar de ningún otra .
-- Objetivo de los trabajos empíricos en economía [:](61cbbfba-6638-4f18-adc4-6b70b62219ad)
+- Objetivo de los trabajos empíricos en economía [😄iapo](61cbbfba-6638-4f18-adc4-6b70b62219ad)
 	- Extraer lecciones generales sobre la evidencia disponible en los datos
 	-
 -
