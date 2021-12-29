@@ -228,3 +228,7 @@
   ls-type:: annotation
   hl-page:: 33
   id:: 61cc5d65-d5b7-41fd-aead-67484a2bd1df
+- economía cerrada o en autarquía,
+  ls-type:: annotation
+  hl-page:: 34
+  id:: 61cc6094-ca92-45e2-a12c-eeeb55dfa225
