@@ -467,7 +467,7 @@
 		- ¿Por que los experimentos son controlados?
 			- Por que el ambiente /contexto son construidos de acuerdo a los objetivos de la pregunta de investigación
 			  id:: 61cbbdec-8c47-4ff2-bd23-f2f2104a323e
-			-
+			- Por que al decidir el diseño
 			-
 			-
 -
