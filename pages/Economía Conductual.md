@@ -417,7 +417,7 @@
 		-
 		-
 	- ¿De que depende la elección de los imputs?
-	- Depende de la relación del feneomeno
+	- Depende de la relación de la relación  y el feneomeno
 -
   ---
 - [[Ideas]][[Marketing]]
