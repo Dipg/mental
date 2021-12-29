@@ -302,7 +302,8 @@
 			- Forma ad-Valorem ( $t$ )
 				- Es la Aplicación de una tasa impositiva porcentual _ Ej: El IVA en Chile es $$t=19%$$ _
 				- ¿Qué soluciona la esta forma de tributación?
-					- Egfect
+					- Efecto deterioro
+						- La inflaci
 	- [](#6.)  Determinantes de la incidencia económica de un impuesto
 	  collapsed:: true
 		- ¿Cuales son los principales determinantes de quien paga la carga de impuestos?
