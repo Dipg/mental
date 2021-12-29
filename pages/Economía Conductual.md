@@ -545,7 +545,7 @@
 				- Solo se cuenta con los resultados de $y(1)|X,T=1$ , quienes recibieron el tratamiento y de $y(0)|X, T=0$ para los que no lo hicieron
 				- ¿Cómo se calcula el estimador de corte transversal con datos observacionales?
 					- ((61cce2a4-e43d-4576-9095-ab886e5227b0))
-					-
+					- Que refleja  la ecuaci
 		-
 - ---
 - [[Ideas]][[Marketing]]
