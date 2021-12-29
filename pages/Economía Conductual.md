@@ -427,6 +427,7 @@
 		- Se asemeja con la realidad , ya que existen infinitas  causas que no podemos controlar u observar.
 	- ¿Cuáles son los aspectos básicos que según Smith(2014) se deberían conocer a la hora de llevar a cabo experimentos? [ 🌱  ](61cbb8f5-80f0-4180-9da9-fdac4316f5b6)
 	  id:: 61cbb8ad-1511-43a2-9bb4-65b2788d42cf
+		- Teoría de la decsión
 		-
 -
   ---
