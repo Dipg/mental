@@ -465,7 +465,7 @@
 		- Tratamiento experimental
 	- # [](#1.)  El enfoque econométrico al análisis de datos
 		- ¿Por que los experimentos son controlados?
-			- [](#1.)  Se deben Controlar debido
+			-
 			  id:: 61cbbdec-8c47-4ff2-bd23-f2f2104a323e
 			-
 -
