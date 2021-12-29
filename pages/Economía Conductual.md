@@ -520,6 +520,7 @@
 					-
 		- ## Parámetros del efecto del tratamiento
 		-
+		-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
