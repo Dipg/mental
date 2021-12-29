@@ -39,10 +39,10 @@
 			        style=" " >
 			  </audio>
 			  </html>
-		- was it like
+		- was it like  #card
 			- Fue como
 			-
-			  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\1.wav"
+			  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\was it like.wav"
 			        style=" " >
 			  </audio>
 			  </html>
