@@ -546,7 +546,8 @@
 				- ¿Cómo se calcula el estimador de corte transversal con datos observacionales?
 					- ((61cce2a4-e43d-4576-9095-ab886e5227b0))
 					- ¿Que refleja  la ecuación anterior?
-						- Que el estimador de corte transversal usa el resultado en el grupo de control como un contrafactual
+						- Que el estimador de corte transversal usa el resultado en el grupo de control como un contrafactual del resultado del grupo tratado.
+						-
 		-
 - ---
 - [[Ideas]][[Marketing]]
