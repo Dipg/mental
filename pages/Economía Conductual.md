@@ -474,6 +474,7 @@
 			- ¿Los experimentos revierten el método econométrico?
 				- Sí, ya que revierten este proceso y escogen el mejor PSD(Proceso de generación de daos ) que se adapte a la pregunta de investigación.
 			- ¿Cómo intervienen en los experimentos los supuesto de identificación?
+				- Prov
 			-
 -
   ---
