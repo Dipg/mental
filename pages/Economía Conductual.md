@@ -505,7 +505,7 @@
 					- [](#1.)  $T=1$
 					- [](#2.) $T=0$
 					- Lo que refleja vectores para resultados incomplatibles
-					-
+					- | i | $
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
