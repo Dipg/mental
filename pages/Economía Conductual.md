@@ -425,7 +425,7 @@
 	  collapsed:: true
 		- Similar a un modelo teórico ya que selecciona un conjunto de dimensiones a estudiar , de un fenómeno de interés.
 		- Se asemeja con la realidad , ya que existen infinitas  causas que no podemos controlar u observar.
-	-
+		-
 -
   ---
 - [[Ideas]][[Marketing]]
