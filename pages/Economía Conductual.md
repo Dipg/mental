@@ -466,6 +466,8 @@
 	- # [](#1.)  El enfoque econométrico al análisis de datos
 		- ¿Por que los experimentos son controlados?
 			- 1. Se deben Controlar debido
+			  2. weq
+			  3.
 -
   ---
 - [[Ideas]][[Marketing]]
