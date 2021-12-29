@@ -42,6 +42,10 @@
 		- was it like
 			- Fue como
 			-
+			  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\1.wav"
+			        style=" " >
+			  </audio>
+			  </html>
 		- there were times
 			- Hubo momentos en los que
 			-
