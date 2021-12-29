@@ -551,7 +551,7 @@
 						- Sin embargo esto no sucede y produce sesgo
 						- El sesgo es la diferencia en resultados entre tratados y no tratados si no hubieran sido tratados
 						- ¿Qué es el efecto selección?
-							- La diferencia o sesgo
+							- La diferencia o sesgo es dependiente de si el tratamiento beneficia
 		-
 - ---
 - [[Ideas]][[Marketing]]
