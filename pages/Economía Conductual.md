@@ -500,7 +500,7 @@
 								-
 					-
 				-
-			-
+			- ¿ Que tipo
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
