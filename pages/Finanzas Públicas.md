@@ -294,7 +294,7 @@
 			- Solo se analiza el mercado de consumo final donde se aplico el impuesto
 			- En el equilibrio parcial no se toman en cuenta las repercusiones del impuesto en otros mercados , esto es solo presenta efectos de primer orden
 			- Se trabajara sobre un ((61cc5e98-483c-4861-9139-50b87270d4c7))
-			- Se trabaja en un
+			- Se trabaja en una
 	- [](#6.)  Determinantes de la incidencia económica de un impuesto
 	  collapsed:: true
 		- ¿Cuales son los principales determinantes de quien paga la carga de impuestos?
