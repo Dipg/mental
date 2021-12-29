@@ -446,8 +446,8 @@
 			- La organización Industrial
 			- La Economía Ambiental
 			- Economía de la salud
-			- Economía y derecho
-			- [](#4.)
+				- Economía y derecho
+		- [](#4.)
 -
   ---
 - [[Ideas]][[Marketing]]
