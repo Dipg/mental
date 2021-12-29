@@ -1,2 +1,2 @@
-- Economía cerrrada 
-  Autarquia
+- Economía cerrada 
+  Autarquía
