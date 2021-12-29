@@ -451,7 +451,7 @@
 		- [](#4.) Aspectos Metodológicos
 			- Perspectivas del participante
 			- Cómo EE se relaciona con otros métodos de la económia, la relación con la teoría
-			-
+			- Métodos estadisticos para el an
 		-
 -
   ---
