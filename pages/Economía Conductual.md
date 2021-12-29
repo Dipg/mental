@@ -425,7 +425,7 @@
 	  collapsed:: true
 		- Similar a un modelo teórico ya que selecciona un conjunto de dimensiones a estudiar , de un fenómeno de interés.
 		- Se asemeja con la realidad , ya que existen infinitas  causas que no podemos controlar u observar.
-	- ¿Cuáles son los aspectos básicos que segun Smith(2014)
+	- ¿Cuáles son los aspectos básicos que segun Smith(2014) se deberian conocer a la ora de llevar a cab
 -
   ---
 - [[Ideas]][[Marketing]]
