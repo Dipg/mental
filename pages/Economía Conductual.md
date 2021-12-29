@@ -437,8 +437,6 @@
 -
 -
 - [[Comments]]
-  collapsed:: true
 	- [[Dec 28th, 2021]]
-	  collapsed:: true
 		- ((61cbb8ad-1511-43a2-9bb4-65b2788d42cf))
 			- Falta especificar cada una de las expresiónes acontinuación numeradas
