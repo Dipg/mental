@@ -460,7 +460,7 @@
 		- Sujeo/participante
 		- Sesión experimental
 		- Ronda/período
-		- tratamiento líne base:
+		- tratamiento línea base:
 -
   ---
 - [[Ideas]][[Marketing]]
