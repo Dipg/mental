@@ -290,6 +290,7 @@
 	- 3. Incidencia Estatutaria u Obligatoria
 	- 4. Incidencia Económica
 	- 5 Incidencia Estatutaria vs Incidencia Económica
+	  collapsed:: true
 		- 5.1 Análisis de equilibrio parcial de la incidencia económica de un impuesto
 		  collapsed:: true
 			- Solo se analiza el mercado de consumo final donde se aplico el impuesto
@@ -297,9 +298,11 @@
 			- Se trabajara sobre un ((61cc5e98-483c-4861-9139-50b87270d4c7))
 			- Se trabaja en una ((61cc6014-667c-436c-9e54-53710f78e213))
 		- ¿ Cuales son las formas de aplicación de la tasa de impuestos a la proucción o al consumo?
+		  collapsed:: true
 			- Forma Unitaria ( $T$ )
 				- Se establece que la tasa de impuesto sea una cierta cantidad de unidades monetarias por unidad de producto. _Ej: cobrar $200 por cajetilla de cigarrillo_
 			- Forma ad-Valorem ( $t$ )
+			  collapsed:: true
 				- Es la Aplicación de una tasa impositiva porcentual _ Ej: El IVA en Chile es $$t=19%$$ _
 				- ¿Qué soluciona la esta forma de tributación?
 					- Efecto deterioro
