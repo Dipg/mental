@@ -429,7 +429,9 @@
 	  id:: 61cbb8ad-1511-43a2-9bb4-65b2788d42cf
 		- Teoría de la decsión
 		- Teoría de Juegos
-		- Prefere
+		- Preferencias no estándar
+		- Agregación
+		-
 -
   ---
 - [[Ideas]][[Marketing]]
