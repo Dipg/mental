@@ -89,7 +89,7 @@
 	  collapsed:: true
 		- Problema de identificación: Como esta relacionada la muestra con la población
 		- Problema de inferencia estadística: ya que trabajamos con  variables aleatorias lo que observamos difiere de lo que queremos medir, a pesar de las propiedades de identificación usadas
-	- Se asume un PGD de
+	- Se asume un PGD de lo que deriva
 -
 -
 -
