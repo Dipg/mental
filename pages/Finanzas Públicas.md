@@ -298,7 +298,8 @@
 			- Se trabaja en una ((61cc6014-667c-436c-9e54-53710f78e213))
 		- ¿ Cuales son las formas de aplicación de la tasa de impuestos a la proucción o al consumo?
 			- Forma Unitaria
-			- Forma ad-
+			- Forma ad-Valorem
+			-
 	- [](#6.)  Determinantes de la incidencia económica de un impuesto
 	  collapsed:: true
 		- ¿Cuales son los principales determinantes de quien paga la carga de impuestos?
