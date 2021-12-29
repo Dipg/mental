@@ -505,7 +505,8 @@
 					- [](#1.)  $T=1$
 					- [](#2.) $T=0$
 					- Lo que refleja vectores para resultados incomplatibles
-					- | i | $T_i$| y_{i}(0) | y_i(0)||
+					- | i | $T_i$| y_{i}(0) | y_i(0)|
+					  
 					  |1|1|-|10|
 					-
 					-
