@@ -441,12 +441,13 @@
 			- Los cuestionarios psicológicos
 			-
 		- [](#3.)  Campos y Aplicaciones
+		  collapsed:: true
 			- Economía laboral
 			- Economía Personal
 			- La organización Industrial
 			- La Economía Ambiental
 			- Economía de la salud
-				- Economía y derecho
+			- Economía y derecho
 		- [](#4.)
 -
   ---
