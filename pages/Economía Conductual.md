@@ -542,7 +542,7 @@
 					- Participación Gratuita
 					- Focalización a una población en particular
 			- ¿Identificación con datos observacionales ?
-				- Solo se cuenta con los resultados de
+				- Solo se cuenta con los resultados de $y(1)
 		-
 - ---
 - [[Ideas]][[Marketing]]
