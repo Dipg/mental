@@ -486,7 +486,7 @@
 				- El efecto causal entonces seria medido por ...
 					- $y_{i1}-y_{i0} = \text{Efecto causal}$
 					- ¿Que problema presenta esto?
-						- la notaci
+						- la notacion anterior supone que un mismo individuo $i$
 					-
 				-
 - ---
