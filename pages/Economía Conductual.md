@@ -431,6 +431,7 @@
 		- Teoría de Juegos
 		- Preferencias no estándar
 		- Agregación
+		- Psicología del comportamiento
 		-
 -
   ---
