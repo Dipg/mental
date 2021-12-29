@@ -560,7 +560,8 @@
 								- ((61ccf2a7-9fe7-4dac-8804-8fcc1948bb2a))
 		-
 	- [](#2.)  Inferencia basada en experimentos controlados
-		-
+		- ¿Por que se diferencia de los experimentos naturales?
+			-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
