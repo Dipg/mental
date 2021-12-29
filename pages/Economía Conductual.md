@@ -502,7 +502,8 @@
 				-
 			- ¿ Que tipo de información proveen los experimentos naturales  ?
 				- Proveen información de corte transversal
-					- [](#1.)
+					- [](#1.)  $T=1$
+					- [](#2.) t=0
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
