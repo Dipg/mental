@@ -541,6 +541,7 @@
 				  collapsed:: true
 					- Participación Gratuita
 					- Focalización a una población en particular
+			- ¿Identificación con datos observacionales ?
 			-
 		-
 - ---
