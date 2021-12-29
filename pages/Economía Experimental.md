@@ -140,7 +140,7 @@
 	- ![Azrieli_Chambers_Healy-CombinedDecisions ES.pdf](../assets/Azrieli_Chambers_Healy-CombinedDecisions_ES_1639428481357_0.pdf)
 	-
 	-
-- # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición de un seguro de medicina prepagada a través de Facebook.  _we{{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras_
+- # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición de un seguro de medicina prepagada a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
 	-
 	- # Introducción
 	- En los últimos años la economía experimental y cond uctual han experimentado un auge en su implementación en diversas áreas tanto académicas, empresariales y tecnológicas, siendo esta ultima la que mas repercusiones y crecimiento a tenido  en el día a día de las personas  desde  inicios de la década de los dos mil. Este crecimiento a tenido como consecuencia una generación de gran cantidad de datos recopilados de usuarios de todo el mundo y aquellas empresas de tecnológicas que mejor han sabido analizar y entender comercialmente dichos datos , son las que mayor cobertura y ganancia económica han generado.
