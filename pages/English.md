@@ -41,6 +41,8 @@
 			  </html>
 		- was it like
 			- Fue como
+		- there were times
+			- Hu
 		-
 	- # 2. WORDS
 		- Research #card
