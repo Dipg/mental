@@ -470,7 +470,21 @@
 			- Por que al decidir el diseño del "juego", la información prevista, el experimentador decide lo que se llama "proceso de generación de datos"(PGD)
 			- En econometría se busca supuestos que se ajusten a un PGD desconocido.
 			- Los experimentos controlan el PGD
-			-
+			- Objetivo de los trabajos empíricos en economía [📑](61cbbfba-6638-4f18-adc4-6b70b62219ad)
+			  id:: 61cbbf57-2572-4d58-9382-507f0f5375b9
+				- Extraer lecciones generales sobre la evidencia disponible en los datos
+				- Responde preguntas de aspecto inferencial
+				  collapsed:: true
+					- Para resolver estas preguntas se requiere la consistencia entre dos conjuntos de supuesto acerca del proceso de generación de datos
+					- [](#1.)  Relación con los mecanismos que producen lo observado
+					- [](#2.) Relacionado con cuán informativas son las esdísticas generales a partir de lo observado
+				- ¿Cómo se operativiza tradicionalmente?
+				  collapsed:: true
+					- Mediante supuestos de identificación
+				- ¿Cuál es el reto por lograr=?
+				  collapsed:: true
+					- Encontrar el mejor conjunto de supuestos que mejor se adapta a procesos d generación de datos
+			- {{embed ((61cbbf57-2572-4d58-9382-507f0f5375b9))}}
 			-
 			-
 -
