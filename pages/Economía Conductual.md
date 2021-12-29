@@ -504,7 +504,7 @@
 				- Proveen información de corte transversal
 					- [](#1.)  $T=1$
 					- [](#2.) $T=0$
-					-
+					- Lo que refleja
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
