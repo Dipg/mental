@@ -463,6 +463,7 @@
 		- Ronda/período
 		- Tratamiento línea base (Grupo de Control)
 		- Tratamiento experimental
+	- 1
 -
   ---
 - [[Ideas]][[Marketing]]
