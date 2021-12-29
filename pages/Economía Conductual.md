@@ -416,7 +416,8 @@
 		-
 		-
 		-
-	- ¿De que depende la elecci
+	- ¿De que depende la elección de los imputs?
+	-
 -
   ---
 - [[Ideas]][[Marketing]]
