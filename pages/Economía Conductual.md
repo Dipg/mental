@@ -482,7 +482,7 @@
 			- ¿Cuales son los estados de la naturaleza en un experimento?
 				- $T=0$ Situación Base
 				- $T=1$ Cambia de dimensión, lo que genera el cambio es {{cloze el tratamiento}}
-				-
+				- EL resultado se
 				-
 - ---
 - [[Ideas]][[Marketing]]
