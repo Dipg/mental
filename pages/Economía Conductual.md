@@ -456,7 +456,7 @@
 				- Cómo EE se relaciona con otros métodos de la económia, la relación con la teoría
 				- Métodos estadísticos para el análisis de datos
 			-
-	- ## 🌱  0.1 Términos Básicos
+	- ##  0.1 Términos Básicos 🌱
 	  collapsed:: true
 		- Sujeo/participante
 		- Sesión experimental
