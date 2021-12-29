@@ -449,9 +449,10 @@
 			- Economía de la salud
 			- Economía y derecho
 		- [](#4.) Aspectos Metodológicos
+		  collapsed:: true
 			- Perspectivas del participante
 			- Cómo EE se relaciona con otros métodos de la económia, la relación con la teoría
-			- Métodos estadisticos para el an
+			- Métodos estadísticos para el análisis de datos
 		-
 -
   ---
