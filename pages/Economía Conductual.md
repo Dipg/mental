@@ -387,7 +387,7 @@
 		-
 	-
 - # Unidad 3
-	- # 0. Introducción ![📑](../assets/Unidad_III_-_Principios_de_diseño_experimental_(Parte_1)_1640726025438_0.pdf)
+	- ## 0. Introducción ![📑](../assets/Unidad_III_-_Principios_de_diseño_experimental_(Parte_1)_1640726025438_0.pdf)
 	  collapsed:: true
 		- ¿ Que es un experimento?
 		  collapsed:: true
@@ -456,6 +456,7 @@
 				- Cómo EE se relaciona con otros métodos de la económia, la relación con la teoría
 				- Métodos estadísticos para el análisis de datos
 			-
+	-
 -
   ---
 - [[Ideas]][[Marketing]]
