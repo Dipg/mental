@@ -563,7 +563,8 @@
 		- ¿Por que se diferencia de los experimentos naturales?
 			- En esta Ocasión decidimos el proceso de generación de datos
 			- la variación de interés se implementa intencionalmente de acuerdo con la pregunta de investigación
-			- La participación es un elem
+			- La participación es un elemento mas del experimento
+			-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
