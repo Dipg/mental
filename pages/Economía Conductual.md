@@ -483,6 +483,7 @@
 				- $T=0$ Situación Base
 				- $T=1$ Cambia de dimensión, lo que genera el cambio es {{cloze el tratamiento}}
 				-
+				-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
