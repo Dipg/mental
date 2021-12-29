@@ -460,6 +460,7 @@
 		- Tratamiento línea base (Grupo de Control)
 		- Tratamiento experimental
 	- # [](#1.)  El enfoque econométrico al análisis de datos
+	  collapsed:: true
 		- ¿Por que los experimentos son controlados?
 		  collapsed:: true
 			- Por que el ambiente /contexto son construidos de acuerdo a los objetivos de la pregunta de investigación
@@ -550,7 +551,7 @@
 						- Este estimador seria valido si $y(0)|X, T=0$ es una medida correcta del resultado que el individuo tratado habría obtenido sin tratamiento.
 						- Sin embargo esto no sucede y produce sesgo
 						- El sesgo es la diferencia en resultados entre tratados y no tratados si no hubieran sido tratados
-						- ¿Qué es el efecto selección?
+						- ¿Qué es el efecto selección? #yellow
 							- La diferencia o sesgo es dependiente de si el tratamiento beneficia a los individuos o no
 							- ((61ccf20a-23d8-4f59-a956-342536e291d0))
 							- Si existe tal selección el estimador de corte transversal resulta en una estimación sesgada
