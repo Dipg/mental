@@ -561,14 +561,17 @@
 		-
 	- [](#2.)  Inferencia basada en experimentos controlados
 		- ¿Por que se diferencia de los experimentos naturales?
+		  collapsed:: true
 			- En esta Ocasión decidimos el proceso de generación de datos
 			- la variación de interés se implementa intencionalmente de acuerdo con la pregunta de investigación
 			- La participación es un elemento mas del experimento
 			- Nos ayudamos de supuestos econométricos para saber como diseñar para observar efectos de tratamiento de interés.
 			- Se presentan dos nuevos mecanismos de identificación de efectos:
+			  collapsed:: true
 				- La eliminación de correlación entre elementos no observados y el cambio en la variable explicitica de interés
 				- Medir y así eliminar el efecto de los factores confsores
 			-
+		- Identificaci
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
