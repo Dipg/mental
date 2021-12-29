@@ -79,7 +79,7 @@
 		- [](#1.)  Relación con los mecanismos que producen lo observado
 		- [](#2.) Relacionado con cuán informativas son las esdísticas generales a partir de lo observado
 - ¿Como se operativiza tradicionalemnte?
-	- mediante supuestos de identificación
+	- Mediante supuestos de identificación
 -
 -
 -
