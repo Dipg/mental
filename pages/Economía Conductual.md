@@ -457,6 +457,7 @@
 				- Métodos estadísticos para el análisis de datos
 			-
 	- ## 🌱  0.1 Términos Básicos
+	  collapsed:: true
 		- Sujeo/participante
 		- Sesión experimental
 		- Ronda/período
