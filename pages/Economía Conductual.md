@@ -518,7 +518,7 @@
 					-
 					-
 					-
-		- ## Parámetros dele efecto del tratamiento
+		- ## Parámetros del efecto del tratamiento
 		-
 - ---
 - [[Ideas]][[Marketing]]
