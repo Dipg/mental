@@ -81,7 +81,7 @@
 	- ¿Cómo se operativiza tradicionalmente?
 		- Mediante supuestos de identificación
 	- ¿Cuál es el reto por lograr=?
-		-
+		- Encontrar el mejor conk
 -
 -
 -
