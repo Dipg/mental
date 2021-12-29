@@ -422,7 +422,8 @@
 		  collapsed:: true
 		-
 	- ¿Cuál es la relación que guarda con los modelos teóricos y con la vida económica real?
-		- Similar a un modelo teórico ya que selecciona un conjunto de dimensiones a estudiar , de un fenomeno de oi
+		- Similar a un modelo teórico ya que selecciona un conjunto de dimensiones a estudiar , de un fenómeno de interés.
+		-
 -
   ---
 - [[Ideas]][[Marketing]]
