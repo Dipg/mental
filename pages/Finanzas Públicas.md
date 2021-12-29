@@ -290,7 +290,8 @@
 	- 3. Incidencia Estatutaria u Obligatoria
 	- 4. Incidencia Económica
 	- 5 Incidencia Estatutaria vs Incidencia Económica
-		- 5.1 Análisis de equilibrio parcial de la incidencia económica de un impuesto
+		- 5.1 Análisis de equilibrio parcial de la incidencia económica de un impuesto 
+		  collapsed:: true
 			- Solo se analiza el mercado de consumo final donde se aplico el impuesto
 			- En el equilibrio parcial no se toman en cuenta las repercusiones del impuesto en otros mercados , esto es solo presenta efectos de primer orden
 			- Se trabajara sobre un ((61cc5e98-483c-4861-9139-50b87270d4c7))
