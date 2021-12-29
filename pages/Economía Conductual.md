@@ -458,7 +458,8 @@
 			-
 	- ## 0.1 Términos Básicos
 		- Sujeo/participante
-		-
+		- Sesión experimental
+		- Ronda
 -
   ---
 - [[Ideas]][[Marketing]]
