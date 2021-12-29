@@ -450,7 +450,7 @@
 			- Economía y derecho
 		- [](#4.) Aspectos Metodológicos
 			- Perspectivas del participante
-			- Cómo
+			- Cómo EE se relaciona con otros métodos
 		-
 -
   ---
