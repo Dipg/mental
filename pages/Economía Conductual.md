@@ -387,74 +387,75 @@
 		-
 	-
 - # Unidad 3
-- # 0. Introducción ![📑](../assets/Unidad_III_-_Principios_de_diseño_experimental_(Parte_1)_1640726025438_0.pdf)
-	- ¿ Que es un experimento?
+	- # 0. Introducción ![📑](../assets/Unidad_III_-_Principios_de_diseño_experimental_(Parte_1)_1640726025438_0.pdf)
 	  collapsed:: true
-		- Es una situación controlada, muchas de las características son implementadas por diseño, con el fin de observar las decisiones e interacciones individuales resultantes.
-		- ¿ Como se consideran un experimento respecto a los datos?
+		- ¿ Que es un experimento?
 		  collapsed:: true
-			- Un experimento es un proceso de generación de datos controlado
-		- ¿A que nos referimos cuando hablamos de control?
-		  collapsed:: true
-			- Se da cuando la mayoría de los factores que influyen en el comportamiento se mantienen y solo se varía un factor de interés (el "tratamiento") a la vez
-			- La variación controlada es un factor crucial para hacer inferencia causal
-		- ¿Cuál es una definición mas formal de experimento?
-		  collapsed:: true
-			- Un experimento es la elección de un conjunto de ==n== inputs, que definen el entorno, asicado con ==m== medidas de sus consecuencias con el objetivo de inferir su relación causal ==F==
-		-
-	- ¿ Cual es el objetivo de un experimento?
-	  collapsed:: true
-		- Inferir relaciones causales entre el entorno  diseñado y el comportamiento de los individuos
-	- ¿Qué tipo de experimentos podemos realizar?
-	  collapsed:: true
-		- De Campo
-		- De Laboratorio
-	- ¿Los experimentos se ven influenciados únicamente por los ==n== inputs controlados?
-	  collapsed:: true
-		- No debido a que influyen muchas mas decisiones que no controlamos _ej : el nivel de ruido que se prioduce fuera del laboratorio_
-		-
-		-
-		-
-		-
-	- ¿De que depende la elección de los imputs?
-	  collapsed:: true
-		- Depende de la relación de la relación  y el fenómeno que el experimento busca estudiar- Es decir, depende de la pregunta de investigación
-		  collapsed:: true
-		-
-	- ¿Cuál es la relación que guarda con los modelos teóricos y con la vida económica real?
-	  collapsed:: true
-		- Similar a un modelo teórico ya que selecciona un conjunto de dimensiones a estudiar , de un fenómeno de interés.
-		- Se asemeja con la realidad , ya que existen infinitas  causas que no podemos controlar u observar.
-	- [](#🌱 ) ¿Cuáles son los aspectos básicos que según Smith(2014) se deberían conocer a la hora de llevar a cabo experimentos? [ 📝  ](61cbb8f5-80f0-4180-9da9-fdac4316f5b6)
-	  id:: 61cbb8ad-1511-43a2-9bb4-65b2788d42cf
-	  collapsed:: true
-		- [](#1.)  Teoría de la decsión
-		  collapsed:: true
-			- Teoría de Juegos
-			- Preferencias no estándar
-			- Agregación
-			- Psicología del comportamiento
-			- Neurociencia
-		- [](#2.) Juegos y entornos de toma de decisiones
-		  collapsed:: true
-			- Formad de elicitación
-			- Los juegos experimentales
-			- Los cuestionarios psicológicos
+			- Es una situación controlada, muchas de las características son implementadas por diseño, con el fin de observar las decisiones e interacciones individuales resultantes.
+			- ¿ Como se consideran un experimento respecto a los datos?
+			  collapsed:: true
+				- Un experimento es un proceso de generación de datos controlado
+			- ¿A que nos referimos cuando hablamos de control?
+			  collapsed:: true
+				- Se da cuando la mayoría de los factores que influyen en el comportamiento se mantienen y solo se varía un factor de interés (el "tratamiento") a la vez
+				- La variación controlada es un factor crucial para hacer inferencia causal
+			- ¿Cuál es una definición mas formal de experimento?
+			  collapsed:: true
+				- Un experimento es la elección de un conjunto de ==n== inputs, que definen el entorno, asicado con ==m== medidas de sus consecuencias con el objetivo de inferir su relación causal ==F==
 			-
-		- [](#3.)  Campos y Aplicaciones
+		- ¿ Cual es el objetivo de un experimento?
 		  collapsed:: true
-			- Economía laboral
-			- Economía Personal
-			- La organización Industrial
-			- La Economía Ambiental
-			- Economía de la salud
-			- Economía y derecho
-		- [](#4.) Aspectos Metodológicos
+			- Inferir relaciones causales entre el entorno  diseñado y el comportamiento de los individuos
+		- ¿Qué tipo de experimentos podemos realizar?
 		  collapsed:: true
-			- Perspectivas del participante
-			- Cómo EE se relaciona con otros métodos de la económia, la relación con la teoría
-			- Métodos estadísticos para el análisis de datos
-		-
+			- De Campo
+			- De Laboratorio
+		- ¿Los experimentos se ven influenciados únicamente por los ==n== inputs controlados?
+		  collapsed:: true
+			- No debido a que influyen muchas mas decisiones que no controlamos _ej : el nivel de ruido que se prioduce fuera del laboratorio_
+			-
+			-
+			-
+			-
+		- ¿De que depende la elección de los imputs?
+		  collapsed:: true
+			- Depende de la relación de la relación  y el fenómeno que el experimento busca estudiar- Es decir, depende de la pregunta de investigación
+			  collapsed:: true
+			-
+		- ¿Cuál es la relación que guarda con los modelos teóricos y con la vida económica real?
+		  collapsed:: true
+			- Similar a un modelo teórico ya que selecciona un conjunto de dimensiones a estudiar , de un fenómeno de interés.
+			- Se asemeja con la realidad , ya que existen infinitas  causas que no podemos controlar u observar.
+		- [](#🌱 ) ¿Cuáles son los aspectos básicos que según Smith(2014) se deberían conocer a la hora de llevar a cabo experimentos? [ 📝  ](61cbb8f5-80f0-4180-9da9-fdac4316f5b6)
+		  id:: 61cbb8ad-1511-43a2-9bb4-65b2788d42cf
+		  collapsed:: true
+			- [](#1.)  Teoría de la decsión
+			  collapsed:: true
+				- Teoría de Juegos
+				- Preferencias no estándar
+				- Agregación
+				- Psicología del comportamiento
+				- Neurociencia
+			- [](#2.) Juegos y entornos de toma de decisiones
+			  collapsed:: true
+				- Formad de elicitación
+				- Los juegos experimentales
+				- Los cuestionarios psicológicos
+				-
+			- [](#3.)  Campos y Aplicaciones
+			  collapsed:: true
+				- Economía laboral
+				- Economía Personal
+				- La organización Industrial
+				- La Economía Ambiental
+				- Economía de la salud
+				- Economía y derecho
+			- [](#4.) Aspectos Metodológicos
+			  collapsed:: true
+				- Perspectivas del participante
+				- Cómo EE se relaciona con otros métodos de la económia, la relación con la teoría
+				- Métodos estadísticos para el análisis de datos
+			-
 -
   ---
 - [[Ideas]][[Marketing]]
