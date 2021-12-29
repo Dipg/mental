@@ -550,7 +550,8 @@
 						- Este estimador seria valido si $y(0)|X, T=0$ es una medida correcta del resultado que el individuo tratado habría obtenido sin tratamiento.
 						- Sin embargo esto no sucede y produce sesgo
 						- El sesgo es la diferencia en resultados entre tratados y no tratados si no hubieran sido tratados
-						- ¿Que es el efecto selección
+						- ¿Qué es el efecto selección?
+							-
 		-
 - ---
 - [[Ideas]][[Marketing]]
