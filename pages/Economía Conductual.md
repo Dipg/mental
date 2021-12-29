@@ -480,17 +480,21 @@
 			  collapsed:: true
 				- Se puede basar en el marco de evaluación causal: donde se mide  {{cloze efecto causal de un tratamiento}}
 			- ¿Cuales son los estados de la naturaleza en un experimento?
+			  collapsed:: true
 				- $T=0$ Situación Base
 				- $T=1$ Cambia de dimensión, lo que genera el cambio es {{cloze el tratamiento}}
 				- EL resultado en cada individuo se denota con $y_{i0}$ en el estado sin tratamiento y $y_{i1}$ en el estado con el tratamiento
 				- El efecto causal entonces seria medido por ...
+				  collapsed:: true
 					- $y_{i1}-y_{i0} = \text{Efecto causal}$
 					- ¿Que problema presenta esto?
 						- La notación anterior supone que un mismo individuo $i$ es al que no se le aplica el tratamiento como al que se le aplica el tratamiento, lo cual es imposible.
 					- ¿ En que cosiste el problema de evaluación?
+					  collapsed:: true
 						- Consiste en encontrar un contrafactuales:
 						- Estos contrafactuales son observaciones empíricas que miden/aproximan de manera convincente lo que el investigador no observa.
 							- Este contrafacual debe mostrar 2 dimensiones criticas...
+							  collapsed:: true
 								- [](#1.)  Cuánto refleja el contrafractual lo que queremos observar
 								- [](#2.) El tipo de efecto causal
 								-
