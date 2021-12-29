@@ -1,4 +1,4 @@
-- {{namespace [[Finanzas Públicas]] }}
+-
 - # Unidad 1 ![ 📑](../assets/Unidad_I_-_Introducción_1637370795899_0.pdf) #yellow
   collapsed:: true
   Fundamentos de la economía experimental y del comportamiento (ECC)
