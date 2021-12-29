@@ -86,7 +86,7 @@
 	  collapsed:: true
 		- Encontrar el mejor conjunto de supuestos que mejor se adapta a procesos d generación de datos
 	- ¿Cuales son los problemas de análisis de datos desde la econometría?
-		-
+		- Prblema de identificación:
 -
 -
 -
