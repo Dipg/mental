@@ -531,7 +531,7 @@
 				- Solo aquellos que recibieron el tratamiento
 			- ¿Cuándo son iguales el ATE y el ATT?
 				- Esto va a depender del mecanismo detrás del cambio en el resultado, o lo que es lo mismo, depende de  que influyo para que se de ese resultado o cambio.
-				- [](#1.)  Si la respuesta individual al tratamiento es homogénea en la población, entonces los dos parámetros serán los mismos
+				- Si la respuesta individual al tratamiento es homogénea en la población, entonces los dos parámetros serán los mismos
 				- ¿Cuándo serán diferentes  ATE y el ATT?
 				- Si la población es heterogénea en términos de su respuesta al tratamiento, relacionado esto a que se dio el tratamiento
 				-
