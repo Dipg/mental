@@ -559,7 +559,7 @@
 								- Equivale a una violación del supuesto de identificación, implica heterogeneidad no observada relacionada con el tratamiento
 								- ((61ccf2a7-9fe7-4dac-8804-8fcc1948bb2a))
 		-
-	- [](#2.)
+	- [](#2.)  Inferencia basada en Experimentos controlados
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
