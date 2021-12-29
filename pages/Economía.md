@@ -82,9 +82,10 @@
 	- ¿Cómo se operativiza tradicionalmente?
 	  collapsed:: true
 		- Mediante supuestos de identificación
-	- ¿Cuál es el reto por lograr=?
+	- ¿Cuál es el reto por lograr?
 	  collapsed:: true
 		- Encontrar el mejor conjunto de supuestos que mejor se adapta a procesos d generación de datos
+	-
 -
 -
 -
