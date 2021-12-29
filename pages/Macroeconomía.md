@@ -1,2 +1,2 @@
 - Economía cerrrada 
-  alias: Autarquia
+  alias:: Autarquia
