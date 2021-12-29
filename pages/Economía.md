@@ -75,7 +75,8 @@
 	- Extraer lecciones generales sobre la evidencia disponible en los datos
 	- Responde preguntas de aspecto inferencial
 		- para resolver estas preguntas se requiere la consistencia entre dos conjuntos de supuesto acerca del proceso de generación de datos
-		- [](#1.)  Relación con los mecanismos
+		- [](#1.)  Relación con los mecanismos que producen lo observado
+		- [](#2.)
 -
 -
 -
