@@ -519,7 +519,8 @@
 					-
 					-
 		- ## Parámetros del efecto del tratamiento
-		-
+			- ¿ Cual es la forma de estimar el efecto causal?
+				- Es a tra
 		-
 - ---
 - [[Ideas]][[Marketing]]
