@@ -520,7 +520,7 @@
 					-
 		- ## Parámetros del efecto del tratamiento
 			- ¿ Cual es la forma de estimar el efecto causal?
-				- Es a través del cambio promedio inducido por el tratamiento para cualquier individuo en la población= Efecto pro
+				- Es a través del cambio promedio inducido por el tratamiento para cualquier individuo en la población= Efecto promedio del tratamiento
 		-
 - ---
 - [[Ideas]][[Marketing]]
