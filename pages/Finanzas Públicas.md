@@ -300,7 +300,7 @@
 			- Forma Unitaria ( $T$ )
 				- Se establece que la tasa de impuesto sea una cierta cantidad de unidades monetarias por unidad de producto. _Ej: cobrar $200 por cajetilla de cigarrillo_
 			- Forma ad-Valorem ( $t$ )
-				- Es la Aplicación de una tasa impositiva porcentual _Ej: El IVA en Chile es
+				- Es la Aplicación de una tasa impositiva porcentual _Ej: El IVA en Chile es $t=19%$
 	- [](#6.)  Determinantes de la incidencia económica de un impuesto
 	  collapsed:: true
 		- ¿Cuales son los principales determinantes de quien paga la carga de impuestos?
