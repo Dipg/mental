@@ -467,7 +467,8 @@
 		- ¿Por que los experimentos son controlados?
 			- Por que el ambiente /contexto son construidos de acuerdo a los objetivos de la pregunta de investigación
 			  id:: 61cbbdec-8c47-4ff2-bd23-f2f2104a323e
-			- Por que al decidir el diseño del "jugo", la información prevista, el experimentador decide lo que se llama "proceso de generacoión de datos"
+			- Por que al decidir el diseño del "jugo", la información prevista, el experimentador decide lo que se llama "proceso de generacoión de datos"(PGD)
+			-
 			-
 			-
 -
