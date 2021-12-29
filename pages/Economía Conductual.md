@@ -537,6 +537,7 @@
 			- ¿Cuándo serán diferentes  ATE y el ATT?
 				- Si la población es heterogénea en términos de su respuesta al tratamiento, relacionado esto a que se dio el tratamiento
 				- ¿Problemas para que se de una diferenciación?
+				  collapsed:: true
 					- Participación Gratuita
 					- Focalización a una población en particular
 			-
