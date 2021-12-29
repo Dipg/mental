@@ -488,7 +488,7 @@
 					- ¿Que problema presenta esto?
 						- La notación anterior supone que un mismo individuo $i$ es al que no se le aplica el tratamiento como al que se le aplica el tratamiento, lo cual es imposible.
 					- ¿ En que cosiste el problema de evaluación?
-						- Consiste en enco
+						- Consiste en encontrar un contrafactual
 					-
 				-
 - ---
