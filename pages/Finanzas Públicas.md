@@ -304,7 +304,7 @@
 				- ¿Qué soluciona la esta forma de tributación?
 					- Efecto deterioro
 						- Que era producido por la inflación  produciendo un deterioro en la recaudación tributaria del estado
-					-
+					- Redución de las undoades de fabricaci
 	- [](#6.)  Determinantes de la incidencia económica de un impuesto
 	  collapsed:: true
 		- ¿Cuales son los principales determinantes de quien paga la carga de impuestos?
