@@ -460,7 +460,7 @@
 		- Sujeo/participante
 		- Sesión experimental
 		- Ronda/período
-		- Tratamiento línea base
+		- Tratamiento línea base ()
 		- Tratamiento experimental
 -
   ---
