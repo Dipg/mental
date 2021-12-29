@@ -42,7 +42,8 @@
 		- was it like
 			- Fue como
 		- there were times
-			- Hu
+			- Hubo momentos en los que
+			-
 		-
 	- # 2. WORDS
 		- Research #card
