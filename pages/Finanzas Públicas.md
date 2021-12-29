@@ -290,7 +290,7 @@
 	- 3. Incidencia Estatutaria u Obligatoria
 	- 4. Incidencia Económica
 	- 5 Incidencia Estatutaria vs Incidencia Económica
-		- 5.1 Análisis de
+		- 5.1 Análisis de equilibrio
 	- [](#6.)  Determinantes de la incidencia económica de un impuesto
 	  collapsed:: true
 		- ¿Cuales son los principales determinantes de quien paga la carga de impuestos?
