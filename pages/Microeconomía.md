@@ -1,4 +1,5 @@
--
+- Teoría del Consumidor
+  collapsed:: true
 	- Optimo del Consumidor
 		- Enfoque Primal
 			- Se usa Cuando EL ingreso/Gasto es fijo $$\tilde M$$ y necesitamos maximizar la Utilidad $$U(X,Y)$$
@@ -65,6 +66,8 @@
 					- {{youtube https://www.youtube.com/watch?v=hot0OKUAYSg}}
 				- Demandas Hicksianas
 					- {{youtube https://www.youtube.com/?hl=es-419}}
+- Mercado de Competencia perfecta
+-
 - Monopolio
   id:: 619d1fd5-eb00-418b-b85e-5d724d64e93f
   collapsed:: true
