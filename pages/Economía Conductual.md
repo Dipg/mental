@@ -504,7 +504,8 @@
 				- Proveen información de corte transversal
 					- [](#1.)  $T=1$
 					- [](#2.) $T=0$
-					- Lo que refleja
+					- Lo que refleja vectores para resultados incomplatibles
+					-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
