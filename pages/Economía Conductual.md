@@ -538,7 +538,7 @@
 				- Si la población es heterogénea en términos de su respuesta al tratamiento, relacionado esto a que se dio el tratamiento
 				- ¿Problemas para que se de una diferenciación?
 					- Participación Gratuita
-					- Focal
+					- Focalizacón a una población en particular?
 			-
 		-
 - ---
