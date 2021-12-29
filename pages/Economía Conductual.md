@@ -486,6 +486,7 @@
 				- El efecto causal entonces seria medido por ...
 					- $y_{i1}-y_{i0} = \text{Efecto causal}$
 					-
+					-
 				-
 - ---
 - [[Ideas]][[Marketing]]
