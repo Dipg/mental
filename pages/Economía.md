@@ -74,7 +74,7 @@
 - Objetivo de los trabajos empíricos en economía [📑](61cbbfba-6638-4f18-adc4-6b70b62219ad)
 	- Extraer lecciones generales sobre la evidencia disponible en los datos
 	- Responde preguntas de aspecto inferencial
-	-
+		- para resolver estas preguntas
 -
 -
 -
