@@ -481,7 +481,7 @@
 		- ## Estimación de efectos Causales en tratamientos
 			- Identificación: Identificar pregunta de investigación
 			- En experimentos ¿en que se puede basar la identificación?
-				- Se puede basar en el marco de evaluación causal
+				- Se puede basar en el marco de evaluación causal:
 			-
 -
   ---
