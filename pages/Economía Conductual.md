@@ -520,7 +520,7 @@
 					-
 		- ## Parámetros del efecto del tratamiento
 			- ¿ Cual es la forma de estimar el efecto causal?
-				- Es a tra
+				- Es a través del cmabio promedio
 		-
 - ---
 - [[Ideas]][[Marketing]]
