@@ -485,7 +485,8 @@
 				- EL resultado en cada individuo se denota con $y_{i0}$ en el estado sin tratamiento y $y_{i1}$ en el estado con el tratamiento
 				- El efecto causal entonces seria medido por ...
 					- $y_{i1}-y_{i0} = \text{Efecto causal}$
-					- ¿Qur problema presenta esto
+					- ¿Que problema presenta esto?
+						- la notaci
 					-
 				-
 - ---
