@@ -305,7 +305,7 @@
 					- Efecto deterioro
 						- Que era producido por la inflación  produciendo un deterioro en la recaudación tributaria del estado
 					- Reducción de las unidades de fabricación
-						-
+						- Con al intención de reducir
 	- [](#6.)  Determinantes de la incidencia económica de un impuesto
 	  collapsed:: true
 		- ¿Cuales son los principales determinantes de quien paga la carga de impuestos?
