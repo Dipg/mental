@@ -27,3 +27,7 @@ file-path:: ../assets/Unidad_III_-_Principios_de_diseño_experimental_(Parte_1)_
   id:: 61cce2a4-e43d-4576-9095-ab886e5227b0
   hl-type:: area
   hl-stamp:: 1640817312786
+- Dadoqueestadiferenciaesdependientedesieltratamientobeneficiaalosindividuosono=efectoselección.
+  ls-type:: annotation
+  hl-page:: 37
+  id:: 61ccf20a-23d8-4f59-a956-342536e291d0
