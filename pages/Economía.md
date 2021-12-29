@@ -80,6 +80,7 @@
 		- [](#2.) Relacionado con cuán informativas son las esdísticas generales a partir de lo observado
 	- ¿Cómo se operativiza tradicionalmente?
 		- Mediante supuestos de identificación
+		- Buscamos el me
 -
 -
 -
