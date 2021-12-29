@@ -490,7 +490,8 @@
 					- ¿ En que cosiste el problema de evaluación?
 						- Consiste en encontrar un contrafactuales:
 						- Estos contrafactuales son observaciones empíricas que miden/aproximan de manera convincente lo que el investigador no observa.
-							- Este contrafacual debe mostrar 2 dimensiones criticas
+							- Este contrafacual debe mostrar 2 dimensiones criticas...
+								- [](#1.)  Cu
 					-
 				-
 - ---
