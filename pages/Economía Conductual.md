@@ -564,7 +564,7 @@
 			- En esta Ocasión decidimos el proceso de generación de datos
 			- la variación de interés se implementa intencionalmente de acuerdo con la pregunta de investigación
 			- La participación es un elemento mas del experimento
-			- Nos ayudamos de supuestos econométricos para saber como diseñar para ob
+			- Nos ayudamos de supuestos econométricos para saber como diseñar para observar efectos de tratamieno de interes
 			-
 - ---
 - [[Ideas]][[Marketing]]
