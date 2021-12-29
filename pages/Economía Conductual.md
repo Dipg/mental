@@ -475,6 +475,7 @@
 		  collapsed:: true
 			- Proveen una guía de como identificar a los experimentos, otra fuente para guiarnos son los cuasi experimentos
 		- ## Estimación de efectos Causales en tratamientos
+		  collapsed:: true
 			- Identificación: Identificar pregunta de investigación
 			- En experimentos ¿en que se puede basar la identificación?
 			  collapsed:: true
@@ -517,7 +518,8 @@
 					-
 					-
 					-
-		- ## Parámetros dele fecto del trtamiento
+		- ## Parámetros dele efecto del tratamiento
+		-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
