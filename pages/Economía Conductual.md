@@ -469,7 +469,7 @@
 			  id:: 61cbbdec-8c47-4ff2-bd23-f2f2104a323e
 			- Por que al decidir el diseño del "juego", la información prevista, el experimentador decide lo que se llama "proceso de generación de datos"(PGD)
 			- En econometría se busca supuestos que se ajusten a un PGD desconocido.
-			-
+			- Los experimentos controlan el PGD
 			-
 			-
 -
