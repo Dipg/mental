@@ -464,7 +464,8 @@
 		- Tratamiento línea base (Grupo de Control)
 		- Tratamiento experimental
 	- # [](#1.)  El enfoque econométrico al análisis de datos
-		- ¿
+		- ¿Por que los experimentos son controlados?
+		-
 -
   ---
 - [[Ideas]][[Marketing]]
