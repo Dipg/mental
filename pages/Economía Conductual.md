@@ -531,7 +531,8 @@
 				- Solo aquellos que recibieron el tratamiento
 			- ¿Cuándo son iguales el ATE y el ATT?
 				- Esto va a depender del mecanismo detrás del cambio en el resultado, o lo que es lo mismo, depende de  que influyo para que se de ese resultado o cambio.
-				- [](#1.)  Si las respuestas de la población son
+				- [](#1.)  Si las respuestas de la población son homogeneas
+				-
 		-
 - ---
 - [[Ideas]][[Marketing]]
