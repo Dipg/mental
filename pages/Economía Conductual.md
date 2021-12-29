@@ -483,7 +483,7 @@
 			- En experimentos ¿en que se puede basar la identificación?
 			  collapsed:: true
 				- Se puede basar en el marco de evaluación causal: donde se mide  {{cloze efecto causal de un tratamiento}}
-			- ¿Cuales on los estados de la naturaleza?
+			- ¿Cuales son los estados de la naturaleza en un experimento?
 -
   ---
 - [[Ideas]][[Marketing]]
