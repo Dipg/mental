@@ -463,7 +463,7 @@
 		- Ronda/período
 		- Tratamiento línea base (Grupo de Control)
 		- Tratamiento experimental
-	- 1
+	- [](#1.)  El enfoque econométrico
 -
   ---
 - [[Ideas]][[Marketing]]
