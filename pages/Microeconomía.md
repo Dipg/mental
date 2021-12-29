@@ -68,7 +68,7 @@
 					- {{youtube https://www.youtube.com/?hl=es-419}}
 - Mercado de Competencia perfecta
 	- Supuestos:
-		- º
+		-
 - Monopolio
   id:: 619d1fd5-eb00-418b-b85e-5d724d64e93f
   collapsed:: true
