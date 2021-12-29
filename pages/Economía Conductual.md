@@ -417,7 +417,7 @@
 		-
 		-
 	- ¿De que depende la elección de los imputs?
-	- Depende de la relación de la relación  y el feneomeno que el ecperimento
+	- Depende de la relación de la relación  y el fenómeno que el experimento busca estudiar
 -
   ---
 - [[Ideas]][[Marketing]]
