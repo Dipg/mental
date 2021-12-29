@@ -80,7 +80,8 @@
 		- [](#2.) Relacionado con cuán informativas son las esdísticas generales a partir de lo observado
 	- ¿Cómo se operativiza tradicionalmente?
 		- Mediante supuestos de identificación
-	- ¿Cual es el reto por lograr=?
+	- ¿Cuál es el reto por lograr=?
+		-
 -
 -
 -
