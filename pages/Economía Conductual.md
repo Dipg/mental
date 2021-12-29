@@ -555,7 +555,7 @@
 							- ((61ccf20a-23d8-4f59-a956-342536e291d0))
 							- Si existe tal selección el estimador de corte transversal resulta en una estimación sesgada
 							- ¿ Que implica este efecto de selección?
-								- Equivale a un sup
+								- Equivale a una violación del
 		-
 - ---
 - [[Ideas]][[Marketing]]
