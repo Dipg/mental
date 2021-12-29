@@ -500,7 +500,7 @@
 								-
 					-
 				-
-			- ¿ Que tipo de información proveen los experimetnos
+			- ¿ Que tipo de información proveen los experimentos naturales
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
