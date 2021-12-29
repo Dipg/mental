@@ -220,3 +220,7 @@
   ls-type:: annotation
   hl-page:: 33
   id:: 61cc5cac-2a3c-42c6-999e-3f75b49dc135
+- solamente  en  el  mercado  del  bien  de  consumo final donde se aplicó. 
+  ls-type:: annotation
+  hl-page:: 33
+  id:: 61cc5d2b-e3e2-4eef-ad9e-3989c940c22a
