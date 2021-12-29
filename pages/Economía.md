@@ -30,7 +30,6 @@
 	- [[Utilidad esperada]] #red
 - Supuestos de Modelo Estándar
   id:: 61986c0a-c73c-4efc-8d25-a4989c91fe8c
-  collapsed:: true
 	- [](#1.) Cancelación
 	  id:: 619971db-6483-4ae0-a832-e77a3f1464a9
 	  collapsed:: true
@@ -71,6 +70,7 @@
 		- ***Mejora en el sentido de Pareto***
 		  collapsed:: true
 			- Reasignación de recursos implica que un aumento del bienestar de una persona no lleva aparejada la reducción del bienestar de ningún otra .
+- ¿Cual
 -
 -
 -
