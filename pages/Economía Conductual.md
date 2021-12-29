@@ -526,7 +526,7 @@
 			- [](#1.)  Efecto promedio del Tratamiento (ATE)
 			  collapsed:: true
 				- Mide el impacto del tratamiento en cualquier individuo de la población , tratados y no tratados
-			- [](#2.) tratamiento promedio en lo s tratados
+			- [](#2.) tratamiento promedio en lo s tratados (ATT)
 		-
 - ---
 - [[Ideas]][[Marketing]]
