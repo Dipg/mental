@@ -426,6 +426,7 @@
 		- Similar a un modelo teórico ya que selecciona un conjunto de dimensiones a estudiar , de un fenómeno de interés.
 		- Se asemeja con la realidad , ya que existen infinitas  causas que no podemos controlar u observar.
 	- ¿Cuáles son los aspectos básicos que según Smith(2014) se deberían conocer a la hora de llevar a cabo experimentos?
+		-
 -
   ---
 - [[Ideas]][[Marketing]]

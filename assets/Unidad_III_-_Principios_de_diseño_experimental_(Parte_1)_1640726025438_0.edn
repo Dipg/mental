@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "61cbb8f5-80f0-4180-9da9-fdac4316f5b6", :page 7, :position {:bounding {:x1 47.515625, :y1 100.3125, :x2 622.990234375, :y2 141.328125, :width 679, :height 381.9375}, :rects ({:x1 47.515625, :y1 100.3125, :x2 622.990234375, :y2 122.3125, :width 679, :height 381.9375} {:x1 47.515625, :y1 119.328125, :x2 390.7270202636719, :y2 141.328125, :width 679, :height 381.9375}), :page 7}, :content {:text "Smith(2014)señalaquehayalgunosaspectosbásicosquecualquierindividuo“nuevo”eneláreadebeconocer"}, :properties {:color "yellow"}}]}
