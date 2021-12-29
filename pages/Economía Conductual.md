@@ -535,6 +535,7 @@
 				- Si la respuesta individual al tratamiento es homogénea en la población, entonces los dos parámetros serán los mismos
 				-
 			- ¿Cuándo serán diferentes  ATE y el ATT?
+			  collapsed:: true
 				- Si la población es heterogénea en términos de su respuesta al tratamiento, relacionado esto a que se dio el tratamiento
 				- ¿Problemas para que se de una diferenciación?
 				  collapsed:: true
