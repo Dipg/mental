@@ -517,7 +517,7 @@
 					-
 					-
 					-
-		- ## Parametros
+		- ## Parámetros dele fecto del trtamiento
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
