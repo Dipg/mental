@@ -479,7 +479,7 @@
 		  collapsed:: true
 			- Proveen una guía de como identificar a los experimentos, otra fuente para guiarnos son los cuasi experimentos
 		- ## Estimación de efectos Causales en tratamientos
-			- Identificación
+			- Identificación: Identificar preguta de investigación
 			-
 -
   ---
