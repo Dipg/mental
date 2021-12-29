@@ -556,6 +556,7 @@
 							- Si existe tal selección el estimador de corte transversal resulta en una estimación sesgada
 							- ¿ Que implica este efecto de selección?
 								- Equivale a una violación del supuesto de identificación, implica heterogeneidad no observada relacionada con el tratamiento
+								- ((61ccf2a7-9fe7-4dac-8804-8fcc1948bb2a))
 		-
 - ---
 - [[Ideas]][[Marketing]]

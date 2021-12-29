@@ -31,3 +31,7 @@ file-path:: ../assets/Unidad_III_-_Principios_de_diseño_experimental_(Parte_1)_
   ls-type:: annotation
   hl-page:: 37
   id:: 61ccf20a-23d8-4f59-a956-342536e291d0
+- Estoresultadeselecciónendógena.Ejm:Seleccióndeindividuosconciertascaracterísticasparapilotodeunprograma.
+  ls-type:: annotation
+  hl-page:: 38
+  id:: 61ccf2a7-9fe7-4dac-8804-8fcc1948bb2a
