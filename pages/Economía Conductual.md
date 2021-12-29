@@ -543,7 +543,7 @@
 					- Focalización a una población en particular
 			- ¿Identificación con datos observacionales ?
 				- Solo se cuenta con los resultados de $y(1)|X,T=1$ , quienes recibieron el tratamiento y de $y(0)|X, T=0$ para los que no lo hicieron
-				- ¿Como se calcula?
+				- ¿Cómo se calcula ?
 		-
 - ---
 - [[Ideas]][[Marketing]]
