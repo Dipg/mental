@@ -520,7 +520,7 @@
 					-
 		- ## Parámetros del efecto del tratamiento
 			- ¿ Cual es la forma de estimar el efecto causal?
-				- Es a través del cmabio promedio inducido por el tratamiento para cualquier individuo en la población
+				- Es a través del cambio promedio inducido por el tratamiento para cualquier individuo en la población
 		-
 - ---
 - [[Ideas]][[Marketing]]
