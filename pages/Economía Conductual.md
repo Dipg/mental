@@ -500,7 +500,7 @@
 								-
 					-
 				-
-			- ¿ Que tipo de informaci
+			- ¿ Que tipo de información proveen los experimetnos
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
