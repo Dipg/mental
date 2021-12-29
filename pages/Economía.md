@@ -86,8 +86,9 @@
 	  collapsed:: true
 		- Encontrar el mejor conjunto de supuestos que mejor se adapta a procesos d generación de datos
 	- ¿Cuales son los problemas de análisis de datos desde la econometría?
+	  collapsed:: true
 		- Problema de identificación: Como esta relacionada la muestra con la población
-		- Problema de inferencia estadística: ya que trabajamos con  variables aleatorias lo que observamos difiere de lo que queremos medir, a pesar de las porpiedades de identificación usadas
+		- Problema de inferencia estadística: ya que trabajamos con  variables aleatorias lo que observamos difiere de lo que queremos medir, a pesar de las propiedades de identificación usadas
 -
 -
 -
