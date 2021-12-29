@@ -44,6 +44,7 @@
 		- there were times
 			- Hubo momentos en los que
 			-
+			-
 		-
 	- # 2. WORDS
 		- Research #card
