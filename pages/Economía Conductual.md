@@ -565,6 +565,7 @@
 			- la variación de interés se implementa intencionalmente de acuerdo con la pregunta de investigación
 			- La participación es un elemento mas del experimento
 			- Nos ayudamos de supuestos econométricos para saber como diseñar para observar efectos de tratamiento de interés.
+			- Se prese
 			-
 - ---
 - [[Ideas]][[Marketing]]
