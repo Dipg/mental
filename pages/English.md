@@ -44,6 +44,10 @@
 		- there were times
 			- Hubo momentos en los que
 			-
+			  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\1.wav"
+			        style=" " >
+			  </audio>
+			  </html>
 			-
 		-
 	- # 2. WORDS
