@@ -524,6 +524,7 @@
 			- [](#1.)  Efecto promedio del Tratamiento (ATE)
 				- Mide el impacto del tratamiento en cualquier individuo de la población , tratados y no tratados
 				- ¿Cuál es su representación matemática?
+					- ((61cce115-7e78-439e-b1af-c5e63cef579e))
 			- [](#2.) Tratamiento promedio en los tratados (ATT)
 			  collapsed:: true
 				- Solo aquellos que recibieron el tratamiento
