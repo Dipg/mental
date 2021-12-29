@@ -492,7 +492,8 @@
 						- Estos contrafactuales son observaciones empíricas que miden/aproximan de manera convincente lo que el investigador no observa.
 							- Este contrafacual debe mostrar 2 dimensiones criticas...
 								- [](#1.)  Cuánto refleja el contrafractual lo que queremos observar
-								- [](#2.)
+								- [](#2.) El tipo de efecto causal
+								-
 					-
 				-
 - ---
