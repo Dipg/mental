@@ -46,7 +46,7 @@
 			        style=" " >
 			  </audio>
 			  </html>
-		- there were times
+		- there were times #card
 			- Hubo momentos en los que
 			-
 			  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\there were times.wav"
