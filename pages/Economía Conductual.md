@@ -530,7 +530,7 @@
 			  collapsed:: true
 				- Solo aquellos que recibieron el tratamiento
 			- ¿Cuándo son iguales el ATE y el ATT?
-			-
+				- Esto va a depender
 		-
 - ---
 - [[Ideas]][[Marketing]]
