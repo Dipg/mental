@@ -542,7 +542,7 @@
 					- Participación Gratuita
 					- Focalización a una población en particular
 			- ¿Identificación con datos observacionales ?
-				- Solo se cuenta con los resultados de $y(1)|X,T=1$ , quienes recibieron el trtamiento y de $y(0)!X
+				- Solo se cuenta con los resultados de $y(1)|X,T=1$ , quienes recibieron el trtamiento y de $y(0)|X, T=0$
 		-
 - ---
 - [[Ideas]][[Marketing]]
