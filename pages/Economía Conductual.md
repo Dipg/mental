@@ -480,7 +480,7 @@
 			- Proveen una guía de como identificar a los experimentos, otra fuente para guiarnos son los cuasi experimentos
 		- ## Estimación de efectos Causales en tratamientos
 			- Identificación: Identificar pregunta de investigación
-			- En experimentos
+			- En experimentos en que se puede basar
 			-
 -
   ---
