@@ -437,6 +437,7 @@
 		- [](#2.) Juegos y entornos de toma de decisiones
 			- Formad de elicitación
 			- Los juegos experimentales
+			- Los cuestionarios psicológicos
 			-
 		-
 -
