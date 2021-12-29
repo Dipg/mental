@@ -472,7 +472,7 @@
 			- Los experimentos controlan el PGD
 			- {{embed ((61cbbf57-2572-4d58-9382-507f0f5375b9))}}
 			- ¿Los experimentos revierten el método econométrico?
-				- Sí, ya que revierten este proceso y escogen el mejor PSD(Proceso de )
+				- Sí, ya que revierten este proceso y escogen el mejor PSD(Proceso de generacion de daos ) que se
 			-
 -
   ---
