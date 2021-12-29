@@ -67,6 +67,7 @@
 				- Demandas Hicksianas
 					- {{youtube https://www.youtube.com/?hl=es-419}}
 - Mercado de Competencia perfecta
+  id:: 61cc5e98-483c-4861-9139-50b87270d4c7
 	- Se presenta cuando:
 		- Existe un gran número de consumidores y oferentes, pero todos pequeños en su participación del mercado, por lo que ninguno de ellos tendrá poder suficiente para alterar el precio de equilibrio de mercado con sus decisiones individuales
 		- existe información perfecta
