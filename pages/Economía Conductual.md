@@ -517,6 +517,7 @@
 					-
 					-
 					-
+		- ## Parametros
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
