@@ -1,4 +1,4 @@
-- {{namespace [[Mercados Financieros]] }}
+- {{namespace  }}
 - # Unida 1 ![📑](../assets/UNIDAD_1_1637632758053_0.pdf) ![​📚​ ](../assets/La_Economía_del_Sector_Público_1637674931911_0.pdf)
   collapsed:: true
 	- Objetivos de la política fiscal #red
