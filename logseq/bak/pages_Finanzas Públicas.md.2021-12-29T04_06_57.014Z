@@ -237,7 +237,8 @@ collapsed:: true
 # Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
 - # Unidad 4 ![📑](../assets/Unidad_4_1637751172084_0.pdf) ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf)
 	- 1. Introducción
-	- collapsed:: true
+	-
+	  collapsed:: true
 	  2. Incidencia tributaria
 		- ¿ En que consiste la incidencia  tributaria?
 			- Consiste en saber quien paga verdaderamente la carga de impuestos
@@ -324,15 +325,21 @@ collapsed:: true
 			- Mientras mas inelástica sea la función demandada de precios, mayor será la proporción de las cargas del impuesto soportadas por los consumidores y viceversa
 	- 7. Ecuación Fundamental de la Incidencia Económica de un impuesto
 	- Incidencia tributaria a trevés del ciclo de vida [ 📜​](61aac79f-6a8f-4c0b-8c59-f3c81744c385) #yellow
+	  collapsed:: true
 		- ¿En que consiste el enfoque de la incidencia tributaria en  el ciclo de vida? #yellow
+		  collapsed:: true
 			- >Consiste en 📏 el 🤑 recibidos por los contribuyentes  a lo ⌛ y 🕵️‍♂️, la carga tributaria que los afecto a lo largo de la misma.
 		- ¿En que consiste el enfoque anual? #yellow
+		  collapsed:: true
 			- Consiste en medir la base del impuesto en un año calendario
 			- ¿Caso Chile?
+			  collapsed:: true
 				- El impuesto a la renta en Chile se aplica en un horizonte de tiempo anual, en abril, sin embargo a este se le puede ir contribuyendo mensualmente y con retenciones del 10
 				- % de los honorarios
 		- ¿Cuales son las diferencias entre el ingreso anual y el ingreso a través del ciclo de vida? #yellow
+		  collapsed:: true
 			- Primero ... #yellow
+			  collapsed:: true
 				- ¿Cómo evolucionan los ingresos según la teoría del ⌛  a través del tiempo?
 				  collapsed:: true
 					- Primeras etapas de vida → Ingresos bajos o ceo
@@ -432,7 +439,8 @@ collapsed:: true
 		  collapsed:: true
 			- La incidencia tributaria sobre el ciclo de vida analiza mi evolución de ingresos con respecto a mi edad  y al final se observa que existe un gran sesgo hacia los estratos mas bajos de la distribución de ingresos e impacta mucho la evolución de la temporalidad en la cual una persona se encuentre para fijar ese nivel de ingresos acumulados
 -
-- ---
+-
+  ---
 - Rev
   collapsed:: true
 	- ¿Por que la incidencia tributaria se grafica como un rectángulo debajo del precio que incluye el impuesto  y por encima  de precio sin impuesto?

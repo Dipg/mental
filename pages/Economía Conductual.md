@@ -484,6 +484,7 @@
 			  collapsed:: true
 				- Se puede basar en el marco de evaluación causal: donde se mide  {{cloze efecto causal de un tratamiento}}
 			- ¿Cuales son los estados de la naturaleza en un experimento?
+				- $T=0
 -
   ---
 - [[Ideas]][[Marketing]]
@@ -497,4 +498,4 @@
 	- [[Dec 28th, 2021]]
 	  collapsed:: true
 		- ((61cbb8ad-1511-43a2-9bb4-65b2788d42cf))
-			- Falta especificar cada una de las expresiónes acontinuación numeradas
+			- Falta especificar cada una de las expresiónes acontinuación nume
