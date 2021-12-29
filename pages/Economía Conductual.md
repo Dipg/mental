@@ -527,7 +527,9 @@
 			  collapsed:: true
 				- Mide el impacto del tratamiento en cualquier individuo de la población , tratados y no tratados
 			- [](#2.) tratamiento promedio en los tratados (ATT)
+			  collapsed:: true
 				- Solo aquellos que recibieron el tratamiento
+			-
 		-
 - ---
 - [[Ideas]][[Marketing]]
