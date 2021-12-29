@@ -562,7 +562,8 @@
 	- [](#2.)  Inferencia basada en experimentos controlados
 		- ¿Por que se diferencia de los experimentos naturales?
 			- En esta Ocasión decidimos el proceso de generación de datos
-			- la variación de interés se implementa intecionalmente de acuerdo con la pregunta de investigación
+			- la variación de interés se implementa intencionalmente de acuerdo con la pregunta de investigación
+			-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
