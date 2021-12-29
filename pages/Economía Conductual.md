@@ -480,6 +480,7 @@
 			  collapsed:: true
 				- Se puede basar en el marco de evaluación causal: donde se mide  {{cloze efecto causal de un tratamiento}}
 			- ¿Cuales son los estados de la naturaleza en un experimento?
+			  collapsed:: true
 				- $T=0$ Situación Base
 				- $T=1$ Cambia de dimensión, lo que genera el cambio es {{cloze el tratamiento}}
 				- EL resultado en cada individuo se denota con $y_{i0}$ en el estado sin tratamiento y $y_{i1}$ en el estado con el tratamiento
