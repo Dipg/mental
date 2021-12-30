@@ -582,7 +582,7 @@
 		- Primera regla de un experimento
 		  collapsed:: true
 			- Asignación aleatoria del tratamiento
-		- Para realizar el diseño de un experimento controlado
+		- Para realizar el diseño de un experimento controlado entonces adaptamos el supuesto de identificación del estimador
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
