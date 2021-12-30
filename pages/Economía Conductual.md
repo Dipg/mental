@@ -574,7 +574,7 @@
 				- Medir y así eliminar el efecto de los factores confsores
 			-
 		- ## Identificación mediante aleatorización
-			-
+			- Se utiliza la identificación para evitar la correlació...
 			- ¿Cuál es una condición crucial para identificación?
 			  collapsed:: true
 				- Exogeneidad de las variables explicativas, es decir no correlación entre el componente no observado del resultado y las variables de interés.
