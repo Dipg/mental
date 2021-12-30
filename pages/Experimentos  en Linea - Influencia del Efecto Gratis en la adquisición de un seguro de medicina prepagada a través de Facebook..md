@@ -43,7 +43,7 @@
 		- ## Entorno
 		- ## Instituciones
 		- ## Confusores
-			- Detectamos las variables que pueden generar ruido dentro de nuestro experimento asi como
+			- Detectamos las variables que pueden generar ruido dentro de nuestro experimento debilitando su inferencia
 	- # Aplicación y Análisis
 	- # Discusión
 		- ## Validez interna
