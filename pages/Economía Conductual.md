@@ -669,10 +669,10 @@
 			- ¿Para que se usan?
 				- Probar teorias
 				- Evaluar relevancia empírica de los modelos teóricos
-			- ## Validez interna
-				- Debe responder la pregunta clave: ¿Se observará el mismo comportamiento fuera del entorno experimental?
-			- ## Validez Externa
-				- Debe responder la pregunta clave: ¿ Es el comportamiento observado inducido por el ambiente de decisión que replica un modelo?
+				- ## Validez interna
+					- Debe responder la pregunta clave: ¿Se observará el mismo comportamiento fuera del entorno experimental?
+				- ## Validez Externa
+					- Debe responder la pregunta clave: ¿ Es el comportamiento observado inducido por el ambiente de decisión que replica un modelo?
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
