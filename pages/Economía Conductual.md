@@ -628,7 +628,8 @@
 		- Experimentos de campo
 			- Asignación aleatoria de individuos al trtamiento
 			- En un entrono "natural" o "real"
-			- Los suje
+			- Los sujetos toman decisiones en el mismo entorno real ç
+			-
 		- Experimento de laboratorio
 		- ¿Cuál es la diferencia entre los dos tipos de experimentos ?
 			- Entorno Natural vs entorno artificial
