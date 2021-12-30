@@ -8,7 +8,6 @@
 	- ((06b6b343-4139-4975-9cf8-78b5f4bf7a21))
 		- Las empresas no saben como enfrentarse a la cantidad masiva de usuarios en línea, ni cuales pueden ser los mejores mecanismos de presentación o acercamiento del producto o servicio a ofertar
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición de un seguro de medicina prepagada a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
-  collapsed:: true
 	- # Introducción
 	  id:: 138c2bdb-61d9-4329-b5d4-61f2413c97e1
 		- En los últimos años la economía experimental y conductual han experimentado un auge en su implementación en diversas áreas tanto académicas, empresariales y tecnológicas, siendo esta ultima la que mas repercusiones y crecimiento a tenido  en el día a día de las personas  desde  inicios de la década de los dos mil. Este crecimiento a tenido como consecuencia una generación de gran cantidad de datos recopilados de usuarios de todo el mundo y aquellas empresas de tecnológicas que mejor han sabido analizar y entender comercialmente dichos datos , son las que mayor cobertura y ganancia económica han generado.
