@@ -619,7 +619,7 @@
 			  collapsed:: true
 				- Descarta variaciones confusas en el error, bloquea su valor a un nivel especifico
 			- Si existe una variable no observada z , pertenece al error
-			- Sin embargo si se mantiene cosntante,  el efecto no observado sonre el resultado y, este ya no es diferente entre submuestra (T=!,T)
+			- Sin embargo si se mantiene cosntante,  el efecto no observado sonre el resultado y, este ya no es diferente entre submuestra $(T=1,T=0)$
 			- ((61cd00e6-1dff-4d98-ab5a-73d80471cdd6))
 			-
 - ---
