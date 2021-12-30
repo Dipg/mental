@@ -652,7 +652,7 @@
 				- [](#3.)  Habilidad de aleatorizar en la practica
 					- Abandono
 						- Disminución del tamaño de la muestra
-						-
+						- Incumplimiento
 			-
 			-
 - ---
