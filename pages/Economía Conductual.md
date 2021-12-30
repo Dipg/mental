@@ -648,7 +648,7 @@
 			- Depende de la pregunta de investigación
 			- ¿De que depende la elección?
 			- Aspectos prácticos y de implementación, Costos ,Complejidad , Duración
-			- Aspectos inferenciales
+			- Aspectos inferenciales,
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
