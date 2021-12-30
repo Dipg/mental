@@ -42,8 +42,8 @@
 			  Elaboración Autores
 		- ## Entorno
 		- ## Instituciones
-		-
-		  ##
+		- ## Confusores
+			- Detectamos las variables que pueden gen
 	- # Aplicación y Análisis
 	- # Discusión
 		- ## Validez interna
