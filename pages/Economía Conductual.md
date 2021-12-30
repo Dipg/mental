@@ -653,7 +653,7 @@
 					- Abandono
 						- Disminución del tamaño de la muestra
 						- Incumplimiento
-							-
+							- En campo es mas dificil
 			-
 			-
 - ---
