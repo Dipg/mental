@@ -155,13 +155,15 @@
 		- ## Asignación aleatoria del tratamiento
 		- ## Población del experimento
 		- ## Identificación Mediante aleatorización
+		  collapsed:: true
 			- En la tabla 1 se presentan las variables aleatorizadas y la justificación de esta decisión
 			- |Variable|Aleatorización| Justiicación|
 			  |Ubicación|Cuenca-Ecuador| La ubicación puede mostrar diversos contrastes sociales por lo que la aleatorización de esta puede reducir el impacto de los mismo|
 		- ## Identificación Mediante variables de control
+		  collapsed:: true
 			- En este apartado en la tabla 2 seleccionamos  las variables que se pretenden controlar con el fin de eliminar o neutralizar sus efectos en la variable dependiente.
 			- #+BEGIN_CENTER
-			  Tabla 1 
+			  Tabla 1 Variables de control
 			  #+END_CENTER
 			- |Variable|Control|Justificación de Control|
 			  |Genero|Femenino|Es el segmento de mercado de mayor consumo, por lo que puede mostrar mayor interés que el sexo opuesto (Anexo 1)|
