@@ -156,6 +156,8 @@
 		- ## Población del experimento
 		- ## Identificación Mediante aleatorización
 		- ## Identificación Mediante variables de control
+			- Edad
+			-
 	- # Aplicación y Análisis
 	- # Discusión
 	- # Conclusión
