@@ -160,7 +160,9 @@
 			  |Ubicación|Cuenca-Ecuador| La ubicación puede mostrar diversos contrastes sociales por lo que la aleatorización de esta puede reducir el impacto de los mismo|
 		- ## Identificación Mediante variables de control
 			- En este apartado en la tabla 2 seleccionamos  las variables que se pretenden controlar con el fin de eliminar o neutralizar sus efectos en la variable dependiente.
-			- tabla
+			- #+BEGIN_CENTER
+			  Tabla 1 
+			  #+END_CENTER
 			- |Variable|Control|Justificación de Control|
 			  |Genero|Femenino|Es el segmento de mercado de mayor consumo, por lo que puede mostrar mayor interés que el sexo opuesto (Anexo 1)|
 			  |Edad |De entre 23-27 años|El servicio esta dirigido a este nicho, por lo que pueden mostrar mayor interés que otro rango de edad(Anexo 2)| 
