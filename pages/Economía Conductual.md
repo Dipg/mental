@@ -746,7 +746,7 @@
 					- ¿ De acuerdo a que se caracterizan los incentivos?
 						- [](#1.)  No saciedad
 							- Mas es mejor, mayor recompensa es mejor
-						- [](#2.) Prominencia
+						- [](#2.) Dominancia
 						  collapsed:: true
 							- El incentivo debe dominar costos asociados a participación
 							  collapsed:: true
