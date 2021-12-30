@@ -804,7 +804,7 @@
 						- ¿Cuál es una de las técnicas mas usadas juegos múltiples ?
 							- Elegir aleatoriamente y pagar solo a una persona (SIA)
 							- ¿Cuales son las desventajas de este sistema?
-								- El juego se puede plantear como una meta lotería  donde cada tarea puede elegirse con la misma probabilidad dependiendo de sus crencias
+								- 1-El juego se puede plantear como una meta lotería  donde cada tarea puede elegirse con la misma probabilidad dependiendo de sus crencias
 								- Esto quiere decir que no se aísla cada ronda sino que se integra en una meta-lotería = efecto arrastre
 								- Con lo que se viola el axioma de independencia
 								-
