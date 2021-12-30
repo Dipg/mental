@@ -681,6 +681,7 @@
 						- Fuerte base teórica +evidencia bien documentada= validez interna +validez externa
 	- # Diapo 2 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_I_(Parte_2)_1640881754368_0.pdf)
 		- # [](#4.) Validez Interna
+			-
 			- [](#4.1) Control Indirecto
 				-
 			- [](#4.2 ) Estructura de incentivos
