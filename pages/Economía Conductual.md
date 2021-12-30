@@ -595,8 +595,7 @@
 			- Primera clave de los experimentos controlados
 			  collapsed:: true
 				- Definir la población sobre la cual hacer inferencia
-		-
-		  ##
+		- ## Identificación medainte
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
