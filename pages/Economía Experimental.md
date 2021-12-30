@@ -161,6 +161,7 @@
 				- De entre 23-27 años
 			- Ubicación
 				- Cuenca
+			- Moem
 			- Fecha
 				- 13 de Enero
 			- Hora
