@@ -574,6 +574,7 @@
 				- Medir y así eliminar el efecto de los factores confsores
 			-
 		- ## Identificación mediante aleatorización
+		  collapsed:: true
 			- Se utiliza la identificación para evitar la correlación...
 			- ¿Cuál es una condición crucial para identificación?
 			  collapsed:: true
@@ -596,6 +597,7 @@
 			  collapsed:: true
 				- Definir la población sobre la cual hacer inferencia
 		- ## Identificación mediante variables de control
+		  collapsed:: true
 			- En datos observacionales :
 			  collapsed:: true
 				- Mejoran la identificación , pero no son parte de la pregunta de investigación
@@ -612,6 +614,8 @@
 				- ¿Qué pasa cuando se vuelven medibles las dimensiones no observables que se correlacionan con los observables de interés?
 				  collapsed:: true
 					- Mejora la identificación
+		- ## Inferencia y control
+		-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
