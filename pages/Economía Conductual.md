@@ -687,6 +687,7 @@
 			- La alta validez interna permite confiar en que los resultados de su experimento son causados por una sola variable independiente
 			- ¿Cómo conseguir la identificación ?
 			  id:: 61cde1aa-c470-4886-99e5-9924ff01d237
+			- ((61cde1e9-cd04-40f8-b8bd-365d82ca8400))
 			- [](#4.1) Control Indirecto
 				-
 			- [](#4.2 ) Estructura de incentivos
