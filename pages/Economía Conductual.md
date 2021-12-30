@@ -627,7 +627,7 @@
 	- # [](#3.)  Tipos de Experimentos
 		- Experimentos de campo
 		- Experimento de laboratorio
-		- ¿Cual es la diferencua entre los dos?
+		- ¿Cuál es la diferencua entre los dos tipos de experiemntos ?
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
