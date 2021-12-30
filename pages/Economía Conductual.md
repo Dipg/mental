@@ -589,7 +589,7 @@
 				- ((61ccf90c-59fb-416b-840a-348c1cdec41f))
 				- Debido a esto , ya podemos medir el ATT , simplemente comparamos entre tratados y no tratados.
 		- ¿Qué es población en el contexto experimental?
-			-
+			- Es especifico de la población
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
