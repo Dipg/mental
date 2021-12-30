@@ -610,7 +610,7 @@
 				  collapsed:: true
 					- Agregando medidas que controlen estos
 				- ¿Qué pasa cuando se vuelven medibles las dimensiones no observables?
-				-
+				- Mejora la identificación
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
