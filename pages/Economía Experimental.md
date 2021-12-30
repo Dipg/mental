@@ -161,8 +161,8 @@
 				- De entre 23-27 años
 			- Ubicación
 				- Cuenca
-			- Momento
-			-
+			- Fecha
+				-
 			-
 			-
 	- # Aplicación y Análisis
