@@ -158,7 +158,7 @@
 			- Sexo
 		- ## Identificación Mediante variables de control
 			- |Variable|Control|
-			  |Genero|
+			  |Genero|femenino|
 			  |Edad |De entre 23-27 años| 
 			  |Ubicación|Cuenca-Ecuador| 
 			  |Fecha|Del 13 al 17  de Enero|
