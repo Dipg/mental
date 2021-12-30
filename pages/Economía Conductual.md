@@ -745,7 +745,7 @@
 						- ((61cdecc4-b480-4fe0-93de-2fb368ea6c9f))
 					- ¿ De acuerdo a que se caracterizan los incentivos?
 						- [](#1.)  No saciedad
-							-
+							- Mas es mejor, m
 						- [](#2.) Prominencia
 						- [](#3.)  Dominancia
 						-
