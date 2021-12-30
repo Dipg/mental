@@ -622,7 +622,8 @@
 			- Sin embargo si se mantiene constante,  el efecto no observado sobre el resultado $y$ , este ya no es diferente entre submuestra $(T=1,T=0)$
 			- ((61cd00e6-1dff-4d98-ab5a-73d80471cdd6))
 			- Mientras mas dimensiones no observadas se pueden mantener constantes, mejor estimación.
-			- En resumen
+			- En resumen:
+				-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
