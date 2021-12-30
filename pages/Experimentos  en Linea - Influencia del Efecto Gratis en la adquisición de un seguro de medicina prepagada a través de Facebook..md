@@ -28,7 +28,7 @@
 			- En la tabla 1 se presentan las variables aleatorizadas y la justificación de esta decisión
 			- |Variable|Aleatorización| Justiicación|
 			  |Ubicación|Cuenca-Ecuador| La ubicación puede mostrar diversos contrastes sociales por lo que la aleatorización de esta puede reducir el impacto de los mismo|
-			- La varibale ubicaci
+			- La varibale ubicación se aleatorizo debido a que el producto requiere un alcance a nivel de ciudad,
 			-
 			- ### Reglas de asignación de aleatorización
 				- Las reglas de aleatorización fueron ....T
