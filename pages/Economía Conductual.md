@@ -668,7 +668,7 @@
 		- ##  Uso de los experimentos
 			- ¿Para que se usan?
 				- Probar teorias
-				- Evaluar rel
+				- Evaluar relevancia empírica de los modelos teoricos
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
