@@ -749,7 +749,7 @@
 						- [](#2.) Prominencia
 							- El incentivo debe dominar costos asociados a participación
 								- Debe compensar por el esfuerzo realizado
-								-
+								- Debe compensar
 							-
 						- [](#3.)  Dominancia
 						-
