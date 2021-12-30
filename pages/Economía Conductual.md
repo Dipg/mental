@@ -753,7 +753,7 @@
 								- Debe compensar por el esfuerzo realizado
 								- Debe compensar el costo de oportunidad de participar
 							- ¿ Que pasa si no se cumple la dominancia?
-								- Se puede dar sesgo de selección y hetero
+								- Se puede dar sesgo de selección y heterogenidad
 						- [](#3.)  Prominencia 
 						  collapsed:: true
 							- La recompensa o incentivo deben estar explícitamente vinculadas a decisiones propias y del resto y los sujetos lo entienden
