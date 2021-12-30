@@ -616,7 +616,7 @@
 					- Mejora la identificación
 		- ## Inferencia y control
 			- ¿Qué causa el control?
-				- descarta variaciones confusas en el error, bloquea su valor a un nivel especifico
+				- Descarta variaciones confusas en el error, bloquea su valor a un nivel especifico
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
