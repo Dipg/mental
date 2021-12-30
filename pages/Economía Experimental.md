@@ -163,7 +163,7 @@
 				- Cuenca
 			- Tiempo
 				- |Fecha| 
-				  13 de Enero
+				  |13 de Enero|
 				- Hora
 					- 6pm
 				- Dia
