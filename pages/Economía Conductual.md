@@ -725,8 +725,7 @@
 					- Aleatorización
 						- Cuando la variación en el error no se puede evitar
 				- ¿Cómo se denomina el diseño experimental mas simple?
-				  collapsed:: true
-					- Diseño Completamente aleatorizado 
+					- Diseño Completamente aleatorizado ( )DCA
 					  collapsed:: true
 						- La correlación entre ruido y resultados de interés tienden a cero
 						- Puede resultar costoso y largo
