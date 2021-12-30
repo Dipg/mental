@@ -706,6 +706,7 @@
 						- Tal inferencia es correcta solo si  el comportamiento es en realidad inducido por el sistema microeconómico inducido
 				- ### [](#3.)  Comportamiento resultante
 				- Diseño y validez interna
+				  collapsed:: true
 					- La identificacion debe cumplir el supuesto de PGS
 					- La validez interna se basas en propiedades asumindas de las respuestas de los agentes al sistema microeconómico que enfrenta
 			- [](#4.1) Control Indirecto
