@@ -674,7 +674,8 @@
 				- ## Validez Externa
 					- Debe responder la pregunta clave: ¿ Es el comportamiento observado inducido por el ambiente de decisión que replica un modelo?
 				- Se pueden usar los experimentos par a informar las decisiones de los responsables políticos
-				- Suma de Valiz interna y Validez Externa
+				- Suma de Validez interna y Validez Externa
+					- Fuerte
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
