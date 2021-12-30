@@ -625,10 +625,10 @@
 				- ((61cd022e-3f6d-4d59-9d8f-470f8aec30c8))
 				-
 	- # [](#3.)  Tipos de Experimentos
-		- Experimentos de campo
+		- Experimentos de campoç
 		- Experimento de laboratorio
 		- ¿Cuál es la diferencia entre los dos tipos de experimentos ?
-			- Entorno Natural
+			- Entorno Natural vs entorno artificial
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
