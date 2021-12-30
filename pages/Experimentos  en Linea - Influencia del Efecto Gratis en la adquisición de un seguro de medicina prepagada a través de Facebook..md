@@ -6,6 +6,7 @@
 	- # Objetivo
 		- Realizar un experimento para determinar la existe de un cambia o no, en  el ratio de conversión de una publicación pagada en Facebook, debido a la modificación de información presentada a  dos grupos similares  de  usuarios de la red social.
 	- ((06b6b343-4139-4975-9cf8-78b5f4bf7a21))
+		-
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición de un seguro de medicina prepagada a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
 	- # Introducción
