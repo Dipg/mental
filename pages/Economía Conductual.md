@@ -747,7 +747,7 @@
 						- [](#1.)  No saciedad
 							- Mas es mejor, mayor recompensa es mejor
 						- [](#2.) Prominencia
-							-
+							- El incentivo deve dominar costos asociados
 						- [](#3.)  Dominancia
 						-
 			-
