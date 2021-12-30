@@ -616,6 +616,7 @@
 					- Mejora la identificación
 		- ## Inferencia y control
 			- ¿Qué causa el control?
+			  collapsed:: true
 				- Descarta variaciones confusas en el error, bloquea su valor a un nivel especifico
 - ---
 - [[Ideas]][[Marketing]]
