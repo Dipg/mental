@@ -572,7 +572,7 @@
 				- Medir y así eliminar el efecto de los factores confsores
 			-
 		- ## Identificación mediante aleatorización
-		- ¿Cual es u
+		- ¿Cuál es una condición crucial
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
