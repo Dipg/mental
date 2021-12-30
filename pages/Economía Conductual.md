@@ -686,6 +686,7 @@
 			-
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
 		- [](#4.3) Control directo
+		- [](#5.)
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
