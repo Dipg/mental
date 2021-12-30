@@ -699,7 +699,7 @@
 					- Se define mediante el conjunto de reglas : las reglas iniciales, de transición y de fin
 					- Reacciones individuales Comportamiento final
 					- Completo control
-					- Objetivo
+					- Objetivo de instituciones
 				- ### [](#3.)  Comportamiento resultante
 				-
 			- [](#4.1) Control Indirecto
