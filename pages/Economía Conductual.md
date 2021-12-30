@@ -744,10 +744,12 @@
 					  collapsed:: true
 						- ((61cdecc4-b480-4fe0-93de-2fb368ea6c9f))
 					- ¿ De acuerdo a que se caracterizan los incentivos?
+					  collapsed:: true
 						- [](#1.)  No saciedad
 						  collapsed:: true
 							- Mas es mejor, mayor recompensa es mejor
 						- [](#2.) Dominancia
+						  collapsed:: true
 							- El incentivo debe dominar costos asociados a participación
 							  collapsed:: true
 								- Debe compensar por el esfuerzo realizado
@@ -765,7 +767,7 @@
 					- Por lo cual se debe recurrir a la constancia de todo lo demás.
 					  collapsed:: true
 						- Esto se puede evitar , no mostrando el objetivo del experimento
-				-
+					-
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
 		- [](#4.3) Control directo
 		- # [](#5.) Otras Consideraciones
