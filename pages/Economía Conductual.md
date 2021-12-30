@@ -666,7 +666,8 @@
 					  collapsed:: true
 						- En campo es mas difícil restringir individuos a seguir reglas
 		- ##  Uso de los experimentos
-		-
+			- ¿Para que se usasn ?
+			-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
