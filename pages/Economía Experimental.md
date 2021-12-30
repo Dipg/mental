@@ -162,7 +162,7 @@
 			- Ubicación
 				- Cuenca
 			- Tiempo
-				- |Fecha| Dias|
+				- |Fecha|Hora|
 				  |13 de Enero|
 					- 6pm
 				- Dia
