@@ -562,6 +562,7 @@
 									- ((61ccf2a7-9fe7-4dac-8804-8fcc1948bb2a))
 		-
 	- # [](#2.)  Inferencia basada en experimentos controlados
+	  collapsed:: true
 		- ¿Por que se diferencia de los experimentos naturales?
 		  collapsed:: true
 			- En esta Ocasión decidimos el proceso de generación de datos
