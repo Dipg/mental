@@ -152,8 +152,7 @@
 		- Existe la posibilidad de conocer la mejor estrategia de alcance de un producto o servicio  a través de un experimento mediante el Servicio de publicidad  de  Facebook.
 	- # Revisión de la Literatura:
 	- # Diseño Experimental
-		-
-		  ##
+		- ## Asignación aleatoria del
 	- # Aplicación y Análisis
 	- # Discusión
 	- # Conclusión
