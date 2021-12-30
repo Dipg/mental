@@ -609,7 +609,7 @@
 				- ¿Cómo reducimos el ruido y posibles efectos de confusión?
 				  collapsed:: true
 					- Agregando medidas que controlen estos
-				- ¿Qué pasa cuando se vuelven medibles las dimensiones no observables que se corelacionan con los observables de inte´res?
+				- ¿Qué pasa cuando se vuelven medibles las dimensiones no observables que se correlacionan con los observables de intés?
 				- Mejora la identificación
 - ---
 - [[Ideas]][[Marketing]]
