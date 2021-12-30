@@ -633,6 +633,7 @@
 			- Ensayo de control aleatorio (RCT/ ECA).
 		- Experimento de laboratorio
 		- ¿Cuál es la diferencia entre los dos tipos de experimentos ?
+		  collapsed:: true
 			- Entorno Natural vs entorno artificial
 - ---
 - [[Ideas]][[Marketing]]
