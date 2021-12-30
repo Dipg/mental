@@ -19,6 +19,7 @@
 	  id:: 06b6b343-4139-4975-9cf8-78b5f4bf7a21
 		- Las empresas cada día buscan alternativas en la red a los medios tradicionales de venta y publicidad, sin embargo la gran mayoría de estas, no saben como enfrentarse a la cantidad masiva de usuarios en línea, ni cuales pueden ser los mejores mecanismos de presentación o acercamiento del producto o servicio a ofertar
 	- ## Hipótesis:
+	  id:: 461b16dc-cf31-426d-ab47-110b797bf697
 		- Existe la posibilidad de conocer la mejor estrategia de alcance de un producto o servicio  a través de un experimento mediante el Servicio de publicidad  de  Facebook.
 	- # Revisión de la Literatura:
 	- # Diseño Experimental
