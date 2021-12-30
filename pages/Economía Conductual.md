@@ -591,7 +591,8 @@
 		- ¿Qué es población en el contexto experimental?
 		  collapsed:: true
 			- Es especifico de la población experimental
-		- Clave de los experimentos controlados
+		- Primera clave de los experimentos controlados
+			-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
