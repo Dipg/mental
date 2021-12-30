@@ -582,7 +582,7 @@
 		- Primera regla de un experimento
 		  collapsed:: true
 			- Asignación aleatoria del tratamiento
-		- Se adapta el
+		- Para realizar el diseo de
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
