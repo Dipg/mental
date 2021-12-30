@@ -690,6 +690,7 @@
 			- ((61cde1e9-cd04-40f8-b8bd-365d82ca8400))
 			  id:: 61cde1eb-b7a6-4d43-8187-c2b5d42f4f5a
 			- Cuales son los elementos de los experimentos según Smith(2012)
+			  collapsed:: true
 				- ### [](#1.) Entorno
 				  collapsed:: true
 					- Todas las características que describen de que esta echa el sistema
@@ -710,6 +711,7 @@
 					- La identificacion debe cumplir el supuesto de PGS
 					- La validez interna se basas en propiedades asumindas de las respuestas de los agentes al sistema microeconómico que enfrenta
 			- [](#4.1) Control Indirecto
+			  collapsed:: true
 				- Este se da para poder especificar las instituciones y el contexto  o entrono correcto.
 				- #+BEGIN_QUOTE
 				  Bloquee todo lo que pueda y el resto aleatorice
