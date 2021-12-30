@@ -636,6 +636,7 @@
 		  collapsed:: true
 			- Entorno Natural vs entorno artificial
 		- ¿Caracterización de los sujetos según Harrison (2004)?
+		  SCHEDULED: <2021-12-30 Thu>
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
