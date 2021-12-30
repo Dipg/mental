@@ -730,7 +730,8 @@
 					  collapsed:: true
 						- La correlación entre ruido y resultados de interés tienden a cero
 						- Puede resultar costoso y largo
-				- diseño de bloqueo
+				- Diseño de bloqueo aleatorio
+					-
 			- [](#4.2 ) Estructura de incentivos
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
 		- [](#4.3) Control directo
