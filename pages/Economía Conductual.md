@@ -604,7 +604,7 @@
 				- Son parte de la pregunta de investigacón
 				-
 			- Variables explicativas
-				-
+				- Ingresan como condicionates , siendo exogenas y
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
