@@ -9,7 +9,3 @@ file-path:: ../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_I_(
   ls-type:: annotation
   hl-page:: 15
   id:: 61cdea9b-8f72-4d77-9ced-65643815a334
-- Estructuradeincentivos=decisionesindividualesguiadasporE+I.
-  ls-type:: annotation
-  hl-page:: 18
-  id:: 61cdecb3-d79f-4058-b285-ee7b7c34b143
