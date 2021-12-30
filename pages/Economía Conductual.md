@@ -693,6 +693,7 @@
 				- ### [](#1.) Entorno
 				- ### [](#2.)  institución
 				- ### [](#3.)  Comportamiento resultante
+				-
 			- [](#4.1) Control Indirecto
 				-
 			- [](#4.2 ) Estructura de incentivos
