@@ -129,8 +129,7 @@
 		- ((61b8ad40-932c-40e8-b87d-050b79417f95))
 		- ((61b8ad6a-0ae3-4188-b746-d99aafe347fe))
 		- Donde en un subconjunto E existe una elección (elemento) dominante x >= y o x>y, donde el investigador tienen una lista exógena de problemas de decisión  ((61b8b387-c8c9-4052-9881-bdcd6c4b63e7))
-		-
-		  ----
+		- ----
 		- ((61b8b628-c90c-4f7a-a05f-1ee2609901bc))
 		- El sujeto tiene una relación de preferencia  $\geq$  sobre $X$. No hacemos ninguna suposición sobre  $\geq$ más que la completitud y la transitividad.
 		- Las preferencias no tienen por qué ser "egoístas"  y  no  tienen  por  qué  ajustarse  a  ningún  modelo  teórico  de  decisión  como  la utilidad esperada.
@@ -153,6 +152,7 @@
 		- Existe la posibilidad de conocer la mejor estrategia de alcance de un producto o servicio  a través de un experimento mediante el Servicio de publicidad  de  Facebook.
 	- # Revisión de la Literatura:
 	- # Diseño Experimental
+	-
 	- # Aplicación y Análisis
 	- # Discusión
 	- # Conclusión
