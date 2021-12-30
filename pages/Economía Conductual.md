@@ -584,7 +584,7 @@
 		- Primera regla de un experimento
 		  collapsed:: true
 			- Asignación aleatoria del tratamiento
-		- Para realizar el diseño de un experimento controlado entonces adaptamos el supuesto de identificación del e ((61cce249-a0ae-4ee6-a17a-a1435de75daa)) a la sigueinte forma
+		- Para realizar el diseño de un experimento controlado entonces adaptamos el supuesto de identificación del  ((61cce249-a0ae-4ee6-a17a-a1435de75daa)) a la sigueinte forma
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
