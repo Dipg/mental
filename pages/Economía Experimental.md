@@ -160,6 +160,7 @@
 			- Edad
 				- De entre 23-27 años
 			- Ciudad
+				- Cuenca
 				-
 			-
 	- # Aplicación y Análisis
