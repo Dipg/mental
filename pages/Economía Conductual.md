@@ -592,7 +592,7 @@
 		  collapsed:: true
 			- Es especifico de la población experimental
 		- Primera clave de los experimentos controlados
-			-
+			- Definir la población sobre la cual hacer
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
