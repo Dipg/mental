@@ -596,7 +596,7 @@
 			  collapsed:: true
 				- Definir la población sobre la cual hacer inferencia
 		- ## Identificación mediante variables de control
-			- En datos observacionales : mejoran la identificación
+			- En datos observacionales : mejoran la identificación , pero
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
