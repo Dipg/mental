@@ -675,7 +675,7 @@
 					- Debe responder la pregunta clave: ¿ Es el comportamiento observado inducido por el ambiente de decisión que replica un modelo?
 				- Se pueden usar los experimentos par a informar las decisiones de los responsables políticos
 				- Suma de Validez interna y Validez Externa
-					- Fuerte
+					- Fuerte base teórica +evidencia bien docuemtnada
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
@@ -692,4 +692,4 @@
 	- [[Dec 29th, 2021]]
 	  collapsed:: true
 		- ((61cd2bb9-efe1-4ee6-8a1a-9d8571258e8d))
-			- Harrison Clasifica los experimentos Onlien??
+			- Harrison Clasifica los experimentos Onlien?
