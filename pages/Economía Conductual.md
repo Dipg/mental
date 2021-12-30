@@ -649,13 +649,16 @@
 			- ¿De que depende la elección?
 				- [](#1.)  Aspectos prácticos y de implementación, Costos ,Complejidad , Duración
 				- [](#2.) Aspectos inferenciales, Mas real mejor interpretación: VALIDEZ EXTERNA , implica mas variables y factores difíciles de controlar = reduce la  capacidad de evidencia causal
-				- [](#3.)  Habilidad de aleatorizar en la practica
-					- Abandono
+				- [](#3.)  Habilidad de aleatorizar en la practica 
+				  collapsed:: true
+					- Abandono 
+					  collapsed:: true
 						- Disminución del tamaño de la muestra
 					- Efecto derrame
 					  collapsed:: true
 						- El tratamiento puede tener impacto en los no tratados, sesgando el efecto del tratamiento, vamos que los no tratados se pueden dar cuenta de como va el tratamiento
 					- Incumplimiento
+					  collapsed:: true
 						- En campo es mas difícil restringir individuos a seguir reglas
 			-
 			-
