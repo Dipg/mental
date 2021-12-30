@@ -572,6 +572,7 @@
 				- Medir y así eliminar el efecto de los factores confsores
 			-
 		- ## Identificación mediante aleatorización
+		-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
