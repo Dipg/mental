@@ -690,6 +690,7 @@
 			- ((61cde1e9-cd04-40f8-b8bd-365d82ca8400))
 			  id:: 61cde1eb-b7a6-4d43-8187-c2b5d42f4f5a
 			- Cuales son los elementos de los experimentos según Smith(2012)
+				-
 			- [](#4.1) Control Indirecto
 				-
 			- [](#4.2 ) Estructura de incentivos
