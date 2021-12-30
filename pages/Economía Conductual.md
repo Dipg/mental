@@ -644,6 +644,7 @@
 		  collapsed:: true
 			- ((61cd2cbe-1f1a-4e83-9200-869d1a8b35cd))
 		- ## Guía para elegir el tipo de diseño
+		  collapsed:: true
 			- Ninguno tiene superioridad  metodológica absoluta
 			- Depende de la pregunta de investigación
 			- ¿De que depende la elección?
@@ -664,7 +665,6 @@
 					- Incumplimiento
 					  collapsed:: true
 						- En campo es mas difícil restringir individuos a seguir reglas
-			-
 		- ##  Uso de los experimentos
 - ---
 - [[Ideas]][[Marketing]]
@@ -682,4 +682,4 @@
 	- [[Dec 29th, 2021]]
 	  collapsed:: true
 		- ((61cd2bb9-efe1-4ee6-8a1a-9d8571258e8d))
-			- Harrison Clasifica los experimentos Onlien??                     
+			- Harrison Clasifica los experimentos Onlien??
