@@ -155,7 +155,7 @@
 		- ## Asignación aleatoria del tratamiento
 		- ## Población del experimento
 		- ## Identificación Mediante aleatorización
-			- En este segmento
+			- En este segmento revisamos las variables que fueron aleotarizadas
 			- |Variable|Aleatorización| Justiicación|
 			  |Ubicación|Cuenca-Ecuador| La ubicación puede mostrar diversos contrastes sociales por lo que la aleatorización de esta puede reducir el impacto de los mismo|
 		- ## Identificación Mediante variables de control
