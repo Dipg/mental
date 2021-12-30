@@ -673,7 +673,7 @@
 					- Debe responder la pregunta clave: ¿Se observará el mismo comportamiento fuera del entorno experimental?
 				- ## Validez Externa
 					- Debe responder la pregunta clave: ¿ Es el comportamiento observado inducido por el ambiente de decisión que replica un modelo?
-					- Se pueden usar los experimentos par ainformar las decisiones de los responsbales políticos
+					- Se pueden usar los experimentos par a informar las decisiones de los responsables políticos
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
