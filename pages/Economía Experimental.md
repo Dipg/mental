@@ -158,7 +158,7 @@
 			- Sexo
 		- ## Identificación Mediante variables de control
 			- Edad
-				- De entre 2
+				- De entre 23-27 años
 			-
 	- # Aplicación y Análisis
 	- # Discusión
