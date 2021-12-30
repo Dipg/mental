@@ -45,6 +45,7 @@
 	- # Discusión
 		- ## Validez interna
 		- ## Validez Externa
+		-
 	- # Conclusión
 	- # Bibliografía
 	- https://www.ugr.es/~ugr_unt/Material%20M%F3dulo%201/variables.pdf
