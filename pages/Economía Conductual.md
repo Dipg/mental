@@ -626,7 +626,7 @@
 				-
 	- # [](#3.)  Tipos de Experimentos
 		- Experimentos de campo
-			-
+			- Asignación aleatoria de individuos
 		- Experimento de laboratorio
 		- ¿Cuál es la diferencia entre los dos tipos de experimentos ?
 			- Entorno Natural vs entorno artificial
