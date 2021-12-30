@@ -155,13 +155,12 @@
 		- ## Asignación aleatoria del tratamiento
 		- ## Población del experimento
 		- ## Identificación Mediante aleatorización
-			- |Variable|Control|
+			- |Variable|Aleatorizaci|
 			  |Ubicación|Cuenca-Ecuador|
 		- ## Identificación Mediante variables de control
 			- |Variable|Control|
 			  |Genero|Femenino|
 			  |Edad |De entre 23-27 años| 
-			  |Ubicación|Cuenca-Ecuador| 
 			  |Fecha|Del 13 al 17  de Enero|
 			  |Hora |18:00 pm|
 			-
