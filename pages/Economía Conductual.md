@@ -599,7 +599,7 @@
 			- En datos observacionales :
 				- Mejoran la identificación , pero no son parte de la pregunta de investigación
 			- En datos experimentales :
-				-
+				- Son parte de la pregunta de investigaci
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
