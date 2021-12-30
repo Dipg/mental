@@ -685,7 +685,7 @@
 			- [](#4.1) Control Indirecto
 			- [](#4.2 ) Estructura de incentivos
 			-
-	- # Diapo 3
+	- # Diapo 3 ![Unidad III - Técnicas de diseño experimental - Parte II (Parte 3).pdf](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
