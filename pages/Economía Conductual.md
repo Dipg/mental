@@ -648,7 +648,7 @@
 			- Depende de la pregunta de investigación
 			- ¿De que depende la elección?
 			- Aspectos prácticos y de implementación, Costos ,Complejidad , Duración
-			- Aspectos inferenciales, Mas real mejor interpretación: VALIDESZ EXTERNA
+			- Aspectos inferenciales, Mas real mejor interpretación: VALIDEZ EXTERNA
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
