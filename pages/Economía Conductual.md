@@ -605,7 +605,7 @@
 				-
 			- Variables explicativas
 				- Ingresan como condicionates , siendo exogenas y de efeecto identificado, ,
-				- cualquier componente de la variable exogena
+				- cualquier componente de la variable explicada se elimina
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
