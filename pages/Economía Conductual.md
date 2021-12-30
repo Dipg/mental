@@ -785,6 +785,7 @@
 						-
 						-
 					- #### Aspectos de implementación : Incentivos en juegos múltiples.
+					  collapsed:: true
 						- Los principios de incentivos se pueden aplicar a cada una de estas decisiones mútiples
 						- la compensación se daría por la suma de sus ganancias en cada una de las decisiones múltiples
 						- Esto tiene implicaciones de valiz interna
