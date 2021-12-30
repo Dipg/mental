@@ -791,7 +791,7 @@
 						- Esto tiene implicaciones de valiz interna
 						-
 						-
-					- Cuando el sujeto de enfrenta a varias tareas sucesivas el resultado de la tarea anterior puede
+					- Cuando el sujeto de enfrenta a varias tareas sucesivas el resultado de la tarea anterior puede puede contaminar ele comportamiento en las tareas subsigueinte
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
 		- [](#4.3) Control directo
 		- # [](#5.) Otras Consideraciones
