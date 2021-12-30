@@ -693,6 +693,7 @@
 				- ### [](#1.) Entorno
 					- Todas las características que describen de que esta echa el sistema
 				- ### [](#2.)  Institución
+					- Definen
 				- ### [](#3.)  Comportamiento resultante
 				-
 			- [](#4.1) Control Indirecto
