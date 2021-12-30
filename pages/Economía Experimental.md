@@ -139,7 +139,7 @@
 	- ![Azrieli_Chambers_Healy-CombinedDecisions ES.pdf](../assets/Azrieli_Chambers_Healy-CombinedDecisions_ES_1639428481357_0.pdf)
 	-
 	-
-- [[# Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición de un seguro de medicina prepagada a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras]]
+- [[# Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición de un seguro de medicina prepagada a través de Facebook.]]
 - Diapos
 	- [[Experimento en Linea]]
 - Bideografía
