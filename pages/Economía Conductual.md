@@ -722,7 +722,7 @@
 					  id:: 61cde6bd-898a-4ffd-b33e-bb1a172d3fbe
 						- Mantener constante variables que puedan generar ruido
 					- ALeatorización
-						-
+						- Cuando la variación en el error no se puede evitar
 			- [](#4.2 ) Estructura de incentivos
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
 		- [](#4.3) Control directo
