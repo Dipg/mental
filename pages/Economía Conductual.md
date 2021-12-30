@@ -596,7 +596,7 @@
 			  collapsed:: true
 				- Definir la población sobre la cual hacer inferencia
 		- ## Identificación mediante variables de control
-		-
+			-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
