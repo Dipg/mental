@@ -777,7 +777,8 @@
 						   2. ¿Se genera mayor ruido al no usar incentivos?
 					- Categorías según Camerer y Hogarth (1999)
 						- [](#1.)  Resultados experimentales ,mejoran con incentivos
-						- [](#2.) Resultados exerimentales sin incentivos
+						- [](#2.) Resultados experimentales sin incentivos (Son los mas comunes )
+						-
 						-
 						-
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
