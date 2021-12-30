@@ -655,7 +655,7 @@
 						- Incumplimiento
 							- En campo es mas difícil restringir individuos a seguir reglas
 						- Efecto derrame
-						- El tratamiento puede tener impacto en los no tratados, sesgando el efecto del tratamiento, vamos que los no tratados se pueden dar cuenta de como va el tr
+						- El tratamiento puede tener impacto en los no tratados, sesgando el efecto del tratamiento, vamos que los no tratados se pueden dar cuenta de como va el tratamiento
 			-
 			-
 - ---
