@@ -576,6 +576,7 @@
 			- Exogeneidad de las variables explicativas, es decir no correlación entre el componente no observado del resultado y las variables de interés.
 			- ¿Cuál es la forma mas simple de evitar correlación?
 				- L a aleatorización
+			- ¿
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
