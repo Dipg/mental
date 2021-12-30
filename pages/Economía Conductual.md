@@ -597,9 +597,12 @@
 				- Definir la población sobre la cual hacer inferencia
 		- ## Identificación mediante variables de control
 			- En datos observacionales :
+			  collapsed:: true
 				- Mejoran la identificación , pero no son parte de la pregunta de investigación
 			- En datos experimentales :
-				- Son parte de la pregunta de investigaci
+			  collapsed:: true
+				- Son parte de la pregunta de investigacón
+				-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
