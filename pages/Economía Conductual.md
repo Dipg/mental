@@ -626,6 +626,7 @@
 				-
 	- # [](#3.)  Tipos de Experimentos
 		- Experimentos de campo
+		- Experimento de laboratorio
 		-
 - ---
 - [[Ideas]][[Marketing]]
