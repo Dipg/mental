@@ -383,8 +383,8 @@
 		-
 	-
 - # Unidad 3
-	- P
-	- ## 0. Introducción ![📑](../assets/Unidad_III_-_Principios_de_diseño_experimental_(Parte_1)_1640726025438_0.pdf)
+	- Diapo 1 ![📑](../assets/Unidad_III_-_Principios_de_diseño_experimental_(Parte_1)_1640726025438_0.pdf)
+	- ## 0. Introducción
 	  collapsed:: true
 		- ¿ Que es un experimento?
 		  collapsed:: true
