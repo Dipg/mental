@@ -741,4 +741,4 @@
 	- [[Dec 30th, 2021]]
 	  collapsed:: true
 		- ((61cde5e8-281c-4ff3-b613-b4e9b4956ee1))
-			- Es lo mis
+			- Es lo mismo variables que generan ruido que variables que
