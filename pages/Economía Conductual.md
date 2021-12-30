@@ -573,7 +573,7 @@
 			-
 		- ## Identificación mediante aleatorización
 		- ¿Cuál es una condición crucial para identificación?
-			-
+			- Exogenidad de las variables
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
