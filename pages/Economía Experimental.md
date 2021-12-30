@@ -169,7 +169,8 @@
 			  |Edad |De entre 23-27 años|El servicio esta dirigido a este nicho, por lo que pueden mostrar mayor interés que otro rango de edad(Anexo 2)| 
 			  |Fecha|Del 13 al 17  de Enero|Los primeros días de la semana muestra una tendencia de mayor captación de clientes en este mercado(Anexo 3)|
 			  |Hora |18:00 pm|Es el segmento del día en que la población objetivo muestra mayor presencia en al red estudiada (Anexo 4)|
-			-
+			- Fuente: Autores
+			- Elaboraci
 	- # Aplicación y Análisis
 	- # Discusión
 	- # Conclusión
