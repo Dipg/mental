@@ -643,6 +643,7 @@
 		- ¿Cuál es la clasificación según Gerber y Green de los experimentos de campo?
 		  collapsed:: true
 			- ((61cd2cbe-1f1a-4e83-9200-869d1a8b35cd))
+		- ## G
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
