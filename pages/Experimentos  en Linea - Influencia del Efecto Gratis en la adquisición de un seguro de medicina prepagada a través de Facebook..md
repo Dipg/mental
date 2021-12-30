@@ -44,7 +44,7 @@
 	- # Aplicación y Análisis
 	- # Discusión
 		- ## Validez interna
-			- Debe responder la pregunta clave: ¿Se
+			- Debe responder la pregunta clave: ¿Se observará el mismo comportamietno
 		- ## Validez Externa
 			- Debe responder la pregunta clave: ¿ Es el comportamiento observado inducido por el ambiente de decisión que replica un modelo?
 	- # Conclusión
