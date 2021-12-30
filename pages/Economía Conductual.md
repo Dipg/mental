@@ -635,7 +635,7 @@
 		- ¿Cuál es la diferencia entre los dos tipos de experimentos ?
 		  collapsed:: true
 			- Entorno Natural vs entorno artificial
-		- ¿Caractrización de los sujetos seg´´un Horrison
+		- ¿Caractrización de los sujetos según Horrison?
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
