@@ -4,7 +4,7 @@
 		- En los últimos años la economía experimental y conductual han experimentado un auge en su implementación en diversas áreas tanto académicas, empresariales y tecnológicas, siendo esta ultima la que mas repercusiones y crecimiento
 		- Sin embargo a sido poco estudiado los tipos de experimentos que pueden realizar negocios externos con la información de paga proporcionada por este tipo de grandes  empresas  tecnológicas.
 	- # Objetivo
-		-
+		- Realizar un experimento para determinar la existe de un cambia o no, en  el ratio de conversión de una publicación pagada en Facebook, debido a la modificación de información presentada a  dos grupos similares  de  usuarios de la red social.
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición de un seguro de medicina prepagada a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
 	- # Introducción
