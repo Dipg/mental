@@ -139,7 +139,7 @@
 	- ![Azrieli_Chambers_Healy-CombinedDecisions ES.pdf](../assets/Azrieli_Chambers_Healy-CombinedDecisions_ES_1639428481357_0.pdf)
 	-
 	-
-- [[Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición de un seguro de medicina prepagada a través de Facebook.]] [[Economía Experimental (conflict 2021-12-28-23-06-16)]]
+- [[Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición de un seguro de medicina prepagada a través de Facebook.]] [[Economía Experimental]]
 -
 	- [[Experimento en Linea]]
 - Bideografía
