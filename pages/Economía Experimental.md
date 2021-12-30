@@ -157,8 +157,8 @@
 		- ## Identificación Mediante aleatorización
 			- Sexo
 		- ## Identificación Mediante variables de control
-			- |Edad |De entre 23-27 años|
-			- Ubicación
+			- |Edad |De entre 23-27 años| 
+			  Ubicación
 				- Cuenca
 			- Tiempo
 				- |Fecha|Hora|
