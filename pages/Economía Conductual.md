@@ -667,7 +667,6 @@
 						- En campo es mas difícil restringir individuos a seguir reglas
 		- ##  Uso de los experimentos
 			- ¿Para que se usan?
-			  collapsed:: true
 				- Probar teorias
 				- Evaluar relevancia empírica de los modelos teóricos
 			- ## Validez interna
