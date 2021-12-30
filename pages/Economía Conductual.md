@@ -603,7 +603,8 @@
 			  collapsed:: true
 				- Son parte de la pregunta de investigacón
 				-
-			-
+			- Variables explicativas
+				-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
