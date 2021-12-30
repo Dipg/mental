@@ -745,6 +745,7 @@
 						- ((61cdecc4-b480-4fe0-93de-2fb368ea6c9f))
 					- ¿ De acuerdo a que se caracterizan los incentivos?
 						- [](#1.)  No saciedad
+						  collapsed:: true
 							- Mas es mejor, mayor recompensa es mejor
 						- [](#2.) Dominancia
 						  collapsed:: true
@@ -753,11 +754,13 @@
 								- Debe compensar por el esfuerzo realizado
 								- Debe compensar el costo de oportunidad de participar
 							-
-						- [](#3.)  Prominencia
+						- [](#3.)  Prominencia 
+						  collapsed:: true
 							- La recompensa o incentivo deben estar explícitamente vinculadas a decisiones propias y del resto y los sujetos lo entienden
 							- La utilidad marginal debe variar notablemente de acuerdo a eleciones
-							- Debe ser convincente y hacer una diferencia par a quienes toman las elecciones, no existe un criterio definido para la
-						-
+							- Debe ser convincente y hacer una diferencia par a quienes toman las elecciones, no existe un criterio definido para la prominencia.
+							-
+					-
 			-
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
 		- [](#4.3) Control directo
