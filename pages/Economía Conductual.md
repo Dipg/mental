@@ -679,6 +679,7 @@
 					- Se pueden usar los experimentos par a informar las decisiones de los responsables políticos
 					- Suma de Validez interna y Validez Externa
 						- Fuerte base teórica +evidencia bien documentada= validez interna +validez externa
+	- # Diapo 2
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
