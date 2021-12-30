@@ -163,14 +163,14 @@
 			- En este apartado en la tabla 2 seleccionamos  las variables que se pretenden controlar con el fin de eliminar o neutralizar sus efectos en la variable dependiente.
 			- #+BEGIN_CENTER
 			  Tabla 1 Variables de control
-			  #+END_CENTER
-			- |Variable|Control|Justificación de Control|
+			  #+END_CENTER 
+			  |Variable|Control|Justificación de Control|
 			  |Genero|Femenino|Es el segmento de mercado de mayor consumo, por lo que puede mostrar mayor interés que el sexo opuesto (Anexo 1)|
 			  |Edad |De entre 23-27 años|El servicio esta dirigido a este nicho, por lo que pueden mostrar mayor interés que otro rango de edad(Anexo 2)| 
 			  |Fecha|Del 13 al 17  de Enero|Los primeros días de la semana muestra una tendencia de mayor captación de clientes en este mercado(Anexo 3)|
-			  |Hora |18:00 pm|Es el segmento del día en que la población objetivo muestra mayor presencia en al red estudiada (Anexo 4)|
-			- Fuente: Autores
-			- Elaboración Autores
+			  |Hora |18:00 pm|Es el segmento del día en que la población objetivo muestra mayor presencia en al red estudiada (Anexo 4)| 
+			  Fuente: Autores 
+			  Elaboración Autores
 	- # Aplicación y Análisis
 	- # Discusión
 	- # Conclusión
