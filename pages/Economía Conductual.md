@@ -705,7 +705,7 @@
 						- inferir propiedades empíricas del comportamiento observado
 						- Tal inferencia es correcta solo si  el comportamiento es en realidad inducido por el sistema microeconómico inducido
 				- ### [](#3.)  Comportamiento resultante
-				-
+				- Diseño y validez
 			- [](#4.1) Control Indirecto
 				-
 			- [](#4.2 ) Estructura de incentivos
