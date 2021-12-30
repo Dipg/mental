@@ -647,7 +647,7 @@
 			- Ninguno tiene superioridad  metodológica absoluta
 			- Depende de la pregunta de investigación
 			- ¿De que depende la elección?
-			- Aspectos practicos, Costos ,
+			- Aspectos prácticos, Costos ,
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
