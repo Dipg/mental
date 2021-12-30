@@ -681,7 +681,7 @@
 						- Fuerte base teórica +evidencia bien documentada= validez interna +validez externa
 	- # Diapo 2 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_I_(Parte_2)_1640881754368_0.pdf)
 		- # [](#4.) Validez Interna
-			- ¿ La invesstigación
+			- ¿ La investigación se realizo correctamente ?
 			- [](#4.1) Control Indirecto
 				-
 			- [](#4.2 ) Estructura de incentivos
@@ -704,4 +704,4 @@
 	- [[Dec 29th, 2021]]
 	  collapsed:: true
 		- ((61cd2bb9-efe1-4ee6-8a1a-9d8571258e8d))
-			- Harrison Clasifica los experimentos Onlie
+			- Harrison Clasifica los experimentos Onlien??
