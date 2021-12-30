@@ -595,7 +595,8 @@
 			- Primera clave de los experimentos controlados
 			  collapsed:: true
 				- Definir la población sobre la cual hacer inferencia
-		- ## Identificación medainte variables de control
+		- ## Identificación mediante variables de control
+		-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
