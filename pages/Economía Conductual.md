@@ -698,6 +698,8 @@
 					  2. Formas en que los agentes interactúan
 					- Se define mediante el conjunto de reglas : las reglas iniciales, de transición y de fin
 					- Reacciones individuales Comportamiento final
+					- Completo control
+					-
 				- ### [](#3.)  Comportamiento resultante
 				-
 			- [](#4.1) Control Indirecto
