@@ -157,8 +157,8 @@
 		- ## Identificación Mediante aleatorización
 			- Sexo
 		- ## Identificación Mediante variables de control
-			- |Genero|Cuenca|
-			  |Variable|Control|
+			- |Variable|Control|
+			  |Genero|
 			  |Edad |De entre 23-27 años| 
 			  |Ubicación|Cuenca-Ecuador| 
 			  |Fecha|Del 13 al 17  de Enero|
