@@ -694,7 +694,7 @@
 					- Todas las características que describen de que esta echa el sistema
 				- ### [](#2.)  Institución
 					- Definen el funcionamiento del sistema
-					-
+					- 1. La forma en que los a
 				- ### [](#3.)  Comportamiento resultante
 				-
 			- [](#4.1) Control Indirecto
