@@ -28,7 +28,8 @@
 			- En la tabla 1 se presentan las variables aleatorizadas y la justificación de esta decisión
 			- |Variable|Aleatorización| Justiicación|
 			  |Ubicación|Cuenca-Ecuador| La ubicación puede mostrar diversos contrastes sociales por lo que la aleatorización de esta puede reducir el impacto de los mismo|
-			- ### Reglas de asiganc
+			- ### Reglas de asignación de aleatorización
+			-
 		- ## Identificación Mediante variables de control
 			- En este apartado en la tabla 2 seleccionamos  las variables que se pretenden controlar con el fin de eliminar o neutralizar sus efectos en la variable dependiente.
 			- #+BEGIN_CENTER
