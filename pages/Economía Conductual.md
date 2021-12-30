@@ -616,7 +616,7 @@
 					- Mejora la identificación
 		- ## Inferencia y control
 			- ¿Qué causa el control?
-				- descarta variaciones confu
+				- descarta variaciones confusas en el errror, bloquea
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
