@@ -615,9 +615,10 @@
 				  collapsed:: true
 					- Mejora la identificación
 		- ## Inferencia y control
-			- ¿Qué causa el control?
+			- ¿Qué causa el control
 			  collapsed:: true
 				- Descarta variaciones confusas en el error, bloquea su valor a un nivel especifico
+			- ((61cd00e6-1dff-4d98-ab5a-73d80471cdd6))
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true

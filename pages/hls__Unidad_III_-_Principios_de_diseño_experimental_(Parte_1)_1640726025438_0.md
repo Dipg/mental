@@ -47,3 +47,7 @@ file-path:: ../assets/Unidad_III_-_Principios_de_diseño_experimental_(Parte_1)_
   id:: 61ccf90c-59fb-416b-840a-348c1cdec41f
   hl-type:: area
   hl-stamp:: 1640823051684
+- AleatorizaciónrompelacorrelaciónentrelascausasdesconocidasdelresultadoylavariacióndebidoaT.
+  ls-type:: annotation
+  hl-page:: 47
+  id:: 61cd00e6-1dff-4d98-ab5a-73d80471cdd6
