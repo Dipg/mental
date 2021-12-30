@@ -653,7 +653,7 @@
 					- Abandono
 						- Disminución del tamaño de la muestra
 						- Incumplimiento
-							- En campo es mas dificil restringir individuos a seguir
+							- En campo es mas difícil restringir individuos a seguir reglas
 			-
 			-
 - ---
