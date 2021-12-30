@@ -637,9 +637,11 @@
 			- Entorno Natural vs entorno artificial
 		- ¿Caracterización de los sujetos según Harrison (2004)?
 		  id:: 61cd2bb9-efe1-4ee6-8a1a-9d8571258e8d
+		  collapsed:: true
 		  SCHEDULED: <2021-12-30 Thu>
 			- ((61cd2c5d-0b02-472b-b4f9-93f6ac807e85))
 			- ¿Cuál es la clasificación según Gerber y Green de los experimentos de campo?
+				- ((61cd2cbe-1f1a-4e83-9200-869d1a8b35cd))
 			-
 - ---
 - [[Ideas]][[Marketing]]
