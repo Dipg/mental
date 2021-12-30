@@ -707,6 +707,7 @@
 				- ### [](#3.)  Comportamiento resultante
 				- Diseño y validez interna
 					- La identificacion debe cumplir el supuesto de PGS
+					- La
 			- [](#4.1) Control Indirecto
 				-
 			- [](#4.2 ) Estructura de incentivos
