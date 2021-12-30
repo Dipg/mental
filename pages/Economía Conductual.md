@@ -692,7 +692,7 @@
 			- Cuales son los elementos de los experimentos según Smith(2012)
 				- ### [](#1.) Entorno
 					- Todas las características que describen de que esta echa el sistema
-				- ### [](#2.)  institución
+				- ### [](#2.)  Institución
 				- ### [](#3.)  Comportamiento resultante
 				-
 			- [](#4.1) Control Indirecto
