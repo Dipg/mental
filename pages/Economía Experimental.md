@@ -158,7 +158,7 @@
 			- Sexo
 		- ## Identificación Mediante variables de control
 			- |Edad |De entre 23-27 años| 
-			  Ubicación
+			  |Ubicación|Cuenca-Ecuador|
 				- Cuenca
 			- Tiempo
 				- |Fecha|Hora|
