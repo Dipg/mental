@@ -636,6 +636,7 @@
 		  collapsed:: true
 			- Entorno Natural vs entorno artificial
 		- ¿Caracterización de los sujetos según Harrison (2004)?
+		  id:: 61cd2bb9-efe1-4ee6-8a1a-9d8571258e8d
 		  SCHEDULED: <2021-12-30 Thu>
 - ---
 - [[Ideas]][[Marketing]]
@@ -650,3 +651,7 @@
 	  collapsed:: true
 		- ((61cbb8ad-1511-43a2-9bb4-65b2788d42cf))
 			- Falta especificar cada una de las expresiónes acontinuación numeradas
+	- [[Dec 29th, 2021]]
+	  collapsed:: true
+		- ((61cd2bb9-efe1-4ee6-8a1a-9d8571258e8d))
+			-
