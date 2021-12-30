@@ -163,7 +163,7 @@
 			  |Edad |De entre 23-27 años| 
 			  |Fecha|Del 13 al 17  de Enero|
 			  |Hora |18:00 pm|
-			-
+			- En la
 			-
 	- # Aplicación y Análisis
 	- # Discusión
