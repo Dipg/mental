@@ -686,6 +686,7 @@
 			- La validez interna es alta si un experimento evita variables de confusión
 			- La alta validez interna permite confiar en que los resultados de su experimento son causados por una sola variable independiente
 			- ¿Cómo conseguir la identificación ?
+			  id:: 61cde1aa-c470-4886-99e5-9924ff01d237
 			- [](#4.1) Control Indirecto
 				-
 			- [](#4.2 ) Estructura de incentivos
