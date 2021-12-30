@@ -574,26 +574,26 @@
 				- Medir y así eliminar el efecto de los factores confsores
 			-
 		- ## Identificación mediante aleatorización
-		- ¿Cuál es una condición crucial para identificación?
-		  collapsed:: true
-			- Exogeneidad de las variables explicativas, es decir no correlación entre el componente no observado del resultado y las variables de interés.
-			- ¿Cuál es la forma mas simple de evitar correlación?
-				- L a aleatorización
-			- ¿A que supuesto de OLS nos referimmos?
-				- ((61ccf79a-93b6-4c3e-881f-4bf1289cab04))
-		- Primera regla de un experimento
-		  collapsed:: true
-			- Asignación aleatoria del tratamiento
-			- Para realizar el diseño de un experimento controlado entonces adaptamos el supuesto de identificación del  ((61cce249-a0ae-4ee6-a17a-a1435de75daa)) a la siguiente forma:
+			- ¿Cuál es una condición crucial para identificación?
 			  collapsed:: true
-				- ((61ccf90c-59fb-416b-840a-348c1cdec41f))
-				- Debido a esto , ya podemos medir el ATT , simplemente comparamos entre tratados y no tratados.
-		- ¿Qué es población en el contexto experimental?
-		  collapsed:: true
-			- Es especifico de la población experimental
-		- Primera clave de los experimentos controlados
-		  collapsed:: true
-			- Definir la población sobre la cual hacer inferencia
+				- Exogeneidad de las variables explicativas, es decir no correlación entre el componente no observado del resultado y las variables de interés.
+				- ¿Cuál es la forma mas simple de evitar correlación?
+					- L a aleatorización
+				- ¿A que supuesto de OLS nos referimmos?
+					- ((61ccf79a-93b6-4c3e-881f-4bf1289cab04))
+			- Primera regla de un experimento
+			  collapsed:: true
+				- Asignación aleatoria del tratamiento
+				- Para realizar el diseño de un experimento controlado entonces adaptamos el supuesto de identificación del  ((61cce249-a0ae-4ee6-a17a-a1435de75daa)) a la siguiente forma:
+				  collapsed:: true
+					- ((61ccf90c-59fb-416b-840a-348c1cdec41f))
+					- Debido a esto , ya podemos medir el ATT , simplemente comparamos entre tratados y no tratados.
+			- ¿Qué es población en el contexto experimental?
+			  collapsed:: true
+				- Es especifico de la población experimental
+			- Primera clave de los experimentos controlados
+			  collapsed:: true
+				- Definir la población sobre la cual hacer inferencia
 		-
 - ---
 - [[Ideas]][[Marketing]]
