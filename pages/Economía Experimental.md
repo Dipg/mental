@@ -159,8 +159,8 @@
 			  |Ubicación|Cuenca-Ecuador|
 		- ## Identificación Mediante variables de control
 			- |Variable|Control|Justificación|
-			  |Genero|Femenino|Es el |
-			  |Edad |De entre 23-27 años| 
+			  |Genero|Femenino|Es el segmento de mercado de mayor consumo|
+			  |Edad |De entre 23-27 años|| 
 			  |Fecha|Del 13 al 17  de Enero|
 			  |Hora |18:00 pm|
 			- Justificación de control de cada una de las variables
