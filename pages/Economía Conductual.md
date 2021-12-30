@@ -747,6 +747,7 @@
 						- [](#1.)  No saciedad
 							- Mas es mejor, mayor recompensa es mejor
 						- [](#2.) Prominencia
+							-
 						- [](#3.)  Dominancia
 						-
 			-
