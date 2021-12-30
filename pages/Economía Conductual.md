@@ -707,7 +707,7 @@
 				- ### [](#3.)  Comportamiento resultante
 				- Diseño y validez interna
 					- La identificacion debe cumplir el supuesto de PGS
-					- La validez interna se basas en propiedades asumindas de las respuestas de los agentes al sistema microecon
+					- La validez interna se basas en propiedades asumindas de las respuestas de los agentes al sistema microeconómico que enfrenta
 			- [](#4.1) Control Indirecto
 				-
 			- [](#4.2 ) Estructura de incentivos
