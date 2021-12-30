@@ -162,12 +162,12 @@
 			- Ubicación
 				- Cuenca
 			- Tiempo
-			- Fecha
-				- 13 de Enero
-			- Hora
-				- 6pm
-			- Dia
-				- Lunes, Martes y Miercoles
+				- Fecha
+					- 13 de Enero
+				- Hora
+					- 6pm
+				- Dia
+					- Lunes, Martes y Miercoles
 			-
 			-
 	- # Aplicación y Análisis
