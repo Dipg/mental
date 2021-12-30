@@ -580,7 +580,7 @@
 			- ¿A que supuesto de OLS nos referimmos?
 				- ((61ccf79a-93b6-4c3e-881f-4bf1289cab04))
 		- Primera regla de un experimento
-			-
+			- Asignación aleatoria del tratamiento
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
