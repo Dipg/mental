@@ -755,6 +755,7 @@
 							-
 						- [](#3.)  Prominencia
 							- La recompensa o incentivo deben estar explícitamente vinculadas a decisiones propias y del resto y los sujetos lo entienden
+							-
 						-
 			-
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
