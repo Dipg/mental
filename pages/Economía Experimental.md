@@ -160,7 +160,7 @@
 		- ## Identificación Mediante variables de control
 			- |Variable|Control|Justificación|
 			  |Genero|Femenino|Es el segmento de mercado de mayor consumo, por lo que puede mostrar mayor interés que el sexo opuesto|
-			  |Edad |De entre 23-27 años|El servicio esta dirigido a este nicho, por lo que se muestra | 
+			  |Edad |De entre 23-27 años|El servicio esta dirigido a este nicho, por lo que pueden mostrar mayor interes que otro rango de edad| 
 			  |Fecha|Del 13 al 17  de Enero|
 			  |Hora |18:00 pm|
 			- Justificación de control de cada una de las variables
