@@ -606,6 +606,7 @@
 				- Ingresan como condicionates , siendo exogenas y de efeecto identificado, ,
 				- cualquier componente de la variable explicada se elimina de residuo tan pronto se incluyen en X
 				- ¿Cómo reducimos el ruido y posibles efectos de confusión?
+				  collapsed:: true
 					- Agregando medidas que controlen estos
 				- ¿Qué pasa cuando se vuelven medibles las dimensiones no observables que se correlacionan con los observables de interés?
 				  collapsed:: true
