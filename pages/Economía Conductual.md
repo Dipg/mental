@@ -655,6 +655,7 @@
 						- Incumplimiento
 							- En campo es mas difícil restringir individuos a seguir reglas
 						- Efecto derrame
+						- El tratamiento puede terne
 			-
 			-
 - ---
