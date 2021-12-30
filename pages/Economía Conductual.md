@@ -601,9 +601,7 @@
 			  collapsed:: true
 				- Mejoran la identificación , pero no son parte de la pregunta de investigación
 			- En datos experimentales :
-			  collapsed:: true
 				- Son parte de la pregunta de investigacón
-				-
 			- Variables explicativas
 				- Ingresan como condicionates , siendo exogenas y de efeecto identificado, ,
 				- cualquier componente de la variable explicada se elimina de residuo tan pronto se incluyen en X
