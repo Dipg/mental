@@ -789,19 +789,17 @@
 						- Los principios de incentivos se pueden aplicar a cada una de estas decisiones mútiples
 						- la compensación se daría por la suma de sus ganancias en cada una de las decisiones múltiples
 						- Esto tiene implicaciones de valiz interna
-						-
-						-
-					- Cuando el sujeto de enfrenta a varias tareas sucesivas el resultado de la tarea anterior puede puede contaminar ele comportamiento en las tareas subsiguiente
-					- Estos efectos de contaminación o de arrastre se pueden dar por 3 fenómenos
-						- [](#1.)  Efecto riqueza
-						  collapsed:: true
-							- El nivel de riqueza aumenta en cada rondo, se acumula , esto podría afectar a las decisiones sucesivas→ Provocando así una correlación serial entre decisiones debido al diseño
-						- [](#2.) Efecto casa-dinero
-						  collapsed:: true
-							- Se consideran los resultados anteriores como positivos y se arriesgan mas en los subsigueintes
-						- [](#3.)  Efectos portafolios
-						  collapsed:: true
-							- Se cubren del riesgo en experimentos con incertidumbre
+						- Cuando el sujeto de enfrenta a varias tareas sucesivas el resultado de la tarea anterior puede puede contaminar ele comportamiento en las tareas subsiguiente
+						- Estos efectos de contaminación o de arrastre se pueden dar por 3 fenómenos
+							- [](#1.)  Efecto riqueza
+							  collapsed:: true
+								- El nivel de riqueza aumenta en cada rondo, se acumula , esto podría afectar a las decisiones sucesivas→ Provocando así una correlación serial entre decisiones debido al diseño
+							- [](#2.) Efecto casa-dinero
+							  collapsed:: true
+								- Se consideran los resultados anteriores como positivos y se arriesgan mas en los subsigueintes
+							- [](#3.)  Efectos portafolios
+							  collapsed:: true
+								- Se cubren del riesgo en experimentos con incertidumbre
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
 		- [](#4.3) Control directo
 		- # [](#5.) Otras Consideraciones
