@@ -615,7 +615,7 @@
 				  collapsed:: true
 					- Mejora la identificación
 		- ## Inferencia y control
-		-
+			-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
