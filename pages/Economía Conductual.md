@@ -598,6 +598,7 @@
 		- ## Identificación mediante variables de control
 			- En datos observacionales :
 				- Mejoran la identificación , pero no son parte de la pregunta de investigación
+			-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
