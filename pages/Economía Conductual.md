@@ -718,7 +718,7 @@
 				- Este ruido sin embargo no es confusor per se , pero si influye en la inferencia estadística
 				  id:: 61cde5e8-281c-4ff3-b613-b4e9b4956ee1
 				- ¿Cuales son dos estrategias que enfrentan los factores confusores?
-					-
+					- Estrategia de bloqueo
 			- [](#4.2 ) Estructura de incentivos
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
 		- [](#4.3) Control directo
