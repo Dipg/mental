@@ -155,7 +155,7 @@
 		- ## Asignación aleatoria del tratamiento
 		- ## Población del experimento
 		- ## Identificación Mediante aleatorización
-		- ## Identificaci
+		- ## Identificación Mediante varaibles de control
 	- # Aplicación y Análisis
 	- # Discusión
 	- # Conclusión
