@@ -697,7 +697,7 @@
 					- 1. La forma en que los agentes actúan 
 					  2. Formas en que los agentes interactúan
 					- Se define mediante el conjunto de reglas : las reglas iniciales, de transición y de fin
-					-
+					- Reacciones indiviu
 				- ### [](#3.)  Comportamiento resultante
 				-
 			- [](#4.1) Control Indirecto
