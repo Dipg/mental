@@ -625,6 +625,7 @@
 				- ((61cd022e-3f6d-4d59-9d8f-470f8aec30c8))
 				-
 	- # [](#3.)  Tipos de Experimentos
+	  collapsed:: true
 		- Experimentos de campo
 		  collapsed:: true
 			- Asignación aleatoria de individuos al trtamiento
