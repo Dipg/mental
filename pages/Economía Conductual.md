@@ -804,10 +804,11 @@
 						- ¿Cuál es una de las técnicas mas usadas juegos múltiples ?
 							- Elegir aleatoriamente y pagar solo a una persona (SIA)
 							- ¿Cuales son las desventajas de este sistema?
-								- [](#1.)  El juego se puede plantear como una meta lotería  donde cada tarea puede elegirse con la misma probabilidad dependiendo de sus crencias
+								- [](#1.)  El juego se puede plantear como una meta lotería  donde cada tarea puede elegirse con la misma probabilidad dependiendo de sus creencias
 								  collapsed:: true
 									- Esto quiere decir que no se aísla cada ronda sino que se integra en una meta-lotería = efecto arrastre
 									- Con lo que se viola el axioma de independencia
+								- [](#2.)
 								-
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
 		- [](#4.3) Control directo
@@ -834,4 +835,4 @@
 		- ((61cde5e8-281c-4ff3-b613-b4e9b4956ee1))
 			- Es lo mismo variables que generan ruido que variables que son confusoras
 		- ((61cde6bd-898a-4ffd-b33e-bb1a172d3fbe))
-			- ¿Cuál es la diferencia entre variable de contro
+			- ¿Cuál es la diferencia entre variable de control y estrategias de bloqueo?
