@@ -700,7 +700,7 @@
 					- Reacciones individuales Comportamiento final
 					- Completo control
 					- Objetivo de instituciones y del entorno elegido:
-						-
+						- inferir propiedades
 				- ### [](#3.)  Comportamiento resultante
 				-
 			- [](#4.1) Control Indirecto
