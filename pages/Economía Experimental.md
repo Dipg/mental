@@ -162,6 +162,8 @@
 			- Ubicación
 				- Cuenca
 			- Fecha
+				- 13 de Enero
+			- Hora
 				-
 			-
 			-
