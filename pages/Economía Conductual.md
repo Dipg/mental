@@ -738,8 +738,10 @@
 				- ### [](#4.2.1) Teoría del Valor inducido
 					- Smith(1982) : Los incentivos son el eje de la validez interna
 					- ¿ Para que sirven los incentivos?
+					  collapsed:: true
 						- El uso apropiado de los incentivos permite al experimentador inducir preferencias pre especificas en sujetos  experimentales.
 					- ¿Por que están guiados los individuos mediante incentivos ?
+					  collapsed:: true
 						- ((61cdecc4-b480-4fe0-93de-2fb368ea6c9f))
 			-
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
