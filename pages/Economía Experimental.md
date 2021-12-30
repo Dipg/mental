@@ -155,7 +155,7 @@
 		- ## Asignación aleatoria del tratamiento
 		- ## Población del experimento
 		- ## Identificación Mediante aleatorización
-			- |Variable|Aleatorizaci|
+			- |Variable|Aleatorización|
 			  |Ubicación|Cuenca-Ecuador|
 		- ## Identificación Mediante variables de control
 			- |Variable|Control|
