@@ -653,6 +653,7 @@
 					- Abandono
 						- Disminución del tamaño de la muestra
 						- Incumplimiento
+							-
 			-
 			-
 - ---
