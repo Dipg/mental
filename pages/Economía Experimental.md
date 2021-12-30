@@ -162,7 +162,7 @@
 			  |Genero|Femenino|Es el segmento de mercado de mayor consumo, por lo que puede mostrar mayor interés que el sexo opuesto (Anexo 1)|
 			  |Edad |De entre 23-27 años|El servicio esta dirigido a este nicho, por lo que pueden mostrar mayor interés que otro rango de edad(Anexo 2)| 
 			  |Fecha|Del 13 al 17  de Enero|Los primeros dias de la semana muestra una tendencia de mayor captación de clientes en este mercado(Anexo 3)|
-			  |Hora |18:00 pm|Es el segmento del dia en que la población objetivo se presta mayor atencion a la red|
+			  |Hora |18:00 pm|Es el segmento del dia en que la población objetivo se presta mayor aténción a|
 			- Justificación de control de cada una de las variables
 			-
 	- # Aplicación y Análisis
