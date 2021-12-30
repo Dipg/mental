@@ -674,7 +674,7 @@
 				- ## Validez Externa
 					- Debe responder la pregunta clave: ¿ Es el comportamiento observado inducido por el ambiente de decisión que replica un modelo?
 				- Se pueden usar los experimentos par a informar las decisiones de los responsables políticos
-				- Suma
+				- Suma de Valiz
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
