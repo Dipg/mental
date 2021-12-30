@@ -606,7 +606,7 @@
 			- Variables explicativas
 				- Ingresan como condicionates , siendo exogenas y de efeecto identificado, ,
 				- cualquier componente de la variable explicada se elimina de residuo tan pronto se incluyen en X
-				- Agregar medidas al modelo re
+				- ¿Como
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
