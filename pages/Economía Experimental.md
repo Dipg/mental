@@ -164,6 +164,7 @@
 			- Fecha
 				- 13 de Enero
 			- Hora
+				- 6pm
 				-
 			-
 			-
