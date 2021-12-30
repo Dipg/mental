@@ -154,7 +154,7 @@
 	- # Diseño Experimental
 		- ## Asignación aleatoria del tratamiento
 		- ## Población del experimento
-		-
+		- ## Identificación Mediante aleatorización
 	- # Aplicación y Análisis
 	- # Discusión
 	- # Conclusión

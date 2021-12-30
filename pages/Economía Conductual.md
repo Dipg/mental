@@ -597,7 +597,6 @@
 			  collapsed:: true
 				- Definir la población sobre la cual hacer inferencia
 		- ## Identificación mediante variables de control
-		  collapsed:: true
 			- En datos observacionales :
 			  collapsed:: true
 				- Mejoran la identificación , pero no son parte de la pregunta de investigación
