@@ -639,7 +639,7 @@
 		  id:: 61cd2bb9-efe1-4ee6-8a1a-9d8571258e8d
 		  SCHEDULED: <2021-12-30 Thu>
 			- ((61cd2c5d-0b02-472b-b4f9-93f6ac807e85))
-			- ¿Cual es la clasificación
+			- ¿Cual es la clasificación según Ge
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
