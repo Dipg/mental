@@ -577,7 +577,7 @@
 			- ¿Cuál es la forma mas simple de evitar correlación?
 				- L a aleatorización
 			- ¿A que supuesto de OLS nos referimmos?
-				-
+				- ((61ccf79a-93b6-4c3e-881f-4bf1289cab04))
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
