@@ -776,6 +776,7 @@
 						- 1. ¿Aplicar incentivos perjudica la inferencia ?
 						   2. ¿Se genera mayor ruido al no usar incentivos?
 					- Categorías según Camerer y Hogarth (1999)
+					  collapsed:: true
 						- [](#1.)  Resultados experimentales ,mejoran con incentivos
 						- [](#2.) Resultados experimentales sin incentivos (Son los mas comunes )
 						- [](#3.)  Resultados experimentales empeoran con incentivos (Menos comunes)
