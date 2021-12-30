@@ -51,3 +51,9 @@ file-path:: ../assets/Unidad_III_-_Principios_de_diseño_experimental_(Parte_1)_
   hl-page:: 47
   ls-type:: annotation
   id:: 61cd00e6-1dff-4d98-ab5a-73d80471cdd6
+- [:span]
+  ls-type:: annotation
+  hl-page:: 48
+  id:: 61cd022e-3f6d-4d59-9d8f-470f8aec30c8
+  hl-type:: area
+  hl-stamp:: 1640825389074
