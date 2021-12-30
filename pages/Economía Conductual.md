@@ -683,7 +683,7 @@
 		- # [](#4.) Validez Interna
 			- ¿ La investigación se realizo correctamente ?
 			- Se confirma con la capacidad del investigador para argumentar que las correlaciones observadas son causales
-			- La validez interna es alta si un exp
+			- La validez interna es alta si un experimento evita
 			- [](#4.1) Control Indirecto
 				-
 			- [](#4.2 ) Estructura de incentivos
