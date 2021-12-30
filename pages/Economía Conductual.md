@@ -606,7 +606,8 @@
 			- Variables explicativas
 				- Ingresan como condicionates , siendo exogenas y de efeecto identificado, ,
 				- cualquier componente de la variable explicada se elimina de residuo tan pronto se incluyen en X
-				- ¿Como reducimoe el ruido y posibles efectos
+				- ¿Como reducimoe el ruido y posibles efectos de confusión?
+					-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
