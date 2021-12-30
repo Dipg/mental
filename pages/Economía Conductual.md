@@ -760,7 +760,7 @@
 							- La utilidad marginal debe variar notablemente de acuerdo a eleciones
 							- Debe ser convincente y hacer una diferencia par a quienes toman las elecciones, no existe un criterio definido para la prominencia.
 							-
-					- Todo lo demas en el expeimrnto no debe ser significartivo es decir no debe causar
+					- Todo lo demás en el experimento no debe ser significativo es decir no debe  funcionar como incentivo
 			-
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
 		- [](#4.3) Control directo
