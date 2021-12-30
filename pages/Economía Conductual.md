@@ -562,6 +562,7 @@
 									- ((61ccf2a7-9fe7-4dac-8804-8fcc1948bb2a))
 		-
 	- # [](#2.)  Inferencia basada en experimentos controlados
+	  collapsed:: true
 		- ¿Por que se diferencia de los experimentos naturales?
 		  collapsed:: true
 			- En esta Ocasión decidimos el proceso de generación de datos
@@ -622,7 +623,8 @@
 			- Mientras mas dimensiones no observadas se pueden mantener constantes, mejor estimación.
 			- En resumen:
 				- ((61cd022e-3f6d-4d59-9d8f-470f8aec30c8))
-				- [](#3.) Tipos de Experimentos
+				-
+	- # tipos de
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
