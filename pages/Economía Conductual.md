@@ -685,6 +685,7 @@
 			- [](#4.1) Control Indirecto
 			- [](#4.2 ) Estructura de incentivos
 			-
+	- # Diapo 3
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
