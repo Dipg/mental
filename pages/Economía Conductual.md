@@ -383,301 +383,302 @@
 		-
 	-
 - # Unidad 3
-	- Diapo 1 ![📑](../assets/Unidad_III_-_Principios_de_diseño_experimental_(Parte_1)_1640726025438_0.pdf)
-	- ## 0. Introducción
+	- # Diapo 1 ![📑](../assets/Unidad_III_-_Principios_de_diseño_experimental_(Parte_1)_1640726025438_0.pdf)
 	  collapsed:: true
-		- ¿ Que es un experimento?
+		- ## 0. Introducción
 		  collapsed:: true
-			- Es una situación controlada, muchas de las características son implementadas por diseño, con el fin de observar las decisiones e interacciones individuales resultantes.
-			- ¿ Como se consideran un experimento respecto a los datos?
+			- ¿ Que es un experimento?
 			  collapsed:: true
-				- Un experimento es un proceso de generación de datos controlado
-			- ¿A que nos referimos cuando hablamos de control?
-			  collapsed:: true
-				- Se da cuando la mayoría de los factores que influyen en el comportamiento se mantienen y solo se varía un factor de interés (el "tratamiento") a la vez
-				- La variación controlada es un factor crucial para hacer inferencia causal
-			- ¿Cuál es una definición mas formal de experimento?
-			  collapsed:: true
-				- Un experimento es la elección de un conjunto de ==n== inputs, que definen el entorno, asicado con ==m== medidas de sus consecuencias con el objetivo de inferir su relación causal ==F==
-			-
-		- ¿ Cual es el objetivo de un experimento?
-		  collapsed:: true
-			- Inferir relaciones causales entre el entorno  diseñado y el comportamiento de los individuos
-		- ¿Qué tipo de experimentos podemos realizar?
-		  collapsed:: true
-			- De Campo
-			- De Laboratorio
-		- ¿Los experimentos se ven influenciados únicamente por los ==n== inputs controlados?
-		  collapsed:: true
-			- No debido a que influyen muchas mas decisiones que no controlamos _ej : el nivel de ruido que se prioduce fuera del laboratorio_
-			-
-			-
-			-
-			-
-		- ¿De que depende la elección de los imputs?
-		  collapsed:: true
-			- Depende de la relación de la relación  y el fenómeno que el experimento busca estudiar- Es decir, depende de la pregunta de investigación
-			  collapsed:: true
-			-
-		- ¿Cuál es la relación que guarda con los modelos teóricos y con la vida económica real?
-		  collapsed:: true
-			- Similar a un modelo teórico ya que selecciona un conjunto de dimensiones a estudiar , de un fenómeno de interés.
-			- Se asemeja con la realidad , ya que existen infinitas  causas que no podemos controlar u observar.
-		- [](#🌱 ) ¿Cuáles son los aspectos básicos que según Smith(2014) se deberían conocer a la hora de llevar a cabo experimentos? [ 📝  ](61cbb8f5-80f0-4180-9da9-fdac4316f5b6)
-		  id:: 61cbb8ad-1511-43a2-9bb4-65b2788d42cf
-		  collapsed:: true
-			- [](#1.)  Teoría de la decsión
-			  collapsed:: true
-				- Teoría de Juegos
-				- Preferencias no estándar
-				- Agregación
-				- Psicología del comportamiento
-				- Neurociencia
-			- [](#2.) Juegos y entornos de toma de decisiones
-			  collapsed:: true
-				- Formad de elicitación
-				- Los juegos experimentales
-				- Los cuestionarios psicológicos
-				-
-			- [](#3.)  Campos y Aplicaciones
-			  collapsed:: true
-				- Economía laboral
-				- Economía Personal
-				- La organización Industrial
-				- La Economía Ambiental
-				- Economía de la salud
-				- Economía y derecho
-			- [](#4.) Aspectos Metodológicos
-			  collapsed:: true
-				- Perspectivas del participante
-				- Cómo EE se relaciona con otros métodos de la económia, la relación con la teoría
-				- Métodos estadísticos para el análisis de datos
-			-
-	- ##  0.1 Términos Básicos 🌱
-	  collapsed:: true
-		- Sujeo/participante
-		- Sesión experimental
-		- Ronda/período
-		- Tratamiento línea base (Grupo de Control)
-		- Tratamiento experimental
-	- # [](#1.)  El enfoque econométrico al análisis de datos
-	  collapsed:: true
-		- ¿Por que los experimentos son controlados?
-		  collapsed:: true
-			- Por que el ambiente /contexto son construidos de acuerdo a los objetivos de la pregunta de investigación
-			  id:: 61cbbdec-8c47-4ff2-bd23-f2f2104a323e
-			- Por que al decidir el diseño del "juego", la información prevista, el experimentador decide lo que se llama "proceso de generación de datos"(PGD)
-			- En econometría se busca supuestos que se ajusten a un PGD desconocido.
-			- Los experimentos controlan el PGD
-		- {{embed ((61cbbf57-2572-4d58-9382-507f0f5375b9))}}
-		- ¿Los experimentos revierten el método econométrico?
-		  collapsed:: true
-			- Sí, ya que revierten este proceso y escogen el mejor PSD(Proceso de generación de daos ) que se adapte a la pregunta de investigación.
-		- ¿Cómo intervienen en los experimentos los supuesto de identificación?
-		  collapsed:: true
-			- Proveen una guía de como identificar a los experimentos, otra fuente para guiarnos son los cuasi experimentos
-		- ## Estimación de efectos Causales en tratamientos
-			- Identificación: Identificar pregunta de investigación
-			- En experimentos ¿en que se puede basar la identificación?
-			  collapsed:: true
-				- Se puede basar en el marco de evaluación causal: donde se mide  {{cloze efecto causal de un tratamiento}}
-			- ¿Cuales son los estados de la naturaleza en un experimento?
-				- $T=0$ Situación Base
-				- $T=1$ Cambia de dimensión, lo que genera el cambio es {{cloze el tratamiento}}
-				- EL resultado en cada individuo se denota con $y_{i0}$ en el estado sin tratamiento y $y_{i1}$ en el estado con el tratamiento
-				- El efecto causal entonces seria medido por ...
+				- Es una situación controlada, muchas de las características son implementadas por diseño, con el fin de observar las decisiones e interacciones individuales resultantes.
+				- ¿ Como se consideran un experimento respecto a los datos?
 				  collapsed:: true
-					- $y_{i1}-y_{i0} = \text{Efecto causal}$
-					- ¿Que problema presenta esto?
-						- La notación anterior supone que un mismo individuo $i$ es al que no se le aplica el tratamiento como al que se le aplica el tratamiento, lo cual es imposible.
-					- ¿ En que cosiste el problema de evaluación?
+					- Un experimento es un proceso de generación de datos controlado
+				- ¿A que nos referimos cuando hablamos de control?
+				  collapsed:: true
+					- Se da cuando la mayoría de los factores que influyen en el comportamiento se mantienen y solo se varía un factor de interés (el "tratamiento") a la vez
+					- La variación controlada es un factor crucial para hacer inferencia causal
+				- ¿Cuál es una definición mas formal de experimento?
+				  collapsed:: true
+					- Un experimento es la elección de un conjunto de ==n== inputs, que definen el entorno, asicado con ==m== medidas de sus consecuencias con el objetivo de inferir su relación causal ==F==
+				-
+			- ¿ Cual es el objetivo de un experimento?
+			  collapsed:: true
+				- Inferir relaciones causales entre el entorno  diseñado y el comportamiento de los individuos
+			- ¿Qué tipo de experimentos podemos realizar?
+			  collapsed:: true
+				- De Campo
+				- De Laboratorio
+			- ¿Los experimentos se ven influenciados únicamente por los ==n== inputs controlados?
+			  collapsed:: true
+				- No debido a que influyen muchas mas decisiones que no controlamos _ej : el nivel de ruido que se prioduce fuera del laboratorio_
+				-
+				-
+				-
+				-
+			- ¿De que depende la elección de los imputs?
+			  collapsed:: true
+				- Depende de la relación de la relación  y el fenómeno que el experimento busca estudiar- Es decir, depende de la pregunta de investigación
+				  collapsed:: true
+				-
+			- ¿Cuál es la relación que guarda con los modelos teóricos y con la vida económica real?
+			  collapsed:: true
+				- Similar a un modelo teórico ya que selecciona un conjunto de dimensiones a estudiar , de un fenómeno de interés.
+				- Se asemeja con la realidad , ya que existen infinitas  causas que no podemos controlar u observar.
+			- [](#🌱 ) ¿Cuáles son los aspectos básicos que según Smith(2014) se deberían conocer a la hora de llevar a cabo experimentos? [ 📝  ](61cbb8f5-80f0-4180-9da9-fdac4316f5b6)
+			  id:: 61cbb8ad-1511-43a2-9bb4-65b2788d42cf
+			  collapsed:: true
+				- [](#1.)  Teoría de la decsión
+				  collapsed:: true
+					- Teoría de Juegos
+					- Preferencias no estándar
+					- Agregación
+					- Psicología del comportamiento
+					- Neurociencia
+				- [](#2.) Juegos y entornos de toma de decisiones
+				  collapsed:: true
+					- Formad de elicitación
+					- Los juegos experimentales
+					- Los cuestionarios psicológicos
+					-
+				- [](#3.)  Campos y Aplicaciones
+				  collapsed:: true
+					- Economía laboral
+					- Economía Personal
+					- La organización Industrial
+					- La Economía Ambiental
+					- Economía de la salud
+					- Economía y derecho
+				- [](#4.) Aspectos Metodológicos
+				  collapsed:: true
+					- Perspectivas del participante
+					- Cómo EE se relaciona con otros métodos de la económia, la relación con la teoría
+					- Métodos estadísticos para el análisis de datos
+				-
+		- ##  0.1 Términos Básicos 🌱
+		  collapsed:: true
+			- Sujeo/participante
+			- Sesión experimental
+			- Ronda/período
+			- Tratamiento línea base (Grupo de Control)
+			- Tratamiento experimental
+		- # [](#1.)  El enfoque econométrico al análisis de datos
+		  collapsed:: true
+			- ¿Por que los experimentos son controlados?
+			  collapsed:: true
+				- Por que el ambiente /contexto son construidos de acuerdo a los objetivos de la pregunta de investigación
+				  id:: 61cbbdec-8c47-4ff2-bd23-f2f2104a323e
+				- Por que al decidir el diseño del "juego", la información prevista, el experimentador decide lo que se llama "proceso de generación de datos"(PGD)
+				- En econometría se busca supuestos que se ajusten a un PGD desconocido.
+				- Los experimentos controlan el PGD
+			- {{embed ((61cbbf57-2572-4d58-9382-507f0f5375b9))}}
+			- ¿Los experimentos revierten el método econométrico?
+			  collapsed:: true
+				- Sí, ya que revierten este proceso y escogen el mejor PSD(Proceso de generación de daos ) que se adapte a la pregunta de investigación.
+			- ¿Cómo intervienen en los experimentos los supuesto de identificación?
+			  collapsed:: true
+				- Proveen una guía de como identificar a los experimentos, otra fuente para guiarnos son los cuasi experimentos
+			- ## Estimación de efectos Causales en tratamientos
+				- Identificación: Identificar pregunta de investigación
+				- En experimentos ¿en que se puede basar la identificación?
+				  collapsed:: true
+					- Se puede basar en el marco de evaluación causal: donde se mide  {{cloze efecto causal de un tratamiento}}
+				- ¿Cuales son los estados de la naturaleza en un experimento?
+					- $T=0$ Situación Base
+					- $T=1$ Cambia de dimensión, lo que genera el cambio es {{cloze el tratamiento}}
+					- EL resultado en cada individuo se denota con $y_{i0}$ en el estado sin tratamiento y $y_{i1}$ en el estado con el tratamiento
+					- El efecto causal entonces seria medido por ...
 					  collapsed:: true
-						- Consiste en encontrar un contrafactuales:
-						- Estos contrafactuales son observaciones empíricas que miden/aproximan de manera convincente lo que el investigador no observa.
-							- Este contrafacual debe mostrar 2 dimensiones criticas...
-							  collapsed:: true
-								- [](#1.)  Cuánto refleja el contrafractual lo que queremos observar
-								- [](#2.) El tipo de efecto causal
-								-
+						- $y_{i1}-y_{i0} = \text{Efecto causal}$
+						- ¿Que problema presenta esto?
+							- La notación anterior supone que un mismo individuo $i$ es al que no se le aplica el tratamiento como al que se le aplica el tratamiento, lo cual es imposible.
+						- ¿ En que cosiste el problema de evaluación?
+						  collapsed:: true
+							- Consiste en encontrar un contrafactuales:
+							- Estos contrafactuales son observaciones empíricas que miden/aproximan de manera convincente lo que el investigador no observa.
+								- Este contrafacual debe mostrar 2 dimensiones criticas...
+								  collapsed:: true
+									- [](#1.)  Cuánto refleja el contrafractual lo que queremos observar
+									- [](#2.) El tipo de efecto causal
+									-
+						-
 					-
-				-
-			- ¿ Que tipo de información proveen los experimentos naturales  ?
-			  collapsed:: true
-				- Proveen información de corte transversal
-					- [](#1.)  $T=1$
-					- [](#2.) $T=0$
-					- Lo que refleja vectores para resultados incomplatibles
-					- | i | $T_i$| y_{i}(0) | y_i(0)|
-					  |-|-|-|-|
-					  |1|1|-|10|
-					  |2|0|2|-|
-					  |3|1|-|3|
-					  |...|...|...|...|
-					  |n|0|5|-|
-					-
-					-
-					-
-					-
-		- ## Parámetros del efecto del tratamiento
-			- ¿ Cual es la forma de estimar el efecto causal?
-			  collapsed:: true
-				- Es a través del cambio promedio inducido por el tratamiento para cualquier individuo en la población= Efecto promedio del tratamiento
-				-
-			- [](#1.)  Efecto promedio del Tratamiento (ATE)
-				- Mide el impacto del tratamiento en cualquier individuo de la población , tratados y no tratados
-				- ¿Cuál es su representación matemática?
-					- ((61cce115-7e78-439e-b1af-c5e63cef579e))
-			- [](#2.) Tratamiento promedio en los tratados (ATT)
-				- Solo aquellos que recibieron el tratamiento
-				- ¿Cuál es su representación Matemática?
-					- ((61cce14d-7116-45b8-970c-a9e057620c96))
-			- ¿Cuándo son iguales el ATE y el ATT?
-			  collapsed:: true
-				- Esto va a depender del mecanismo detrás del cambio en el resultado, o lo que es lo mismo, depende de  que influyo para que se de ese resultado o cambio.
-				- Si la respuesta individual al tratamiento es homogénea en la población, entonces los dos parámetros serán los mismos
-				-
-			- ¿Cuándo serán diferentes  ATE y el ATT?
-			  collapsed:: true
-				- Si la población es heterogénea en términos de su respuesta al tratamiento, relacionado esto a que se dio el tratamiento
-				- ¿Problemas para que se de una diferenciación?
+				- ¿ Que tipo de información proveen los experimentos naturales  ?
 				  collapsed:: true
-					- Participación Gratuita
-					- Focalización a una población en particular
-			- ¿Identificación con datos observacionales ?
-				- Solo se cuenta con los resultados de $y(1)|X,T=1$ , quienes recibieron el tratamiento y de $y(0)|X, T=0$ para los que no lo hicieron
-				- Estimador de corte transversal 
-				  id:: 61cce249-a0ae-4ee6-a17a-a1435de75daa
-					- ¿Cómo se calcula el estimador de corte transversal con datos observacionales?
-					- ((61cce2a4-e43d-4576-9095-ab886e5227b0))
-						- ¿Qué refleja  la ecuación anterior?
-							- Que el estimador de corte transversal usa el resultado en el grupo de control como un contrafactual del resultado del grupo tratado.
-							- Este estimador seria valido si $y(0)|X, T=0$ es una medida correcta del resultado que el individuo tratado habría obtenido sin tratamiento.
-							- Sin embargo esto no sucede y produce sesgo
-							- El sesgo es la diferencia en resultados entre tratados y no tratados si no hubieran sido tratados
-							- ¿Qué es el efecto selección? #yellow
-								- La diferencia o sesgo es dependiente de si el tratamiento beneficia a los individuos o no
-								- ((61ccf20a-23d8-4f59-a956-342536e291d0))
-								- Si existe tal selección el estimador de corte transversal resulta en una estimación sesgada
-								- ¿ Que implica este efecto de selección?
-									- Equivale a una violación del supuesto de identificación, implica heterogeneidad no observada relacionada con el tratamiento
-									- ((61ccf2a7-9fe7-4dac-8804-8fcc1948bb2a))
-		-
-	- # [](#2.)  Inferencia basada en experimentos controlados
-	  collapsed:: true
-		- ¿Por que se diferencia de los experimentos naturales?
-		  collapsed:: true
-			- En esta Ocasión decidimos el proceso de generación de datos
-			- la variación de interés se implementa intencionalmente de acuerdo con la pregunta de investigación
-			- La participación es un elemento mas del experimento
-			- Nos ayudamos de supuestos econométricos para saber como diseñar para observar efectos de tratamiento de interés.
-			- Se presentan dos nuevos mecanismos de identificación de efectos:
-			  collapsed:: true
-				- La eliminación de correlación entre elementos no observados y el cambio en la variable explicitica de interés
-				- Medir y así eliminar el efecto de los factores confsores
+					- Proveen información de corte transversal
+						- [](#1.)  $T=1$
+						- [](#2.) $T=0$
+						- Lo que refleja vectores para resultados incomplatibles
+						- | i | $T_i$| y_{i}(0) | y_i(0)|
+						  |-|-|-|-|
+						  |1|1|-|10|
+						  |2|0|2|-|
+						  |3|1|-|3|
+						  |...|...|...|...|
+						  |n|0|5|-|
+						-
+						-
+						-
+						-
+			- ## Parámetros del efecto del tratamiento
+				- ¿ Cual es la forma de estimar el efecto causal?
+				  collapsed:: true
+					- Es a través del cambio promedio inducido por el tratamiento para cualquier individuo en la población= Efecto promedio del tratamiento
+					-
+				- [](#1.)  Efecto promedio del Tratamiento (ATE)
+					- Mide el impacto del tratamiento en cualquier individuo de la población , tratados y no tratados
+					- ¿Cuál es su representación matemática?
+						- ((61cce115-7e78-439e-b1af-c5e63cef579e))
+				- [](#2.) Tratamiento promedio en los tratados (ATT)
+					- Solo aquellos que recibieron el tratamiento
+					- ¿Cuál es su representación Matemática?
+						- ((61cce14d-7116-45b8-970c-a9e057620c96))
+				- ¿Cuándo son iguales el ATE y el ATT?
+				  collapsed:: true
+					- Esto va a depender del mecanismo detrás del cambio en el resultado, o lo que es lo mismo, depende de  que influyo para que se de ese resultado o cambio.
+					- Si la respuesta individual al tratamiento es homogénea en la población, entonces los dos parámetros serán los mismos
+					-
+				- ¿Cuándo serán diferentes  ATE y el ATT?
+				  collapsed:: true
+					- Si la población es heterogénea en términos de su respuesta al tratamiento, relacionado esto a que se dio el tratamiento
+					- ¿Problemas para que se de una diferenciación?
+					  collapsed:: true
+						- Participación Gratuita
+						- Focalización a una población en particular
+				- ¿Identificación con datos observacionales ?
+					- Solo se cuenta con los resultados de $y(1)|X,T=1$ , quienes recibieron el tratamiento y de $y(0)|X, T=0$ para los que no lo hicieron
+					- Estimador de corte transversal 
+					  id:: 61cce249-a0ae-4ee6-a17a-a1435de75daa
+						- ¿Cómo se calcula el estimador de corte transversal con datos observacionales?
+						- ((61cce2a4-e43d-4576-9095-ab886e5227b0))
+							- ¿Qué refleja  la ecuación anterior?
+								- Que el estimador de corte transversal usa el resultado en el grupo de control como un contrafactual del resultado del grupo tratado.
+								- Este estimador seria valido si $y(0)|X, T=0$ es una medida correcta del resultado que el individuo tratado habría obtenido sin tratamiento.
+								- Sin embargo esto no sucede y produce sesgo
+								- El sesgo es la diferencia en resultados entre tratados y no tratados si no hubieran sido tratados
+								- ¿Qué es el efecto selección? #yellow
+									- La diferencia o sesgo es dependiente de si el tratamiento beneficia a los individuos o no
+									- ((61ccf20a-23d8-4f59-a956-342536e291d0))
+									- Si existe tal selección el estimador de corte transversal resulta en una estimación sesgada
+									- ¿ Que implica este efecto de selección?
+										- Equivale a una violación del supuesto de identificación, implica heterogeneidad no observada relacionada con el tratamiento
+										- ((61ccf2a7-9fe7-4dac-8804-8fcc1948bb2a))
 			-
-		- ## Identificación mediante aleatorización
+		- # [](#2.)  Inferencia basada en experimentos controlados
 		  collapsed:: true
-			- Se utiliza la identificación para evitar la correlación...
-			- ¿Cuál es una condición crucial para identificación?
+			- ¿Por que se diferencia de los experimentos naturales?
 			  collapsed:: true
-				- Exogeneidad de las variables explicativas, es decir no correlación entre el componente no observado del resultado y las variables de interés.
-				- ¿Cuál es la forma mas simple de evitar correlación?
-					- L a aleatorización
-				- ¿A que supuesto de OLS nos referimmos?
-					- ((61ccf79a-93b6-4c3e-881f-4bf1289cab04))
-			- Primera regla de un experimento
-			  collapsed:: true
-				- Asignación aleatoria del tratamiento
-				- Para realizar el diseño de un experimento controlado entonces adaptamos el supuesto de identificación del  ((61cce249-a0ae-4ee6-a17a-a1435de75daa)) a la siguiente forma:
+				- En esta Ocasión decidimos el proceso de generación de datos
+				- la variación de interés se implementa intencionalmente de acuerdo con la pregunta de investigación
+				- La participación es un elemento mas del experimento
+				- Nos ayudamos de supuestos econométricos para saber como diseñar para observar efectos de tratamiento de interés.
+				- Se presentan dos nuevos mecanismos de identificación de efectos:
 				  collapsed:: true
-					- ((61ccf90c-59fb-416b-840a-348c1cdec41f))
-					- Debido a esto , ya podemos medir el ATT , simplemente comparamos entre tratados y no tratados.
-			- ¿Qué es población en el contexto experimental?
-			  collapsed:: true
-				- Es especifico de la población experimental
-			- Primera clave de los experimentos controlados
-			  collapsed:: true
-				- Definir la población sobre la cual hacer inferencia
-		- ## Identificación mediante variables de control
-			- En datos observacionales :
-			  collapsed:: true
-				- Mejoran la identificación , pero no son parte de la pregunta de investigación
-			- En datos experimentales :
-				- Son parte de la pregunta de investigación
-			- Variables explicativas 
-			  collapsed:: true
-				- Ingresan como condicionantes , siendo exógenas y de efecto identificado, ,
-				- cualquier componente de la variable explicada se elimina de residuo tan pronto se incluyen en X
-				- ¿Cómo reducimos el ruido y posibles efectos de confusión?
-				  collapsed:: true
-					- Agregando medidas que controlen estos
-				- ¿Qué pasa cuando se vuelven medibles las dimensiones no observables que se correlacionan con los observables de interés?
-				  collapsed:: true
-					- Mejora la identificación
-		- ## Inferencia y control
-			- ¿Qué causa el control
-			  collapsed:: true
-				- Descarta variaciones confusas en el error, bloquea su valor a un nivel especifico
-			- Si existe una variable no observada z , pertenece al error
-			- Sin embargo si se mantiene constante,  el efecto no observado sobre el resultado $y$ , este ya no es diferente entre submuestra $(T=1,T=0)$
-			- ((61cd00e6-1dff-4d98-ab5a-73d80471cdd6))
-			- Mientras mas dimensiones no observadas se pueden mantener constantes, mejor estimación.
-			- En resumen:
-				- ((61cd022e-3f6d-4d59-9d8f-470f8aec30c8))
+					- La eliminación de correlación entre elementos no observados y el cambio en la variable explicitica de interés
+					- Medir y así eliminar el efecto de los factores confsores
 				-
-	- # [](#3.)  Tipos de Experimentos
-	  collapsed:: true
-		- Experimentos de campo
-		  collapsed:: true
-			- Asignación aleatoria de individuos al trtamiento
-			- En un entrono "natural" o "real"
-			- Los sujetos toman decisiones en el mismo entorno real
-			- Ensayo de control aleatorio (RCT/ ECA).
-		- Experimento de laboratorio
-		- ¿Cuál es la diferencia entre los dos tipos de experimentos ?
-		  collapsed:: true
-			- Entorno Natural vs entorno artificial
-		- ¿Caracterización de los sujetos según Harrison (2004)?
-		  id:: 61cd2bb9-efe1-4ee6-8a1a-9d8571258e8d
-		  collapsed:: true
-		  SCHEDULED: <2021-12-30 Thu>
-			- ((61cd2c5d-0b02-472b-b4f9-93f6ac807e85))
-		- ¿Cuál es la clasificación según Gerber y Green de los experimentos de campo?
-		  collapsed:: true
-			- ((61cd2cbe-1f1a-4e83-9200-869d1a8b35cd))
-		- ## Guía para elegir el tipo de diseño
-		  collapsed:: true
-			- Ninguno tiene superioridad  metodológica absoluta
-			- Depende de la pregunta de investigación
-			- ¿De que depende la elección?
-				- [](#1.)  Aspectos prácticos y de implementación,
+			- ## Identificación mediante aleatorización
+			  collapsed:: true
+				- Se utiliza la identificación para evitar la correlación...
+				- ¿Cuál es una condición crucial para identificación?
 				  collapsed:: true
-					- Costos ,Complejidad , Duración
-				- [](#2.) Aspectos inferenciales, 
+					- Exogeneidad de las variables explicativas, es decir no correlación entre el componente no observado del resultado y las variables de interés.
+					- ¿Cuál es la forma mas simple de evitar correlación?
+						- L a aleatorización
+					- ¿A que supuesto de OLS nos referimmos?
+						- ((61ccf79a-93b6-4c3e-881f-4bf1289cab04))
+				- Primera regla de un experimento
 				  collapsed:: true
-					- Mas real mejor interpretación: VALIDEZ EXTERNA , implica mas variables y factores difíciles de controlar = reduce la  capacidad de evidencia causal
-				- [](#3.)  Habilidad de aleatorizar en la practica 
+					- Asignación aleatoria del tratamiento
+					- Para realizar el diseño de un experimento controlado entonces adaptamos el supuesto de identificación del  ((61cce249-a0ae-4ee6-a17a-a1435de75daa)) a la siguiente forma:
+					  collapsed:: true
+						- ((61ccf90c-59fb-416b-840a-348c1cdec41f))
+						- Debido a esto , ya podemos medir el ATT , simplemente comparamos entre tratados y no tratados.
+				- ¿Qué es población en el contexto experimental?
 				  collapsed:: true
-					- Abandono 
+					- Es especifico de la población experimental
+				- Primera clave de los experimentos controlados
+				  collapsed:: true
+					- Definir la población sobre la cual hacer inferencia
+			- ## Identificación mediante variables de control
+				- En datos observacionales :
+				  collapsed:: true
+					- Mejoran la identificación , pero no son parte de la pregunta de investigación
+				- En datos experimentales :
+					- Son parte de la pregunta de investigación
+				- Variables explicativas 
+				  collapsed:: true
+					- Ingresan como condicionantes , siendo exógenas y de efecto identificado, ,
+					- cualquier componente de la variable explicada se elimina de residuo tan pronto se incluyen en X
+					- ¿Cómo reducimos el ruido y posibles efectos de confusión?
 					  collapsed:: true
-						- Disminución del tamaño de la muestra
-					- Efecto derrame
+						- Agregando medidas que controlen estos
+					- ¿Qué pasa cuando se vuelven medibles las dimensiones no observables que se correlacionan con los observables de interés?
 					  collapsed:: true
-						- El tratamiento puede tener impacto en los no tratados, sesgando el efecto del tratamiento, vamos que los no tratados se pueden dar cuenta de como va el tratamiento
-					- Incumplimiento
+						- Mejora la identificación
+			- ## Inferencia y control
+				- ¿Qué causa el control
+				  collapsed:: true
+					- Descarta variaciones confusas en el error, bloquea su valor a un nivel especifico
+				- Si existe una variable no observada z , pertenece al error
+				- Sin embargo si se mantiene constante,  el efecto no observado sobre el resultado $y$ , este ya no es diferente entre submuestra $(T=1,T=0)$
+				- ((61cd00e6-1dff-4d98-ab5a-73d80471cdd6))
+				- Mientras mas dimensiones no observadas se pueden mantener constantes, mejor estimación.
+				- En resumen:
+					- ((61cd022e-3f6d-4d59-9d8f-470f8aec30c8))
+					-
+		- # [](#3.)  Tipos de Experimentos
+		  collapsed:: true
+			- Experimentos de campo
+			  collapsed:: true
+				- Asignación aleatoria de individuos al trtamiento
+				- En un entrono "natural" o "real"
+				- Los sujetos toman decisiones en el mismo entorno real
+				- Ensayo de control aleatorio (RCT/ ECA).
+			- Experimento de laboratorio
+			- ¿Cuál es la diferencia entre los dos tipos de experimentos ?
+			  collapsed:: true
+				- Entorno Natural vs entorno artificial
+			- ¿Caracterización de los sujetos según Harrison (2004)?
+			  id:: 61cd2bb9-efe1-4ee6-8a1a-9d8571258e8d
+			  collapsed:: true
+			  SCHEDULED: <2021-12-30 Thu>
+				- ((61cd2c5d-0b02-472b-b4f9-93f6ac807e85))
+			- ¿Cuál es la clasificación según Gerber y Green de los experimentos de campo?
+			  collapsed:: true
+				- ((61cd2cbe-1f1a-4e83-9200-869d1a8b35cd))
+			- ## Guía para elegir el tipo de diseño
+			  collapsed:: true
+				- Ninguno tiene superioridad  metodológica absoluta
+				- Depende de la pregunta de investigación
+				- ¿De que depende la elección?
+					- [](#1.)  Aspectos prácticos y de implementación,
 					  collapsed:: true
-						- En campo es mas difícil restringir individuos a seguir reglas
-		- ##  Uso de los experimentos
-			- ¿Para que se usan?
-				- Probar teorias
-				- Evaluar relevancia empírica de los modelos teóricos
-				- ## Validez interna
-					- Debe responder la pregunta clave: ¿Se observará el mismo comportamiento fuera del entorno experimental?
-				- ## Validez Externa
-					- Debe responder la pregunta clave: ¿ Es el comportamiento observado inducido por el ambiente de decisión que replica un modelo?
-				- Se pueden usar los experimentos par a informar las decisiones de los responsables políticos
-				- Suma de Validez interna y Validez Externa
-					- Fuerte base teórica +evidencia bien documentada= validez interna +validez externa
+						- Costos ,Complejidad , Duración
+					- [](#2.) Aspectos inferenciales, 
+					  collapsed:: true
+						- Mas real mejor interpretación: VALIDEZ EXTERNA , implica mas variables y factores difíciles de controlar = reduce la  capacidad de evidencia causal
+					- [](#3.)  Habilidad de aleatorizar en la practica 
+					  collapsed:: true
+						- Abandono 
+						  collapsed:: true
+							- Disminución del tamaño de la muestra
+						- Efecto derrame
+						  collapsed:: true
+							- El tratamiento puede tener impacto en los no tratados, sesgando el efecto del tratamiento, vamos que los no tratados se pueden dar cuenta de como va el tratamiento
+						- Incumplimiento
+						  collapsed:: true
+							- En campo es mas difícil restringir individuos a seguir reglas
+			- ##  Uso de los experimentos
+				- ¿Para que se usan?
+					- Probar teorias
+					- Evaluar relevancia empírica de los modelos teóricos
+					- ## Validez interna
+						- Debe responder la pregunta clave: ¿Se observará el mismo comportamiento fuera del entorno experimental?
+					- ## Validez Externa
+						- Debe responder la pregunta clave: ¿ Es el comportamiento observado inducido por el ambiente de decisión que replica un modelo?
+					- Se pueden usar los experimentos par a informar las decisiones de los responsables políticos
+					- Suma de Validez interna y Validez Externa
+						- Fuerte base teórica +evidencia bien documentada= validez interna +validez externa
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
