@@ -748,7 +748,6 @@
 						  collapsed:: true
 							- Mas es mejor, mayor recompensa es mejor
 						- [](#2.) Dominancia
-						  collapsed:: true
 							- El incentivo debe dominar costos asociados a participación
 							  collapsed:: true
 								- Debe compensar por el esfuerzo realizado
@@ -763,6 +762,7 @@
 					- Todo lo demás en el experimento no debe ser significativo es decir no debe  funcionar como incentivo
 					- Sin embargo todo lo demás no se puede observar
 					- Por lo cual se debe recurrir a la constancia de todo lo demás.
+					  collapsed:: true
 						- Esto se puede evitar , no mostrando el objetivo del experimento
 			-
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
