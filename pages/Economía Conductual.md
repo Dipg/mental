@@ -726,7 +726,8 @@
 						- Cuando la variación en el error no se puede evitar
 				- ¿Cómo se denomina el diseño experimental mas simple?
 					- Diseño Completamente aleatorizado
-						- La correlación entre ruido y resultados de interes
+						- La correlación entre ruido y resultados de interés tienden a cero
+						-
 			- [](#4.2 ) Estructura de incentivos
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
 		- [](#4.3) Control directo
