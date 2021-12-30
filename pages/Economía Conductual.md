@@ -627,7 +627,7 @@
 	- # [](#3.)  Tipos de Experimentos
 		- Experimentos de campo
 			- Asignación aleatoria de individuos al trtamiento
-			- En un entrono natural o rela
+			- En un entrono "natural" o "real"
 		- Experimento de laboratorio
 		- ¿Cuál es la diferencia entre los dos tipos de experimentos ?
 			- Entorno Natural vs entorno artificial
