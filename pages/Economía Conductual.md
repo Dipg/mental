@@ -635,6 +635,7 @@
 		- ¿Cuál es la diferencia entre los dos tipos de experimentos ?
 		  collapsed:: true
 			- Entorno Natural vs entorno artificial
+		- ¿Caractrizaci
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
