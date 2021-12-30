@@ -603,6 +603,7 @@
 			  collapsed:: true
 				- Son parte de la pregunta de investigacón
 				-
+			-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
