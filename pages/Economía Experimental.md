@@ -157,7 +157,7 @@
 		- ## Identificación Mediante aleatorización
 			- Sexo
 		- ## Identificación Mediante variables de control
-			- |
+			- |Genero|Cuenca|
 			  |Variable|Control|
 			  |Edad |De entre 23-27 años| 
 			  |Ubicación|Cuenca-Ecuador| 
