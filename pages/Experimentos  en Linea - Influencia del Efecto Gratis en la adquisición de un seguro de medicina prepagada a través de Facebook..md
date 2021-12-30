@@ -67,4 +67,4 @@
 	- [[Dec 30th, 2021]]
 	  collapsed:: true
 		- ((61cde762-2b52-442b-8d3c-a057592f124f))
-			-
+			- Buscar cuales son las reglas de aleatroización que
