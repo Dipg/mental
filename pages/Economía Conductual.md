@@ -624,7 +624,7 @@
 			- En resumen:
 				- ((61cd022e-3f6d-4d59-9d8f-470f8aec30c8))
 				-
-	- # tipos de
+	- # Tipos de Experimentos
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
