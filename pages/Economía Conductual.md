@@ -684,7 +684,7 @@
 			- ¿ La investigación se realizo correctamente ?
 			- Se confirma con la capacidad del investigador para argumentar que las correlaciones observadas son causales
 			- La validez interna es alta si un experimento evita variables de confusión
-			- La alta validez interna permite confiar en que los resultados de su experimento
+			- La alta validez interna permite confiar en que los resultados de su experimento son causados por una sola varible indeoendiente
 			- [](#4.1) Control Indirecto
 				-
 			- [](#4.2 ) Estructura de incentivos
