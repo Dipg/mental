@@ -45,7 +45,7 @@
 	- # Discusión
 		- ## Validez interna
 		- ## Validez Externa
-			- Debe responder la pregunta clave: ¿ Es el comportamietno observado inducido por el ambiente de decisión que replica un modelo?
+			- Debe responder la pregunta clave: ¿ Es el comportamiento observado inducido por el ambiente de decisión que replica un modelo?
 	- # Conclusión
 	- # Bibliografía
 	- https://www.ugr.es/~ugr_unt/Material%20M%F3dulo%201/variables.pdf
