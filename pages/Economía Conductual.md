@@ -746,4 +746,4 @@
 		- ((61cde5e8-281c-4ff3-b613-b4e9b4956ee1))
 			- Es lo mismo variables que generan ruido que variables que son confusoras
 		- ((61cde6bd-898a-4ffd-b33e-bb1a172d3fbe))
-			-
+			- ¿Cual es la diferencia entre variable de control
