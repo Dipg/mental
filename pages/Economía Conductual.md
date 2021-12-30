@@ -595,6 +595,7 @@
 			  collapsed:: true
 				- Definir la población sobre la cual hacer inferencia
 		-
+		  ##
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
