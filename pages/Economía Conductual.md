@@ -573,11 +573,13 @@
 			-
 		- ## Identificación mediante aleatorización
 		- ¿Cuál es una condición crucial para identificación?
+		  collapsed:: true
 			- Exogeneidad de las variables explicativas, es decir no correlación entre el componente no observado del resultado y las variables de interés.
 			- ¿Cuál es la forma mas simple de evitar correlación?
 				- L a aleatorización
 			- ¿A que supuesto de OLS nos referimmos?
 				- ((61ccf79a-93b6-4c3e-881f-4bf1289cab04))
+		-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
