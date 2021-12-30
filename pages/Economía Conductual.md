@@ -664,8 +664,8 @@
 					- Incumplimiento
 					  collapsed:: true
 						- En campo es mas difícil restringir individuos a seguir reglas
-			- # Uso de los experimentos
 			-
+			- ##  Uso de los experimentos
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
