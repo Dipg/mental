@@ -603,7 +603,7 @@
 			- En datos experimentales :
 				- Son parte de la pregunta de investigación
 			- Variables explicativas
-				- Ingresan como condicionates , siendo exogenas y de efeecto identificado, ,
+				- Ingresan como condicionantes , siendo exógenas y de efecto identificado, ,
 				- cualquier componente de la variable explicada se elimina de residuo tan pronto se incluyen en X
 				- ¿Cómo reducimos el ruido y posibles efectos de confusión?
 				  collapsed:: true
