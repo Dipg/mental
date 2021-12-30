@@ -155,7 +155,8 @@
 		- ## Asignación aleatoria del tratamiento
 		- ## Población del experimento
 		- ## Identificación Mediante aleatorización
-			- Sexo
+			- |Variable|Control|
+			  |Ubicación|Cuenca-Ecuador|
 		- ## Identificación Mediante variables de control
 			- |Variable|Control|
 			  |Genero|Femenino|
