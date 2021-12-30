@@ -5,3 +5,7 @@ file-path:: ../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_I_(
   ls-type:: annotation
   hl-page:: 4
   id:: 61cde1e9-cd04-40f8-b8bd-365d82ca8400
+- DiferenciaconDCA:algunasvariablesderuidosemantienenconstantes/bloqueanenlugardealeatorizartodas.Estassoncomúnmentellamadasvariablesdebloqueo.
+  ls-type:: annotation
+  hl-page:: 15
+  id:: 61cdea9b-8f72-4d77-9ced-65643815a334
