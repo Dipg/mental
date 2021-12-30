@@ -753,7 +753,8 @@
 								- Debe compensar por el esfuerzo realizado
 								- Debe compensar el costo de oportunidad de participar
 							-
-						- [](#3.)  Dominancia
+						- [](#3.)  Prominencia
+							-
 						-
 			-
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
