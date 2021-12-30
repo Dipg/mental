@@ -163,7 +163,7 @@
 			  |Edad |De entre 23-27 años| 
 			  |Fecha|Del 13 al 17  de Enero|
 			  |Hora |18:00 pm|
-			- Justificación de control de casda una de las variables
+			- Justificación de control de cada una de las variables
 			-
 	- # Aplicación y Análisis
 	- # Discusión
