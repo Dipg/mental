@@ -646,7 +646,7 @@
 		- ## Guía para elegir el tipo de diseño
 			- Ninguno tiene superioridad  metodológica absoluta
 			- Depende de la pregunta de investigación
-			-
+			- ¿De que depende la elecci
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
