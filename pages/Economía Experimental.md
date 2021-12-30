@@ -160,7 +160,6 @@
 			- |Variable|Aleatorización| Justiicación|
 			  |Ubicación|Cuenca-Ecuador| La ubicación puede mostrar diversos contrastes sociales por lo que la aleatorización de esta puede reducir el impacto de los mismo|
 		- ## Identificación Mediante variables de control
-		  collapsed:: true
 			- En este apartado en la tabla 2 seleccionamos  las variables que se pretenden controlar con el fin de eliminar o neutralizar sus efectos en la variable dependiente.
 			- #+BEGIN_CENTER
 			  Tabla 1 Variables de control
