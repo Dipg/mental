@@ -158,7 +158,7 @@
 			- Sexo
 		- ## Identificación Mediante variables de control
 			- Edad
-				-
+				- De entre 2
 			-
 	- # Aplicación y Análisis
 	- # Discusión
