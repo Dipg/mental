@@ -712,7 +712,7 @@
 			- [](#4.1) Control Indirecto
 				- Este se da para poder especificar las instituciones y el contexto  o entrono correcto.
 				- #+BEGIN_QUOTE
-				  Bloque
+				  Bloquee todod lo que pueda y el resto aleatorice
 				  #+END_QUOTE
 			- [](#4.2 ) Estructura de incentivos
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
