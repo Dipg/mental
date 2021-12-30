@@ -651,6 +651,7 @@
 				- [](#2.) Aspectos inferenciales, Mas real mejor interpretación: VALIDEZ EXTERNA , implica mas variables y factores difíciles de controlar = reduce la  capacidad de evidencia causal
 				- [](#3.)  Habilidad de aleatorizar en la practica
 					- Abandono
+						- Disminuc
 			-
 			-
 - ---
