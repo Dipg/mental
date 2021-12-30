@@ -582,7 +582,7 @@
 		- Primera regla de un experimento
 		  collapsed:: true
 			- Asignación aleatoria del tratamiento
-		- Para realizar el diseño de un experimento controlado entonces adaptamos el supuesto de identificación del estimador
+		- Para realizar el diseño de un experimento controlado entonces adaptamos el supuesto de identificación del estimador de corte transversal a la sigueint forma
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
