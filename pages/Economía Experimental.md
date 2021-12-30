@@ -156,7 +156,7 @@
 		- ## Población del experimento
 		- ## Identificación Mediante aleatorización
 			- |Variable|Aleatorización| Justiicación|
-			  |Ubicación|Cuenca-Ecuador| Cuenca es una ciudad con gran |
+			  |Ubicación|Cuenca-Ecuador| Cuenca es una ciudad que muestra diversidad de |
 		- ## Identificación Mediante variables de control
 			- |Variable|Control|Justificación de Control|
 			  |Genero|Femenino|Es el segmento de mercado de mayor consumo, por lo que puede mostrar mayor interés que el sexo opuesto (Anexo 1)|
