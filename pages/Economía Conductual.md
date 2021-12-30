@@ -638,6 +638,7 @@
 		- ¿Caracterización de los sujetos según Harrison (2004)?
 		  id:: 61cd2bb9-efe1-4ee6-8a1a-9d8571258e8d
 		  SCHEDULED: <2021-12-30 Thu>
+			-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
@@ -654,4 +655,4 @@
 	- [[Dec 29th, 2021]]
 	  collapsed:: true
 		- ((61cd2bb9-efe1-4ee6-8a1a-9d8571258e8d))
-			- Harrison
+			- Harrison Clasifica los experimentos Onlien??
