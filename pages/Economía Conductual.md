@@ -668,6 +668,7 @@
 		- ##  Uso de los experimentos
 			- ¿Para que se usan?
 				- Probar teorias
+				- Evaluar rel
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
