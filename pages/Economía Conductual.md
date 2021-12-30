@@ -701,6 +701,7 @@
 					- Completo control
 					- Objetivo de instituciones y del entorno elegido:
 						- inferir propiedades empíricas del comportamiento observado
+					-
 				- ### [](#3.)  Comportamiento resultante
 				-
 			- [](#4.1) Control Indirecto
