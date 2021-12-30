@@ -32,7 +32,7 @@
 			- ### Reglas de asignación de aleatorización
 				- Las reglas de aleatorización fueron ....T
 				  id:: 61cde762-2b52-442b-8d3c-a057592f124f
-		- ## Identificación Mediante variables de control
+		- ## Identificación Mediante variables de control o nloqueo1
 			- En este apartado en la tabla 2 seleccionamos  las variables que se pretenden controlar con el fin de eliminar o neutralizar sus efectos en la variable dependiente.
 			- #+BEGIN_CENTER
 			  Tabla 1 Variables de control
