@@ -778,7 +778,8 @@
 					- Categorías según Camerer y Hogarth (1999)
 						- [](#1.)  Resultados experimentales ,mejoran con incentivos
 						- [](#2.) Resultados experimentales sin incentivos (Son los mas comunes )
-						- [](#3.)  Resultados experimetnales emperoan con incentivos()
+						- [](#3.)  Resultados experimentales empeoran con incentivos (Menos comunes)
+						-
 						-
 						-
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
