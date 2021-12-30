@@ -166,7 +166,7 @@
 			- Hora
 				- 6pm
 			- Dia
-				- Lunes, Miercoles
+				- Lunes, Martes y Miercoles
 			-
 			-
 	- # Aplicación y Análisis
