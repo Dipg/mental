@@ -597,11 +597,12 @@
 			  collapsed:: true
 				- Definir la población sobre la cual hacer inferencia
 		- ## Identificación mediante variables de control
+		  collapsed:: true
 			- En datos observacionales :
 			  collapsed:: true
 				- Mejoran la identificación , pero no son parte de la pregunta de investigación
 			- En datos experimentales :
-				- Son parte de la pregunta de investigacón
+				- Son parte de la pregunta de investigación
 			- Variables explicativas
 				- Ingresan como condicionates , siendo exogenas y de efeecto identificado, ,
 				- cualquier componente de la variable explicada se elimina de residuo tan pronto se incluyen en X
