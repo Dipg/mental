@@ -629,7 +629,7 @@
 			- Asignación aleatoria de individuos al trtamiento
 			- En un entrono "natural" o "real"
 			- Los sujetos toman decisiones en el mismo entorno real
-			-
+			- Ensayo de control aleatorio
 		- Experimento de laboratorio
 		- ¿Cuál es la diferencia entre los dos tipos de experimentos ?
 			- Entorno Natural vs entorno artificial
