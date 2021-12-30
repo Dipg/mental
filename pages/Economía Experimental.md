@@ -155,6 +155,7 @@
 		- ## Asignación aleatoria del tratamiento
 		- ## Población del experimento
 		- ## Identificación Mediante aleatorización
+			- Sexo
 		- ## Identificación Mediante variables de control
 			- Edad
 			-
