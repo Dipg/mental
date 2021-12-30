@@ -586,7 +586,7 @@
 			- Asignación aleatoria del tratamiento
 		- Para realizar el diseño de un experimento controlado entonces adaptamos el supuesto de identificación del  ((61cce249-a0ae-4ee6-a17a-a1435de75daa)) a la siguiente forma:
 			- ((61ccf90c-59fb-416b-840a-348c1cdec41f))
-			- Debido a esto , ya podemos medir
+			- Debido a esto , ya podemos medir el ATT simplemente
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
