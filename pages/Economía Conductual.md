@@ -685,7 +685,7 @@
 			- Se confirma con la capacidad del investigador para argumentar que las correlaciones observadas son causales
 			- La validez interna es alta si un experimento evita variables de confusión
 			- La alta validez interna permite confiar en que los resultados de su experimento son causados por una sola variable independiente
-			- ¿Cómo conseguir la identificaci
+			- ¿Cómo conseguir la identificación ?
 			- [](#4.1) Control Indirecto
 				-
 			- [](#4.2 ) Estructura de incentivos
