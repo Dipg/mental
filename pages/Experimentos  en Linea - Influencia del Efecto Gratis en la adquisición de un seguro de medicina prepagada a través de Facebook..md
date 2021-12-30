@@ -42,7 +42,7 @@
 			  |Hora |18:00 pm|Es el segmento del día en que la población objetivo muestra mayor presencia en al red estudiada (Anexo 4)| 
 			  Fuente: Autores 
 			  Elaboración Autores
-		-
+		- ## Entorno
 	- # Aplicación y Análisis
 	- # Discusión
 		- ## Validez interna
