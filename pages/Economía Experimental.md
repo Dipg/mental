@@ -163,7 +163,7 @@
 				- Cuenca
 			- Tiempo
 				- |Fecha|Hora|
-				  |13 al 17  de Enero al ||
+				  |13 al 17  de Enero al |6pm|
 					- 6pm
 				- Dia
 					- Lunes, Martes y Miercoles
