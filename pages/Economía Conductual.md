@@ -545,6 +545,7 @@
 			- ¿Identificación con datos observacionales ?
 				- Solo se cuenta con los resultados de $y(1)|X,T=1$ , quienes recibieron el tratamiento y de $y(0)|X, T=0$ para los que no lo hicieron
 				- ¿Cómo se calcula el estimador de corte transversal con datos observacionales?
+				  id:: 61cce249-a0ae-4ee6-a17a-a1435de75daa
 					- ((61cce2a4-e43d-4576-9095-ab886e5227b0))
 					- ¿Que refleja  la ecuación anterior?
 						- Que el estimador de corte transversal usa el resultado en el grupo de control como un contrafactual del resultado del grupo tratado.
@@ -582,7 +583,7 @@
 		- Primera regla de un experimento
 		  collapsed:: true
 			- Asignación aleatoria del tratamiento
-		- Para realizar el diseño de un experimento controlado entonces adaptamos el supuesto de identificación del e a la sigueint forma
+		- Para realizar el diseño de un experimento controlado entonces adaptamos el supuesto de identificación del e ((61cce249-a0ae-4ee6-a17a-a1435de75daa)) a la sigueint forma
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
