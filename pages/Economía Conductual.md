@@ -691,8 +691,10 @@
 			  id:: 61cde1eb-b7a6-4d43-8187-c2b5d42f4f5a
 			- Cuales son los elementos de los experimentos según Smith(2012)
 				- ### [](#1.) Entorno
+				  collapsed:: true
 					- Todas las características que describen de que esta echa el sistema
 				- ### [](#2.)  Institución
+				  collapsed:: true
 					- Definen el funcionamiento del sistema
 					- 1. La forma en que los agentes actúan 
 					  2. Formas en que los agentes interactúan
