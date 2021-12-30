@@ -737,7 +737,8 @@
 			- ## [](#4.2 ) Estructura de incentivos
 				- ### [](#4.2.1) Teoría del Valor inducido
 					- Smith(1982) : Los incentivos son el eje de la validez interna
-					-
+					- ¿ Para que sirven los incentivos?
+						-
 			-
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
 		- [](#4.3) Control directo
