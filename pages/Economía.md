@@ -28,6 +28,7 @@
 		- Siempre mas es mejore, pendientes negativa
 	- Sustitución
 	- [[Utilidad esperada]] #red
+	  id:: 61c33937-f904-474f-bb71-83801685f8e5
 - Supuestos de Modelo Estándar
   id:: 61986c0a-c73c-4efc-8d25-a4989c91fe8c
   collapsed:: true
