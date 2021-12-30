@@ -710,7 +710,7 @@
 					- La identificacion debe cumplir el supuesto de PGS
 					- La validez interna se basas en propiedades asumindas de las respuestas de los agentes al sistema microeconómico que enfrenta
 			- [](#4.1) Control Indirecto
-				- Este se da para poder especificar las instituciones y el
+				- Este se da para poder especificar las instituciones y el contexto  o entrono correcto
 			- [](#4.2 ) Estructura de incentivos
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
 		- [](#4.3) Control directo
