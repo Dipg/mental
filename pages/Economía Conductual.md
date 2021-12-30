@@ -752,7 +752,8 @@
 							  collapsed:: true
 								- Debe compensar por el esfuerzo realizado
 								- Debe compensar el costo de oportunidad de participar
-							- ¿ Que pasa si no se cumple la d
+							- ¿ Que pasa si no se cumple la dominancia?
+								-
 						- [](#3.)  Prominencia 
 						  collapsed:: true
 							- La recompensa o incentivo deben estar explícitamente vinculadas a decisiones propias y del resto y los sujetos lo entienden
