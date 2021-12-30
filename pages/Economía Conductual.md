@@ -691,7 +691,7 @@
 			  id:: 61cde1eb-b7a6-4d43-8187-c2b5d42f4f5a
 			- Cuales son los elementos de los experimentos según Smith(2012)
 				- ### [](#1.) Entorno
-					- Todas las caracterirsticas que
+					- Todas las características que describen de que esta echa el sistema
 				- ### [](#2.)  institución
 				- ### [](#3.)  Comportamiento resultante
 				-
