@@ -159,10 +159,9 @@
 		- ## Identificación Mediante variables de control
 			- |Variable|Control|
 			  |Edad |De entre 23-27 años| 
-			  |Ubicación|Cuenca-Ecuador|
-			- Tiempo
-				- |Fecha|Hora|
-				  |Del 13 al 17  de Enero  |18:00 pm|
+			  |Ubicación|Cuenca-Ecuador| 
+			  |Fecha|Del 13 al 17  de Enero|
+			  |Hora |18:00 pm|
 			-
 			-
 	- # Aplicación y Análisis
