@@ -597,7 +597,6 @@
 			  collapsed:: true
 				- Definir la población sobre la cual hacer inferencia
 		- ## Identificación mediante variables de control
-		  collapsed:: true
 			- En datos observacionales :
 			  collapsed:: true
 				- Mejoran la identificación , pero no son parte de la pregunta de investigación
@@ -607,7 +606,6 @@
 				- Ingresan como condicionates , siendo exogenas y de efeecto identificado, ,
 				- cualquier componente de la variable explicada se elimina de residuo tan pronto se incluyen en X
 				- ¿Cómo reducimos el ruido y posibles efectos de confusión?
-				  collapsed:: true
 					- Agregando medidas que controlen estos
 				- ¿Qué pasa cuando se vuelven medibles las dimensiones no observables que se correlacionan con los observables de interés?
 				  collapsed:: true
