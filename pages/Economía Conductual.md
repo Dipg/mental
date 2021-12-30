@@ -748,7 +748,8 @@
 							- Mas es mejor, mayor recompensa es mejor
 						- [](#2.) Prominencia
 							- El incentivo debe dominar costos asociados a participación
-								- Debe conmpensar
+								- Debe compensar por el esfuerzo realizado
+								-
 							-
 						- [](#3.)  Dominancia
 						-
