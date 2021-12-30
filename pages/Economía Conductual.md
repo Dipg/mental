@@ -747,9 +747,11 @@
 						- [](#1.)  No saciedad
 							- Mas es mejor, mayor recompensa es mejor
 						- [](#2.) Prominencia
+						  collapsed:: true
 							- El incentivo debe dominar costos asociados a participación
+							  collapsed:: true
 								- Debe compensar por el esfuerzo realizado
-								- Debe compensar
+								- Debe compensar el costo de oportunidad de participar
 							-
 						- [](#3.)  Dominancia
 						-
