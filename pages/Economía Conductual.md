@@ -572,7 +572,8 @@
 				- Medir y así eliminar el efecto de los factores confsores
 			-
 		- ## Identificación mediante aleatorización
-		- ¿Cuál es una condición crucial
+		- ¿Cuál es una condición crucial para identificación?
+			-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
