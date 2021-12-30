@@ -626,6 +626,7 @@
 				-
 	- # [](#3.)  Tipos de Experimentos
 		- Experimentos de campo
+		  collapsed:: true
 			- Asignación aleatoria de individuos al trtamiento
 			- En un entrono "natural" o "real"
 			- Los sujetos toman decisiones en el mismo entorno real
