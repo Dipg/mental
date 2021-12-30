@@ -43,7 +43,8 @@
 			  Elaboración Autores
 	- # Aplicación y Análisis
 	- # Discusión
-	-
+		- ## Validez interna
+		-
 	- # Conclusión
 	- # Bibliografía
 	- https://www.ugr.es/~ugr_unt/Material%20M%F3dulo%201/variables.pdf
