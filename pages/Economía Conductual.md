@@ -808,7 +808,7 @@
 								  collapsed:: true
 									- Esto quiere decir que no se aísla cada ronda sino que se integra en una meta-lotería = efecto arrastre
 									- Con lo que se viola el axioma de independencia
-								- [](#2.) Si las preferecnias no se comportan de acurdo a la ((61c33937-f904-474f-bb71-83801685f8e5)) , SIA no daría resultados
+								- [](#2.) Si las preferecnias no se comportan de acurdo a la ((61c33937-f904-474f-bb71-83801685f8e5)) , SIA no daría resultados resultados
 								-
 	- # Diapo 3 ![📑](../assets/Unidad_III_-_Técnicas_de_diseño_experimental_-_Parte_II_(Parte_3)_1640881939417_0.pdf)
 		- [](#4.3) Control directo
