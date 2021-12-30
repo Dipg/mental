@@ -652,7 +652,8 @@
 				- [](#3.)  Habilidad de aleatorizar en la practica
 					- Abandono
 						- Disminución del tamaño de la muestra
-						- Efecto derrame
+					- Efecto derrame
+					  collapsed:: true
 						- El tratamiento puede tener impacto en los no tratados, sesgando el efecto del tratamiento, vamos que los no tratados se pueden dar cuenta de como va el tratamiento
 					- Incumplimiento
 						- En campo es mas difícil restringir individuos a seguir reglas
