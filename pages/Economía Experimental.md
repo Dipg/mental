@@ -153,7 +153,7 @@
 	- # Revisión de la Literatura:
 	- # Diseño Experimental
 		- ## Asignación aleatoria del Tratamiento
-		- ## Poblaci
+		- ## Población del Experimento
 	- # Aplicación y Análisis
 	- # Discusión
 	- # Conclusión
