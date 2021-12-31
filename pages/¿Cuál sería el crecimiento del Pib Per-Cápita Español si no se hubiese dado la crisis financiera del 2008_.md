@@ -16,7 +16,8 @@
 		- Mexico
 		- Brasil
 		- Rusia España
-	- Países Con un crecimiento Inferiro
+	- Países Con un crecimiento Inferior
+		-
 	- # Disucsion
 	- # Conclusión
 	- # Bibliografía
