@@ -3,6 +3,6 @@
 - # Resumen
 - # Introducción
 - # Metodología
-- # An´´alisis Empyryco
+- # Análisis Empírico
 - # Bibliografía
 - # Anexos
