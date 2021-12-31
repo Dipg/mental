@@ -5,7 +5,7 @@
 	- # Metodología
 	- # Análisis Empírico
 	- Francia e Italia Pueden entrar
-	- Paises Con un PIB
+	- Paises Con un Crecimiento Similar al PIB de China e
 	- # Disucsion
 	- # Conclusión
 	- # Bibliografía
