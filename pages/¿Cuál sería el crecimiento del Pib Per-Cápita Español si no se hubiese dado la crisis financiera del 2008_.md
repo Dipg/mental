@@ -6,6 +6,9 @@
 	- # Análisis Empírico
 	- Francia e Italia Pueden entrar
 	- Países Con un Crecimiento Similar al PIB de China antes el año 2001,
+		- India
+		- Sudafrica
+		-
 	- # Disucsion
 	- # Conclusión
 	- # Bibliografía
