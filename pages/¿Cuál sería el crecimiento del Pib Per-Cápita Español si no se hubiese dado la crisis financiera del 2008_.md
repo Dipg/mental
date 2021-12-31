@@ -8,7 +8,8 @@
 	- Países Con un Crecimiento Similar al PIB de China antes el año 2001,
 		- India
 		- Sudafrica
-		-
+		- Corea el Sur
+		- Mexio
 	- # Disucsion
 	- # Conclusión
 	- # Bibliografía
