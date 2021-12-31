@@ -4,8 +4,9 @@
 	- # Introducción
 	- # Metodología
 	- # Análisis Empírico
-	- O Países con un crecmiento Superiror
-	- Francia e Italia Pueden entrar
+	- Países con un crecimiento Superior
+		- Francia e
+		- Italia
 	- Países Con un Crecimiento Similar al PIB de China antes el año 2001,
 		- India
 		- Sudafrica
