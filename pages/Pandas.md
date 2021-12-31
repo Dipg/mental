@@ -16,10 +16,11 @@
 	  df = pd.read_csv("ejemplo.csv")
 	  ```
 - Crear Index en Daaframe Pnadas
-- ```python
-  df = pd.DataFrame(data, index =['position1', 'position2', 'position3', 'position4'])  
-  ```
-- https://www.javatpoint.com/how-to-create-a-dataframes-in-python
+  collapsed:: true
+	- https://www.javatpoint.com/how-to-create-a-dataframes-in-python
+	- ```python
+	  df = pd.DataFrame(data, index =['position1', 'position2', 'position3', 'position4'])  
+	  ```
 - Importar Excel en Pandas
 	- ```python
 	  df = pd.read_excel('example.xlsx', sheet_name='example')
