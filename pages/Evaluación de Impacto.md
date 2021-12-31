@@ -74,7 +74,7 @@ collapsed:: true
 			- Las intervenciones agregadas son aquellas que se implementan a nivel agregado que afectan a un pequeño numero de unidades grandes (ciudades, regiones o países), sobre algún resultado agregado de interés (consumo, ((61ce53c1-3a17-4185-8dd8-ce5872390123)) , crimen)
 			- La clave es que se aplica a un pequeño numero de unidades tratadas y utilizar una combinación de unidades no tratadas mas que solo una unidad no afectada
 			-
-	- # Formalizacion del Método
+	- # Formalización del Método
 	- collapsed:: true
 	  ---
 		- Video
