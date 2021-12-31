@@ -9,13 +9,13 @@
 		- Francia
 		- Italia
 	- Países Con un Crecimiento Similar al PIB de China antes el año 2001
-	  collapsed:: true
 		- India
 		- Sudafrica
 		- Corea el Sur
 		- Mexico
 		- Brasil
 		- Rusia España
+		- Canada
 	- Países Con un crecimiento Inferior
 		- Sudafrica
 		- Indonesia
