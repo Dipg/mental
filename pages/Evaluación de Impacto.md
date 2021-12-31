@@ -75,3 +75,4 @@ collapsed:: true
 			- Los modelos de control sintéticos son aquellos que eligen de manea optima un conjunto de pesos o ponderaciones que, cuando se aplican a un grupo de unidades, producen un contrafactual estimado de manera óptima para la unidad tratada
 	- Los métodos de  control sintético  fueron propuestos con el objetivo de estimar los efectos de intervenciones agregadas
 		- Las intervenciones agregadas son aquellas que se implementan a nivel agregado que afectan a un pequeño numero de unidades grandes (ciudades, regiones o países), sobre algún resultado agregado de interés (consumo, PIB, crimen)
+-
