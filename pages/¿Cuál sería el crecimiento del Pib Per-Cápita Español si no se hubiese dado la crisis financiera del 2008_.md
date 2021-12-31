@@ -9,7 +9,9 @@
 		- India
 		- Sudafrica
 		- Corea el Sur
-		- Mexio
+		- Mexico
+		- Brasil
+		- Rusia España
 	- # Disucsion
 	- # Conclusión
 	- # Bibliografía
