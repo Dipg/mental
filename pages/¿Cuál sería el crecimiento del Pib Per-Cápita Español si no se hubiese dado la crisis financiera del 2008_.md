@@ -4,7 +4,7 @@
 	- # Introducción
 	- # Metodología
 	- # Análisis Empírico
-	- Frnaica e Italia p
+	- Frnaica e Italia Pueden entrar
 	- # Disucsion
 	- # Conclusión
 	- # Bibliografía
