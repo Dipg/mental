@@ -3,4 +3,4 @@
   collapsed:: true
   Autarquía
 - Producto Interno Bruto
-	- a
+	- PIB
