@@ -2,4 +2,4 @@
   id:: 61cc6014-667c-436c-9e54-53710f78e213
   collapsed:: true
   Autarquía
--
+- Producto Agregado Bruto
