@@ -33,7 +33,8 @@
 	  ```
 	- {{renderer :linkpreview,https://www.analyticslane.com/2018/07/30/guardar-y-leer-archivos-excel-en-python/}}
 - Columnas
-	-
+	- Renombrar columnas especificas en pandas
+		-
 	- Cambiar nombres de columnas
 	- ```python
 	  df.columns = df.columns.str.replace(', '')
