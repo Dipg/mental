@@ -7,6 +7,7 @@
 	  df = pd.DataFrame(data)
 	  ```
 - Bases de datos del Banco Mundial en Python pandas
+  collapsed:: true
 	- ```python
 	  import wbpy
 	  from pprint import pprint
@@ -17,6 +18,7 @@
 	  dataset.as_dict()
 	  ```
 	- Se importa en formato de diccionario
+-
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
 	- Importar datos SPSS a Pandas
