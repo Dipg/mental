@@ -50,7 +50,8 @@
 	  df1
 	  ```
 	- ![image.png](../assets/image_1641153565051_0.png)
-	- Creamos el nuevo índice y el que ya teníamos para agregar a cada valor temporal
+	- Creamos el nuevo índice y el que ya teníamos para agregar a cada valor temporal y optenemos los datos en forma de panel
+	- ![image.png](../assets/image_1641153722116_0.png)
 	-
 	-
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
