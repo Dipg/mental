@@ -71,6 +71,7 @@
 		- Real Business
 		- https://blog.hubspot.com/marketing/a-b-testing-experiments-examples
 		- https://ideas.repec.org/a/aea/aecrev/v108y2018i7p1820-59.html
+		- https://web.stanford.edu/~jdlevin/Papers/PriceSearch.pdf
 		-
 	- # Anexos
 	-
