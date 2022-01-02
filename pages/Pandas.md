@@ -44,7 +44,8 @@
 	  ```
 	- ![image.png](../assets/image_1641153461121_0.png)
 	- Transponemos el Dataframe y reseteamos el índice de ser necesario
-	- cod
+	- ```python
+	  ```
 	- ![image.png](../assets/image_1641153565051_0.png)
 -
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
