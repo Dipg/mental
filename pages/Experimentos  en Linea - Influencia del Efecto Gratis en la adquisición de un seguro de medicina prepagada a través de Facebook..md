@@ -21,6 +21,7 @@
 	  id:: 461b16dc-cf31-426d-ab47-110b797bf697
 		- Existe la posibilidad de conocer la mejor estrategia de alcance de un producto o servicio  a través de un experimento mediante el Servicio de publicidad  de  Facebook.
 	- # Revisión de la Literatura:
+	- https://hbr.org/2017/06/a-refresher-on-ab-testing
 	- # Diseño Experimental
 		- ## Asignación aleatoria del tratamiento
 		- ## Población del experimento
