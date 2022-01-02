@@ -45,6 +45,9 @@
 	- ![image.png](../assets/image_1641153461121_0.png)
 	- Transponemos el Dataframe y reseteamos el índice de ser necesario
 	- ```python
+	  df1=df.T
+	  df1=df1.reset_index()
+	  df1
 	  ```
 	- ![image.png](../assets/image_1641153565051_0.png)
 -
