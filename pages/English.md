@@ -1,8 +1,10 @@
 - {{renderer :toc_cuzhbnkbs}}
 	- # 1. ENTENCES
 		- It was about time!  #card
+		  collapsed:: true
 			- ¡Era cuestión de tiempo!
 		- No One  #card
+		  collapsed:: true
 			- Nadie
 		- I'm looking forward #card
 			- Estoy esperando
@@ -26,6 +28,7 @@
 			  </audio>
 			  </html>
 		- the sooner #card
+		  collapsed:: true
 			- Cuanto antes
 			-
 			  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\4.wav"
@@ -33,6 +36,7 @@
 			  </audio>
 			  </html>
 		- don't you make me blush #card
+		  collapsed:: true
 			- No me hagas sonrojar
 			-
 			  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\5.wav"
@@ -40,6 +44,7 @@
 			  </audio>
 			  </html>
 		- was it like  #card
+		  collapsed:: true
 			- Fue como
 			-
 			  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\was it like.wav"
@@ -47,6 +52,7 @@
 			  </audio>
 			  </html>
 		- there were times #card
+		  collapsed:: true
 			- Hubo momentos en los que
 			-
 			  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\there were times.wav"
@@ -54,6 +60,7 @@
 			  </audio>
 			  </html>
 		- Everything you need to pay attention to #card
+		  collapsed:: true
 			- Todo a lo que debes prestar atención
 			-
 			  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\Everything you need to pay attention to.wav"
