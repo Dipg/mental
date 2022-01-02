@@ -81,6 +81,7 @@
 	  ```python
 	  df = pd.DataFrame(data, index =['position1', 'position2', 'position3', 'position4'])  
 	  ```
+- Crear multiple in
 - Importar Excel en Pandas
   collapsed:: true
 	- collapsed:: true
@@ -96,6 +97,7 @@
 	  ```
 	- {{renderer :linkpreview,https://www.analyticslane.com/2018/07/30/guardar-y-leer-archivos-excel-en-python/}}
 - # Columnas
+  collapsed:: true
 	- Añadir columna en la primera posición Pandas
 		- Agregar columna en la primera posición pandas
 	- Renombrar columnas especificas en pandas
