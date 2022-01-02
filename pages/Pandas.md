@@ -149,6 +149,7 @@
 		- https://pandas.pydata.org/pandas-docs/version/0.19/generated/pandas.DataFrame.sort.html
 		- Seleccionar valores de una columna  con condicionales
 	- Comvertir columna en  numeros o enteros
+	  collapsed:: true
 		- Columna de string a numero o flotnate
 		- ```python
 		  df['col1'] = df['col1'].astype(int)
