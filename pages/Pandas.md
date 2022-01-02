@@ -43,6 +43,7 @@
 		- ```python
 		  dta1=dta1.rename(columns = {'level_0':'coden','index':'code','level_2':'año',0:'PIB'})
 		  ```
+		- ![image.png](../assets/image_1641148764729_0.png)
 		- ![image.png](../assets/image_1641148753086_0.png)
 	- Cambiar nombres de columnas
 	- collapsed:: true
