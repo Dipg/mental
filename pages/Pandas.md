@@ -112,20 +112,22 @@
 		  df.columns = df.columns.str.replace(', '')
 		  ```
 	- Poner nombre de columnas
-	- collapsed:: true
-	  ```python
-	  df.columns = ['V', 'W', 'X', 'Y', 'Z']
-	  ```
-	- https://stackoverflow.com/questions/11346283/renaming-column-names-in-pandas
+	  collapsed:: true
+		- collapsed:: true
+		  ```python
+		  df.columns = ['V', 'W', 'X', 'Y', 'Z']
+		  ```
+		- https://stackoverflow.com/questions/11346283/renaming-column-names-in-pandas
 	- Ordenar Columnas Short columns
-	- collapsed:: true
-	  ```python
-	  result = df.sort(['A', 'B'], ascending=[1, 0])
-	  sorted_df = df.sort_values(by=['Column_name'], ascending=True)
-	  
-	  ```
-	- https://pandas.pydata.org/pandas-docs/version/0.19/generated/pandas.DataFrame.sort.html
-	- Seleccionar valores de una columna  con condicionales
+	  collapsed:: true
+		- collapsed:: true
+		  ```python
+		  result = df.sort(['A', 'B'], ascending=[1, 0])
+		  sorted_df = df.sort_values(by=['Column_name'], ascending=True)
+		  
+		  ```
+		- https://pandas.pydata.org/pandas-docs/version/0.19/generated/pandas.DataFrame.sort.html
+		- Seleccionar valores de una columna  con condicionales
 	-
 	- collapsed:: true
 	  ```python
