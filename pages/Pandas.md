@@ -50,7 +50,7 @@
 	  df1
 	  ```
 	- ![image.png](../assets/image_1641153565051_0.png)
-	- Creamos el nuevo indice y
+	- Creamos el nuevo indice y el que
 -
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
