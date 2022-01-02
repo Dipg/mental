@@ -84,7 +84,7 @@
 - Crear multiples indices en dataframe
 	- añadir multiples indices adataframe pandas
 	- agregar multiples indices adaatafrem pandas
-	- https://www.datasciencemadesimple.com/hierarchical-indexing-multiple-indexing-python-pandas/
+	- {{renderer :linkpreview,https://www.datasciencemadesimple.com/hierarchical-indexing-multiple-indexing-python-pandas/}}
 - Importar Excel en Pandas
   collapsed:: true
 	- collapsed:: true
