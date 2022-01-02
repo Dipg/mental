@@ -106,10 +106,11 @@
 			- ![image.png](../assets/image_1641148753086_0.png){:height 174, :width 369}
 			- {{renderer :linkpreview,https://www.geeksforgeeks.org/rename-specific-columns-in-pandas/}}
 	- Cambiar nombres de columnas
-	- collapsed:: true
-	  ```python
-	  df.columns = df.columns.str.replace(', '')
-	  ```
+	  collapsed:: true
+		- collapsed:: true
+		  ```python
+		  df.columns = df.columns.str.replace(', '')
+		  ```
 	- Poner nombre de columnas
 	- collapsed:: true
 	  ```python
