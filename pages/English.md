@@ -54,11 +54,11 @@
 			  </audio>
 			  </html>
 		- Everything you need to pay attention to #card
-		-
-		  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\Everything you need to pay attention to.wav"
-		        style=" " >
-		  </audio>
-		  </html>
+			-
+			  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\Everything you need to pay attention to.wav"
+			        style=" " >
+			  </audio>
+			  </html>
 		-
 	- # 2. WORDS
 		- Research #card
