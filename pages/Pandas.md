@@ -32,7 +32,7 @@
 		  ```
 		- ![image.png](../assets/image_1641153066343_0.png){:height 344, :width 615}
 	- Crear Datos de panes a partir de un diccionari en Pandas
-		- Seleccionamos el diccionario
+	- Seleccionamos el diccionario
 	- ```python
 	  diccionarioPIB
 	  ```
