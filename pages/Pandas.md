@@ -6,7 +6,8 @@
 	  data = {'spike-2': [1,2,3], 'hey spke': [4,5,6], 'spiked-in': [7,8,9], 'no': [10,11,12]}
 	  df = pd.DataFrame(data)
 	  ```
-- Bases de datos del Banco
+- Bases de datos del Banco Mundial en Python pandas
+	-
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
 	- Importar datos SPSS a Pandas
