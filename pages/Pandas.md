@@ -8,6 +8,13 @@
 	  ```
 - Bases de datos del Banco Mundial en Python pandas
 	- ```python
+	  import wbpy
+	  from pprint import pprint
+	  api = wbpy.IndicatorAPI()
+	  Paises = ["CHN", "FR", "JP"]
+	  PIB = "NY.GDP.MKTP.CD"
+	  dataset = api.get_dataset(PIB, Paises, date="2010:2012")
+	  dataset.as_dict()
 	  ```
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
