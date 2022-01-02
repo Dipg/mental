@@ -16,8 +16,9 @@
 	  dataset = api.get_dataset(PIB, Paises, date="2010:2012")
 	  dataset.as_dict()
 	  ```
-	- Se importa en formato de diccionario
+	- Se importa en formato de diccionario ((61d1f212-cddf-4b19-9497-3d511d30ab26))
 - Importar diccionarios como dataframe pandas
+  id:: 61d1f212-cddf-4b19-9497-3d511d30ab26
 	- ```python
 	  df = pd.DataFrame.from_dict(dataset.as_dict()) 
 	  ```
