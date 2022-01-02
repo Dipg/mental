@@ -51,9 +51,8 @@
 	  ```
 	- ![image.png](../assets/image_1641153565051_0.png)
 	- Creamos el nuevo índice y el que ya teníamos para agregar a cada valor temporal
-	- ```python
-	  ```
--
+	-
+	-
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
 	- Importar datos SPSS a Pandas
