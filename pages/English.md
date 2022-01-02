@@ -60,6 +60,7 @@
 			        style=" " >
 			  </audio>
 			  </html>
+			- ![image.png](../assets/image_1641088009042_0.png)
 		-
 	- # 2. WORDS
 		- Research #card
