@@ -95,11 +95,11 @@
 - # Columnas
 	- Renombrar columnas especificas en pandas
 		- Cambiar nombre de columnas en pandas
-		- ```python
-		  dta1=dta1.rename(columns = {'level_0':'coden','index':'code','level_2':'año',0:'PIB'})
-		  ```
-		- ![image.png](../assets/image_1641148764729_0.png){:height 147, :width 369}
-		- ![image.png](../assets/image_1641148753086_0.png){:height 174, :width 369}
+			- ```python
+			  dta1=dta1.rename(columns = {'level_0':'coden','index':'code','level_2':'año',0:'PIB'})
+			  ```
+			- ![image.png](../assets/image_1641148764729_0.png){:height 147, :width 369}
+			- ![image.png](../assets/image_1641148753086_0.png){:height 174, :width 369}
 	- Cambiar nombres de columnas
 	- collapsed:: true
 	  ```python
