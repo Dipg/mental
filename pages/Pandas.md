@@ -52,6 +52,10 @@
 	- ![image.png](../assets/image_1641153565051_0.png)
 	- Creamos el nuevo índice y el que ya teníamos para agregar a cada valor temporal y optenemos los datos en forma de panel
 	- ```python
+	  df1=df1.set_index([np.arange(1, len(df)+1),"index"])
+	  dta1=pd.DataFrame(df1.stack())
+	  dta1=dta1.reset_index()
+	  dta1
 	  ```
 	- ![image.png](../assets/image_1641153722116_0.png)
 	-
