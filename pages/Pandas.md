@@ -153,6 +153,7 @@
 		- ```python
 		  df['col1'] = df['col1'].astype(int)
 		  ```
+		- {{renderer :linkpreview,https://www.statology.org/pandas-convert-column-to-int/}}
 - Buscar Valores  mediante expresiones regulares
   collapsed:: true
 	- collapsed:: true
