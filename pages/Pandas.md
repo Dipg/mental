@@ -129,25 +129,25 @@
 		- https://pandas.pydata.org/pandas-docs/version/0.19/generated/pandas.DataFrame.sort.html
 		- Seleccionar valores de una columna  con condicionales
 	-
-	- collapsed:: true
-	  ```python
-	  df[(df.col1 == 'something1') | (df.col2 == 'something1')]
-	  ```
-	- https://stackoverflow.com/questions/37663931/selecting-columns-with-condition-on-pandas-dataframe
-	- collapsed:: true
-	  ```python
-	  df.loc[df['A'] > 2, 'B'] = new_val
-	  ```
-	- https://www.it-swarm-es.com/es/python/como-lidiar-con-settingwithcopywarning-en-pandas/1044277694/
-	- collapsed:: true
-	  ```python
-	  df.loc[(df.a < 0), 'a'] = 0
-	  ```
-	- collapsed:: true
-	  ```stata
-	  df.loc[df["gender"] == "male", "gender"] = 1
-	  ```
-	- https://www.geeksforgeeks.org/how-to-replace-values-in-column-based-on-condition-in-pandas/
+		- collapsed:: true
+		  ```python
+		  df[(df.col1 == 'something1') | (df.col2 == 'something1')]
+		  ```
+		- https://stackoverflow.com/questions/37663931/selecting-columns-with-condition-on-pandas-dataframe
+		- collapsed:: true
+		  ```python
+		  df.loc[df['A'] > 2, 'B'] = new_val
+		  ```
+		- https://www.it-swarm-es.com/es/python/como-lidiar-con-settingwithcopywarning-en-pandas/1044277694/
+		- collapsed:: true
+		  ```python
+		  df.loc[(df.a < 0), 'a'] = 0
+		  ```
+		- collapsed:: true
+		  ```stata
+		  df.loc[df["gender"] == "male", "gender"] = 1
+		  ```
+		- https://www.geeksforgeeks.org/how-to-replace-values-in-column-based-on-condition-in-pandas/
 - Buscar Valores  mediante expresiones regulares
 - collapsed:: true
   ```python
