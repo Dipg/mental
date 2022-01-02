@@ -38,6 +38,7 @@
 	  ```
 	- ![image.png](../assets/image_1641153371827_0.png)
 	- Convertimos el diccionario en un dataframe Pandas
+	- c
 -
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
