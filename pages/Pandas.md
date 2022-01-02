@@ -82,7 +82,9 @@
 	  df = pd.DataFrame(data, index =['position1', 'position2', 'position3', 'position4'])  
 	  ```
 - Crear multiples indices en dataframe
-	- añadir multiples indices ada
+	- añadir multiples indices adataframe pandas
+	- agregar multiples indices adaatafrem pandas
+	- https://www.datasciencemadesimple.com/hierarchical-indexing-multiple-indexing-python-pandas/
 - Importar Excel en Pandas
   collapsed:: true
 	- collapsed:: true
