@@ -63,7 +63,7 @@
 		- https://hbr.org/2017/06/a-refresher-on-ab-testing
 		- https://hbr.org/2016/03/a-refresher-on-randomized-controlled-experiments?ab=at_art_art_1x1
 		- Mertricas en pruebas A/B
-		-
+		- https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/beyond-power-analysis-metric-sensitivity-in-a-b-tests/
 		-
 	- # Anexos
 	-
