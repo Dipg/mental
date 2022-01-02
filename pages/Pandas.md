@@ -91,7 +91,7 @@
 	- exportar pandas a aexcel
 	- collapsed:: true
 	  ```python
-	  df.to_excel('example.xlsx', sheet_name='example')
+	  df.to_excel('example.xlsx', sheet_name='example' index=False)
 	  ```
 	- {{renderer :linkpreview,https://www.analyticslane.com/2018/07/30/guardar-y-leer-archivos-excel-en-python/}}
 - # Columnas
