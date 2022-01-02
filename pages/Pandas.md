@@ -148,13 +148,14 @@
 		  ```
 		- https://pandas.pydata.org/pandas-docs/version/0.19/generated/pandas.DataFrame.sort.html
 		- Seleccionar valores de una columna  con condicionales
+	-
 - Buscar Valores  mediante expresiones regulares
+  collapsed:: true
 	- collapsed:: true
 	  ```python
 	  df.filter(regex=("d.*"))
 	  ```
 	- https://intellipaat.com/community/28342/how-to-select-columns-from-dataframe-by-regex
--
 - Optener Promedio de Columna pandas
 - collapsed:: true
   ```python
