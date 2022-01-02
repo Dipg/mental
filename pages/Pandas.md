@@ -32,33 +32,34 @@
 		  ```
 		- ![image.png](../assets/image_1641153066343_0.png){:height 344, :width 615}
 	- Crear Datos de panes a partir de un diccionari en Pandas
-	- Seleccionamos el diccionario
-	- ```python
-	  diccionarioPIB
-	  ```
-	- ![image.png](../assets/image_1641153371827_0.png)
-	- Convertimos el diccionario en un dataframe Pandas
-	- ```python
-	  df = pd.DataFrame.from_dict(diccionarioPIB) 
-	  df
-	  ```
-	- ![image.png](../assets/image_1641153461121_0.png)
-	- Transponemos el Dataframe y reseteamos el índice de ser necesario
-	- ```python
-	  df1=df.T
-	  df1=df1.reset_index()
-	  df1
-	  ```
-	- ![image.png](../assets/image_1641153565051_0.png)
-	- Creamos el nuevo índice y el que ya teníamos para agregar a cada valor temporal y optenemos los datos en forma de panel
-	- ```python
-	  df1=df1.set_index([np.arange(1, len(df)+1),"index"])
-	  dta1=pd.DataFrame(df1.stack())
-	  dta1=dta1.reset_index()
-	  dta1
-	  ```
-	- ![image.png](../assets/image_1641153722116_0.png)
-	- Con lo anterior  `np.arange(1, len(df)+1)` creamos un rango para que sea el indice numerico que queremos
+	  collapsed:: true
+		- Seleccionamos el diccionario
+		- ```python
+		  diccionarioPIB
+		  ```
+		- ![image.png](../assets/image_1641153371827_0.png)
+		- Convertimos el diccionario en un dataframe Pandas
+		- ```python
+		  df = pd.DataFrame.from_dict(diccionarioPIB) 
+		  df
+		  ```
+		- ![image.png](../assets/image_1641153461121_0.png)
+		- Transponemos el Dataframe y reseteamos el índice de ser necesario
+		- ```python
+		  df1=df.T
+		  df1=df1.reset_index()
+		  df1
+		  ```
+		- ![image.png](../assets/image_1641153565051_0.png)
+		- Creamos el nuevo índice y el que ya teníamos para agregar a cada valor temporal y optenemos los datos en forma de panel
+		- ```python
+		  df1=df1.set_index([np.arange(1, len(df)+1),"index"])
+		  dta1=pd.DataFrame(df1.stack())
+		  dta1=dta1.reset_index()
+		  dta1
+		  ```
+		- ![image.png](../assets/image_1641153722116_0.png)
+		- Con lo anterior  `np.arange(1, len(df)+1)` creamos un rango para que sea el indice numerico que queremos
 	-
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
