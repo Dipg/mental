@@ -71,7 +71,9 @@
 			  </audio>
 			  </html>
 			- ![image.png](../assets/image_1641088009042_0.png)
-		- eighth
+		- eighth #card
+			-
+		-
 		-
 	- # 2. WORDS
 		- Research #card
