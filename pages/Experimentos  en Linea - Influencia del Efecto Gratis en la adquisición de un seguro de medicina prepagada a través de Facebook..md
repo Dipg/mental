@@ -62,6 +62,7 @@
 		- https://www.pnas.org/content/111/24/8788.full
 		- https://hbr.org/2017/06/a-refresher-on-ab-testing
 		- https://hbr.org/2016/03/a-refresher-on-randomized-controlled-experiments?ab=at_art_art_1x1
+		- Mertricas en pruebas A
 		-
 	- # Anexos
 	-
