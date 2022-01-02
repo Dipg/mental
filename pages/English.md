@@ -53,7 +53,9 @@
 			        style=" " >
 			  </audio>
 			  </html>
-		- Everything you need to pay attention to
+		- Everything you need to pay attention to #card
+		-
+		-
 		-
 	- # 2. WORDS
 		- Research #card
