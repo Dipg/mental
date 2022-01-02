@@ -61,6 +61,7 @@
 		- https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/
 		- https://www.pnas.org/content/111/24/8788.full
 		- https://hbr.org/2017/06/a-refresher-on-ab-testing
+		- https://hbr.org/2016/03/a-refresher-on-randomized-controlled-experiments?ab=at_art_art_1x1
 		-
 	- # Anexos
 	-
