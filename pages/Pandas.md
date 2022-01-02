@@ -18,7 +18,9 @@
 	  dataset.as_dict()
 	  ```
 	- Se importa en formato de diccionario
--
+- Importar diccionarios como dataframe pandas
+	- ```python
+	  ```
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
 	- Importar datos SPSS a Pandas
