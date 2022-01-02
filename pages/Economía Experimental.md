@@ -142,8 +142,8 @@
 - [[Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición de un seguro de medicina prepagada a través de Facebook.]] [[Economía Experimental]]
 - [[Experimento en Linea]]
 - Test A/B
-	- Reguylar
-	- https://www.youtube.com/watch?v=K_YBSDmAyoo
+	- Regular
+	- {{renderer :linkpreview,https://www.youtube.com/watch?v=K_YBSDmAyoo}}
 	- {{renderer :linkpreview,https://www.youtube.com/watch?v=2JAuhWzbv7A}}
 - Bideografía
 	- ⭐ ⭐ ⭐ ⭐ - Testing A/B
