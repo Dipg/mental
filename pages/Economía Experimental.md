@@ -143,6 +143,7 @@
 - [[Experimento en Linea]]
 - Test A/B
 	- Reguylar
+	- https://www.youtube.com/watch?v=K_YBSDmAyoo
 	- {{renderer :linkpreview,https://www.youtube.com/watch?v=2JAuhWzbv7A}}
 - Bideografía
 	- ⭐ ⭐ ⭐ ⭐ - Testing A/B
