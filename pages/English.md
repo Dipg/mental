@@ -54,7 +54,7 @@
 			  </audio>
 			  </html>
 		- Everything you need to pay attention to #card
-			-
+			- Todo a lo que debes prestar atención
 			-
 			  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\Everything you need to pay attention to.wav"
 			        style=" " >
