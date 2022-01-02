@@ -31,7 +31,9 @@
 		  dataset.as_dict()["CN"]
 		  ```
 		- ![image.png](../assets/image_1641153066343_0.png){:height 344, :width 615}
-	- Crear Datos de panes
+	- Crear Datos de panes a partir de un diccionari en Pandas
+	- ```python
+	  ```
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
 	- Importar datos SPSS a Pandas
