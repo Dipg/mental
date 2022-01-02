@@ -22,6 +22,7 @@
 	- ```python
 	  df = pd.DataFrame.from_dict(dataset.as_dict()) 
 	  ```
+	-
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
 	- Importar datos SPSS a Pandas
