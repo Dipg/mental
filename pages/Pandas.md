@@ -43,7 +43,7 @@
 	  df
 	  ```
 	- ![image.png](../assets/image_1641153461121_0.png)
-	- Transponemos el Dataframe
+	- Transponemos el Dataframe y reseteamos el indice de ser necesario
 -
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
