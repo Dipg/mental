@@ -40,6 +40,7 @@
 	- Convertimos el diccionario en un dataframe Pandas
 	- ```python
 	  df = pd.DataFrame.from_dict(diccionarioPIB) 
+	  df
 	  ```
 	- ![image.png](../assets/image_1641153461121_0.png)
 -
