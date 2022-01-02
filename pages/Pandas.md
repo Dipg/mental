@@ -100,6 +100,7 @@
 			  ```
 			- ![image.png](../assets/image_1641148764729_0.png){:height 147, :width 369}
 			- ![image.png](../assets/image_1641148753086_0.png){:height 174, :width 369}
+			-
 	- Cambiar nombres de columnas
 	- collapsed:: true
 	  ```python
