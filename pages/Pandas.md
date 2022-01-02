@@ -37,6 +37,7 @@
 	  diccionarioPIB
 	  ```
 	- ![image.png](../assets/image_1641153371827_0.png)
+	-
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
 	- Importar datos SPSS a Pandas
