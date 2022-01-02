@@ -25,9 +25,9 @@
 		  df = pd.DataFrame.from_dict(dataset.as_dict()) 
 		  ```
 		- extraer valor de diccionario en pandas
-		- ```python
-		  dataset.as_dict()["CN"]
-		  ```
+			- ```python
+			  dataset.as_dict()["CN"]
+			  ```
 		- ![image.png](../assets/image_1641153066343_0.png)
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
