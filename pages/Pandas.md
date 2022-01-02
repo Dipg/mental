@@ -26,6 +26,7 @@
 	- ```python
 	  dataset.as_dict()["CN"]
 	  ```
+	- ![image.png](../assets/image_1641153066343_0.png)
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
 	- Importar datos SPSS a Pandas
