@@ -81,7 +81,8 @@
 	  ```python
 	  df = pd.DataFrame(data, index =['position1', 'position2', 'position3', 'position4'])  
 	  ```
-- Crear multiples indices en datafra
+- Crear multiples indices en dataframe
+	- añadir multiples indices a
 - Importar Excel en Pandas
   collapsed:: true
 	- collapsed:: true
