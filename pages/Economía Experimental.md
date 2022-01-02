@@ -142,6 +142,7 @@
 - [[Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición de un seguro de medicina prepagada a través de Facebook.]] [[Economía Experimental]]
 - [[Experimento en Linea]]
 - Test A/B
+  collapsed:: true
 	- Regular
 	- {{renderer :linkpreview,https://www.youtube.com/watch?v=K_YBSDmAyoo}}
 	- Buen sistema de testing global
