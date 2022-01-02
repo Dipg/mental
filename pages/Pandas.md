@@ -92,8 +92,7 @@
 	  df.to_excel('example.xlsx', sheet_name='example')
 	  ```
 	- {{renderer :linkpreview,https://www.analyticslane.com/2018/07/30/guardar-y-leer-archivos-excel-en-python/}}
-- Columnas
-  collapsed:: true
+- # Columnas
 	- Renombrar columnas especificas en pandas
 		- Cambiar nombre de columnas en pandas
 		- ```python
