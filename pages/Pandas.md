@@ -7,7 +7,8 @@
 	  df = pd.DataFrame(data)
 	  ```
 - Bases de datos del Banco Mundial en Python pandas
-	-
+	- ```python
+	  ```
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
 	- Importar datos SPSS a Pandas
