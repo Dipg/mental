@@ -41,7 +41,7 @@
 	- ```python
 	  df = pd.DataFrame.from_dict(diccionarioPIB) 
 	  ```
-	-
+	- ![image.png](../assets/image_1641153461121_0.png)
 -
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
