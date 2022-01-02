@@ -58,7 +58,7 @@
 	  dta1
 	  ```
 	- ![image.png](../assets/image_1641153722116_0.png)
-	- Con lo anterior  `np.arange(1, len(df)+1)` creamos un rango para que sea
+	- Con lo anterior  `np.arange(1, len(df)+1)` creamos un rango para que sea el indice numerico que queremos
 	-
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
