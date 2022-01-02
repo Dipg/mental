@@ -144,8 +144,8 @@
 - Test A/B
 	- Regular
 		- {{renderer :linkpreview,https://www.youtube.com/watch?v=K_YBSDmAyoo}}
-			- Buen sistema de testing global
-	- {{renderer :linkpreview,https://www.youtube.com/watch?v=2JAuhWzbv7A}}
+	- Buen sistema de testing global
+		- {{renderer :linkpreview,https://www.youtube.com/watch?v=2JAuhWzbv7A}}
 - Bideografía
 	- ⭐ ⭐ ⭐ ⭐ - Testing A/B
 	  collapsed:: true
