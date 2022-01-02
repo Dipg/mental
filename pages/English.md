@@ -72,7 +72,7 @@
 			  </html>
 			- ![image.png](../assets/image_1641088009042_0.png)
 		- eighth #card
-			-
+			- Octavo
 		-
 		-
 	- # 2. WORDS
