@@ -58,7 +58,7 @@
 	  dta1
 	  ```
 	- ![image.png](../assets/image_1641153722116_0.png)
-	- COn lo anterior
+	- Con lo anterior
 	-
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
