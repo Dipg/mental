@@ -34,6 +34,7 @@
 	- Crear Datos de panes a partir de un diccionari en Pandas
 		- Seleccionamos el diccionario
 	- ```python
+	  diccionarioPIB
 	  ```
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
