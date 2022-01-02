@@ -22,10 +22,12 @@
 	  df = pd.DataFrame(data, index =['position1', 'position2', 'position3', 'position4'])  
 	  ```
 - Importar Excel en Pandas
+  collapsed:: true
 	- ```python
 	  df = pd.read_excel('example.xlsx', sheet_name='example')
 	  ```
 - Convertir dataframe pandas en excel
+  collapsed:: true
 	- ```python
 	  df.to_excel('example.xlsx', sheet_name='example')
 	  ```
