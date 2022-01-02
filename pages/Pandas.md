@@ -88,6 +88,7 @@
 	  df = pd.read_excel('example.xlsx', sheet_name='example')
 	  ```
 - Convertir dataframe pandas en excel
+  collapsed:: true
 	- exportar pandas a aexcel
 	- collapsed:: true
 	  ```python
@@ -95,7 +96,6 @@
 	  ```
 	- {{renderer :linkpreview,https://www.analyticslane.com/2018/07/30/guardar-y-leer-archivos-excel-en-python/}}
 - # Columnas
-  collapsed:: true
 	- Renombrar columnas especificas en pandas
 	  collapsed:: true
 		- Cambiar nombre de columnas en pandas
