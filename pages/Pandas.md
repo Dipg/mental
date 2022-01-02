@@ -18,8 +18,8 @@
 	  dataset.as_dict()
 	  ```
 	- Se importa en formato de diccionario ((61d1f212-cddf-4b19-9497-3d511d30ab26))
-- # D
-- Importar diccionarios como dataframe pandas
+- # Diccionarios a Pandas
+- Importar diccionariºos como dataframe pandas
   id:: 61d1f212-cddf-4b19-9497-3d511d30ab26
   collapsed:: true
 	- ```python
