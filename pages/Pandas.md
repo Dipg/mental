@@ -19,17 +19,16 @@
 	  ```
 	- Se importa en formato de diccionario ((61d1f212-cddf-4b19-9497-3d511d30ab26))
 - # Diccionarios a Pandas
-- Importar diccionariºos como dataframe pandas
-  id:: 61d1f212-cddf-4b19-9497-3d511d30ab26
-  collapsed:: true
-	- ```python
-	  df = pd.DataFrame.from_dict(dataset.as_dict()) 
-	  ```
-	- extraer valor de diccionario en pandas
-	- ```python
-	  dataset.as_dict()["CN"]
-	  ```
-	- ![image.png](../assets/image_1641153066343_0.png)
+	- Importar diccionarios como dataframe pandas
+	  id:: 61d1f212-cddf-4b19-9497-3d511d30ab26
+		- ```python
+		  df = pd.DataFrame.from_dict(dataset.as_dict()) 
+		  ```
+		- extraer valor de diccionario en pandas
+		- ```python
+		  dataset.as_dict()["CN"]
+		  ```
+		- ![image.png](../assets/image_1641153066343_0.png)
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
 	- Importar datos SPSS a Pandas
