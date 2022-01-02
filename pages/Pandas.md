@@ -24,6 +24,7 @@
 	  ```
 	- extraer valor de diccionario en pandas
 	- ```python
+	  dataset.as_dict()["CN"]
 	  ```
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
