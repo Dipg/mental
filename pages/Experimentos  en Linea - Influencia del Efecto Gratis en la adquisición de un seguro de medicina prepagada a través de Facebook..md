@@ -66,7 +66,8 @@
 		- https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/beyond-power-analysis-metric-sensitivity-in-a-b-tests/
 		- Funcionamiento del Test
 		- https://www.optimizely.com/optimization-glossary/ab-testing/
-		- Relaci
+		- Relación con la ciencia de datos
+		- https://towardsdatascience.com/data-science-you-need-to-know-a-b-testing-f2f12aff619a
 		-
 	- # Anexos
 	-
