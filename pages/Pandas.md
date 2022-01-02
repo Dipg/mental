@@ -16,7 +16,7 @@
 	  dataset = api.get_dataset(PIB, Paises, date="2010:2012")
 	  dataset.as_dict()
 	  ```
-	- Se imp
+	- Se importa en formato de diccionario
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
   collapsed:: true
 	- Importar datos SPSS a Pandas
