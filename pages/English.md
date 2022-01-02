@@ -53,7 +53,7 @@
 			        style=" " >
 			  </audio>
 			  </html>
-			-
+		- Everything you need to pay attention to
 		-
 	- # 2. WORDS
 		- Research #card
