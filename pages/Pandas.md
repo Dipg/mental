@@ -88,7 +88,7 @@
 	  df = pd.read_excel('example.xlsx', sheet_name='example')
 	  ```
 - Convertir dataframe pandas en excel
-	-
+	- exportar pandas a aexcel
 	- collapsed:: true
 	  ```python
 	  df.to_excel('example.xlsx', sheet_name='example')
