@@ -7,6 +7,7 @@
 		  collapsed:: true
 			- Nadie
 		- I'm looking forward #card
+		  collapsed:: true
 			- Estoy esperando
 			-
 			  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\1.wav"
@@ -14,6 +15,7 @@
 			  </audio>
 			  </html>
 		- talked about by many #card
+		  collapsed:: true
 			- de lo que muchos hablan
 			-
 			  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\2.wav"
@@ -21,6 +23,7 @@
 			  </audio>
 			  </html>
 		- run by many #card
+		  collapsed:: true
 			- Dirigido por muchos
 			-
 			  <html>   <audio controls src="G:\Mi unidad\Autosync\Logmy\NewLog\Audios\3.wav"
@@ -68,6 +71,7 @@
 			  </audio>
 			  </html>
 			- ![image.png](../assets/image_1641088009042_0.png)
+		- eighth
 		-
 	- # 2. WORDS
 		- Research #card
