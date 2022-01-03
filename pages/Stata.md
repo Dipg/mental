@@ -34,16 +34,16 @@
 		- {{renderer :linkpreview,https://www.stata.com/meeting/germany18/slides/germany18_Jann.pdf}}
 		-
 	- Crear grafico  de barras , con todos los detalles. Donde $q$ es la variable en el eje de la las $Y$ y $year$ es la variable en el eje de las $X$
-	- ```stata
-	  graph bar q, ///
-	  over(year , label(labsize(2) angle(90) labgap(1)  ) relabel(`r(relabel)')) ///
-	  title("Demanda de Pollos 1990-1960" ///
-	  , span size(medium)) ///
-	  ytitle("Demanda de Pollos") ///
-	  blabel(bar, format(%4.1f) size(1.5) ) ///
-	  note("Fuente: Dennis Epple y Bennett McCallum            Elaboración: Autor  ")  
-	  ```
-	- ![image.png](../assets/image_1638964870055_0.png)
+		- ```stata
+		  graph bar q, ///
+		  over(year , label(labsize(2) angle(90) labgap(1)  ) relabel(`r(relabel)')) ///
+		  title("Demanda de Pollos 1990-1960" ///
+		  , span size(medium)) ///
+		  ytitle("Demanda de Pollos") ///
+		  blabel(bar, format(%4.1f) size(1.5) ) ///
+		  note("Fuente: Dennis Epple y Bennett McCallum            Elaboración: Autor  ")  
+		  ```
+		- ![image.png](../assets/image_1638964870055_0.png)
 	- Cambiar el angUlo de los axis en Stata
 	- ```stata
 	  graph bar q, ///
