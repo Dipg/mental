@@ -1,5 +1,6 @@
 - {{renderer :toc_cuzhbnkbs}}
 	- # 1. ENTENCES
+	  collapsed:: true
 		- Take five minutes to catch up on today’s essential news #card
 		  collapsed:: true
 			- Tómese 5 minutos para ponerse al día con las noticias esenciales  de hoy
