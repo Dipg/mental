@@ -24,7 +24,7 @@
 			  collapsed:: true
 				- Sudafrica
 				- Indonesia
-		- En la grafica 1 se puede evidenciar la comparaci
+		- En la grafica 1 se puede evidenciar la comparación entre el promedio de paises selecionados para comparar
 	- # Resultados
 	- # Discusión
 	- # Conclusión
