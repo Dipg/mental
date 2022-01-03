@@ -30,7 +30,8 @@
 		  Fuente: Banco Mundial 
 		  Elaboración : Autores
 	- # Resultados
-	- Al aplicar el
+	- Al aplicar el modelo de control sintético se obtuvo:
+		-
 	- # Discusión
 	- # Conclusión
 	- # Bibliografía
