@@ -3,7 +3,7 @@
 	- # Resumen
 	- # Introducción
 	- # Metodología
-	- # Análisis Empírico
+	- # Resultados
 		- País a Analizado China
 		- Países con un crecimiento Superior
 		  collapsed:: true
