@@ -97,11 +97,13 @@
 		  ```
 		- ![image.png](../assets/image_1641220193625_0.png)
 	- Cambiar el tamaño de la fuente  en Axis - letra en ejes STATA
+	  collapsed:: true
 		- ```stata
 		  labsize(3) )
 		  ```
 		- ![image.png](../assets/image_1641220353125_0.png)
 		- Ref
+		  collapsed:: true
 			- https://www.stata.com/statalist/archive/2012-04/msg00300.html
 # [](#2.) Loop for en Stata
 collapsed:: true
