@@ -105,7 +105,8 @@
 		- Ref
 		  collapsed:: true
 			- https://www.stata.com/statalist/archive/2012-04/msg00300.html
-	- Cambiar numero de
+	- Cambiar numero de axis en eje Stata
+		-
 # [](#2.) Loop for en Stata
 collapsed:: true
 	- Loop for en todo el rango de variables. Donde la primera coluna (variable es  `year` y la ultima es `time`). Generamos los logaritmos de cada variable
