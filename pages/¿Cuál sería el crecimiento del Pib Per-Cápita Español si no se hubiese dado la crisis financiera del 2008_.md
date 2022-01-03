@@ -7,7 +7,7 @@
 	- Hipótesis
 		- China logro un crecimiento acelerado debido a que se introdujo a la  OMC a partir del año 1995
 	- Objetivos
-		- Usar el Modelo de
+		- Usar el modelo de control sintetico para comparar el cre
 	- # Metodología
 	- # Análisis Descriptivo
 		- País a Analizado China
