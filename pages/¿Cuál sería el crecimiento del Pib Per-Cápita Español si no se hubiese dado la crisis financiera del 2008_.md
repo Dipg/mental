@@ -24,7 +24,7 @@
 			  collapsed:: true
 				- Sudafrica
 				- Indonesia
-		- En la grafica 1 se puede evidenciar la comparación entre el promedio de países seleccionados para comparar  frente al crecimiento de  de la economía China, como se puede evidenciar, las tendencias son muy similares hasta el año de 1995, momento en el cual
+		- En la grafica 1 se puede evidenciar la comparación entre el promedio de países seleccionados para comparar  frente al crecimiento de  de la economía China, como se puede evidenciar, las tendencias son muy similares hasta el año de 1995, momento en el cual se nota le comienzo
 	- # Resultados
 	- # Discusión
 	- # Conclusión
