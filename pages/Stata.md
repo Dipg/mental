@@ -108,6 +108,7 @@
 	- Cambiar numero de axis en eje Stata
 		- Cambiar numero de datos en eje x Stata
 		- ```stata
+		  ylabel(#10) xlabel(#10)
 		  ```
 # [](#2.) Loop for en Stata
 collapsed:: true
