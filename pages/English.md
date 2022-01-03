@@ -2,7 +2,7 @@
 	- # 1. ENTENCES
 		- Daily briefing #card
 			- Sesión Informativa
-			- [:audio {:controls true :src "G:/Mi unidad/Autosync/Logmy/NewLog/assets/Daily briefing "}]
+			-
 		- It was about time!  #card
 		  collapsed:: true
 			- ¡Era cuestión de tiempo!
