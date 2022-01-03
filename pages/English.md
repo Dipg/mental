@@ -1,6 +1,6 @@
 - {{renderer :toc_cuzhbnkbs}}
 	- # 1. ENTENCES
-	  collapsed:: true
+		- Daily briefing
 		- It was about time!  #card
 		  collapsed:: true
 			- ¡Era cuestión de tiempo!
