@@ -5,7 +5,7 @@
 	- Problema
 	-
 	- Hipótesis
-	- China logro un crecimiento acelerado debido a que fue hacepta en
+	- China logro un crecimiento acelerado debido a que fue hacepta en la OMC apartir del año 1995
 	- Objetivos
 	- # Metodología
 	- # Análisis Descriptivo
