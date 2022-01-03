@@ -24,7 +24,7 @@
 			  collapsed:: true
 				- Sudafrica
 				- Indonesia
-		- En la grafica
+		- En la grafica 1 se puede evidenciar el prom
 	- # Resultados
 	- # Discusión
 	- # Conclusión
