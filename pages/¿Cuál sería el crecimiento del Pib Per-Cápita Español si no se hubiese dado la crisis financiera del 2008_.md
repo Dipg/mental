@@ -65,4 +65,3 @@
 	- Tigres Asiáticos
 	- https://mundoeducacao.uol.com.br/geografia/tigres-asiaticos.htm
 	- # Anexos
--
