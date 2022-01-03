@@ -2,7 +2,7 @@
 	- # 1. ENTENCES
 		- Take five minutes to catch up on today’s essential news #card
 			- Tómese 5 minutos para ponerse al día con las noticias esenciales  de hoy
-			- [:audio {:controls true :src "G:/Mi unidad/Autosync/Logmy/NewLog/assets/Take five minutes to catch up on today’s essential news"}].wav
+			- [:audio {:controls true :src "G:/Mi unidad/Autosync/Logmy/NewLog/assets/Take five minutes to catch up on today’s essential news.wav"}]
 		- Daily briefing #card
 		  collapsed:: true
 			- Sesión informativa diaria
