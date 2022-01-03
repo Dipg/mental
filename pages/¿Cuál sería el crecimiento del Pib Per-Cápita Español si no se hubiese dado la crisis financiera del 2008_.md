@@ -36,7 +36,7 @@
 		  Fuente: Banco Central
 		  Elaboración Autores
 		- ## Diferencia entre el PIB en control sintético Chino y el original
-		- La gráfica
+		- La gráfica 3 nos permite ver que n
 	- # Discusión
 	- # Conclusión
 	- # Bibliografía
