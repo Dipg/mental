@@ -64,5 +64,6 @@
 	- Abadie, A. (2020). Using synthetic controls: Feasibility, data requirements, and methodological aspects. Journal of Economic Literature.
 	- Tigres Asiáticos
 	- https://mundoeducacao.uol.com.br/geografia/tigres-asiaticos.htm
-	- Metodo de Co
+	- Método de Control Sintético
+	- https://www.youtube.com/watch?v=uT6Gtzg1dyw
 	- # Anexos
