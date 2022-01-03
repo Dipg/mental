@@ -9,3 +9,6 @@
 	  git commit -m 'mi primer commit'
 	  ```
 	-
+	- ```git
+	  git remote add origin https://github.com/aqui-tu-repo.git
+	  ```
