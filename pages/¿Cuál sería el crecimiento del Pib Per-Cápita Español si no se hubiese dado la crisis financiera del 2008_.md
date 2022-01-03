@@ -1,7 +1,7 @@
 - # Diapos
 - # ¿Cuál sería el crecimiento del Pib Per-Cápita Español si no se hubiese dado la crisis financiera del 2008? {{renderer :wordcount_xjsboqv}} Maximo ==2500==
 	- # Resumen
-	-
+	- Entender el crecimiento acelerado de china
 	- # Introducción
 	- Problema
 		- Como saber lo que hubiese pasado con china de no ingresar a la OMC
