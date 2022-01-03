@@ -1,3 +1,4 @@
+- Re
 - # Unidad 1 ![📑](../assets/Unidad1_Impact_Evaluation_1637839735097_0.pdf) ![​📚​ ](../assets/Handbook_on_Impact_1637851091888_0.pdf)
   collapsed:: true
 	- ¿Qué es evaluar?
@@ -68,6 +69,7 @@ collapsed:: true
 		- ((61a042e1-bf94-4e68-b0f7-cd2516f1f566))
 -
 - # Control Sintético
+	-
 	- # Ideas Intuitivas del método
 	  collapsed:: true
 		- Los métodos de  control sintético  fueron propuestos con el objetivo de estimar los efectos de intervenciones agregadas
