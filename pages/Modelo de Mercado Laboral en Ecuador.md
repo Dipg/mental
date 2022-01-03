@@ -1,3 +1,3 @@
 - Tomar en cuenta
 	- $D_i=f(Y)$
-	- Donde
+	- Donde $D_i$ es la demanda de tr
