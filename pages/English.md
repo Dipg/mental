@@ -1,5 +1,6 @@
 - {{renderer :toc_cuzhbnkbs}}
 	- # 1. ENTENCES
+	  collapsed:: true
 		- It was about time!  #card
 		  collapsed:: true
 			- ¡Era cuestión de tiempo!
@@ -76,6 +77,7 @@
 		-
 		-
 	- # 2. WORDS
+	  collapsed:: true
 		- Research #card
 			- Investigar
 		- queued #card
