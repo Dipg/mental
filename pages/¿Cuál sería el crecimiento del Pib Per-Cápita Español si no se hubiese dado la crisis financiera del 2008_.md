@@ -27,7 +27,8 @@
 		- En la grafica 1 se puede evidenciar la comparación entre el promedio de países seleccionados para comparar  frente al crecimiento de  de la economía China, como se puede evidenciar, las tendencias son muy similares hasta el año de 1995, momento en el cual se nota el comienzo de una gran diferencia.
 		- Grafica 1 PIB China vs Resto de Países 
 		  ![image.png](../assets/image_1641177468937_0.png)
-		- Fuente: Banci
+		- Fuente: Banco Mundial
+		- E
 	- # Resultados
 	- # Discusión
 	- # Conclusión
