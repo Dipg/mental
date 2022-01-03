@@ -344,6 +344,7 @@
 	- 7. Ecuación Fundamental de la Incidencia Económica de un impuesto
 	- [](#8.) ((61d33635-733a-40bc-8b71-544c2600d96d))
 		- 8.INCIDENCIA TRIBUTARIADE UN IMPUESTO APLICADO EN MERCADOS DEFACTORES PRODUCTIVOS
+			- Por que Analizar esta Secc
 	- Incidencia tributaria a trevés del ciclo de vida [ 📜​](61aac79f-6a8f-4c0b-8c59-f3c81744c385) #yellow
 	  collapsed:: true
 		- ¿En que consiste el enfoque de la incidencia tributaria en  el ciclo de vida? #yellow
