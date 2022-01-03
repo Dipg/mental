@@ -11,6 +11,8 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 		- China logro un crecimiento acelerado debido a que se introdujo a la  OMC a partir del año 1995
 	- Objetivos
 		- Usar el modelo de control sintético para comparar el crecimiento que hubiese tenido china de no aperturarse al mercado internacional
+	- Revi
+	-
 	- # Metodología
 	- Método de control sintético Abadie, A. (2020).
 	- # Análisis Descriptivo
