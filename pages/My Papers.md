@@ -4,8 +4,6 @@
 	- [[¿Cómo sería el crecimiento del PIB de China de no aperturarse al comercio internacional?]]
 - [[Economía Ecuatoriana]]
 	- [[Inversión]]
-	  collapsed:: true
 		- [[ Modelo de Inversión- Qtobi en Ecuador]]
 	- [[Mercado Laboral]]
-	  collapsed:: true
 		- [[Modelo de Mercado Laboral en Ecuador]]
