@@ -1,4 +1,5 @@
-- Hacer push en un repositorio ya creado
+- Hacer push en un repositorio ya creado 
+  collapsed:: true
 	- collapsed:: true
 	  ```git
 	  git init
