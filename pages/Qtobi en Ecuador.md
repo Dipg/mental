@@ -1,1 +1,2 @@
-- Variables
+- Variables a tomar en cuenta
+	-
