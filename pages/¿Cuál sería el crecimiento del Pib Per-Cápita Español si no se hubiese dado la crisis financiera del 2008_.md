@@ -6,10 +6,10 @@
 	- # Análisis Empírico
 	  collapsed:: true
 		- País a Analizado China
-	- Países con un crecimiento Superior
-	  collapsed:: true
-		- Francia
-		- Italia
+		- Países con un crecimiento Superior
+		  collapsed:: true
+			- Francia
+			- Italia
 	- Países Con un Crecimiento Similar al PIB de China antes el año 2001
 	  collapsed:: true
 		- India
@@ -21,10 +21,10 @@
 		- España
 		- Canada
 		- Australia
-	- Países Con un crecimiento Inferior
-	  collapsed:: true
-		- Sudafrica
-		- Indonesia
+		- Países Con un crecimiento Inferior
+		  collapsed:: true
+			- Sudafrica
+			- Indonesia
 	- # Disucsion
 	- # Conclusión
 	- # Bibliografía
