@@ -6,4 +6,5 @@
 	  git add .
 	  ```
 	- ```git
+	  git commit -m 'mi primer commit'
 	  ```
