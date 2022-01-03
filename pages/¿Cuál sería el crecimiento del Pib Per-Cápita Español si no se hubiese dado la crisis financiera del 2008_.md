@@ -35,7 +35,7 @@
 		  ![image.png](../assets/image_1641179403079_0.png)
 		  Fuente: Banco Central
 		  Elaboración Autores
-		- Diferencia entre el control Sintetico y el original
+		- Diferencia entre el PIB en control sintentictio y el Original
 	- # Discusión
 	- # Conclusión
 	- # Bibliografía
