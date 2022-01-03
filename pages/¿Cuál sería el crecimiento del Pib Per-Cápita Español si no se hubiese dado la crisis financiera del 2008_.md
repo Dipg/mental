@@ -24,7 +24,7 @@
 			  collapsed:: true
 				- Sudafrica
 				- Indonesia
-		- En la grafica 1 se puede evidenciar la comparación entre el promedio de paises selecionados para comparar
+		- En la grafica 1 se puede evidenciar la comparación entre el promedio de paises selecionados para comparar  frente al crecimiento de  de la econom
 	- # Resultados
 	- # Discusión
 	- # Conclusión
