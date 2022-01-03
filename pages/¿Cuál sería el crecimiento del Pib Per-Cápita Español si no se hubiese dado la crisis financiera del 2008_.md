@@ -4,6 +4,7 @@
 	- # Introducción
 	- # Metodología
 	- # Análisis Empírico
+	  collapsed:: true
 		- País a Analizado China
 	- Países con un crecimiento Superior
 	  collapsed:: true
