@@ -89,6 +89,7 @@
 		- ![image.png](../assets/image_1641220028998_0.png)
 		- https://www.stata.com/manuals13/g-4linepatternstyle.pdf
 	- Titulo de los  ejes en graficas Stata
+	  collapsed:: true
 		- Cambiar titulo de los Axis- Ejes STATA
 		- Cambiar titulo del eje X en STATA
 		- ```stata
