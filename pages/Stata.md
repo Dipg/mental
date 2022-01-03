@@ -34,6 +34,7 @@
 		- {{renderer :linkpreview,https://www.stata.com/meeting/germany18/slides/germany18_Jann.pdf}}
 		-
 	- Crear grafico  de barras , con todos los detalles. Donde $q$ es la variable en el eje de la las $Y$ y $year$ es la variable en el eje de las $X$
+	  collapsed:: true
 		- ```stata
 		  graph bar q, ///
 		  over(year , label(labsize(2) angle(90) labgap(1)  ) relabel(`r(relabel)')) ///
