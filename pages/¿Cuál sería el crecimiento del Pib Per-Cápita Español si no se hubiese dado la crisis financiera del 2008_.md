@@ -5,7 +5,7 @@
 	- Problema
 	-
 	- Hipótesis
-	- China logro un crecimiento acelerado debido a
+	- China logro un crecimiento acelerado debido a que fue hacepta en
 	- Objetivos
 	- # Metodología
 	- # Análisis Descriptivo
