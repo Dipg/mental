@@ -26,6 +26,7 @@
 				- Indonesia
 		- En la grafica 1 se puede evidenciar la comparación entre el promedio de países seleccionados para comparar  frente al crecimiento de  de la economía China, como se puede evidenciar, las tendencias son muy similares hasta el año de 1995, momento en el cual se nota el comienzo de una gran diferencia.
 		- ![image.png](../assets/image_1641177200371_0.png)
+		- ![image.png](../assets/image_1641177245404_0.png)
 	- # Resultados
 	- # Discusión
 	- # Conclusión
