@@ -57,6 +57,7 @@
 			- Debe responder la pregunta clave: ¿ Es el comportamiento observado inducido por el ambiente de decisión que replica un modelo?
 	- # Conclusión
 	- # Bibliografía
+		- ⭐ https://www.forbes.com/sites/quora/2016/04/05/how-do-academic-economists-use-ab-testing/?sh=181d4d0c1dec
 		- https://www.ugr.es/~ugr_unt/Material%20M%F3dulo%201/variables.pdf
 		- https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/
 		- https://www.pnas.org/content/111/24/8788.full
