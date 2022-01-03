@@ -42,7 +42,7 @@
 		  Fuente: Banco Central
 		  Elaboración : Autores
 		- ## Pruebas de Estado Placebo
-		- En la gráfica 4 se muestra lo que se conoce como pruebas de estado placebo, misma que muestra el crecimineto del error entre el modelo Sintetico y el PIB original en cada uno de los paises que entrarn entean en nue
+		- En la gráfica 4 se muestra lo que se conoce como pruebas de estado placebo, misma que muestra el crecimineto del error entre el modelo Sintetico y el PIB original en cada uno de los paises que entrarn entean en nuestra muestra
 	- # Discusión
 	- la diferencia entre el control sintético y el PIB original como se vio en la Gráfica 3 cumple con lo esperado, ya que esta diferencia crece a medida que se aleja del punto de quiebre planteado , el año de 1995
 	- # Conclusión
