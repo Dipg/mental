@@ -52,13 +52,14 @@
 		  over(year , label(angle(90)) ///
 		  ```
 	- ### Heatplot de correlacones
-	- ```stata
-	  pwcorr q  pchick y pf pcor pbeef pop, star(0.05)
-	  matrix C = r(C)
-	  heatplot C, values(format(%9.3f)) color(hcl, diverging intensity(.6)) ///
-	  legend(off) aspectratio(1)
-	  ```
-	- ![image.png](../assets/image_1639387544335_0.png)
+	  collapsed:: true
+		- ```stata
+		  pwcorr q  pchick y pf pcor pbeef pop, star(0.05)
+		  matrix C = r(C)
+		  heatplot C, values(format(%9.3f)) color(hcl, diverging intensity(.6)) ///
+		  legend(off) aspectratio(1)
+		  ```
+		- ![image.png](../assets/image_1639387544335_0.png)
 	- ```stata
 	  heatplot C, values(format(%9.3f)) color(hcl, diverging intensity(.6)) ///
 	  legend(off) aspectratio(1) lower nodiagonal
@@ -171,4 +172,4 @@ collapsed:: true
 -
 - ---
 - {{renderer :linkpreview,https://journals.sagepub.com/doi/pdf/10.1177/1536867X1701700313}}
-- {{renderer :linkpreview,https://www.stata.com/meeting/switzerland16/slides/bischof
+- {{renderer :linkpreview,https://www.stata.com/meeting/switzerland16/slides/bischof-switzerland16.pdf}}
