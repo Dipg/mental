@@ -3,4 +3,7 @@
 	  git init
 	  ```
 	- ```git
+	  git add .
+	  ```
+	- ```git
 	  ```
