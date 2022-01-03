@@ -345,7 +345,7 @@
 	- [](#8.) ((61d33635-733a-40bc-8b71-544c2600d96d))
 		- 8.INCIDENCIA TRIBUTARIADE UN IMPUESTO APLICADO EN MERCADOS DEFACTORES PRODUCTIVOS
 			- ¿Por que Analizar esta Sección?
-				- Existe una relación entre el mercado de factores y el mercado de consumo , lo cual puede afectar el uno en el
+				- Existe una relación entre el mercado de factores y el mercado de consumo , por lo cual puede afectar el uno en el otro
 	- Incidencia tributaria a trevés del ciclo de vida [ 📜​](61aac79f-6a8f-4c0b-8c59-f3c81744c385) #yellow
 	  collapsed:: true
 		- ¿En que consiste el enfoque de la incidencia tributaria en  el ciclo de vida? #yellow
