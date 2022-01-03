@@ -4,7 +4,7 @@
 	- # Introducción
 	- # Metodología
 	- # Análisis Empírico
-		- Pais a Analizado Ch
+		- País a Analizado China
 	- Países con un crecimiento Superior
 	  collapsed:: true
 		- Francia
