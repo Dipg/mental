@@ -1,7 +1,7 @@
 - {{renderer :toc_cuzhbnkbs}}
 	- # 1. ENTENCES
 		- Take five minutes to catch up on today’s essential news #card
-			- Tomese
+			- Tomese 5 minutos para poner
 		- Daily briefing #card
 		  collapsed:: true
 			- Sesión informativa diaria
