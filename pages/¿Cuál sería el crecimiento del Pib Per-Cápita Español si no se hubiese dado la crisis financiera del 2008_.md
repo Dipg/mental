@@ -38,7 +38,7 @@
 		- ## Diferencia entre el PIB en control sintético Chino y el original
 		- La gráfica 3 nos permite ver que existe una diferencia de casi cero desde los años 70 hasta inicio de los 90 , siendo a parir de estos donde la diferencia  comienza a incrementarse
 	- # Discusión
-	-
+	- la diferencia entre el control sintetico y
 	- # Conclusión
 	- # Bibliografía
 	- Tigres Asiáticos
