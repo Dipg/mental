@@ -6,9 +6,11 @@
 	- # Análisis Empírico
 		- Pais a Ana
 	- Países con un crecimiento Superior
+	  collapsed:: true
 		- Francia
 		- Italia
 	- Países Con un Crecimiento Similar al PIB de China antes el año 2001
+	  collapsed:: true
 		- India
 		- Sudafrica
 		- Corea el Sur
@@ -19,6 +21,7 @@
 		- Canada
 		- Australia
 	- Países Con un crecimiento Inferior
+	  collapsed:: true
 		- Sudafrica
 		- Indonesia
 	- # Disucsion
