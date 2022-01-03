@@ -13,6 +13,7 @@
 	- ```git
 	  git remote add origin https://github.com/aqui-tu-repo.git
 	  ```
+	- Ahora elegimos la branch
 	- ```git
 	  git push -u origin master
 	  ```
