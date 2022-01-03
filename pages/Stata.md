@@ -10,23 +10,27 @@
 		  ssc install blindschemes
 		  ```
 	- Definir Color de tema standar de las graficas
-	- ```stata
-	  set scheme s2color
-	  ```
+	  collapsed:: true
+		- ```stata
+		  set scheme s2color
+		  ```
 	- Mas temas para stata
+	  collapsed:: true
 		- {{renderer :linkpreview,https://blog.stata.com/2018/10/02/scheming-your-way-to-your-favorite-graph-style/}}
 	- Cambiar estilo de presentación de gráficos
-	- ```stata
-	  set scheme s2color
-	  grstyle init
-	  . grstyle color background white
-	  . grstyle color major_grid dimgray
-	  . grstyle linewidth major_grid thin
-	  . grstyle yesno draw_major_hgrid yes
-	  . grstyle yesno grid_draw_min yes
-	  . grstyle yesno grid_draw_max yes
-	  ```
+	  collapsed:: true
+		- ```stata
+		  set scheme s2color
+		  grstyle init
+		  . grstyle color background white
+		  . grstyle color major_grid dimgray
+		  . grstyle linewidth major_grid thin
+		  . grstyle yesno draw_major_hgrid yes
+		  . grstyle yesno grid_draw_min yes
+		  . grstyle yesno grid_draw_max yes
+		  ```
 	- Pagina para cambiar el diseño, referencia de lo anterior
+	  collapsed:: true
 		- {{renderer :linkpreview,https://www.stata.com/meeting/germany18/slides/germany18_Jann.pdf}}
 		-
 	- Crear grafico  de barras , con todos los detalles. Donde $q$ es la variable en el eje de la las $Y$ y $year$ es la variable en el eje de las $X$
