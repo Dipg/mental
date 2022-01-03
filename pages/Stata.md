@@ -83,8 +83,10 @@
 		  ```
 	- Cambiar tipo de linea en Grafica STATA
 		- ```stata
+		  twoway function . . . , lpattern(solid) .
 		  ```
 		- ![image.png](../assets/image_1641220028998_0.png)
+		- https://www.stata.com/manuals13/g-4linepatternstyle.pdf
 # [](#2.) Loop for en Stata
 collapsed:: true
 	- Loop for en todo el rango de variables. Donde la primera coluna (variable es  `year` y la ultima es `time`). Generamos los logaritmos de cada variable
