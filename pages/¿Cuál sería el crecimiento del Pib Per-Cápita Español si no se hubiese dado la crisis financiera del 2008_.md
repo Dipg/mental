@@ -45,7 +45,8 @@
 		- En la gráfica 4 se muestra lo que se conoce como pruebas de estado placebo, misma que muestra el crecimiento del error entre el modelo sintético y el PIB original en cada uno de los países que entraron  en nuestra muestra usada para la comparación inicial.
 		- Grafica 4 Comparación placeb
 		  ![image.png](../assets/image_1641181998649_0.png)
-		  Elaboracion
+		  Fu
+		  Elaboracion: Autores
 	- # Discusión
 	- la diferencia entre el control sintético y el PIB original como se vio en la Gráfica 3 cumple con lo esperado, ya que esta diferencia crece a medida que se aleja del punto de quiebre planteado , el año de 1995
 	- # Conclusión
@@ -53,3 +54,4 @@
 	- Tigres Asiáticos
 	- https://mundoeducacao.uol.com.br/geografia/tigres-asiaticos.htm
 	- # Anexos
+-
