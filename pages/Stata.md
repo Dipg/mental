@@ -106,15 +106,14 @@
 		  collapsed:: true
 			- https://www.stata.com/statalist/archive/2012-04/msg00300.html
 	- Cambiar numero de axis en eje Stata
+	  collapsed:: true
 		- Cambiar numero de datos en eje x Stata
-		- collapsed:: true
-		  ```stata
+		- ```stata
 		  ylabel(#10) xlabel(#10)
 		  ```
 		- ![image.png](../assets/image_1641220583715_0.png)
 		- ![image.png](../assets/image_1641220603285_0.png)
 		- Ref
-		  collapsed:: true
 			- https://www.stata.com/manuals/g-3axis_label_options.pdf
 		-
 # [](#2.) Loop for en Stata
