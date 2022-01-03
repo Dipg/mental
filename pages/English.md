@@ -91,5 +91,5 @@
 			-
 	- # 3 Gramatical
 		- Negative in past
-			- Allways use did
+			- Allways use didn`t  for diferente
 -
