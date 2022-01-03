@@ -1,0 +1,5 @@
+- Variables a tomar en cuenta
+	- Tasa de Interes
+	- Rentabilidad
+	- Producto
+	- Paper de referencia
