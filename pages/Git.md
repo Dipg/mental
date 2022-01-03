@@ -1,2 +1,3 @@
 - Hacer push en un repositorio ya creado
-	- c
+	- ```git
+	  ```
