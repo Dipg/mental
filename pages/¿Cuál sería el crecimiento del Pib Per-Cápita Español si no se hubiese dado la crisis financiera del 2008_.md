@@ -1,7 +1,7 @@
 - # Diapos
 - # ¿Cuál sería el crecimiento del Pib Per-Cápita Español si no se hubiese dado la crisis financiera del 2008? {{renderer :wordcount_xjsboqv}} Maximo ==2500==
 	- # Resumen
-	- En este trabajo se busca conocer el punto de partida del crecimiento acelerado de la economía china y considerando que hubiese pasado de no existir este punto como tal, por lo cual se aplico el método de análisis sintético respecto al crecimiento del PIB chino tomando como punto de referencia el año de 1995 en el cual china comenzó su expansión en los mercados internacionales. Los resultados evidencian que en este punto se da un gran quiebre de crecimiento acelerado de la economía china
+	- En este trabajo se busca conocer el punto de partida del crecimiento acelerado de la economía china y considerando que hubiese pasado de no existir este punto como tal, por lo cual se aplico el método de análisis sintético respecto al crecimiento del PIB chino tomando como punto de referencia el año de 1995 en el cual china comenzó su expansión en los mercados internacionales. Los resultados evidencian que en este punto se da un gran quiebre de crecimiento acelerado de la economía china, mismo que no hubiese sucedido de
 	- # Introducción
 	- Problema
 		- Como saber lo que hubiese pasado con china de no ingresar a la OMC
