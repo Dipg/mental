@@ -35,7 +35,8 @@
 		  ![image.png](../assets/image_1641179403079_0.png)
 		  Fuente: Banco Central
 		  Elaboración Autores
-		- Diferencia entre el PIB en control intentito Chino y el original
+		- Diferencia entre el PIB en control sintético Chino y el original
+		-
 	- # Discusión
 	- # Conclusión
 	- # Bibliografía
