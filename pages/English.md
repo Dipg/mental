@@ -1,6 +1,7 @@
 - {{renderer :toc_cuzhbnkbs}}
 	- # 1. ENTENCES
 		- Daily briefing #card
+		  collapsed:: true
 			- Sesión Informativa
 			- [:audio {:controls true :src "G:/Mi unidad/Autosync/Logmy/NewLog/assets/Daily briefing.wav"}]
 		- It was about time!  #card
