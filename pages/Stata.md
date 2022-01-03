@@ -100,6 +100,7 @@
 		- ```stata
 		  labsize(3) )
 		  ```
+		- ![image.png](../assets/image_1641220353125_0.png)
 # [](#2.) Loop for en Stata
 collapsed:: true
 	- Loop for en todo el rango de variables. Donde la primera coluna (variable es  `year` y la ultima es `time`). Generamos los logaritmos de cada variable
