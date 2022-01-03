@@ -67,6 +67,7 @@
 		- ![image.png](../assets/image_1639387566123_0.png)
 		- {{renderer :linkpreview,https://www.stata.com/meeting/germany19/slides/germany19_Jann.pdf}}
 	- Scatterplot en Stata
+	  collapsed:: true
 		- ![image.png](../assets/image_1639387661252_0.png)
 		- ```stata
 		   scatter  pchick q, ///
@@ -76,10 +77,11 @@
 		  xtitle("Cantidad Demandad de Pollo") ///
 		  note("Fuente: Dennis Epple y Bennett McCallum                                                        Elaboración: Autor  ")  
 		  ```
-	- Simple Scatter
-	- ```stata
-	  scatter mpg weight
-	  ```
+		- Simple Scatter
+		- ```stata
+		  scatter mpg weight
+		  ```
+	-
 # [](#2.) Loop for en Stata
 collapsed:: true
 	- Loop for en todo el rango de variables. Donde la primera coluna (variable es  `year` y la ultima es `time`). Generamos los logaritmos de cada variable
