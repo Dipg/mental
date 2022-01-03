@@ -1,2 +1,2 @@
 - Tomar en cuenta
-	- $D_
+	- $D_i=f(Y)$
