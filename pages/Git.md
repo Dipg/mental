@@ -14,4 +14,5 @@
 	  git remote add origin https://github.com/aqui-tu-repo.git
 	  ```
 	- ```git
+	  git push -u origin master
 	  ```
