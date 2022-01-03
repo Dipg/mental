@@ -260,3 +260,9 @@
   ls-type:: annotation
   hl-page:: 69
   id:: 61d33742-07e5-4145-9786-a40ed5140d7e
+- [:span]
+  ls-type:: annotation
+  hl-page:: 69
+  id:: 61d33803-a468-41bb-922c-ac8ccc5532c9
+  hl-type:: area
+  hl-stamp:: 1641232386524
