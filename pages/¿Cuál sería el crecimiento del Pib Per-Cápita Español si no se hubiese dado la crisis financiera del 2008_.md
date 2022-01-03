@@ -3,7 +3,7 @@
 	- # Resumen
 	- # Introducción
 	- # Metodología
-	- # Resultados
+	- # Analissi Descriotivo
 		- País a Analizado China
 		- Países con un crecimiento Superior
 		  collapsed:: true
@@ -24,7 +24,7 @@
 			  collapsed:: true
 				- Sudafrica
 				- Indonesia
-	- # Disucsion
+	- # Discusión
 	- # Conclusión
 	- # Bibliografía
 	- Tigres Asiáticos
