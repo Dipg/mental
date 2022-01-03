@@ -9,7 +9,7 @@
 	- Objetivos
 		- Usar el modelo de control sintético para comparar el crecimiento que hubiese tenido china de no aperturarse al mercado internacional
 	- # Metodología
-	-
+	- Método de control sintético
 	- # Análisis Descriptivo
 		- País a Analizado China
 		- Países con un crecimiento Superior
