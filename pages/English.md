@@ -1,7 +1,7 @@
 - {{renderer :toc_cuzhbnkbs}}
 	- # 1. ENTENCES
 		- Daily briefing #card
-			-
+			- Sesión Informativa
 		- It was about time!  #card
 		  collapsed:: true
 			- ¡Era cuestión de tiempo!
