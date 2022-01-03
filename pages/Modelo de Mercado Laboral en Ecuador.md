@@ -1,2 +1,2 @@
 - Tomar en cuenta
-	- D
+	- $D_
