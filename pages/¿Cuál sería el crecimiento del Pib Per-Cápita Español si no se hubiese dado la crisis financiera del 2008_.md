@@ -36,7 +36,7 @@
 		  Fuente: Banco Central
 		  Elaboración Autores
 		- ## Diferencia entre el PIB en control sintético Chino y el original
-		- La gráfica 3 nos permite ver que existe una diferencia de casi cero desde los años 70 hasta inicio de los 90 , siendo a parir de
+		- La gráfica 3 nos permite ver que existe una diferencia de casi cero desde los años 70 hasta inicio de los 90 , siendo a parir de estos donde la diferencia
 	- # Discusión
 	- # Conclusión
 	- # Bibliografía
