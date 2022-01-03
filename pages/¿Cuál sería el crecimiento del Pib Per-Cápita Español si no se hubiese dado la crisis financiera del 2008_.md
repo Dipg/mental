@@ -30,7 +30,7 @@
 		  Fuente: Banco Mundial 
 		  Elaboración : Autores
 	- # Resultados
-	- A
+	- La grafica 2 muestra los resultados de
 	- # Discusión
 	- # Conclusión
 	- # Bibliografía
