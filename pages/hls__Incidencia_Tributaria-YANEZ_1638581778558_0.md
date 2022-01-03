@@ -252,3 +252,7 @@
   ls-type:: annotation
   hl-page:: 69
   id:: 61d3370c-14fa-45a0-a5ee-b405b2eca054
+- existe una relación directa
+  ls-type:: annotation
+  hl-page:: 69
+  id:: 61d33732-75b7-4dd6-9068-a6fdfd217a19
