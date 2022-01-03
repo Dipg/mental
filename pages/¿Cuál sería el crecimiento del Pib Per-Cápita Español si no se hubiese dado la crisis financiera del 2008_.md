@@ -47,7 +47,8 @@
 		  ![image.png](../assets/image_1641181998649_0.png)
 		  Fuente : Banco Mundial
 		  Elaboración: Autores
-		- ## Ratio de
+		- ## Ratio de Frecuencia
+		- ![image.png](../assets/image_1641183034949_0.png)
 	- # Discusión
 	- la diferencia entre el control sintético y el PIB original como se vio en la Gráfica 3 cumple con lo esperado, ya que esta diferencia crece a medida que se aleja del punto de quiebre planteado , el año de 1995
 	- # Conclusión
