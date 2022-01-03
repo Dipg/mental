@@ -41,8 +41,8 @@
 		  ![image.png](../assets/image_1641180014023_0.png)
 		  Fuente: Banco Central
 		  Elaboración : Autores
+		- ## Pruebas de Estado Placebo
 		-
-		  ##
 	- # Discusión
 	- la diferencia entre el control sintético y el PIB original como se vio en la Gráfica 3 cumple con lo esperado, ya que esta diferencia crece a medida que se aleja del punto de quiebre planteado , el año de 1995
 	- # Conclusión
