@@ -12,6 +12,7 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 	- Objetivos
 		- Usar el modelo de control sintético para comparar el crecimiento que hubiese tenido china de no aperturarse al mercado internacional
 	- # Revisión Literaria
+	- Método de control sintético Abadie, A. (2020).
 	- # Metodología
 	- Método de control sintético Abadie, A. (2020).
 	- # Análisis Descriptivo
