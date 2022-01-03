@@ -4,7 +4,6 @@
 	- # Introducción
 	- # Metodología
 	- # Análisis Descriptivo
-	  collapsed:: true
 		- País a Analizado China
 		- Países con un crecimiento Superior
 		  collapsed:: true
@@ -25,7 +24,7 @@
 			  collapsed:: true
 				- Sudafrica
 				- Indonesia
-	-
+	- # Resultados
 	- # Discusión
 	- # Conclusión
 	- # Bibliografía
