@@ -3,12 +3,13 @@
 	- # Resumen
 	- # Introducción
 	- Problema
-		- Como saber lo que hubiese pasado con china de no
+		- Como saber lo que hubiese pasado con china de no ingresar a la OMC
 	- Hipótesis
 		- China logro un crecimiento acelerado debido a que se introdujo a la  OMC a partir del año 1995
 	- Objetivos
 		- Usar el modelo de control sintético para comparar el crecimiento que hubiese tenido china de no aperturarse al mercado internacional
 	- # Metodología
+	-
 	- # Análisis Descriptivo
 		- País a Analizado China
 		- Países con un crecimiento Superior
