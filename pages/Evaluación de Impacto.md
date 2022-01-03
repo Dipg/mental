@@ -73,6 +73,8 @@ collapsed:: true
 - # Control Sintético
 	- Video principal
 		- https://www.youtube.com/watch?v=uT6Gtzg1dyw&t=315s
+		- Do principal
+		- https://www.dropbox.com/s/ibs92uo24lh054q/Cunningham%202021.do?dl=0
 	- # Ideas Intuitivas del método
 	  collapsed:: true
 		- Los métodos de  control sintético  fueron propuestos con el objetivo de estimar los efectos de intervenciones agregadas
