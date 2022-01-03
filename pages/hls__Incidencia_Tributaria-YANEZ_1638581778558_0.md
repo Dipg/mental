@@ -256,3 +256,7 @@
   ls-type:: annotation
   hl-page:: 69
   id:: 61d33732-75b7-4dd6-9068-a6fdfd217a19
+- ntre el mercado de un bien de consumo  final  y  el  mercado  de  cada  factor  productivo  utilizado  en  su  elaboración.
+  ls-type:: annotation
+  hl-page:: 69
+  id:: 61d33742-07e5-4145-9786-a40ed5140d7e
