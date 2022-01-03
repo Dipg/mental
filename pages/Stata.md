@@ -82,6 +82,8 @@
 		  scatter mpg weight
 		  ```
 	- Cambiar tipo de linea en Grafica STATA
+		- ```stata
+		  ```
 		- ![image.png](../assets/image_1641220028998_0.png)
 # [](#2.) Loop for en Stata
 collapsed:: true
