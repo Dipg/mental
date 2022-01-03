@@ -28,7 +28,7 @@
 		- Grafica 1 PIB China vs Resto de Países 
 		  ![image.png](../assets/image_1641177468937_0.png)
 		- Fuente: Banco Mundial
-		- E
+		- Elaboración : Autores
 	- # Resultados
 	- # Discusión
 	- # Conclusión
