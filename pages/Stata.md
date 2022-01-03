@@ -98,6 +98,7 @@
 		- ![image.png](../assets/image_1641220193625_0.png)
 	- Cambiar el tamaño de la fuente - letra en ejes STATA
 		- ```stata
+		  labsize(3) )
 		  ```
 # [](#2.) Loop for en Stata
 collapsed:: true
