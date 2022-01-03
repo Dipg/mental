@@ -24,7 +24,7 @@
 			  collapsed:: true
 				- Sudafrica
 				- Indonesia
-		- En la sigueinte
+		- En la grafica
 	- # Resultados
 	- # Discusión
 	- # Conclusión
