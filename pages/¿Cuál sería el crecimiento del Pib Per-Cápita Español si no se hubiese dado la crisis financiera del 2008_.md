@@ -62,6 +62,7 @@
 	- # Conclusión
 	- # Bibliografía
 	- Abadie, A. (2020). Using synthetic controls: Feasibility, data requirements, and methodological aspects. Journal of Economic Literature.
+	- banco Mundial
 	- Tigres Asiáticos
 	- https://mundoeducacao.uol.com.br/geografia/tigres-asiaticos.htm
 	- Método de Control Sintético
