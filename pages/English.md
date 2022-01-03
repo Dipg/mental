@@ -1,6 +1,9 @@
 - {{renderer :toc_cuzhbnkbs}}
 	- # 1. ENTENCES
+		- Take five minutes to catch up on today’s essential news #card
+		-
 		- Daily briefing #card
+		  collapsed:: true
 			- Sesión informativa diaria
 			- [:audio {:controls true :src "G:/Mi unidad/Autosync/Logmy/NewLog/assets/Daily briefing.wav"}]
 		- It was about time!  #card
