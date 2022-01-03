@@ -30,6 +30,7 @@
 		  Fuente: Banco Mundial 
 		  Elaboración : Autores
 	- # Resultados
+	- Al aplicar el
 	- # Discusión
 	- # Conclusión
 	- # Bibliografía
