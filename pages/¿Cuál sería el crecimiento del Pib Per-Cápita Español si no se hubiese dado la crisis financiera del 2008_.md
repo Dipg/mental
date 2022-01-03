@@ -35,7 +35,7 @@
 		  ![image.png](../assets/image_1641179403079_0.png)
 		  Fuente: Banco Central
 		  Elaboración Autores
-		- Diferencia entre
+		- Diferencia
 	- # Discusión
 	- # Conclusión
 	- # Bibliografía
