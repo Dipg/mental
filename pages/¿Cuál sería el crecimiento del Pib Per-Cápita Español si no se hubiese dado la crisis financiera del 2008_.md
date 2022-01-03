@@ -61,6 +61,7 @@
 	- la diferencia entre el control sintético y el PIB original como se vio en la Gráfica 3 cumple con lo esperado, ya que esta diferencia crece a medida que se aleja del punto de quiebre planteado , el año de 1995
 	- # Conclusión
 	- # Bibliografía
+	-
 	- Tigres Asiáticos
 	- https://mundoeducacao.uol.com.br/geografia/tigres-asiaticos.htm
 	- # Anexos
