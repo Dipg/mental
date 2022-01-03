@@ -2,7 +2,7 @@
 	- # 1. ENTENCES
 		- Daily briefing #card
 			- Sesión Informativa
-			- auf
+			- /{{renderer :localaudio, Daily briefing.wav}}
 		- It was about time!  #card
 		  collapsed:: true
 			- ¡Era cuestión de tiempo!
