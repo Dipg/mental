@@ -1,3 +1,5 @@
+title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al comercio internacional?
+
 - # Diapos
 - # ¿Cuál sería el crecimiento del Pib Per-Cápita Español si no se hubiese dado la crisis financiera del 2008? {{renderer :wordcount_xjsboqv}} Maximo ==2500==
 	- # Resumen
