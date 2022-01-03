@@ -343,7 +343,7 @@
 			- Mientras mas inelástica sea la función demandada de precios, mayor será la proporción de las cargas del impuesto soportadas por los consumidores y viceversa
 	- 7. Ecuación Fundamental de la Incidencia Económica de un impuesto
 	- [](#8.) ((61d33635-733a-40bc-8b71-544c2600d96d))
-		- 8.INCIDENCIA TRIBUTARIADE UN ==IMPUESTO APLICADO EN MERCADOS DE FACTORES PRODUCTIVOS
+		- 8.INCIDENCIA TRIBUTARIADE UN ==IMPUESTO== APLICADO EN ==MERCADOS DE FACTORES PRODUCTIVOS
 			- ¿Por que Analizar esta Sección?
 				- Existe una relación entre el mercado de factores y el mercado de consumo , por lo cual puede afectar el uno en el otro
 				- Recordar la función de oferta y demanda
