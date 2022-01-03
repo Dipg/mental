@@ -31,7 +31,7 @@
 		  Elaboración : Autores
 	- # Resultados
 		- La gráfica 2 muestra los resultados tras aplicar el modelo de control sintetico
-	-
+		-
 	- # Discusión
 	- # Conclusión
 	- # Bibliografía
