@@ -45,11 +45,12 @@
 		  note("Fuente: Dennis Epple y Bennett McCallum            Elaboración: Autor  ")  
 		  ```
 		- ![image.png](../assets/image_1638964870055_0.png)
-	- Cambiar el angUlo de los axis en Stata
-	- ```stata
-	  graph bar q, ///
-	  over(year , label(angle(90)) ///
-	  ```
+	- Cambiar el angulo de los axis en Stata
+	  collapsed:: true
+		- ```stata
+		  graph bar q, ///
+		  over(year , label(angle(90)) ///
+		  ```
 	- ### Heatplot de correlacones
 	- ```stata
 	  pwcorr q  pchick y pf pcor pbeef pop, star(0.05)
@@ -170,4 +171,4 @@ collapsed:: true
 -
 - ---
 - {{renderer :linkpreview,https://journals.sagepub.com/doi/pdf/10.1177/1536867X1701700313}}
-- {{renderer :linkpreview,https://www.stata.com/meeting/switzerland16/slides/bischof-switzerland16.pdf}}
+- {{renderer :linkpreview,https://www.stata.com/meeting/switzerland16/slides/bischof
