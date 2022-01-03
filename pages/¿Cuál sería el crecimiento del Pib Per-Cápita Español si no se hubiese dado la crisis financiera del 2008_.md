@@ -30,7 +30,7 @@
 		  Fuente: Banco Mundial 
 		  Elaboración : Autores
 	- # Resultados
-	- La grafica 2 muestra los resultados tras aplicar el modelo de control sintetico
+		- La gráica 2 muestra los resultados tras aplicar el modelo de control sintetico
 	-
 	- # Discusión
 	- # Conclusión
