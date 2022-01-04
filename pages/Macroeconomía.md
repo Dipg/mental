@@ -6,9 +6,7 @@
   collapsed:: true
 	- PIB
 	  id:: 61ce53c1-3a17-4185-8dd8-ce5872390123
-- Es así que la elasticidad de sustitución (σ) entre
-  capital y trabajo se define como el efecto de un cambio en los precios relativos de los factores
-  sobre la utilización relativa de ambos, manteniendo constante el nivel de producción.
+- Es así que la elasticidad de sustitución (σ) entre capital y trabajo se define como el efecto de un cambio en los precios relativos de los factores sobre la utilización relativa de ambos, manteniendo constante el nivel de producción.
 - ![image.png](../assets/image_1641305000727_0.png)
 - Elasticidad empleo-Producto $$(\eta_{LY})$$
 	- entendida como el grado en que cambia la demanda de trabajo al cambiar el nivel de producción
