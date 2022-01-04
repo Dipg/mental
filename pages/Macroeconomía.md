@@ -11,4 +11,5 @@
 	  suponiendo todo lo demás constante [Microsoft Word - Elasticidades de la demanda laboral.doc](https://www.bcu.gub.uy/Comunicaciones/Jornadas%20de%20Economa/iees03j3591009.pdf)
 	- La teoría asume una relación positiva entre estas dos variables, ya que el trabajo es contratado como factor productivo para la producción de otros bienes.
 - Elasticidad empleo costo laboral $$\eta_{LL}=-(1-s_L)\sigma$$
--
+	- Esta es siempre negativa y depende de la elasticidad de sustitución entre capital y trabajo y del
+	  peso relativo del factor trabajo en la actividad productiva
