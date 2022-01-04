@@ -20,4 +20,4 @@
 - Elasticidad precio cruzada $$(\eta_{LK})$$
 	- , las variaciones del precio del capital influyen sobre la demanda laboral
 	-
-	  $$\eta_{}$$
+	  $$\eta_{LK}=(1-s_)$$
