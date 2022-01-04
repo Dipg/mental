@@ -13,3 +13,4 @@
 - Elasticidad empleo costo laboral $$\eta_{LL}=-(1-s_L)\sigma$$
 	- Esta es siempre negativa y depende de la elasticidad de sustitución entre capital y trabajo y del
 	  peso relativo del factor trabajo en la actividad productiva
+-
