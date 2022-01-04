@@ -14,5 +14,4 @@
 	- Esta es siempre negativa y depende de la elasticidad de sustitución entre capital y trabajo y del
 	  peso relativo del factor trabajo en la actividad productiva
 - Elasticidad demanda de trabajo
-	- Cuanto más fácil sea sustituir capital portrabajo ante variaciones en los precios relativos de ambos factores, más elástica será la demanda
-	  de trabajo ante cambios en el precio del mismo
+	- Cuanto más fácil sea sustituir capital por trabajo ante variaciones en los precios relativos de ambos factores, más elástica será la demanda de trabajo ante cambios en el precio del mismo
