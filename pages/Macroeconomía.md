@@ -6,4 +6,4 @@
   collapsed:: true
 	- PIB
 	  id:: 61ce53c1-3a17-4185-8dd8-ce5872390123
-- Elasticidad empleo-Producto $$(\eta_{LY)}$$
+- Elasticidad empleo-Producto $$(\eta_{LY})$$
