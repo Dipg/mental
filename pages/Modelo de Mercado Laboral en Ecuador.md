@@ -1,4 +1,5 @@
 - Tomar en cuenta
+	-
 	- $D_i=f(Y)$
 	- Donde $D_i$ es la demanda de trabajo
 	- Tomar en cuenta la endogenidad
