@@ -3,5 +3,7 @@
   collapsed:: true
   Autarquía
 - Producto Interno Bruto
+  collapsed:: true
 	- PIB
 	  id:: 61ce53c1-3a17-4185-8dd8-ce5872390123
+-
