@@ -16,3 +16,4 @@
 - Elasticidad demanda de trabajo
 	- Cuanto más fácil sea sustituir capital por trabajo ante variaciones en los precios relativos de ambos factores, más elástica será la demanda de trabajo ante cambios en el precio del mismo
 - Elasticidad precio cruzada $$(\eta_{LK})$$
+	- , las variaciones del precio del capital influyen sobre la demanda laboral
