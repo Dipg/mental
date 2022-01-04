@@ -7,4 +7,5 @@
 	- PIB
 	  id:: 61ce53c1-3a17-4185-8dd8-ce5872390123
 - Elasticidad empleo-Producto $$(\eta_{LY})$$
-	- [Microsoft Word - Elasticidades de la demanda laboral.doc](https://www.bcu.gub.uy/Comunicaciones/Jornadas%20de%20Economa/iees03j3591009.pdf)
+	- entendida como el grado en que cambia la demanda de trabajo al cambiar el nivel de producción
+	  suponiendo todo lo demás constante [Microsoft Word - Elasticidades de la demanda laboral.doc](https://www.bcu.gub.uy/Comunicaciones/Jornadas%20de%20Economa/iees03j3591009.pdf)
