@@ -28,6 +28,7 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 	- # Análisis Descriptivo
 		- País a Analizado China
 		- Países con un crecimiento Superior
+		  collapsed:: true
 			- Francia
 			- Italia
 		- Países Con un Crecimiento Similar al PIB de China antes el año 2001 y Con una "Población Smilar"
