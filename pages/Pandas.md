@@ -98,6 +98,7 @@
 	- {{renderer :linkpreview,https://www.analyticslane.com/2018/07/30/guardar-y-leer-archivos-excel-en-python/}}
 - # Columnas
 	- Añadir columna en la primera posición Pandas
+	  collapsed:: true
 		- Agregar columna en la primera posición pandas
 	- Renombrar columnas especificas en pandas
 	  collapsed:: true
