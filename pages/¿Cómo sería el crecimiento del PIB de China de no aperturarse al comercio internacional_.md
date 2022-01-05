@@ -22,8 +22,9 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 		  id:: 61d2fe75-0574-4229-9572-40d96c679d6f
 	- # Revisión Literaria
 	- Método de control sintético Abadie, A. (2020).
-	- # Metodología
-	- Método de control sintético Abadie, A. (2020).
+	  collapsed:: true
+		- # Metodología
+		- Método de control sintético Abadie, A. (2020).
 	- # Análisis Descriptivo
 		- País a Analizado China
 		- Países con un crecimiento Superior
