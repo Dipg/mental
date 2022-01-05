@@ -58,7 +58,9 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 		  ![image.png](../assets/image_1641179403079_0.png)
 		  Fuente: Banco Central
 		  Elaboración Autores
-		-
+		- Ponderación
+		  collapsed:: true
+			- ![image.png](../assets/image_1641414395119_0.png)
 		- ## Diferencia entre el PIB en control sintético Chino y el original
 		- La gráfica 3 nos permite ver que existe una diferencia de casi cero desde los años 70 hasta inicio de los 90 , siendo a parir de estos donde la diferencia  comienza a incrementarse.
 		- Grafica 3 Crecimiento de la diferencia entren el Control Sintético y El PIB Original 
