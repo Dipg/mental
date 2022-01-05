@@ -303,7 +303,6 @@
 	  ```
 	- {{renderer :linkpreview,https://stackoverflow.com/questions/34844711/convert-entire-pandas-dataframe-to-integers-in-pandas-0-17-0/34844867}}
 - Seleccionar rango de Columnas por nombre en Pandas
-  collapsed:: true
 	- collapsed:: true
 	  ```python
 	  df[['alcohol','hue']]
