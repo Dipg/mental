@@ -268,7 +268,6 @@
 	  ```
 	- {{renderer :linkpreview,https://www.codegrepper.com/code-examples/python/pandas+drop+if+all+columns+are+nan}}
 - Eliminar columnas sin nombre
-  collapsed:: true
 	- Eliminar columnas con NaN
 	- ![image.png](../assets/image_1639648698403_0.png)
 	- collapsed:: true
