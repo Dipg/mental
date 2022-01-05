@@ -180,6 +180,7 @@
 - ((61b659d4-74eb-40c9-9bfd-0f741c201c32))
 - Convertir columna pandas en números int enteros
 	- ```python
+	  df['col1'] = df['col1'].astype(int)
 	  ```
 - Obtener Lista de nombres de columnas pandas
   collapsed:: true
