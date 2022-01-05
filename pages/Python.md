@@ -12,7 +12,6 @@
 	  ```
 - Convertir valores de una columna a logaritmos
   id:: 61b659d4-74eb-40c9-9bfd-0f741c201c32
-  collapsed:: true
 	- ```python
 	  data['logarithm_base10'] = np.log10(data['Salary'])
 	  ```
