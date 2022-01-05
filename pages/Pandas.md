@@ -25,7 +25,6 @@
 		  df = pd.DataFrame.from_dict(dataset.as_dict()) 
 		  ```
 	- extraer valor de diccionario en pandas
-	  collapsed:: true
 		- ```python
 		  dataset.as_dict()["CN"]
 		  ```
