@@ -3,3 +3,7 @@
 	- Rentabilidad
 	- Producto
 	- Paper de referencia
+-
+-
+-
+- En cuanto a las variables de control utilizadas, se puede observar que la tasa de  interés  real,  tiene  una  relación  negativa  con  la  inversión. Pues  ante  un 36 aumento de un 1% en la tasa de crecimiento de la tasa de interés, la tasa de crecimiento  de  la  inversión  disminuirá  en  un  0.18%.  Se  observa que  esta variable es estadísticamente significativa a un nivel de confianza del 99%. Este resultado,  es  consistente  con  varios  estudios  que  han  encontrado  que  la inversión no resulta muy sensible a cambios en la tasa de interés. Se entiende este comportamiento porque la inversión suele ser más sensible a cambios en la oferta de crédito que a su precio. En este sentido, la tasa de interés captura los  costos  de  inversión.  Cuando esta  variable  sube,  el  costo  de  los  créditos aumenta con ella, y dificulta la capacidad del sector empresarial para financiar nuevas inversiones.
