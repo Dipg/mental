@@ -1,6 +1,7 @@
 title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al comercio internacional?
 
 - # Diapos
+  collapsed:: true
 	- # ¿Cómo sería el crecimiento del PIB de China de no aperturarse al comercio internacional?
 	- Usar el modelo de control sintético para comparar el crecimiento que hubiese tenido china de no aperturarse al mercado internacional
 	-
@@ -29,6 +30,7 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 			- Francia
 			- Italia
 		- Países Con un Crecimiento Similar al PIB de China antes el año 2001
+		  background-color:: #787f97
 			- India
 			- Sudafrica
 			- Corea el Sur
