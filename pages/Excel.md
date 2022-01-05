@@ -12,7 +12,6 @@
   collapsed:: true
 	- {{youtube https://www.youtube.com/watch?v=oCeCgXzFHBw}}
 - Reportes Consolidados
-  collapsed:: true
 	- {{youtube https://www.youtube.com/watch?v=UPx7DB_F1lo}}
 # [](#2.) Análisis de Datos
 - Tablas de una entrada y dos entradas
@@ -34,8 +33,7 @@
 	- {{youtube https://www.youtube.com/watch?v=XTX_5Kwg2DY}}
 	- {{youtube https://www.youtube.com/watch?v=dLw8ZrWT8pc}}
 -
--
-  ---
+- ---
 - Hacer que todas las filas en excel tengan el mismo altao o altura 
   collapsed:: true
 	- ![image.png](../assets/image_1640197275679_0.png){:height 258, :width 597}
