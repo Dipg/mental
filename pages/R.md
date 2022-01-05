@@ -22,7 +22,6 @@
 			- {{renderer :linkpreview,https://blog.revolutionanalytics.com/2015/09/resizing-plots-in-the-r-kernel-for-jupyter-notebooks.html}}
 	- # 3. Manejo de Data
 		- ## Importar datos de Spss en R
-		  collapsed:: true
 			- Importar dataframe sps en R
 			- ```r
 			  library(haven)
