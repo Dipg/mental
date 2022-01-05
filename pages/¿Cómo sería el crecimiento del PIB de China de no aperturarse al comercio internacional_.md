@@ -1,6 +1,7 @@
 title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al comercio internacional?
 
 - # Diapos
+  collapsed:: true
 	- {{renderer :wordcount_xjsboqv}} Maximo ==2500==
 	- # ¿Cómo sería el crecimiento del PIB de China de no aperturarse al comercio internacional?
 	- Usar el modelo de control sintético para comparar el crecimiento que hubiese tenido china de no aperturarse al mercado internacional
