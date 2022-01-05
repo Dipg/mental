@@ -38,6 +38,7 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 				- Indonesia
 		- En la grafica 1 se puede evidenciar la comparación entre el promedio de países seleccionados para comparar  frente al crecimiento de  de la economía China, como se puede evidenciar, las tendencias son muy similares hasta el año de 1995, momento en el cual se nota el comienzo de una gran diferencia.
 		- Grafica 1 PIB China vs Resto de Países 
+		  id:: 61d2617c-e05c-4552-87d0-79c682f00cae
 		  ![image.png](../assets/image_1641177765916_0.png) 
 		  Fuente: Banco Mundial 
 		  Elaboración : Autores
