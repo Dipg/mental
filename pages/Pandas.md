@@ -352,5 +352,6 @@
 	- {{renderer :linkpreview,https://poopcode.com/make-first-row-as-column-names-in-pandas/}}
 - Eliminar columna especfica en pandas
 	- ```python
+	  df.drop(['A'], axis = 1)
 	  ```
--
+	- https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
