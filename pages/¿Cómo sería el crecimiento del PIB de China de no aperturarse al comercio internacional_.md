@@ -1,12 +1,12 @@
 title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al comercio internacional?
 
 - # Diapos
-  collapsed:: true
+	- {{renderer :wordcount_xjsboqv}} Maximo ==2500==
 	- # ¿Cómo sería el crecimiento del PIB de China de no aperturarse al comercio internacional?
 	- Usar el modelo de control sintético para comparar el crecimiento que hubiese tenido china de no aperturarse al mercado internacional
 	-
 	- {{embed ((61d2617c-e05c-4552-87d0-79c682f00cae))}}
-- # ¿Cómo sería el crecimiento del PIB de China de no aperturarse al comercio internacional? {{renderer :wordcount_xjsboqv}} Maximo ==2500==
+- # ¿Cómo sería el crecimiento del PIB de China de no aperturarse al comercio internacional?
   id:: 61ce52f2-b8a2-41fc-a7a2-4a103fe14c79
 	- # Resumen
 	- En este trabajo se busca conocer el punto de partida del crecimiento acelerado de la economía china y considerando que hubiese pasado de no existir este punto como tal, por lo cual se aplico el método de análisis sintético respecto al crecimiento del PIB chino tomando como punto de referencia el año de 1995 en el cual china comenzó su expansión en los mercados internacionales. Los resultados evidencian que en este punto se da un gran quiebre de crecimiento acelerado de la economía china, mismo que no hubiese sucedido de no darse tal apertura al comercio, lo que presentaría a china hoy en día con un PIB similar al de países como India o Brasil.
