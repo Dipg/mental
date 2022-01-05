@@ -7,6 +7,7 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
   id:: 61ce52f2-b8a2-41fc-a7a2-4a103fe14c79
 	- # Resumen
 	- En este trabajo se busca conocer el punto de partida del crecimiento acelerado de la economía china y considerando que hubiese pasado de no existir este punto como tal, por lo cual se aplico el método de análisis sintético respecto al crecimiento del PIB chino tomando como punto de referencia el año de 1995 en el cual china comenzó su expansión en los mercados internacionales. Los resultados evidencian que en este punto se da un gran quiebre de crecimiento acelerado de la economía china, mismo que no hubiese sucedido de no darse tal apertura al comercio, lo que presentaría a china hoy en día con un PIB similar al de países como India o Brasil.
+	  id:: 61d2ff06-452f-4ccc-b824-82f60a11872f
 	- # Introducción
 	- Problema
 		- Como saber lo que hubiese pasado con china de no ingresar a la OMC
