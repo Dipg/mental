@@ -88,7 +88,6 @@
 	- agregar multiples indices adaatafrem pandas
 	- {{renderer :linkpreview,https://www.datasciencemadesimple.com/hierarchical-indexing-multiple-indexing-python-pandas/}}
 - Importar Excel en Pandas
-  collapsed:: true
 	- collapsed:: true
 	  ```python
 	  df = pd.read_excel('example.xlsx', sheet_name='example')
