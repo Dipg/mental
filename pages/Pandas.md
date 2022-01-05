@@ -83,6 +83,7 @@
 	  df = pd.DataFrame(data, index =['position1', 'position2', 'position3', 'position4'])  
 	  ```
 - Crear multiples indices en dataframe
+  collapsed:: true
 	- añadir multiples indices adataframe pandas
 	- agregar multiples indices adaatafrem pandas
 	- {{renderer :linkpreview,https://www.datasciencemadesimple.com/hierarchical-indexing-multiple-indexing-python-pandas/}}
@@ -101,7 +102,6 @@
 	  ```
 	- {{renderer :linkpreview,https://www.analyticslane.com/2018/07/30/guardar-y-leer-archivos-excel-en-python/}}
 - # Columnas
-  collapsed:: true
 	- Añadir columna en la primera posición Pandas
 		- Agregar columna en la primera posición pandas
 	- Renombrar columnas especificas en pandas
