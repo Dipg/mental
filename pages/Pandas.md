@@ -350,5 +350,7 @@
 	  df.columns = new_header #Set the header row as the df header
 	  ```
 	- {{renderer :linkpreview,https://poopcode.com/make-first-row-as-column-names-in-pandas/}}
--
+- Eliminar columna especfica en pandas
+	- ```python
+	  ```
 -
