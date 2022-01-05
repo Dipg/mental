@@ -178,7 +178,7 @@
 	  ```
 	- https://stackoverflow.com/questions/42063716/pandas-sum-up-multiple-columns-into-one-column-without-last-column
 - ((61b659d4-74eb-40c9-9bfd-0f741c201c32))
--
+- Convertir columna pandas en números int enteros
 - Obtener Lista de nombres de columnas pandas
   collapsed:: true
 	- collapsed:: true
