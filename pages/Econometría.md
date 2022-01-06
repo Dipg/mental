@@ -86,5 +86,5 @@
 			- Comienza lo de efectos fijos casi a la Hora, pero es buena la explicación e interpretación
 			-
 	- Datos de panel con [[Stata]] en uno de los mejores canales Lic. Lourder
-	-
+		- Como usar datos de panel en stat
 	- https://www.youtube.com/watch?v=zZVU8ClxjUY&list=RDCMUC25LYleJ9taa5CTcEGvE_0A&start_radio=1&rv=zZVU8ClxjUY&t=6
