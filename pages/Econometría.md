@@ -81,4 +81,5 @@
 - [[Datos de Panel]]
 	- Mejor video de [[Efectos fijos]] y [[Efectos aleatorios]]
 		- https://www.youtube.com/watch?v=RumOGCzZllM
-			- Comi
+			- Comienza lo de efectos fijos casi a la Hora
+			-
