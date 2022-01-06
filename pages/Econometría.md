@@ -85,4 +85,4 @@
 		  collapsed:: true
 			- Comienza lo de efectos fijos casi a la Hora, pero es buena la explicación e interpretación
 			-
-	- del
+	- Datos de panel con [[Stata]] en
