@@ -1,1 +1,2 @@
-- Estadisticas de pobreza I
+- Estadisticas de pobreza [[INEC]]
+	- https://www.ecuadorencifras.gob.ec/pobreza-junio-2021/
