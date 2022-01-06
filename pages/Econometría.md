@@ -78,4 +78,4 @@
 			- Donde $H_0$ El modelo esta bien especificado, $H_1$ El modelo esta mal especificado
 			- En Stata
 				- {{embed ((8d3feec9-0966-42ae-8d02-8186b4043d5a))}}
--
+- Datos de
