@@ -80,4 +80,5 @@
 				- {{embed ((8d3feec9-0966-42ae-8d02-8186b4043d5a))}}
 - [[Datos de Panel]]
 	- [[Efectos fijos]]
+	- [[Efectos aleatorios]]
 	-
