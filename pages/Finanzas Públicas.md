@@ -333,6 +333,7 @@
 			- Elasticidades precio de la función demanda
 				- Es un indicador que mide el grado de ==sensibilidad== o de respuesta de la ==cantidad== consumida de un bien o servicios por los consumidores ==ante variaciones== en el precio de compra del producto
 				- ¿Qué pasa cuando tenemos  una función de demanda infinitamente inelástica?
+				  collapsed:: true
 					- Primero...
 					  collapsed:: true
 						- La carga del impuesto solo tiene el componente carga directa y no carga excesiva
@@ -351,6 +352,7 @@
 					  collapsed:: true
 						- Los oferentes reciben el mismo precio que  ingresaban con y sin impuestos , esto debido a que aunque aumente el precio, este aumento es debido al impuesto por lo que se va al gobierno y no a las empresas oferentes
 					- Sexto...
+					  collapsed:: true
 						- El precio para los consumidores subió exactamente en la magnitud de la tas de impuestos, demostrando asi que ellos son los que soportan la incidencia económica del impuesto.
 			- Elasticidades precio de la función oferta
 			- ¿Cuándo la incidencia económica del impuesto recae totalmente sobre los consumidores?
