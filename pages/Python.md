@@ -27,4 +27,5 @@
 	- ```python
 	  ```
 	- https://towardsdatascience.com/machine-learning-part-19-time-series-and-autoregressive-integrated-moving-average-model-arima-c1005347b0d7
--
+- Extraer datos de pdf
+	-
