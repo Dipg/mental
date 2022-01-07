@@ -340,11 +340,11 @@
 					  collapsed:: true
 						- La incidencia económica del impuesto recae totalmente sobre los sumadores, incluso si la ley dice que el impuesto lo pagan los oferentes , incidencia estatutaria
 					- Tercero..
+					  collapsed:: true
 						- La cantidad demanda es la misma antes y despues de aplicar el impuesto
 						- ¿Por que razón los consumidores no alteran su consumo?
 							- Simple, ellos obtienen de esa cantidad una ganancia o excedente agregado infinitamente grande o necesario, como lo producen los bienes de consumo básico, bienes o servicios que satisfacen urgencias , vicios , bienes que no tienen sustitutos
 					- Cuarto...
-					  collapsed:: true
 						- No habrá perdida de eficiencia o carga excesiva colocada por el impuesto
 					- Quinto...
 					  collapsed:: true
