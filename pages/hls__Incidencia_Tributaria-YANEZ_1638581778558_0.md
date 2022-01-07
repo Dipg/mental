@@ -266,3 +266,7 @@
   id:: 61d33803-a468-41bb-922c-ac8ccc5532c9
   hl-type:: area
   hl-stamp:: 1641232394091
+- “Teorema de la Invarianza de la Incidencia Tributaria”.
+  ls-type:: annotation
+  hl-page:: 45
+  id:: 61d8a06a-90af-4eba-9669-394a09d8da77
