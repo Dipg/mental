@@ -308,7 +308,7 @@
 						- Que era producido por la inflación  produciendo un deterioro en la recaudación tributaria del estado
 					- Reducción de las unidades de fabricación
 						- Con al intención de reducir el monto total de impuestos a pagar
-		-
+		- 5.1.1 Incidencia esta
 	- [](#6.)  Determinantes de la incidencia económica de un impuesto
 	  collapsed:: true
 		- ¿Cuales son los principales determinantes de quien paga la carga de impuestos?
