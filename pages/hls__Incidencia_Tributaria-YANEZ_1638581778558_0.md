@@ -274,3 +274,7 @@
   ls-type:: annotation
   hl-page:: 53
   id:: 61d8a51c-6cb3-439f-b7d1-d386bfeda6b1
+- “Mientras  más inelástica sea la función oferta precio, mayor será la proporción de  lascargasdel impuesto soportadaspor los oferentes, y viceversa”.
+  ls-type:: annotation
+  hl-page:: 54
+  id:: 61d8a5ed-5d8a-4b8d-b2dc-8b9cb5c6a690
