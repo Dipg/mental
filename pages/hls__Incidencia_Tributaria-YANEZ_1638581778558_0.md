@@ -298,3 +298,7 @@
   ls-type:: annotation
   hl-page:: 55
   id:: 61d8a9df-9019-4bdc-ac4c-22c59a13574a
+- Ambas   funciones   del   mercado   son   más   elásticas   a   las variaciones  en  el  precio  en  el  largo  plazo,  menos  elásticas  en  el  corto  plazo  y  muy inelásticas  en   el   cortísimo   plazo. 
+  ls-type:: annotation
+  hl-page:: 56
+  id:: 61d8ab35-795c-445a-a695-dc8043e06e62
