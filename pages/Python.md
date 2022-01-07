@@ -30,7 +30,7 @@
 - Extraer datos de pdf
 	- Table de pdf con python
 	- Datos de pdf python
-		- sOLUCIONAR
+		- Colucionar problema con tabula
 			- cannot import name 'read_pdf'
 			- https://stackoverflow.com/questions/47939921/tabula-py-importerror-cannot-import-name-read-pdf
 	-
