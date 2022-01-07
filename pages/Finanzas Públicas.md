@@ -370,6 +370,7 @@
 			- [](#1.)  Mientras mas inelástica sea la función demandada de precios, mayor será la proporción de las cargas del impuesto soportadas por los consumidores y viceversa
 			- [](#2.) Mientras  más  elástica  es  la función  demanda  precio,  mayor  será  la  proporción  de  las cargas del  impuesto pagadas por los oferentes, y viceversa”.
 			- [](#3.)  “Mientras  más inelástica sea la función oferta precio, mayor será la proporción de  las cargas del impuesto soportadas por los oferentes, y viceversa”.
+			- ((61d8ab35-795c-445a-a695-dc8043e06e62))
 			- [](#4.) ((61d8a972-549f-4f52-9737-fc2cb200f88c))
 			- LA REGLA DEFINITIVA ES
 				- ((61d8a9df-9019-4bdc-ac4c-22c59a13574a))
