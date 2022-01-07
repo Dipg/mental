@@ -1,4 +1,5 @@
 - Sabes ,
 - hace mucho tiempo que no cantaba, el estre la vida la rutina, mi vida apaga
 - Me olvido de sentir cuando estoy solo, setado delante de un computardo sonriedo como un bobo
-- Mirando la vida pasar y frustrado por no conseguir nada , que equivo
+- Mirando la vida pasar y frustrado por no conseguir nada , que equivocado diablos que estaba
+-
