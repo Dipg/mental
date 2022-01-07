@@ -311,7 +311,7 @@
 		- 5.1.1 Incidencia estatutaria sobre los consumidores
 			- Unitaria
 			- Ad-Valorem
-			-
+				-
 	- [](#6.)  Determinantes de la incidencia económica de un impuesto
 	  collapsed:: true
 		- ¿Cuales son los principales determinantes de quien paga la carga de impuestos?
