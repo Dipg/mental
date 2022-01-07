@@ -294,3 +294,7 @@
   ls-type:: annotation
   hl-page:: 55
   id:: 61d8a972-549f-4f52-9737-fc2cb200f88c
+- “Mientras más inelástica sea la función demanda precio y más elástica sea  la  función  oferta  precio,  mayor  será  la  proporción de  lascargasdel  impuesto pagadaspor los consumidores, y viceversa”.
+  ls-type:: annotation
+  hl-page:: 55
+  id:: 61d8a9df-9019-4bdc-ac4c-22c59a13574a
