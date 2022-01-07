@@ -270,3 +270,7 @@
   ls-type:: annotation
   hl-page:: 45
   id:: 61d8a06a-90af-4eba-9669-394a09d8da77
+- una  función  de  oferta  perfectamente  inelástica representa  la  ofertadel  cortísimo  plazo,  es  decir, cuando  la  producción  ya  está fabricada y no hay tiempo suficiente para producir nuevas unidades. 
+  ls-type:: annotation
+  hl-page:: 53
+  id:: 61d8a51c-6cb3-439f-b7d1-d386bfeda6b1
