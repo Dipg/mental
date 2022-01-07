@@ -329,6 +329,7 @@
 			- ((61d8a06a-90af-4eba-9669-394a09d8da77))
 			-
 	- [](#6.)  Determinantes de la incidencia económica de un impuesto
+	  collapsed:: true
 		- ¿Cuales son los principales determinantes de quien paga la carga de impuestos?
 			- Elasticidades precio de la función demanda
 				- Es un indicador que mide el grado de ==sensibilidad== o de respuesta de la ==cantidad== consumida de un bien o servicios por los consumidores ==ante variaciones== en el precio de compra del producto
