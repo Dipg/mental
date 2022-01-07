@@ -34,4 +34,6 @@
 			- cannot import name 'read_pdf'
 			- https://stackoverflow.com/questions/47939921/tabula-py-importerror-cannot-import-name-read-pdf
 - Como saltar los errores en un loop for python
+	- COmo saltar errores en python
+	- Omitir errores en python
 	-
