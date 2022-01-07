@@ -1,3 +1,3 @@
 - Sabes ,
 - hace mucho tiempo que no cantaba, el estre la vida la rutina, mi vida apaga
--
+- Me olvido de v
