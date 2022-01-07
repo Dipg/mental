@@ -317,6 +317,7 @@
 				- ![image.png](../assets/image_1641585677599_0.png)
 		- 5.1.2 Incidencia estatutaria sobre los oferentes
 			- Unitario
+			-
 			- Ad-Valorem
 			-
 	- [](#6.)  Determinantes de la incidencia económica de un impuesto
