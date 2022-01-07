@@ -383,6 +383,7 @@
 				- ((61d8a9df-9019-4bdc-ac4c-22c59a13574a))
 	- [](#7.) . Ecuación Fundamental de la Incidencia Económica de un impuesto
 	- [](#8.)  INCIDENCIA TRIBUTARIADE UN ==IMPUESTO== APLICADO EN ==MERCADOS DE FACTORES PRODUCTIVOS== ((61d33803-a468-41bb-922c-ac8ccc5532c9))
+	  collapsed:: true
 		- ((61d33803-a468-41bb-922c-ac8ccc5532c9))
 		- ¿Por que Analizar esta Sección?
 			- Existe una relación entre el mercado de factores y el mercado de consumo , por lo cual puede afectar el uno en el otro
