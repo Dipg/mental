@@ -4,4 +4,6 @@
 	- Donde $D_i$ es la demanda de trabajo
 	- Tomar en cuenta la endogenidad
 - Paper de referrencia
+	- http://www2.udec.cl/~jdresdne/ddalaboral.pdf
 	- https://www.bcu.gub.uy/Comunicaciones/Jornadas%20de%20Economa/iees03j3591009.pdf
+	-
