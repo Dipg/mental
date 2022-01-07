@@ -5,5 +5,5 @@
 -
 - Un heladito de maracuya sentados a la horilla del un rio
 - al fondo suena algo de morat  y un tquilita pal frio
-- Que quiero contarte lo que me pasa, echo canción
 - O si prefieres en la cima del mirador , aunque la caminata ahy que dolor
+- Que quiero contarte lo que me pasa, echo canción
