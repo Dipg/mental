@@ -310,8 +310,10 @@
 						- Con al intención de reducir el monto total de impuestos a pagar
 		- 5.1.1 Incidencia estatutaria sobre los consumidores
 			- Unitaria
+			  collapsed:: true
 				- ![image.png](../assets/image_1641585690809_0.png)
 			- Ad-Valorem
+			  collapsed:: true
 				- ![image.png](../assets/image_1641585677599_0.png)
 		- 5.1.2 Incidencia estatutaria sobre los oferentes
 			-
