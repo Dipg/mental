@@ -359,6 +359,7 @@
 			- ¿Cuándo la incidencia económica del impuesto recae totalmente sobre los consumidores?
 			  collapsed:: true
 				- Cuando se presenta una demanda perfectamente inelástica
+			- ¿
 		- Reglas de Incidencia Económica
 			- [](#1.)  Mientras mas inelástica sea la función demandada de precios, mayor será la proporción de las cargas del impuesto soportadas por los consumidores y viceversa
 			- [](#2.) Mientras  más  elástica  es  la función  demanda  precio,  mayor  será  la  proporción  de  las cargas del  impuesto pagadas por los oferentes, y viceversa”.
