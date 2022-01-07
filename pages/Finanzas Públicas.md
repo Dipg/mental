@@ -345,12 +345,12 @@
 						- ¿Por que razón los consumidores no alteran su consumo?
 							- Simple, ellos obtienen de esa cantidad una ganancia o excedente agregado infinitamente grande o necesario, como lo producen los bienes de consumo básico, bienes o servicios que satisfacen urgencias , vicios , bienes que no tienen sustitutos
 					- Cuarto...
+					  collapsed:: true
 						- No habrá perdida de eficiencia o carga excesiva colocada por el impuesto
 					- Quinto...
 					  collapsed:: true
 						- Los oferentes reciben el mismo precio que  ingresaban con y sin impuestos , esto debido a que aunque aumente el precio, este aumento es debido al impuesto por lo que se va al gobierno y no a las empresas oferentes
 					- Sexto...
-					  collapsed:: true
 						- El precio para los consumidores subió exactamente en la magnitud de la tas de impuestos, demostrando asi que ellos son los que soportan la incidencia económica del impuesto.
 			- Elasticidades precio de la función oferta
 			- ¿Cuándo la incidencia económica del impuesto recae totalmente sobre los consumidores?
