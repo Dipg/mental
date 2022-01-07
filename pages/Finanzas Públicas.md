@@ -309,7 +309,6 @@
 					- Reducción de las unidades de fabricación
 						- Con al intención de reducir el monto total de impuestos a pagar
 		- 5.1.1 Incidencia estatutaria sobre los consumidores
-		  collapsed:: true
 			- Unitaria
 				- ![image.png](../assets/image_1641585690809_0.png)
 			- Ad-Valorem
