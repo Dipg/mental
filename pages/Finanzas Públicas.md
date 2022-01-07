@@ -320,6 +320,7 @@
 			  collapsed:: true
 				- ![image.png](../assets/image_1641586517770_0.png)
 			- Ad-Valorem
+				- ![image.png](../assets/image_1641586530924_0.png)
 			-
 	- [](#6.)  Determinantes de la incidencia económica de un impuesto
 	  collapsed:: true
