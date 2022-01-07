@@ -310,6 +310,7 @@
 						- Con al intención de reducir el monto total de impuestos a pagar
 		- 5.1.1 Incidencia estatutaria sobre los consumidores
 			- Unitaria
+			- Ad-Valorem
 			-
 	- [](#6.)  Determinantes de la incidencia económica de un impuesto
 	  collapsed:: true
