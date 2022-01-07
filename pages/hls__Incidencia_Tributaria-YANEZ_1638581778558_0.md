@@ -286,3 +286,7 @@
   ls-type:: annotation
   hl-page:: 55
   id:: 61d8a90f-c99c-4e7b-8749-991df2071164
+- La  empresa al poder realizar todos los ajustes que  sean necesarios  y factibles por la tecnología disponible, tendrá la función de oferta  más sensible a los cambios en precio.
+  ls-type:: annotation
+  hl-page:: 55
+  id:: 61d8a947-474a-4144-a285-4912bf531e60
