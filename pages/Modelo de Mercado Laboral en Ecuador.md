@@ -4,3 +4,4 @@
 	- Donde $D_i$ es la demanda de trabajo
 	- Tomar en cuenta la endogenidad
 -
+- https://www.bcu.gub.uy/Comunicaciones/Jornadas%20de%20Economa/iees03j3591009.pdf
