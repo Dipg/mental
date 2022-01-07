@@ -290,3 +290,7 @@
   ls-type:: annotation
   hl-page:: 55
   id:: 61d8a947-474a-4144-a285-4912bf531e60
+- “Mientras más elástica sea la función de oferta precio mayor será la proporción de lascargasdel impuesto soportadaspor los consumidores, y viceversa”. 
+  ls-type:: annotation
+  hl-page:: 55
+  id:: 61d8a972-549f-4f52-9737-fc2cb200f88c
