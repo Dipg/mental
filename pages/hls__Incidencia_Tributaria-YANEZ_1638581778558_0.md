@@ -302,3 +302,7 @@
   ls-type:: annotation
   hl-page:: 56
   id:: 61d8ab35-795c-445a-a695-dc8043e06e62
+- la  incidencia  económica  de  un impuesto a la producción o al consumo varía a través del tiempo.
+  ls-type:: annotation
+  hl-page:: 56
+  id:: 61d8ab8b-29ec-4e9e-9166-e1eae8e73694
