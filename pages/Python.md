@@ -29,6 +29,7 @@
 	- https://towardsdatascience.com/machine-learning-part-19-time-series-and-autoregressive-integrated-moving-average-model-arima-c1005347b0d7
 - Extraer datos de pdf
 	- Table de pdf con python
-	- Datos de pdf python +
-	-
+	- Datos de pdf python
+		-
+	- https://stackoverflow.com/questions/47939921/tabula-py-importerror-cannot-import-name-read-pdf
 	-
