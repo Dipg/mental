@@ -278,3 +278,7 @@
   ls-type:: annotation
   hl-page:: 54
   id:: 61d8a5ed-5d8a-4b8d-b2dc-8b9cb5c6a690
+- tendrá el tiempo suficiente para  cambiar  el  nivel  de  empleo  de  todos  los  recursos  que  utiliza  en  su  proceso productivo.  
+  ls-type:: annotation
+  hl-page:: 55
+  id:: 61d8a8f7-d73e-42c6-8a20-fa5f25484e33

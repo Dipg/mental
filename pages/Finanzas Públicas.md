@@ -362,6 +362,7 @@
 			- ¿Cuál es el principal determinante de la elasticidad precio de la oferta?
 				- EL tiempo
 				- ¿por que ?
+					- ((61d8a8f7-d73e-42c6-8a20-fa5f25484e33))
 		- Reglas de Incidencia Económica
 			- [](#1.)  Mientras mas inelástica sea la función demandada de precios, mayor será la proporción de las cargas del impuesto soportadas por los consumidores y viceversa
 			- [](#2.) Mientras  más  elástica  es  la función  demanda  precio,  mayor  será  la  proporción  de  las cargas del  impuesto pagadas por los oferentes, y viceversa”.
