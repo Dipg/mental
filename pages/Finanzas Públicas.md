@@ -325,7 +325,7 @@
 			  collapsed:: true
 				- ![image.png](../assets/image_1641586530924_0.png)
 			-
-		-
+		- 5.1.3 Equivalencia impositiva entre
 	- [](#6.)  Determinantes de la incidencia económica de un impuesto
 	  collapsed:: true
 		- ¿Cuales son los principales determinantes de quien paga la carga de impuestos?
