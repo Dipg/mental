@@ -331,6 +331,7 @@
 	- [](#6.)  Determinantes de la incidencia económica de un impuesto
 		- ¿Cuales son los principales determinantes de quien paga la carga de impuestos?
 			- Elasticidades precio de la función demanda
+			  collapsed:: true
 				- Es un indicador que mide el grado de ==sensibilidad== o de respuesta de la ==cantidad== consumida de un bien o servicios por los consumidores ==ante variaciones== en el precio de compra del producto
 				- ¿Qué pasa cuando tenemos  una función de demanda infinitamente inelástica?
 				  collapsed:: true
@@ -359,7 +360,6 @@
 			  collapsed:: true
 				- Cuando se presenta una demanda perfectamente inelástica
 		- Reglas de Incidencia Económica
-		  collapsed:: true
 			- Mientras mas inelástica sea la función demandada de precios, mayor será la proporción de las cargas del impuesto soportadas por los consumidores y viceversa
 	- 7. Ecuación Fundamental de la Incidencia Económica de un impuesto
 	- [](#8.)  INCIDENCIA TRIBUTARIADE UN ==IMPUESTO== APLICADO EN ==MERCADOS DE FACTORES PRODUCTIVOS== ((61d33803-a468-41bb-922c-ac8ccc5532c9))
