@@ -1,2 +1,2 @@
 - Sabes ,
-- hace mucho tiempo que no cantaba,
+- hace mucho tiempo que no cantaba, el estre la vida la rutina
