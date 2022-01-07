@@ -282,3 +282,7 @@
   ls-type:: annotation
   hl-page:: 55
   id:: 61d8a8f7-d73e-42c6-8a20-fa5f25484e33
+- esto  le  da  el  máximo  de  flexibilidad  a  la  empresa para  reaccionar  a  los  cambios  en  los  precios  de  factores  productivos  y  producto final. 
+  ls-type:: annotation
+  hl-page:: 55
+  id:: 61d8a90f-c99c-4e7b-8749-991df2071164
