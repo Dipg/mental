@@ -371,7 +371,7 @@
 			- [](#3.)  “Mientras  más inelástica sea la función oferta precio, mayor será la proporción de  las cargas del impuesto soportadas por los oferentes, y viceversa”.
 			- [](#4.) ((61d8a972-549f-4f52-9737-fc2cb200f88c))
 			- LA REGLA DEFINITIVA ES
-				-
+				- ((61d8a9df-9019-4bdc-ac4c-22c59a13574a))
 	- 7. Ecuación Fundamental de la Incidencia Económica de un impuesto
 	- [](#8.)  INCIDENCIA TRIBUTARIADE UN ==IMPUESTO== APLICADO EN ==MERCADOS DE FACTORES PRODUCTIVOS== ((61d33803-a468-41bb-922c-ac8ccc5532c9))
 		- ((61d33803-a468-41bb-922c-ac8ccc5532c9))
