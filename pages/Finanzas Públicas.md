@@ -316,9 +316,7 @@
 			  collapsed:: true
 				- ![image.png](../assets/image_1641585677599_0.png)
 		- 5.1.2 Incidencia estatutaria sobre los oferentes
-		  collapsed:: true
 			- Unitario
-			  collapsed:: true
 				- ![image.png](../assets/image_1641586517770_0.png)
 			- Ad-Valorem
 			  collapsed:: true
