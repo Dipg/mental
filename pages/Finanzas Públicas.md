@@ -362,7 +362,7 @@
 		- Reglas de Incidencia Económica
 			- [](#1.)  Mientras mas inelástica sea la función demandada de precios, mayor será la proporción de las cargas del impuesto soportadas por los consumidores y viceversa
 			- [](#2.) Mientras  más  elástica  es  la función  demanda  precio,  mayor  será  la  proporción  de  las cargas del  impuesto pagadas por los oferentes, y viceversa”.
-			- [](#3.)
+			- [](#3.)  “Mientras  más inelástica sea la función oferta precio, mayor será la proporción de  las cargas del impuesto soportadas por los oferentes, y viceversa”.
 	- 7. Ecuación Fundamental de la Incidencia Económica de un impuesto
 	- [](#8.)  INCIDENCIA TRIBUTARIADE UN ==IMPUESTO== APLICADO EN ==MERCADOS DE FACTORES PRODUCTIVOS== ((61d33803-a468-41bb-922c-ac8ccc5532c9))
 		- ((61d33803-a468-41bb-922c-ac8ccc5532c9))
