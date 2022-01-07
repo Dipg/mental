@@ -36,4 +36,5 @@
 - Como saltar los errores en un loop for python
 	- COmo saltar errores en python
 	- Omitir errores en python
-	-
+	- Como omitir errores python
+		- https://stackoverflow.com/questions/38707513/ignoring-an-error-message-to-continue-with-the-loop-in-python
