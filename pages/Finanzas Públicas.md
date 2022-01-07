@@ -325,10 +325,10 @@
 				- ![image.png](../assets/image_1641586530924_0.png)
 			-
 		- 5.1.3 Equivalencia impositiva entre gravar el consumo o la producción
+		  collapsed:: true
 			- ((61d8a06a-90af-4eba-9669-394a09d8da77))
 			-
 	- [](#6.)  Determinantes de la incidencia económica de un impuesto
-	  collapsed:: true
 		- ¿Cuales son los principales determinantes de quien paga la carga de impuestos?
 			- Elasticidades precio de la función demanda
 			  collapsed:: true
