@@ -367,6 +367,7 @@
 					- ((61d8a90f-c99c-4e7b-8749-991df2071164))
 					- ((61d8a947-474a-4144-a285-4912bf531e60))
 				- ¿Y en la demanda ?
+					- ((61d8ab35-795c-445a-a695-dc8043e06e62))
 					-
 		- Reglas de Incidencia Económica
 			- [](#1.)  Mientras mas inelástica sea la función demandada de precios, mayor será la proporción de las cargas del impuesto soportadas por los consumidores y viceversa
