@@ -5,5 +5,5 @@
 -
 - Un heladito de maracuya sentados a la horilla del un rio
 - al fondo suena algo de morat  y un tquilita pal frio
-- O si prefieres en la cima del mirador , aunque la caminata causedolor que dolor
+- O si prefieres en la cima del  mirador , aunque la caminata causedolor que dolor
 - Que quiero contarte lo que me pasa, echo canción
