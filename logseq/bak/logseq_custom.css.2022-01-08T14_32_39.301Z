@@ -215,7 +215,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
         padding-right: 5px !important;
 }
 
-.tag[data-ref*="urgente"]::before{
+.tag[data-ref*="uegente"]::before{
     visibility: visible;
     content: "!!!" !important;
     margin-left:-5px !important;
