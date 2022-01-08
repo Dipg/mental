@@ -202,7 +202,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
         margin-left:-1px !important;
 }
     
-    .tag[data-ref*="inmediato"]::before{
+    .tag[data-ref*="Inmediato"]::before{
         visibility: visible;
         content: "!!!" !important;
         margin-left:-5px !important;
