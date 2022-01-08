@@ -227,7 +227,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
             margin-left:-5px !important;
             margin-right:-10px !important;
             background-color:rgb(238, 255, 0) !important;
-            color: rgb(128, 118, 76) !important;
+            color: rgb(233, 207, 90) !important;
             opacity: 0.7 !important;
             border-radius: 10px !important;
             padding-left: 5px !important;
