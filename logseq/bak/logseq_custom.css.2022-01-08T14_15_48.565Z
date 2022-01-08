@@ -198,7 +198,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
 
     
     .tag[data-ref*="a"]{
-        content: html(<p>"This text replaces the original."</p>) !important;
+        content: url(<p>"This text replaces the original."</p>) !important;
         margin-left:3px !important;
         margin-right:20px !important;
         background-color:red !important;
