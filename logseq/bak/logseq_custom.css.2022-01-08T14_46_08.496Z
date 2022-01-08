@@ -244,10 +244,10 @@ div[data-refs-self*="kanban"] >.block-children > div {
         }
                 .tag[data-ref*="hacer"]::before{
                     visibility: visible;
-                    content: "!" !important;
+                    content: "!!" !important;
                     margin-left:-5px !important;
                     margin-right:-10px !important;
-                    background-color:rgb(0, 255, 0) !important;
+                    background-color:rgb(238, 255, 0) !important;
                     color: rgb(255, 255, 255) !important;
                     opacity: 0.7 !important;
                     border-radius: 10px !important;
