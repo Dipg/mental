@@ -190,6 +190,6 @@ div[data-refs-self*="kanban"] >.block-children > div {
 .tag[data-ref*="ur"] {
 		visibility: hidden important;
 	} 
-.tag[data-ref*="in"] {
+.tag[data-ref*="ur"] {
 		visibility: hidden important;
 	} 
