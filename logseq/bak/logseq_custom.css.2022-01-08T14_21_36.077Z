@@ -201,7 +201,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
 
 }
     
-    .tag[data-ref*="a"]::before{
+    .tag[data-ref*="a"]::after{
         visibility: visible;
         content: "Inmediato" !important;
         background-color:red !important;
