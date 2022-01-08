@@ -204,8 +204,6 @@ div[data-refs-self*="kanban"] >.block-children > div {
     .tag[data-ref*="a"]::before{
         visibility: visible;
         content: "Inmediato" !important;
-        margin-left:3px !important;
-        margin-right:20px !important;
         background-color:red !important;
         color: rgb(255, 255, 255) !important;
         opacity: 0.7 !important;
