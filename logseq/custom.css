@@ -223,7 +223,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
 }
         .tag[data-ref*="urgente"]::before{
             visibility: visible;
-            content: "!!!" !important;
+            content: "!!" !important;
             margin-left:-5px !important;
             margin-right:-10px !important;
             background-color:red !important;
