@@ -198,7 +198,6 @@ div[data-refs-self*="kanban"] >.block-children > div {
 
     
     .tag[data-ref*="in"]{
-        content:  url(https://cdn-icons-png.flaticon.com/512/595/595005.png) !important;
             transform: scale(1.5) !important; 
             display:inline !important ;
             width: 10.2px !important; 
