@@ -187,6 +187,6 @@ div[data-refs-self*="kanban"] >.block-children > div {
 
 
 /* Editar # de Relevancia */
-	.tag[data-ref*="Ur"] {
+	.tag[data-ref*="ur"] {
 		visibility: hidden important;
 	} 
