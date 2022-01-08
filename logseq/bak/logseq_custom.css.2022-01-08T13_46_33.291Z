@@ -186,7 +186,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
     }
 
 
-/* Editar # de Relevancia */
+/* Editar Re */
 	.tag[data-ref*="videou"] {
 		visibility: hidden;
 	} 
