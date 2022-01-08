@@ -208,5 +208,5 @@ div[data-refs-self*="kanban"] >.block-children > div {
 }
 .tag[data-ref="a"]{
 
-    visibility: hidden important;
+
 }
