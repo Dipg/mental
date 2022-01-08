@@ -1,1 +1,1 @@
-- Historia de las bases de datos
+- Historia de las bases de datos  (mejor resumen)
