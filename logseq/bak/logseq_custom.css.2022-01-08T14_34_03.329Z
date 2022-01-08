@@ -215,7 +215,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
         padding-right: 5px !important;
 }
 
-.tag[data-ref*="urgente"]{
+.tag[data-ref*="a"]{
     visibility: hidden;
     position: relative;
     margin-right:-10px !important;
