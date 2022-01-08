@@ -198,7 +198,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
 
     
     .tag[data-ref*="a"]{
-        content:; url(https://static.thenounproject.com/png/1600025-200.png) ;
+        content:  url(https://media.giphy.com/media/1oF1MaxVOqrgtG4hev/giphy.gif) ;
         margin-left:3px !important;
         margin-right:20px !important;
         background-color:red !important;
