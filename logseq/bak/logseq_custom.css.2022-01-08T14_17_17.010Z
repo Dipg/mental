@@ -195,11 +195,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
 		visibility: hidden important;
 	} 
 
-    .tag[data-ref*="a"]{
-        visibility: hidden;
-        position: relative;
 
-}
     
     .tag[data-ref*="a"]{
         content: html(<p>"This text replaces the original."</p>) !important;
