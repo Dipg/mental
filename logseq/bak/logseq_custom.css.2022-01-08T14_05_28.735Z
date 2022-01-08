@@ -198,7 +198,8 @@ div[data-refs-self*="kanban"] >.block-children > div {
 
     
     .tag[data-ref="a"]{
-        content:"Inmediato" !important;}
+        content:"Inmediato" !important;
+        }
         margin-left:3px !important;
         margin-right:20px !important;
         background-color:red !important;
