@@ -205,7 +205,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
         visibility: visible;
         content: "Inmediato" !important;
         margin-left:3px !important;
-        margin-right:-10px !important;
+        margin-right:0px !important;
         background-color:red !important;
         color: rgb(255, 255, 255) !important;
         opacity: 0.7 !important;
