@@ -203,7 +203,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
     
     .tag[data-ref*="a"]::after{
         visibility: visible;
-        content: "This text replaces the original." !important;
+        content: "impoert" !important;
         margin-left:3px !important;
         margin-right:20px !important;
         background-color:red !important;
