@@ -187,6 +187,6 @@ div[data-refs-self*="kanban"] >.block-children > div {
 
 
 /* Editar # de Relevancia */
-	.tag[data-ref*="UR"] {
+	.tag[data-ref*="videou"] {
 		visibility: hidden;
 	} 
