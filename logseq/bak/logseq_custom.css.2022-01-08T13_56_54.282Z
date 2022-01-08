@@ -198,7 +198,10 @@ div[data-refs-self*="kanban"] >.block-children > div {
 
     
     .tag[data-ref*="in"]{
-
+  
+            display:inline !important ;
+            width: 10.2px !important; 
+            height: 10.2px !important; 
         margin-left:3px !important;
         margin-right:20px !important;
         filter: invert(67%) sepia(89%) saturate(519%) hue-rotate(39deg) brightness(107%) contrast(108%) !important;
