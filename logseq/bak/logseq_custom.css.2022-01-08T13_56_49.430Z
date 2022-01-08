@@ -198,7 +198,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
 
     
     .tag[data-ref*="in"]{
-  
+            transform: scale(1.5) !important; 
             display:inline !important ;
             width: 10.2px !important; 
             height: 10.2px !important; 
