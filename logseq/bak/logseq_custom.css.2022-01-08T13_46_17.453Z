@@ -184,9 +184,3 @@ div[data-refs-self*="kanban"] >.block-children > div {
 .ui-items-container{
     height:12px !important;
     }
-
-
-/*  */
-	.tag[data-ref*="videou"] {
-		visibility: hidden;
-	} 
