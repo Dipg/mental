@@ -206,7 +206,3 @@ div[data-refs-self*="kanban"] >.block-children > div {
         opacity: 0.7 !important;
 
 }
-.tag[data-ref="a"]{
-
-
-}
