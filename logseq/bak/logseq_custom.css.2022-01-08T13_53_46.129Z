@@ -194,7 +194,3 @@ div[data-refs-self*="kanban"] >.block-children > div {
 .tag[data-ref*="in"] {
 		visibility: hidden important;
 	} 
-    a[data-ref=card].tag{
-
-        
-    }
