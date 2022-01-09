@@ -10,5 +10,6 @@
 			- Pared : $ 3000,00
 			- Piso: $ 4000,00
 	- información de venta
+		- Año: 2022
 		-
 	-
