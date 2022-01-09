@@ -36,7 +36,7 @@
 			- ```calc
 			  74,000.00*1.36
 			  ```
-		- [](#5.)  Calculamos la franja exenta con la formula   $$\text{Franja excenta}=(24)* \text{(Salario básico e año de venta) }$$ : ==10
+		- [](#5.)  Calculamos la franja exenta con la formula   $$\text{Franja excenta}=(24)* \text{(Salario básico e año de venta) }$$ : ==10.200,00==
 			- ```calc
 			  24*425
 			  ```
