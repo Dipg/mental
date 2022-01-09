@@ -57,4 +57,6 @@
 			  135000-110840
 			  ```
 		- [](#9.) Aplicamos el **impuesto a la ganancia extraordinaria**  : Ganancia extraordinaria * 75%
-			-
+			- ```calc
+			  
+			  ```
