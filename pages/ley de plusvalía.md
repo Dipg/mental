@@ -16,14 +16,14 @@
 		- Mes: Enero
 		- Precio de venta: $ 135.000,00
 	- Resolución
-		- [](#1.) **Valor Total del Bien  ==$ 74.000,00==
+		- [](#1.) **Valor Total del Bien**  ==$ 74.000,00==
 		  collapsed:: true
 			- Sumamos el valor de compra del bien , mas las contribuciones de mejora:
 			- ```calc
 			  65000+2000+3000+4000
 			  ```
 			-
-		- [](#2.) Obtenemos el promedio de  la tasa pasiva referencial Plazo 361 y más: ==7,99%==
+		- [](#2.) Obtenemos el **promedio de  la tasa pasiva referencial Plazo 361 y más: ==7,99%==
 		  collapsed:: true
 			- 7.99%
 		- [](#3.)  Obtenemos el Factor de Ajuste con la formula $(1+r*)^n$ donde $$n$$ es  el numero de años y r^* es la tasa pasiva plazo de 361 y mas promedio desde marzo de 2018 hasta enero de 2022: ==1.36==
