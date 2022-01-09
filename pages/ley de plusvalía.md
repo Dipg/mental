@@ -1,4 +1,5 @@
 - Ejercicio
 	- Compra de un bien inmueble
-	- A
+	- Año: 2018
+	- Precio:
 	-
