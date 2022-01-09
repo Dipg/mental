@@ -41,9 +41,10 @@
 			- ```calc
 			  24*425
 			  ```
-		- [](#6.)  Sumo el valor total del bien con interés mas la franja exenta: ==110.840,00
+		- [](#6.)  Sumo el valor total del bien con interés mas la franja exenta: ==$ 110.840,00==
 		  collapsed:: true
 			- ```calc
 			  100,640+10,200
 			  ```
+-
 -
