@@ -23,5 +23,5 @@
 			  ```
 			- Obtenemos el promedio de  la tasa pasiva referencial Plazo 361 y más:
 				- 7.99%
-			- Obtenemos el Factor de Ajuste con la formula $(1+r*)^n$
+			- Obtenemos el Factor de Ajuste con la formula $(1+r*)^n$ donde $$n$$ es  el numero de años
 -
