@@ -53,6 +53,6 @@
 			  ```
 		- [](#8.) **Ganancia Extraordinaria**
 			- ```calc
-			  
+			  Valor de venta 
 			  ```
 -
