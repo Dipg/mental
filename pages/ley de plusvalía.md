@@ -11,5 +11,5 @@
 			- Piso: $ 4000,00
 	- información de venta
 		- Año: 2022
-		-
+		- Mes: Enero
 	-
