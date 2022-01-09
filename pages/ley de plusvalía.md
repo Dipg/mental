@@ -46,7 +46,8 @@
 			- ```calc
 			  100,640+10,200
 			  ```
-		- [](#7.)  **Ganancia ordinaria** : Resto el valor de venta del bien sin impuestos menos el valor total del bien: ==$ 36.==
+		- [](#7.)  **Ganancia ordinaria** : Resto el valor de venta del bien sin impuestos menos el valor total del bien: ==$ 36.840,00==
+		  collapsed:: true
 			- ```calc
 			  110,840-74,000
 			  ```
