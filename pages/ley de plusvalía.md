@@ -1,9 +1,9 @@
 - Ejercicio
 	- Compra de un bien inmueble
+	- Información de compra
 	- Año: 2018
 	- Mes : Marzo
 	- Precio: $ 65000,00
-	- Los gastos en mejora fueron: 
-	  collapsed:: true
+	- Los gastos en mejora fueron:
 		- Techo: $ 2000,00
 	-
