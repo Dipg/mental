@@ -7,5 +7,5 @@
 	- Los gastos en mejora fueron:
 		- Techo: $ 2000,00
 		- Pared : $ 3000,00
-		-
+		- Piso: $ 4000,00
 	-
