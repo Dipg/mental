@@ -21,4 +21,4 @@
 			- ```calc
 			  65000+2000+3000+4000
 			  ```
-			- Optenemos la tasa pasiva referencias
+			- Obtenemos la tasa pasiva referencial Plazo
