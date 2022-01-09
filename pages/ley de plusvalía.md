@@ -51,5 +51,8 @@
 			- ```calc
 			  110,840-74,000
 			  ```
-		- [](#8.) **Ganancia E
+		- [](#8.) **Ganancia Extraordinaria**
+			- ```calc
+			  
+			  ```
 -
