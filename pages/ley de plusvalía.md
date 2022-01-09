@@ -36,4 +36,4 @@
 			- ```calc
 			  74,000.00*1.36
 			  ```
-		- Calculamos la franja exenta
+		- Calculamos la franja exenta conla formula
