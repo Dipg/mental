@@ -21,4 +21,5 @@
 			- ```calc
 			  65000+2000+3000+4000
 			  ```
-			- Obtenemos la tasa pasiva referencial Plazo 361 y más
+			- Obtenemos el promedio de  la tasa pasiva referencial Plazo 361 y más:
+				-
