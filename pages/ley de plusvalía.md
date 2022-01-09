@@ -56,4 +56,4 @@
 			- ```calc
 			  135000-110840
 			  ```
-		- [](#9.) Aplicamos el imp
+		- [](#9.) Aplicamos el impuesto a la ganancia extraordinaria
