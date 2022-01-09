@@ -16,4 +16,5 @@
 		- Mes: Enero
 		- Precio de venta: $ 135.000,00
 	- Resolución
-		- Optenemos el subtotal 1
+		- Obtenemos el subtotal 1
+			- Sumamos el valor de
