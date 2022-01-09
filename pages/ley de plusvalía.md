@@ -22,4 +22,4 @@
 			  65000+2000+3000+4000
 			  ```
 			- Obtenemos el promedio de  la tasa pasiva referencial Plazo 361 y más:
-				- 7.994167%
+				- 7.99%
