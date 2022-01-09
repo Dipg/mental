@@ -15,4 +15,5 @@
 		- Año: 2022
 		- Mes: Enero
 		- Precio de venta: $ 135.000,00
-		- Resoluci
+	- Resolución
+	-
