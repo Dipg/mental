@@ -6,4 +6,6 @@
 	- Precio: $ 65000,00
 	- Los gastos en mejora fueron:
 		- Techo: $ 2000,00
+		- Pared : $ 3000,00
+		-
 	-
