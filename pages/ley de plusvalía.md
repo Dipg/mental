@@ -1,5 +1,5 @@
 - Ejercicio
 	- Compra de un bien inmueble
 	- Año: 2018
-	- Precio: $ 65
+	- Precio: $ 65000,00
 	-
