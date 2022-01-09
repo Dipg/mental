@@ -1,2 +1,2 @@
 - Ejercicio
-	-
+	- Compramos un bien inmueble en el año
