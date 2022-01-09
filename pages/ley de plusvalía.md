@@ -31,4 +31,7 @@
 			- ```calc
 			  (1+7.99%)^(2022-2018)
 			  ```
-		- [](#4.) Optenemos el valor total del bien incluido el interes
+		- [](#4.) Obtenemos el valor total del bien incluido el interés
+			- ```calc
+			  
+			  ```
