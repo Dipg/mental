@@ -46,5 +46,5 @@
 			- ```calc
 			  100,640+10,200
 			  ```
-		- [](#7.)  Gananacia
+		- [](#7.)  Ganancia ordinaria
 -
