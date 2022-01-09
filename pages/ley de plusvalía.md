@@ -1,2 +1,3 @@
 - Ejercicio
-	- Compramos un bien inmueble en el año
+	- Compramos un bien inmueble en el año 2108
+	-
