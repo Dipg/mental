@@ -16,7 +16,7 @@
 		- Mes: Enero
 		- Precio de venta: $ 135.000,00
 	- Resolución
-		- [](#1.) Obtenemos el subtotal 1
+		- [](#1.) Obtenemos el subtotal 1  ==$ 74
 		  collapsed:: true
 			- Sumamos el valor de compra del bien , mas las contribuciones de mejora:
 			- ```calc
