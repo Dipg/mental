@@ -46,5 +46,5 @@
 			- ```calc
 			  100,640+10,200
 			  ```
-		- [](#7.)  **Ganancia ordinaria** :
+		- [](#7.)  **Ganancia ordinaria** : Se resta el va
 -
