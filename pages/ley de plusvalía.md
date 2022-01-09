@@ -56,8 +56,9 @@
 			- ```calc
 			  135000-110840
 			  ```
-		- [](#9.) Aplicamos el **impuesto a la ganancia extraordinaria**  : Ganancia extraordinaria * 75%.
+		- [](#9.) Aplicamos el **impuesto a la ganancia extraordinaria**  : Ganancia extraordinaria * 75%. 
 		  collapsed:: true
 			- ```calc
 			  24160*75%
 			  ```
+		- [](#10.)
