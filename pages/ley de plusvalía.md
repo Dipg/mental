@@ -41,5 +41,5 @@
 			- ```calc
 			  24*425
 			  ```
--
+		- [](#6.)  Sumo el valor total del
 -
