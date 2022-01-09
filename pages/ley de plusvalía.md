@@ -19,5 +19,5 @@
 		- Obtenemos el subtotal 1
 			- Sumamos el valor de compra del bien , mas las contribuciones de mejora:
 			- ```calc
-			  
+			  65000+2000+3000+4000
 			  ```
