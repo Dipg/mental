@@ -61,4 +61,4 @@
 			- ```calc
 			  24160*75%
 			  ```
-		- [](#10.)
+		- [](#10.) ** El Impuesto a apgar es de **
