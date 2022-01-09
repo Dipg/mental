@@ -60,4 +60,4 @@
 			- ```calc
 			  24160*75%
 			  ```
-		- [](#10.) ** El Impuesto a pagar es de == ==**
+		- [](#10.) **El Impuesto a pagar es de ==$ 18.120,00 ==**
