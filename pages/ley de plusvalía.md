@@ -8,6 +8,7 @@
 			- Techo: $ 2000,00
 			- Pared : $ 3000,00
 			- Piso: $ 4000,00
+			- Televiso : $ 100
 	- información de venta
 		- Año: 2022
 		- Mes: Enero
