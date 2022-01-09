@@ -3,5 +3,5 @@
 	- Año: 2018
 	- Precio: $ 65000,00
 	- Los gastos en mejora fueron:
-		-
+		- Techo: $ 2000,00
 	-
