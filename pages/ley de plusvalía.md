@@ -12,5 +12,5 @@
 	- información de venta
 		- Año: 2022
 		- Mes: Enero
-		-
+		- Precio de venta: $ 135
 	-
