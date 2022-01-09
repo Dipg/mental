@@ -1,4 +1,5 @@
--
+- Ejemplo en clase
+	-
 - Ejercicio en casa
   collapsed:: true
 	- Compra de un bien inmueble
