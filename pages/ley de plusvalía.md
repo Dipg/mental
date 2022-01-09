@@ -36,5 +36,5 @@
 			- ```calc
 			  74,000.00*1.36
 			  ```
-		- Calculamos la franja exenta con la formula   $$24*Salario básico año de venta$$
+		- Calculamos la franja exenta con la formula   $$24*text{}Salario básico año de venta$$
 -
