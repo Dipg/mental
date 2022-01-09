@@ -1,6 +1,7 @@
 - Ejercicio
 	- Compra de un bien inmueble
 	- Información de compra
+	  collapsed:: true
 		- Año: 2018
 		- Mes : Marzo
 		- Precio: $ 65000,00
@@ -8,4 +9,6 @@
 			- Techo: $ 2000,00
 			- Pared : $ 3000,00
 			- Piso: $ 4000,00
+	- información de venta
+		-
 	-
