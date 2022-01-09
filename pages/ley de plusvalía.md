@@ -2,5 +2,5 @@
 	- Compra de un bien inmueble
 	- Año: 2018
 	- Precio: $ 65000,00
-	- Lo
+	- Los gastos en mejora fueron
 	-
