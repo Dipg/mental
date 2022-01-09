@@ -17,4 +17,4 @@
 		- Precio de venta: $ 135.000,00
 	- Resolución
 		- Obtenemos el subtotal 1
-			- Sumamos el valor de
+			- Sumamos el valor de compra del bien , mas las contibuciones de mejora
