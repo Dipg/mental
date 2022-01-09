@@ -1,7 +1,6 @@
 - Ejemplo en clase
 	-
 - Ejercicio en casa
-  collapsed:: true
 	- Compra de un bien inmueble
 	- Información de compra
 		- Año: 2018
@@ -16,4 +15,4 @@
 		- Año: 2022
 		- Mes: Enero
 		- Precio de venta: $ 135.000,00
-	-
+		- Resoluci
