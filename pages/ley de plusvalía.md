@@ -1,4 +1,6 @@
-- Ejercicio
+-
+- Ejercicio en casa
+  collapsed:: true
 	- Compra de un bien inmueble
 	- Información de compra
 		- Año: 2018
