@@ -1,3 +1,4 @@
 - Ejercicio
-	- C
+	- Compra de un bien inmueble
+	- A
 	-
