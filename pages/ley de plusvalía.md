@@ -1,7 +1,6 @@
 - Ejercicio
 	- Compra de un bien inmueble
 	- Información de compra
-	  collapsed:: true
 		- Año: 2018
 		- Mes : Marzo
 		- Precio: $ 65000,00
