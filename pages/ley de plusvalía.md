@@ -52,7 +52,8 @@
 			  110,840-74,000
 			  ```
 		- [](#8.) **Ganancia Extraordinaria** : Valor de venta - Valor de venta sin impuesto : ==$ 24.160,00==
+		  collapsed:: true
 			- ```calc
 			  135000-110840
 			  ```
--
+		-
