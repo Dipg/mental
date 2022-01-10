@@ -65,7 +65,7 @@
 				  collapsed:: true
 					- {{youtube https://www.youtube.com/watch?v=hot0OKUAYSg}}
 				- Demandas Hicksianas
-					- Si derivamos la función del gasto mínimo con respecto al precio de $x$ obtenemos la función de demanda hicksiana del bien $x$
+					- Si derivamos la función del gasto mínimo con respecto al precio de $x$ obtenemos la función de demanda hicksiana del bien $x$ y viceversa para $y$
 					-
 					  $$\frac{\partial e}{\partial P_x}=X^H$$
 					- {{youtube https://www.youtube.com/?hl=es-419}}
