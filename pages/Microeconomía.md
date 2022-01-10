@@ -1,5 +1,7 @@
 - # Teoría del Consumidor
+  collapsed:: true
 	- ## Optimo del Consumidor
+	  collapsed:: true
 		- ### Enfoque Primal
 		  collapsed:: true
 			- Se usa Cuando EL ingreso/Gasto es fijo $$\tilde M$$ y necesitamos maximizar la Utilidad $$U(X,Y)$$
@@ -82,7 +84,7 @@
 					-
 					-
 					-
-		- ## Adicional
+		- ### Adicional
 		  collapsed:: true
 			- [🎞️](https://www.youtube.com/watch?v=jSMewmyWTjY)  Explicación grafica de las Demandas Hicksianas y Marshalianas
 - Mercado de Competencia perfecta
@@ -114,3 +116,4 @@
 			- {{youtube https://www.youtube.com/watch?v=fpgCLu380_A&t=114s}}
 				- {{youtube-timestamp 303}} Comparación entre  Competencia perfecta vs Monopolio
 				- {{youtube-timestamp 643}}  Calcular la elasticidad en Monopolio
+-
