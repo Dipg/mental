@@ -87,14 +87,14 @@
 		- ### Adicional
 		  collapsed:: true
 			- [🎞️](https://www.youtube.com/watch?v=jSMewmyWTjY)  Explicación grafica de las Demandas Hicksianas y Marshalianas
-- Mercado de Competencia perfecta
+- # Mercado de Competencia perfecta
   id:: 61cc5e98-483c-4861-9139-50b87270d4c7
   collapsed:: true
 	- Se presenta cuando:
 		- Existe un gran número de consumidores y oferentes, pero todos pequeños en su participación del mercado, por lo que ninguno de ellos tendrá poder suficiente para alterar el precio de equilibrio de mercado con sus decisiones individuales
 		- existe información perfecta
 		- Existe Libre entrada y salida de la indsutria
-- Monopolio
+- # Monopolio
   id:: 619d1fd5-eb00-418b-b85e-5d724d64e93f
   collapsed:: true
 	- Se da cuando:
