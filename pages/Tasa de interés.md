@@ -2,7 +2,7 @@
   collapsed:: true
 	- https://contenido.bce.fin.ec/documentos/Estadisticas/SectorMonFin/TasasInteres/TasasVigentes012020.htm
 - Extraer datos de tasas de interés (Python)
-	- https://colab.research.google.com/drive/1PWYdEf7zYavuicCD9KCUnZ3at4qV5DFJ?authuser=1#scrollTo=QGf2YkJZ9oKW {{cards https://colab.research.google.com/drive/1PWYdEf7zYavuicCD9KCUnZ3at4qV5DFJ?authuser=1#scrollTo=QGf2YkJZ9oKW }}
+	- https://colab.research.google.com/drive/1PWYdEf7zYavuicCD9KCUnZ3at4qV5DFJ?authuser=1#scrollTo=QGf2YkJZ9oKW {{cards https://colab.research.google.com/drive/1PWYdEf7zYavuicCD9KCUnZ3at4qV5DFJ?authuser=1#scrollTo=QGf2YkJZ9oKW}}
 - Datos Históricos
   collapsed:: true
 	- Tasas de interés efectivas vigentes
