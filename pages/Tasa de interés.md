@@ -1,5 +1,5 @@
 - Datos Historicos
 	- Tasas de interés efectivas vigentes
 		- [Banco central 🔗](https://contenido.bce.fin.ec/documentos/Estadisticas/SectorMonFin/TasasInteres/TasasHistorico.htm)
-		- Acceso al link
-		-
+		- Ruta de Acceso al link
+			- ![image.png](../assets/image_1641776448321_0.png){:height 406, :width 530}
