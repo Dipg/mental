@@ -9,4 +9,4 @@
 	- #urgente
 		- LATER [[Mercado Laboral]]
 	- #Hacer
-		- TODO Resumenes
+		- TODO Resúmenes Opta IV
