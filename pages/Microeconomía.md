@@ -47,7 +47,6 @@
 				  collapsed:: true
 					- {{youtube https://www.youtube.com/watch?v=GLgoZx88xuk&t=112s}}
 		- Enfoque Dual
-		  collapsed:: true
 			- Se usa cuando tenemos un nivel de Utilidad Fijo $$\overline U$$ y necesitamos minimizar el gasto/ingreso $$M$$
 			- Draw
 			  collapsed:: true
