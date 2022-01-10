@@ -65,7 +65,6 @@
 			- Demandas Hicksianas
 			- 🎞️
 				- Enfoque Dual
-				  collapsed:: true
 					- {{youtube https://www.youtube.com/watch?v=hot0OKUAYSg}}
 				- Demandas Hicksianas (Compensadas)
 					- Son las que se obtienen cuando se minimiza el gasto sujeto a una utilidad establecida
