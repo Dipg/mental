@@ -70,7 +70,7 @@
 				- Demandas Hicksianas (Compensadas)
 					- Son las que se obtienen cuando se minimiza el gasto sujeto a una utilidad establecida
 					- ¿Como obtenemos las demandas Hicksianas (Compensadas)?
-					-
+					- Lema de Shepar
 					- Si derivamos la función del gasto mínimo con respecto al precio de $x$ obtenemos la función de demanda hicksiana del bien $x$ y viceversa para $y$
 					-
 					  $$\frac{\partial e}{\partial P_x}=X^H$$
