@@ -1,4 +1,5 @@
 title:: Ley de plusvalía 20016 (Derogada)
+collapsed:: true
 Ref:
 
 	- Accionar de la Ley
