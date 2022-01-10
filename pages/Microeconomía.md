@@ -66,6 +66,7 @@
 				- Demandas Hicksianas (Compensadas)
 					- Son las que se obtienen cuando se minimiza el gasto sujeto a una utilidad establecida
 					- ¿Como obtenemos las demandas Hicksianas (Compensadas)?
+					  collapsed:: true
 						- Minimizando el gasto sujeto a una utilidad esperada
 						- [🎞️ ](https://www.youtube.com/watch?v=Qiv_o7o-SA0)
 					- **Lema de Shephard**
@@ -78,6 +79,7 @@
 							- https://www.youtube.com/watch?v=Qiv_o7o-SA0
 					-
 			- 🎞️Videos
+			  collapsed:: true
 				- Enfoque Dual
 					- {{youtube https://www.youtube.com/watch?v=hot0OKUAYSg}}
 - Mercado de Competencia perfecta
