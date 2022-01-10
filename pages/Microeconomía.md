@@ -54,12 +54,6 @@
 				-
 				  $$Min \, \, M=  P_x(x)+ P_y(y) $$
 				  $$S.a. \, \, \overline U=U(X,Y)$$
-			- Draw
-			  collapsed:: true
-				- [[draws/2021-11-23-11-34-25.excalidraw]]
-					-
-					-
-					-
 			- ¿Qué tipo de demandas obtenemos de la minimización del gasto?
 				- Demandas Hicksianas (Compensadas)
 				  collapsed:: true
@@ -78,9 +72,14 @@
 							- https://www.youtube.com/watch?v=Qiv_o7o-SA0
 					-
 			- 🎞️Videos
-			  collapsed:: true
 				- Enfoque Dual
 					- {{youtube https://www.youtube.com/watch?v=hot0OKUAYSg}}
+			- Draw
+			  collapsed:: true
+				- [[draws/2021-11-23-11-34-25.excalidraw]]
+					-
+					-
+					-
 - Mercado de Competencia perfecta
   id:: 61cc5e98-483c-4861-9139-50b87270d4c7
   collapsed:: true
