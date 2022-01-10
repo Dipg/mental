@@ -1,5 +1,5 @@
 title:: Ley de plusvalía 2007 (Derogada)
-Relacionados:: [[Finanzas Públicas (conflict 2021-12-20-05-40-14)]]
+Rama:: Finanzas Públicas
 
 - Ejemplo en clase
 - Ejercicio en casa
