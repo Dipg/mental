@@ -65,6 +65,7 @@
 				  collapsed:: true
 					- {{youtube https://www.youtube.com/watch?v=hot0OKUAYSg}}
 				- Demandas Hicksianas
+					-
 					- {{youtube https://www.youtube.com/?hl=es-419}}
 - Mercado de Competencia perfecta
   id:: 61cc5e98-483c-4861-9139-50b87270d4c7
