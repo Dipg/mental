@@ -62,7 +62,7 @@
 				-
 				  $$Min \, \, M=  P_x(x)+ P_y(y) $$
 				  $$S.a. \, \, \overline U=U(X,Y)$$
-			- ¿Que t
+			- ¿Que tipo de demandas optenemos de la minimización del
 			- Demandas Hicksianas (Compensadas)
 				- Son las que se obtienen cuando se minimiza el gasto sujeto a una utilidad establecida
 				- ¿Como obtenemos las demandas Hicksianas (Compensadas)?
