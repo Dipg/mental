@@ -68,7 +68,7 @@
 				  collapsed:: true
 					- {{youtube https://www.youtube.com/watch?v=hot0OKUAYSg}}
 				- Demandas Hicksianas (Compensadas)
-					-
+					- Son las que se optienen cuando se minimiza el
 					- ¿Como obtenemos las demandas Hicksianas (Compensadas)?
 						- Si derivamos la función del gasto mínimo con respecto al precio de $x$ obtenemos la función de demanda hicksiana del bien $x$ y viceversa para $y$
 					-
