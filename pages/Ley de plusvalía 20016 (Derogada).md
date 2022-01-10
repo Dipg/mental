@@ -1,6 +1,7 @@
 title:: Ley de plusvalía 20016 (Derogada)
-Ref:
 
+	-
+	- Ref:
 	- Accionar de la Ley
 	  collapsed:: true
 		- https://www.sri.gob.ec/ley-organica-especulacion-sobre-valor-de-las-tierras
