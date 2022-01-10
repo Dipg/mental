@@ -1,7 +1,6 @@
 - Teoría del Consumidor
 	- Optimo del Consumidor
 		- Enfoque Primal
-		  collapsed:: true
 			- Se usa Cuando EL ingreso/Gasto es fijo $$\tilde M$$ y necesitamos maximizar la Utilidad $$U(X,Y)$$
 			- Draw
 			  collapsed:: true
