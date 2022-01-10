@@ -54,7 +54,7 @@
 				-
 				  $$Min \, \, M=  P_x(x)+ P_y(y) $$
 				  $$S.a. \, \, \overline U=U(X,Y)$$
-			- 🎞️
+			- [🎞️ ](https://www.youtube.com/watch?v=hot0OKUAYSg&feature=emb_title)
 			- ¿Qué tipo de demandas obtenemos de la minimización del gasto?
 				- Demandas Hicksianas (Compensadas)
 				  collapsed:: true
@@ -72,9 +72,6 @@
 						  collapsed:: true
 							- https://www.youtube.com/watch?v=Qiv_o7o-SA0
 					-
-			- 🎞️Videos
-				- Enfoque Dual
-					- {{youtube https://www.youtube.com/watch?v=hot0OKUAYSg}}
 			- Draw
 			  collapsed:: true
 				- [[draws/2021-11-23-11-34-25.excalidraw]]
