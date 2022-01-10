@@ -27,17 +27,18 @@
 	- ```python
 	  ```
 	- https://towardsdatascience.com/machine-learning-part-19-time-series-and-autoregressive-integrated-moving-average-model-arima-c1005347b0d7
-- Extraer datos de pdf
-	- Table de pdf con python
-	- Datos de pdf python
-	  collapsed:: true
-		- Colucionar problema con tabula
-			- cannot import name 'read_pdf'
-			- https://stackoverflow.com/questions/47939921/tabula-py-importerror-cannot-import-name-read-pdf
-	- Proyectos
-		- PDF Scraping-[[Tasa de interés pasivas referenciales plazo 361 y más]]
-			- Resumen:
-				- Se Busco Extraer la tasa [[Tasa de interés pasivas referenciales plazo 361 y más]] del [[Banco Central del Ecuador]] utilizando el método de
+- PDF Scraping
+	- Extraer datos de pdf
+		- Table de pdf con python
+		- Datos de pdf python
+		  collapsed:: true
+			- Colucionar problema con tabula
+				- cannot import name 'read_pdf'
+				- https://stackoverflow.com/questions/47939921/tabula-py-importerror-cannot-import-name-read-pdf
+		- Proyectos
+			- PDF Scraping-[[Tasa de interés pasivas referenciales plazo 361 y más]]
+				- Resumen:
+					- Se Busco Extraer la tasa [[Tasa de interés pasivas referenciales plazo 361 y más]] del [[Banco Central del Ecuador]] utilizando el método de
 - Como saltar los errores en un loop for python
 	- https://blog.carreralinux.com.ar/2017/06/try-y-except-en-python-excepciones/
 	- COmo saltar errores en python
