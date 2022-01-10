@@ -82,6 +82,8 @@
 					-
 					-
 					-
+		- ## Adicional
+			-
 - Mercado de Competencia perfecta
   id:: 61cc5e98-483c-4861-9139-50b87270d4c7
   collapsed:: true
