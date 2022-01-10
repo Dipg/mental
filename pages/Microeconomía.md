@@ -54,6 +54,7 @@
 				-
 				  $$Min \, \, M=  P_x(x)+ P_y(y) $$
 				  $$S.a. \, \, \overline U=U(X,Y)$$
+			- 🎞️
 			- ¿Qué tipo de demandas obtenemos de la minimización del gasto?
 				- Demandas Hicksianas (Compensadas)
 				  collapsed:: true
