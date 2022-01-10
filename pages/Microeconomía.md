@@ -58,11 +58,13 @@
 					-
 					-
 			- Cantidades Optimas y gasto Mínimo
+			  collapsed:: true
 				-
 				  $$Min \, \, M=  P_x(x)+ P_y(y) $$
 				  $$S.a. \, \, \overline U=U(X,Y)$$
 			- Demandas Hicksianas
 			- 🎞️
+			  collapsed:: true
 				- Enfoque Dual
 				  collapsed:: true
 					- {{youtube https://www.youtube.com/watch?v=hot0OKUAYSg}}
