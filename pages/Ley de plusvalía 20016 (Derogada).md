@@ -1,5 +1,7 @@
 title:: Ley de plusvalía 20016 (Derogada)
+Ref:
 
+	-
 - Ejemplo en clase
 - Ejercicio en casa
 	- Compra de un bien inmueble
