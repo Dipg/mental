@@ -9,5 +9,4 @@
 	- #urgente
 		- LATER [[Mercado Laboral]]
 	- #Hacer
-		-
-		  TODO
+		- TODO Resumenes
