@@ -36,7 +36,8 @@
 			- https://stackoverflow.com/questions/47939921/tabula-py-importerror-cannot-import-name-read-pdf
 	- Proyectos
 		- PDF Scraping-Tasa de interés pasivas referenciales plazo 361 y más
-			- Resumen
+			- Resumen:
+				- Se Busco Extraer
 - Como saltar los errores en un loop for python
 	- https://blog.carreralinux.com.ar/2017/06/try-y-except-en-python-excepciones/
 	- COmo saltar errores en python
