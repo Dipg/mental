@@ -70,14 +70,14 @@
 					- Si derivamos la función del gasto mínimo con respecto al precio de $x$ obtenemos la función de demanda hicksiana del bien $x$ y viceversa para $y$
 					-
 					  $$\frac{\partial e}{\partial P_x}=X^H$$
+					- 🎞️ Lema de Shephard
+					  collapsed:: true
+						- https://www.youtube.com/watch?v=Qiv_o7o-SA0
 				-
 			- 🎞️Videos
 				- Enfoque Dual
 				  collapsed:: true
 					- {{youtube https://www.youtube.com/watch?v=hot0OKUAYSg}}
-				- Lema de Shephard 
-				  collapsed:: true
-					- https://www.youtube.com/watch?v=Qiv_o7o-SA0
 - Mercado de Competencia perfecta
   id:: 61cc5e98-483c-4861-9139-50b87270d4c7
   collapsed:: true
