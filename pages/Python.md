@@ -35,7 +35,7 @@
 			- cannot import name 'read_pdf'
 			- https://stackoverflow.com/questions/47939921/tabula-py-importerror-cannot-import-name-read-pdf
 	- Proyectos
-		- PDF Scraping-Tasa de interés pasivas referenciales plazo 361 y más
+		- PDF Scraping-[[Tasa de interés pasivas referenciales plazo 361 y más]]
 			- Resumen:
 				- Se Busco Extraer la tasa
 - Como saltar los errores en un loop for python
