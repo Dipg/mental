@@ -49,7 +49,7 @@
 				- Demandas Marshalianas
 				  collapsed:: true
 					- {{youtube https://www.youtube.com/watch?v=GLgoZx88xuk&t=112s}}
-		- Enfoque Dual
+		- ## Enfoque Dual
 			- Se usa cuando tenemos un nivel de Utilidad Fijo $$\overline U$$ y necesitamos minimizar el gasto/ingreso $$M$$
 				-
 				  $$Min \, \, M=  P_x(x)+ P_y(y) $$
