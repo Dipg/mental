@@ -37,7 +37,7 @@
 	- Proyectos
 		- PDF Scraping-Tasa de interés pasivas referenciales plazo 361 y más
 			- Resumen:
-				- Se Busco Extraer
+				- Se Busco Extraer la tasa
 - Como saltar los errores en un loop for python
 	- https://blog.carreralinux.com.ar/2017/06/try-y-except-en-python-excepciones/
 	- COmo saltar errores en python
