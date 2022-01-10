@@ -1,6 +1,7 @@
 - Reportes Mensuales de tasa de interés
   collapsed:: true
 	- https://contenido.bce.fin.ec/documentos/Estadisticas/SectorMonFin/TasasInteres/TasasVigentes012020.htm
+- Extraer Datos de tasa
 - Datos Históricos
   collapsed:: true
 	- Tasas de interés efectivas vigentes
