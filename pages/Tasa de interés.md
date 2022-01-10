@@ -1,3 +1,3 @@
 - Datos Historicos
 	- Tasas de interés efectivas vigentes
-		- [Wwwe🔗](https://contenido.bce.fin.ec/documentos/Estadisticas/SectorMonFin/TasasInteres/TasasHistorico.htm)
+		- [Banco central 🔗](https://contenido.bce.fin.ec/documentos/Estadisticas/SectorMonFin/TasasInteres/TasasHistorico.htm)
