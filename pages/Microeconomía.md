@@ -72,7 +72,6 @@
 					  $$\frac{\partial e}{\partial P_x}=X^H$$
 				-
 			- 🎞️Videos
-			  collapsed:: true
 				- Enfoque Dual
 				  collapsed:: true
 					- {{youtube https://www.youtube.com/watch?v=hot0OKUAYSg}}
