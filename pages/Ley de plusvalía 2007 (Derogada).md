@@ -1,3 +1,5 @@
+title:: Ley de plusvalía 2007 (Derogada)
+
 - Ejemplo en clase
 - Ejercicio en casa
 	- Compra de un bien inmueble
