@@ -1,4 +1,5 @@
 - # [[Trabajos U]]  {{renderer(:todomaster-NjFkOTkxNzItMzNhZC00YWJmLWFhMjQtM2ExMWQxZTkxOWNh)}}
+  id:: 61dc237b-1620-4acf-8aea-326df2e12c22
   SCHEDULED: <2022-01-08 Sat .+2d>
 	- #inmediato
 		- DONE [[Ley de Plusvalía ]]
