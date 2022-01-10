@@ -63,17 +63,17 @@
 				  $$Min \, \, M=  P_x(x)+ P_y(y) $$
 				  $$S.a. \, \, \overline U=U(X,Y)$$
 			- Demandas Hicksianas
+			- Demandas Hicksianas (Compensadas)
+				- Son las que se obtienen cuando se minimiza el gasto sujeto a una utilidad establecida
+				- ¿Como obtenemos las demandas Hicksianas (Compensadas)?
+				- **Lema de Shephard**
+					- Si derivamos la función del gasto mínimo con respecto al precio de $x$ obtenemos la función de demanda hicksiana del bien $x$ y viceversa para $y$
+					-
+					  $$\frac{\partial e}{\partial P_x}=X^H$$
+				- {{youtube https://www.youtube.com/?hl=es-419}}
 			- 🎞️
 				- Enfoque Dual
 					- {{youtube https://www.youtube.com/watch?v=hot0OKUAYSg}}
-				- Demandas Hicksianas (Compensadas)
-					- Son las que se obtienen cuando se minimiza el gasto sujeto a una utilidad establecida
-					- ¿Como obtenemos las demandas Hicksianas (Compensadas)?
-					- **Lema de Shephard**
-						- Si derivamos la función del gasto mínimo con respecto al precio de $x$ obtenemos la función de demanda hicksiana del bien $x$ y viceversa para $y$
-						-
-						  $$\frac{\partial e}{\partial P_x}=X^H$$
-					- {{youtube https://www.youtube.com/?hl=es-419}}
 - Mercado de Competencia perfecta
   id:: 61cc5e98-483c-4861-9139-50b87270d4c7
   collapsed:: true
