@@ -1,4 +1,4 @@
 - ![Petroleum royalties and regional development in Brazil: The economicgrowth of recipient towns](../assets/postali2009_1641817114569_0.pdf)
-- ![How resilient is the labour market against natural disaster? Evaluating the effects from the 2010 earthquake in Chile](../assets/Natural_Hazards_10.1007@s11069-020-04229-9_1641817138146_0.pdf)
+- ![How resilient is the labour market against natural disaster? Evaluating the effects from the 2010 earthquake in Chile](../assets/Natural_Hazards_10.1007@s11069-020-04229-9_1641817138146_0.pdf)  (pag 53)
 -
 -
