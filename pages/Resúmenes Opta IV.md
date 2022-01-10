@@ -1,1 +1,2 @@
-- ![postali2009.pdf](../assets/postali2009_1641817114569_0.pdf)
+- ![Petroleum royalties and regional development in Brazil: The economicgrowth of recipient towns](../assets/postali2009_1641817114569_0.pdf)
+-
