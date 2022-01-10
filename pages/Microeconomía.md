@@ -51,16 +51,15 @@
 					- {{youtube https://www.youtube.com/watch?v=GLgoZx88xuk&t=112s}}
 		- Enfoque Dual
 			- Se usa cuando tenemos un nivel de Utilidad Fijo $$\overline U$$ y necesitamos minimizar el gasto/ingreso $$M$$
+				-
+				  $$Min \, \, M=  P_x(x)+ P_y(y) $$
+				  $$S.a. \, \, \overline U=U(X,Y)$$
 			- Draw
 			  collapsed:: true
 				- [[draws/2021-11-23-11-34-25.excalidraw]]
 					-
 					-
 					-
-			- Cantidades Optimas y gasto Mínimo
-				-
-				  $$Min \, \, M=  P_x(x)+ P_y(y) $$
-				  $$S.a. \, \, \overline U=U(X,Y)$$
 			- ¿Qué tipo de demandas obtenemos de la minimización del gasto?
 				- Demandas Hicksianas (Compensadas)
 				  collapsed:: true
