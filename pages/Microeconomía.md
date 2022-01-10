@@ -71,11 +71,14 @@
 					-
 					  $$\frac{\partial e}{\partial P_x}=X^H$$
 				-
-			- 🎞️
+			- 🎞️Videos
+			  collapsed:: true
 				- Enfoque Dual
 				  collapsed:: true
 					- {{youtube https://www.youtube.com/watch?v=hot0OKUAYSg}}
-				- Lema de She
+				- Lema de Shephard 
+				  collapsed:: true
+					- https://www.youtube.com/watch?v=Qiv_o7o-SA0
 - Mercado de Competencia perfecta
   id:: 61cc5e98-483c-4861-9139-50b87270d4c7
   collapsed:: true
