@@ -1,6 +1,7 @@
 - Teoría del Consumidor
 	- Optimo del Consumidor
 		- Enfoque Primal
+		  collapsed:: true
 			- Se usa Cuando EL ingreso/Gasto es fijo $$\tilde M$$ y necesitamos maximizar la Utilidad $$U(X,Y)$$
 			- Draw
 			  collapsed:: true
@@ -46,6 +47,7 @@
 				  collapsed:: true
 					- {{youtube https://www.youtube.com/watch?v=GLgoZx88xuk&t=112s}}
 		- Enfoque Dual
+		  collapsed:: true
 			- Se usa cuando tenemos un nivel de Utilidad Fijo $$\overline U$$ y necesitamos minimizar el gasto/ingreso $$M$$
 			- Draw
 			  collapsed:: true
@@ -67,6 +69,7 @@
 					- {{youtube https://www.youtube.com/?hl=es-419}}
 - Mercado de Competencia perfecta
   id:: 61cc5e98-483c-4861-9139-50b87270d4c7
+  collapsed:: true
 	- Se presenta cuando:
 		- Existe un gran número de consumidores y oferentes, pero todos pequeños en su participación del mercado, por lo que ninguno de ellos tendrá poder suficiente para alterar el precio de equilibrio de mercado con sus decisiones individuales
 		- existe información perfecta
