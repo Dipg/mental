@@ -18,7 +18,6 @@
 				  $$\frac{UMg(x)}{UMg(y)} = \frac{P_x}{P_y}  \tag{1}  $$ $$   M=  P_x(x)+ P_y(y)  \tag{2} $$
 				- Esto se debe resolver y remplazar en la función de Ingreso y así se obtienen los óptimos de las cantidades que consumirá el individuo sujeto a su nivel de ingresos. y podemos asi obtener la utilidad que esto le generara
 			- Demandas Marshallianas
-			  collapsed:: true
 				- Demanda Marshallianas de $$X$$
 				  collapsed:: true
 					- De la ecuación (1) se debe despejar $Y$ y remplazar en la ecuación (2), y después despejar $X$, esta quedara en función de $M$ y del precio de X $P_x$
