@@ -1,6 +1,6 @@
 - # Teoría del Consumidor
-	- Optimo del Consumidor
-		- ## Enfoque Primal
+	- ## Optimo del Consumidor
+		- ### Enfoque Primal
 		  collapsed:: true
 			- Se usa Cuando EL ingreso/Gasto es fijo $$\tilde M$$ y necesitamos maximizar la Utilidad $$U(X,Y)$$
 			- Draw
@@ -50,7 +50,7 @@
 				- Demandas Marshalianas
 				  collapsed:: true
 					- {{youtube https://www.youtube.com/watch?v=GLgoZx88xuk&t=112s}}
-		- ## Enfoque Dual
+		- ### Enfoque Dual
 		  collapsed:: true
 			- Se usa cuando tenemos un nivel de Utilidad Fijo $$\overline U$$ y necesitamos minimizar el gasto/ingreso $$M$$
 			  collapsed:: true
