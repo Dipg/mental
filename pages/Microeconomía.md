@@ -58,12 +58,12 @@
 					-
 					-
 			- Cantidades Optimas y gasto Mínimo
-			  collapsed:: true
 				-
 				  $$Min \, \, M=  P_x(x)+ P_y(y) $$
 				  $$S.a. \, \, \overline U=U(X,Y)$$
 			- ¿Qué tipo de demandas obtenemos de la minimización del gasto?
 				- Demandas Hicksianas (Compensadas)
+				  collapsed:: true
 					- Son las que se obtienen cuando se minimiza el gasto sujeto a una utilidad establecida
 					- ¿Como obtenemos las demandas Hicksianas (Compensadas)?
 					  collapsed:: true
