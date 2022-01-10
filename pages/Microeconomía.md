@@ -6,6 +6,7 @@
 			  collapsed:: true
 				- [[draws/2021-11-23-11-37-20.excalidraw]]
 			- Cantidades Optimas y utilidad Maxima
+			  collapsed:: true
 				- Tenemos que maximizar nuestra utilidad sujetos a un ingreso. Recordar que supondremos que  nuestro ingreso será igual a nuestro gasto, por ende usaremos  $M$ para representar el ingreso y el gasto
 				-
 				  $$Max \, U(x,y) \\ S.a. \, \overline M=  P_x(x)+ P_y(y) $$
@@ -17,6 +18,7 @@
 				  $$\frac{UMg(x)}{UMg(y)} = \frac{P_x}{P_y}  \tag{1}  $$ $$   M=  P_x(x)+ P_y(y)  \tag{2} $$
 				- Esto se debe resolver y remplazar en la función de Ingreso y así se obtienen los óptimos de las cantidades que consumirá el individuo sujeto a su nivel de ingresos. y podemos asi obtener la utilidad que esto le generara
 			- Demandas Marshallianas
+			  collapsed:: true
 				- Demanda Marshallianas de $$X$$
 				  collapsed:: true
 					- De la ecuación (1) se debe despejar $Y$ y remplazar en la ecuación (2), y después despejar $X$, esta quedara en función de $M$ y del precio de X $P_x$
@@ -29,10 +31,12 @@
 					- 👁️ Se puede remplazar la demanda Marshallianas de $$X$$  en $X$ optenida al momento de despejar $Y$ de las ecuaciones (1) y (2)
 					-
 			- Función de utilidad indirecta
+			  collapsed:: true
 				- Para encontrar la función de utilidad indirecta remplazamos las Demandas Marshallianas de $X$ y de $Y$ en la función de utilidad, simplificando obtenemos $v$ , la función de utilidad indirecta
 				-
 				  $$V=V(M,P_x,P_y) \tag{3}$$
 			- Identidad de Roy
+			  collapsed:: true
 				- La identidad de Roy nos sirve para probar la igualdad entre la función de utilidad indirecta $$v$$ y la Demanda Marshallianas de  $$Y ^{ Dm}$$
 				-
 				  $$X ^{Dm }=- \frac{\frac{\partial v}{\partial P_x}}{\frac{\partial v}{\partial M}}$$
