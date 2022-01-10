@@ -10,5 +10,6 @@
 		- LATER [[Mercado Laboral]]
 	- #Hacer
 		- TODO [[Resúmenes Opta IV]]
-		- TODO [[Resúmenes Opta I]]  [[Métodos para el análisis]]
+		- TODO   [[Métodos para el análisis]]
+		- [[Resúmenes Opta I]]
 -
