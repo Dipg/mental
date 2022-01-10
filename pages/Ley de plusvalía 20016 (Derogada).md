@@ -6,6 +6,7 @@ Ref:
 		- https://www.sri.gob.ec/ley-organica-especulacion-sobre-valor-de-las-tierras
 - Ejemplo en clase
 - Ejercicio en casa
+  collapsed:: true
 	- Compra de un bien inmueble
 	- Información de compra
 	  collapsed:: true
@@ -22,7 +23,8 @@ Ref:
 		- Año: 2022
 		- Mes: Enero
 		- Precio de venta: $ 135.000,00
-	- Resolución
+	- Resolución 
+	  collapsed:: true
 		- [](#1.) **Valor Total del Bien**  ==$ 74.000,00==
 		  collapsed:: true
 			- Sumamos el valor de compra del bien , mas las contribuciones de mejora:
