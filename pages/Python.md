@@ -38,7 +38,7 @@
 		- Proyectos
 			- PDF Scraping-[[Tasa de interés pasivas referenciales plazo 361 y más]]
 				- Resumen:
-					- Se Busco Extraer la tasa [[Tasa de interés pasivas referenciales plazo 361 y más]] del [[Banco Central del Ecuador]] utilizando el método de  pdf scraping debido a que esta tasa en concreto se encuentra únicamente en archivos pdf subidos al banco central
+					- Se Busco Extraer la tasa [[Tasa de interés pasivas referenciales plazo 361 y más]] del [[Banco Central]] utilizando el método de  pdf scraping debido a que esta tasa en concreto se encuentra únicamente en archivos pdf subidos al banco central
 - Como saltar los errores en un loop for python
 	- https://blog.carreralinux.com.ar/2017/06/try-y-except-en-python-excepciones/
 	- COmo saltar errores en python
