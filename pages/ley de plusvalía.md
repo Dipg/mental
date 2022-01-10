@@ -1,5 +1,4 @@
 - Ejemplo en clase
-	-
 - Ejercicio en casa
 	- Compra de un bien inmueble
 	- Información de compra
