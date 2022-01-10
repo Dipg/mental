@@ -1,2 +1,2 @@
-- ![Garret_Marsh-2002-The-revenue-impacts.pdf](../assets/Garret_Marsh-2002-The-revenue-impacts_1641817357939_0.pdf)
+- ![The  revenue  impacts  of  cross-border  lottery  shopping  inthe  presence  of  spatial  autocorrelation](../assets/Garret_Marsh-2002-The-revenue-impacts_1641817357939_0.pdf)
 - ![Boxal_et_al-2005-The-impact-of-oil.pdf](../assets/Boxal_et_al-2005-The-impact-of-oil_1641817366109_0.pdf)
