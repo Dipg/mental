@@ -1,4 +1,4 @@
-- Teoría del Consumidor
+- # Teoría del Consumidor
 	- Optimo del Consumidor
 		- ## Enfoque Primal
 		  collapsed:: true
@@ -83,7 +83,8 @@
 					-
 					-
 		- ## Adicional
-			- Explicación grafica de las Demandas Hicksianas y Marshalianas
+		  collapsed:: true
+			- [🎞️](https://www.youtube.com/watch?v=jSMewmyWTjY)  Explicación grafica de las Demandas Hicksianas y Marshalianas
 - Mercado de Competencia perfecta
   id:: 61cc5e98-483c-4861-9139-50b87270d4c7
   collapsed:: true
