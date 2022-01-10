@@ -3,6 +3,7 @@
 - Ejercicio en casa
 	- Compra de un bien inmueble
 	- Información de compra
+	  collapsed:: true
 		- Año: 2018
 		- Mes : Marzo
 		- Precio: $ 65000,00
@@ -12,10 +13,12 @@
 			- Piso: $ 4000,00
 			- Televiso : $ 100.000,00  (no se toma en cuenta)
 	- información de venta
+	  collapsed:: true
 		- Año: 2022
 		- Mes: Enero
 		- Precio de venta: $ 135.000,00
-	- Resolución
+	- Resolución 
+	  collapsed:: true
 		- [](#1.) **Valor Total del Bien**  ==$ 74.000,00==
 		  collapsed:: true
 			- Sumamos el valor de compra del bien , mas las contribuciones de mejora:
