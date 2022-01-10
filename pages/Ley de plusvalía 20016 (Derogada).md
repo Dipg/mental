@@ -1,8 +1,7 @@
--
-	-
 - Ref:
-- Accionar de la Ley
-	- https://www.sri.gob.ec/ley-organica-especulacion-sobre-valor-de-las-tierras
+  collapsed:: true
+	- Accionar de la Ley
+		- https://www.sri.gob.ec/ley-organica-especulacion-sobre-valor-de-las-tierras
 - Ejemplo en clase
 - Ejercicio en casa
   collapsed:: true
