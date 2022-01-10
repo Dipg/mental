@@ -35,7 +35,7 @@
 			- cannot import name 'read_pdf'
 			- https://stackoverflow.com/questions/47939921/tabula-py-importerror-cannot-import-name-read-pdf
 	- Proyectos
-		- PDF Scraping-
+		- PDF Scraping-Tasa de Interes pasivas referenciasles plazo
 - Como saltar los errores en un loop for python
 	- https://blog.carreralinux.com.ar/2017/06/try-y-except-en-python-excepciones/
 	- COmo saltar errores en python
