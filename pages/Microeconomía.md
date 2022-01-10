@@ -62,19 +62,19 @@
 				-
 				  $$Min \, \, M=  P_x(x)+ P_y(y) $$
 				  $$S.a. \, \, \overline U=U(X,Y)$$
-			- ¿Que tipo de demandas optenemos de la minimización del
-			- Demandas Hicksianas (Compensadas)
-				- Son las que se obtienen cuando se minimiza el gasto sujeto a una utilidad establecida
-				- ¿Como obtenemos las demandas Hicksianas (Compensadas)?
-				- **Lema de Shephard**
-				  collapsed:: true
-					- Si derivamos la función del gasto mínimo con respecto al precio de $x$ obtenemos la función de demanda hicksiana del bien $x$ y viceversa para $y$
-					-
-					  $$\frac{\partial e}{\partial P_x}=X^H$$
-					- 🎞️ Video del Lema de Shephard
+			- ¿Qué tipo de demandas obtenemos de la minimización del gasto?
+				- Demandas Hicksianas (Compensadas)
+					- Son las que se obtienen cuando se minimiza el gasto sujeto a una utilidad establecida
+					- ¿Como obtenemos las demandas Hicksianas (Compensadas)?
+					- **Lema de Shephard**
 					  collapsed:: true
-						- https://www.youtube.com/watch?v=Qiv_o7o-SA0
-				-
+						- Si derivamos la función del gasto mínimo con respecto al precio de $x$ obtenemos la función de demanda hicksiana del bien $x$ y viceversa para $y$
+						-
+						  $$\frac{\partial e}{\partial P_x}=X^H$$
+						- 🎞️ Video del Lema de Shephard
+						  collapsed:: true
+							- https://www.youtube.com/watch?v=Qiv_o7o-SA0
+					-
 			- 🎞️Videos
 				- Enfoque Dual
 				  collapsed:: true
