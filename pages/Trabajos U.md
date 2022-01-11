@@ -8,7 +8,7 @@
 		- TODO [[Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición de un seguro de medicina prepagada a través de Facebook.]]
 	- #urgente
 		- LATER [[Mercado Laboral]]
-	- #Hacer
 		- TODO [[Resúmenes Opta IV]]
+	- #Hacer
 		- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]]
 -
