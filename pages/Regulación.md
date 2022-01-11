@@ -84,7 +84,7 @@ collapsed:: true
 		- En base a los costos que yo tengo puedo saber el numero de bloques que necesito
 		- Se podría pretender que el ultimo bloque financie el primer bloque
 		-
-	- Se puede comenzar con n
+	- Se puede comenzar con un bloque que este por debajo del costo marginal
 -
 -
 -
