@@ -7,7 +7,3 @@
 		  DEADLINE: <2022-01-21 Fri>
 	- #Hacer
 	-
-- DEADLINE: <2022-01-17 Mon>
--
--
--
