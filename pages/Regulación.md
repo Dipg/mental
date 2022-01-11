@@ -1,5 +1,6 @@
 -
 # [](#6.) Regulación de Monopolios naturales con información completa ![​📚​ ](../assets/Teoría_de_la_Reguación_Económica_1638914167455_0.pdf)
+collapsed:: true
 	- ## [](#6.1.) Introducción
 	  collapsed:: true
 		- Plante metodos para establecer precios a monopolios naturales
@@ -72,6 +73,5 @@
 -
 -
 -
--
-  ---
+- ---
 - [^1]: ((61b0089d-c0ca-4616-bbc9-377124c9bed5))
