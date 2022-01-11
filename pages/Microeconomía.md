@@ -96,7 +96,6 @@
 		- Existe Libre entrada y salida de la indsutria
 - # Monopolio
   id:: 619d1fd5-eb00-418b-b85e-5d724d64e93f
-  collapsed:: true
 	- Se da cuando:
 	-
 	  $$IMg=CMg$$
