@@ -81,7 +81,7 @@ collapsed:: true
 	- ¿Cuál es el objetivo de la tarifación en bloques?
 		- Es que el monopolista se financie
 		- En base a los costos que yo tengo puedo saber el numero de bloques que necesito
-		- Se podria pretender que el ultimo bloque
+		- Se podría pretender que el ultimo bloque financie el primer bloque
 -
 -
 -
