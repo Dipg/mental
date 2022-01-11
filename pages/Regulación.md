@@ -70,6 +70,7 @@ collapsed:: true
 		- Vector de precios  $p=(p_1,p_2...p_n)$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
+	  collapsed:: true
 		- Según Larry Hughes (2004):
 		- [](#0.) Descriptivos de demanda
 		- [](#1.)  Seleccionar el numero de bloques
@@ -77,6 +78,7 @@ collapsed:: true
 		- [](#3.)  Asignamos un precio a cada bloque
 		- [](#4.)  Calcular los ingresos de una base de datos de consumo del cliente
 		- [](#5.)  SI el ingreso calculado no es igual al ingreso requerido, repita desde el paso 1 (para cambiar el número de bloques), o el paso 2 (para cambiar el número de bloques), o el paso 2(para cambar los limites de consumo) o el paso 3 (para cambiar los precisos).
+	- ¿Cual es
 -
 -
 -
