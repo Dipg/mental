@@ -68,7 +68,7 @@ collapsed:: true
 		- El bienestar de la sociedad es la sumatoria de los excedentes del consumidores que se generan en la producción de cada bien , que produce y vende el monopolista regulado
 		- Vector de cantidades $y=(y_1,y_2...y_n)$
 		- Vector de precios  $p=(p_1,p_2...p_n)$
-- [[Tarifa en Bloque Creciente]]
+- # [[Tarifa en Bloque Creciente]]
 	-
 -
 -
