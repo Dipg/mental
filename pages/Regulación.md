@@ -69,7 +69,7 @@ collapsed:: true
 		- Vector de cantidades $y=(y_1,y_2...y_n)$
 		- Vector de precios  $p=(p_1,p_2...p_n)$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
-	- ¿Cuáles son los pasos para la crecación de unt
+	- ¿Cuáles son los pasos para la crecación de una tarifa en bloques creceitne
 -
 -
 -
