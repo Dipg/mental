@@ -71,6 +71,7 @@ collapsed:: true
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 		- Según Larry Hughes (2004):
+		- [](#1.)
 		- [](#1.)  Seleccionar el numero de bloques
 		- [](#2.) Asigne límites de consumo a cada bloque
 		- [](#3.)  Asignamos un precio a cada bloque
