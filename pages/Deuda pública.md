@@ -2,4 +2,4 @@
 	- Acceder a los boletines de Deuda Pública del Ecuador
 		- https://www.finanzas.gob.ec/https-wwwdeuda-publica-nueva-metodologia/
 		- https://www.finanzas.gob.ec/deuda-publica/
-		-
+		- No entendí bien la clase
