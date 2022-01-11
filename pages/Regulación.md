@@ -70,7 +70,7 @@ collapsed:: true
 		- Vector de precios  $p=(p_1,p_2...p_n)$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
-		- Seg
+		- Según Larry Hughes (2'004)
 -
 -
 -
