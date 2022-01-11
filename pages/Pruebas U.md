@@ -2,7 +2,7 @@
 	- [[Finanzas Públicas]]
 	  DEADLINE: <2022-01-17 Mon .+1d>
 - #urgente
-	-
+	- [[Métodos Para el Análisis Regional]]
 - #Hacer
 -
 - DEADLINE: <2022-01-17 Mon>
