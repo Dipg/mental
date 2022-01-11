@@ -3,14 +3,13 @@
 
 /*  Eliminar bloque de referencias*/
 
-./*  references{
+./*  */references{
     opacity:0;
-    }*/
+    }
  /*    .references:hover{
     opacity:1;
     }
   */ 
-  
 .cards{
     text-align:center;
     display: table;
