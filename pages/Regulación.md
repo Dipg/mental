@@ -74,6 +74,7 @@ collapsed:: true
 		- [](#1.)  Seleccionar el numero de bloques
 		- [](#2.) Asigne límites de consumo a cada bloque
 		- [](#3.)  Asignamos un precio a cada bloque
+		- Calcular los ingresos de una base de datos de consumo del cliente
 		-
 -
 -
