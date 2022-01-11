@@ -3,3 +3,5 @@
 		- https://www.finanzas.gob.ec/https-wwwdeuda-publica-nueva-metodologia/
 		- https://www.finanzas.gob.ec/deuda-publica/
 		- No entendí bien la clase
+		- Ministrerio de Fianzas
+			- https://www.finanzas.gob.ec/
