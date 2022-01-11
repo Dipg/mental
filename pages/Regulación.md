@@ -17,10 +17,8 @@
 			- [](#3.)  El subsidio cruzado
 			-
 	- ##  [](#6.2.) Fijación de precios de primer mejor versus segundo mejor
-	  collapsed:: true
 		- Fijación de precios cuando no existe asimetría de información, en el caso de monopolios naturales uniproducto.
 		- Precios de Primer mejor
-		  collapsed:: true
 			- $P=CMg$ donde alcanzamos el nivel de producción de competencia $y_pm$ , donde se alcanza el máximo bienestar social
 			- Esto genera una perdida para la empresa igual a sus costos fijos $F$, la perdida esta representada en el siguiente grafico
 			  collapsed:: true
