@@ -80,7 +80,7 @@ collapsed:: true
 		- [](#5.)  SI el ingreso calculado no es igual al ingreso requerido, repita desde el paso 1 (para cambiar el número de bloques), o el paso 2 (para cambiar el número de bloques), o el paso 2(para cambar los limites de consumo) o el paso 3 (para cambiar los precisos).
 	- ¿Cuál es el objetivo de la tarifación en bloques?
 		- Es que el monopolista se fianancie
-		- En base a los costos que
+		- En base a los costos que yo tengo puedo saber el numero de bloques que necesito
 -
 -
 -
