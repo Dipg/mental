@@ -75,7 +75,7 @@ collapsed:: true
 		- [](#2.) Asigne límites de consumo a cada bloque
 		- [](#3.)  Asignamos un precio a cada bloque
 		- [](#4.)  Calcular los ingresos de una base de datos de consumo del cliente
-		- SI el ingreso calculado no es igual al ingreso requerido, repita
+		- SI el ingreso calculado no es igual al ingreso requerido, repita desde el paso 1 (para cambiar el número )
 -
 -
 -
