@@ -73,7 +73,7 @@ collapsed:: true
 		- Según Larry Hughes (2004):
 		- [](#1.)  Seleccionar el numero de bloques
 		- [](#2.) Asigne límites de consumo a cada bloque
-		- [](#3.)  Asignamos
+		- [](#3.)  Asignamos un precio a cada bloque
 -
 -
 -
