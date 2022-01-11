@@ -6,7 +6,7 @@
 .references{
     opacity:0;
     }
- /*  */   .references:hover{
+    .references:hover{
     opacity:1;
     }
   
