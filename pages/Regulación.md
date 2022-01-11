@@ -28,7 +28,6 @@
 				- Debido al costo sombra, o costos por recepción de impuestos, carga de excedentes o exceso gravamen
 				- Por otro lado si se brinda un subsidio esto puede genera un incentivo perverso para la reduccion de costos, subsidiando así el costo fijo
 		- Precio de Segundo Mejor
-		  collapsed:: true
 			- $P=CMe$
 			- Maximiza el bienestar social
 			- Cubriendo los costos de producción
