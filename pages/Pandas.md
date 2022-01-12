@@ -356,4 +356,5 @@
 	  ```
 	- https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
 - Eliminar filas Dubplicadas
-	-
+	- ![image.png](../assets/image_1642027001958_0.png)
+	- https://www.datasciencemadesimple.com/drop-delete-rows-conditions-python-pandas/
