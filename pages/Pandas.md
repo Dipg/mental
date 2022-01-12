@@ -364,4 +364,5 @@
 	- https://www.statology.org/pandas-drop-rows-with-condition/
 	- ![image.png](../assets/image_1642027084428_0.png)
 - Eliminar filas duplicadas condicionadas en dos columnas
-	- Eliminar filas duplicadas que
+	- Eliminar filas duplicadas  mediante condicional
+	-
