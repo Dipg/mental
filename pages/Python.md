@@ -66,4 +66,6 @@
 - Convertir datos extraidos de web a una lista
 	- https://stackoverflow.com/questions/69420686/bs4-element-resultset-elements-to-a-list
 	- ```python
+	  page = requests.get('https://www.bolsadevaloresguayaquil.com/dividendos/')
+	  soup = BeautifulSoup(page.text, 'html.parser')
 	  ```
