@@ -222,6 +222,7 @@ collapsed:: true
 - # Loops en Stata
 	- {{renderer :linkpreview,https://data.library.virginia.edu/stata-basics-foreach-and-forvalues/}}
 	- {{renderer :linkpreview,https://www.stata.com/manuals/pforeach.pdf}}
+	- ![image.png](../assets/image_1641993441739_0.png)
 - Obtener total de una columna o variable Stata
   collapsed:: true
 	- Optener suma de una variable Stata columna Stata
