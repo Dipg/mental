@@ -225,7 +225,6 @@ collapsed:: true
 	- {{renderer :linkpreview,https://www.stata.com/manuals/pforeach.pdf}}
 	- ![image.png](../assets/image_1641993441739_0.png)
 - Obtener total de una columna o variable Stata
-  collapsed:: true
 	- Optener suma de una variable Stata columna Stata
 	- ```stata
 	  by industry: egen tot_2008 = total(revenue / (year == 2008)) 
