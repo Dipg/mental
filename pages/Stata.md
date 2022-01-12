@@ -226,7 +226,10 @@ collapsed:: true
 	  by industry: egen tot_2008 = total(revenue / (year == 2008)) 
 	  ```
 	- https://stackoverflow.com/questions/41122322/stata-calculate-change-between-years
--
+- Poner nombre a linea verticas en Stata
+	- ```stata
+	  https://stackoverflow.com/questions/31109311/stata-place-label-on-top-of-vertical-line-in-twoway-graph
+	  ```
 - ---
 - {{renderer :linkpreview,https://journals.sagepub.com/doi/pdf/10.1177/1536867X1701700313}}
 - {{renderer :linkpreview,https://www.stata.com/meeting/switzerland16/slides/bischof-switzerland16.pdf}}
