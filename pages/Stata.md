@@ -235,6 +235,10 @@ collapsed:: true
 	- https://stackoverflow.com/questions/31109311/stata-place-label-on-top-of-vertical-line-in-twoway-graph
 - Generar lineas verticales en stata en un grafico de linesa
 	- https://stackoverflow.com/questions/31109311/stata-place-label-on-top-of-vertical-line-in-twoway-graph
+	- ```stata
+	  xtline invest , overlay ysc(log) yla(1000 100 10 1, ang(h)) legend(off) addplot(scatter invest year if year == 1954, ms(none) mla(company) mlabcolor(black) || scatteri 1 1939 1000 1939, recast(line))
+	  
+	  ```
 - ---
 - {{renderer :linkpreview,https://journals.sagepub.com/doi/pdf/10.1177/1536867X1701700313}}
 - {{renderer :linkpreview,https://www.stata.com/meeting/switzerland16/slides/bischof-switzerland16.pdf}}
