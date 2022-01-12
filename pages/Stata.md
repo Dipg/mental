@@ -219,6 +219,8 @@ collapsed:: true
 	  
 	  ```
 	- https://www.statalist.org/forums/forum/general-stata-discussion/general/1402198-rename-variable-if-variable-exists
+-
+  #
 - Obtener total de una columna o variable Stata
   collapsed:: true
 	- Optener suma de una variable Stata columna Stata
@@ -259,6 +261,7 @@ collapsed:: true
 	  ```
 	- https://www.statalist.org/forums/forum/general-stata-discussion/general/1406627-add-vertical-line-to-a-twoway-graph
 - Quitar el total de tabla stata
+  collapsed:: true
 	- ```stata
 	  tabstat price weight mpg rep78, by(foreign) stat(mean sd min max) nototal
 	  
