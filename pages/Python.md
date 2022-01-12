@@ -63,4 +63,5 @@
 	- Extraer mes de columna pandas
 	- ![image.png](../assets/image_1642027544862_0.png)
 	- https://datascientyst.com/extract-month-and-year-datetime-column-in-pandas/
-- Convertir datos extraidos de
+- Convertir datos extraidos de web a una lista
+	- https://stackoverflow.com/questions/69420686/bs4-element-resultset-elements-to-a-list
