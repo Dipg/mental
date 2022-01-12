@@ -52,3 +52,5 @@
 	- https://stackoverflow.com/questions/67506116/abbreviated-month-or-day-of-the-week-with-a-dot-at-the-end-of-the-string
 - Codigos para identificar fechas en python
 	- https://www.dataindependent.com/pandas/pandas-to-datetime/
+- Convertir columna pandas en datatime
+	-
