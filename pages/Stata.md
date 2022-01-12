@@ -210,6 +210,7 @@ collapsed:: true
 - Drop aunque no este
 	- Eliminar variable auqnue no es
 	- Eliminar varaible auqnue no exista o auqnue ya exista
+	- Usamos capture antes
 	-
 - ---
 - {{renderer :linkpreview,https://journals.sagepub.com/doi/pdf/10.1177/1536867X1701700313}}
