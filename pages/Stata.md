@@ -208,6 +208,7 @@ collapsed:: true
 	- ![image.png](../assets/image_1639387840831_0.png)
 	- https://www.reed.edu/psychology/stata/analyses/parametric/correlation.html#:~:text=Correlation%20is%20performed%20using%20the,those%20variables%20will%20be%20displayed. /
 - # Drop aunque no este
+  collapsed:: true
 	- Eliminar variable auqnue no es
 	- Eliminar varaible auqnue no exista o auqnue ya exista
 	- Usamos capture antes
@@ -218,6 +219,7 @@ collapsed:: true
 	  
 	  ```
 	- https://www.statalist.org/forums/forum/general-stata-discussion/general/1402198-rename-variable-if-variable-exists
+-
 - ---
 - {{renderer :linkpreview,https://journals.sagepub.com/doi/pdf/10.1177/1536867X1701700313}}
 - {{renderer :linkpreview,https://www.stata.com/meeting/switzerland16/slides/bischof-switzerland16.pdf}}
