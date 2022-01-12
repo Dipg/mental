@@ -45,3 +45,4 @@
 	- Omitir errores en python
 	- Como omitir errores python
 		- https://stackoverflow.com/questions/38707513/ignoring-an-error-message-to-continue-with-the-loop-in-python
+- Poner en esp
