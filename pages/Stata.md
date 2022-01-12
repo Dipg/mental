@@ -4,7 +4,8 @@
   import delimited "\Trabajos\3. Endogenidad\Items\endogeneidad\broiler.csv"
   ```
 - #  [](#1.) Gráficas en Stata
-  collapsed:: true
+	- CAmbiar color de histograma
+		-
 	- Librerías Necesarias
 	  collapsed:: true
 		- ```stata
@@ -220,10 +221,12 @@ collapsed:: true
 	  ```
 	- https://www.statalist.org/forums/forum/general-stata-discussion/general/1402198-rename-variable-if-variable-exists
 - # Loops en Stata
+  collapsed:: true
 	- {{renderer :linkpreview,https://data.library.virginia.edu/stata-basics-foreach-and-forvalues/}}
 	- {{renderer :linkpreview,https://www.stata.com/manuals/pforeach.pdf}}
 	- ![image.png](../assets/image_1641993441739_0.png)
 - Obtener total de una columna o variable Stata
+  collapsed:: true
 	- Optener suma de una variable Stata columna Stata
 	- ```stata
 	  by industry: egen tot_2008 = total(revenue / (year == 2008)) 
