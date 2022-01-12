@@ -12,3 +12,7 @@
 - El precio del petróleo, tiene una relación positiva con la tasa de crecimiento de la inversión y es estadísticamente significativa a un nivel de confianza del 99%. El impacto que tiene esta variable sobre la dependiente es de 0.48; es decir un aumento de un 1% en la tasa de crecimiento del precio del petróleo, la tasa de crecimiento de la inversión aumentará en un 0.48%. Esta relación puede ser explicada  por  la  alta  dependencia  que  tiene  la  economía  ecuatoriana  a  esta fuente  energética.  Según  el  Banco  Central,  las  exportaciones  del  Ecuador dependen  en  dos  tercios  del  precio  del  petróleo;  y  por  tanto,  es  un  factor esencial en los ingresos percibidos por el país, resultando un proxy de liquidez “en términos de la cantidad de dinero circulando en el país”. En este sentido, la economía se vuelve muy sensible a los cambios en su precio; pues si aumenta el  precio  de  éste,  ingresa  más  dinero  al  país  y  existen  más  recursos  para destinar a la inversión.
 -
 - ![image.png](../assets/image_1642021598554_0.png)
+-
+-
+-
+-
