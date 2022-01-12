@@ -369,4 +369,7 @@
 	- https://www.statology.org/pandas-drop-duplicates/
 - Eliminar valores duplicados en dataframe pandas
 	- ```python
+	  df.drop_duplicates()
+	  
 	  ```
+	- https://www.datasciencemadesimple.com/delete-drop-duplicate-row-dataframe-python-pandas/
