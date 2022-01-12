@@ -53,4 +53,4 @@
 - Codigos para identificar fechas en python
 	- https://www.dataindependent.com/pandas/pandas-to-datetime/
 - Convertir columna pandas en datatime
-	-
+	- Convertir columna fechas a time
