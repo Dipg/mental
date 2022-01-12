@@ -220,6 +220,7 @@ collapsed:: true
 	  ```
 	- https://www.statalist.org/forums/forum/general-stata-discussion/general/1402198-rename-variable-if-variable-exists
 - # Loops en Stata
+  collapsed:: true
 	- {{renderer :linkpreview,https://data.library.virginia.edu/stata-basics-foreach-and-forvalues/}}
 	- {{renderer :linkpreview,https://www.stata.com/manuals/pforeach.pdf}}
 	- ![image.png](../assets/image_1641993441739_0.png)
