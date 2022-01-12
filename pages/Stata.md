@@ -8,6 +8,7 @@
 		- ```stata
 		  histogram proximity if proximity>0.65, bcolor(red) width(0.025) start(0) freq)
 		  ```
+		- https://www.statadaily.com/tag/addplot/
 	- Librerías Necesarias
 	  collapsed:: true
 		- ```stata
