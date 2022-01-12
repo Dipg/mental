@@ -358,7 +358,8 @@
 - Eliminar filas Dubplicadas
 	- ![image.png](../assets/image_1642027001958_0.png)
 	- https://www.statology.org/pandas-drop-rows-with-condition/
-- Eliminar filas duplicadas en dos columnas
+- Eliminar filas mediante condicionales
 	- Eliminar filas con if o condicionales
 	- Eliminar columnas con condicionales
 	- https://www.statology.org/pandas-drop-rows-with-condition/
+	- ![image.png](../assets/image_1642027084428_0.png)
