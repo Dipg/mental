@@ -4,4 +4,5 @@
 	- Seleccionar solo la palabra que contenga una ultima letra
 	- http://w3.unpocodetodo.info/utiles/regex.php
 - Hace que no distinga entre mayúsculas y minúsculas
--
+	- ```Python
+	  ```
