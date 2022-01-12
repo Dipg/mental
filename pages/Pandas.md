@@ -376,4 +376,9 @@
 - Optener ultimas letras de celda pandas
 	- Extraer ultimas letras de celda pandas
 	- Optener ultimas letras de string pandas
-	-
+	- ```python
+	  df1['StateInitial'] = df1['State'].str[:2]
+	  2
+	  print(df1) 
+	  ```
+		- V
