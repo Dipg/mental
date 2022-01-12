@@ -5,7 +5,9 @@
   ```
 - #  [](#1.) Gráficas en Stata
 	- CAmbiar color de histograma
-		-
+		- ```stata
+		  histogram proximity if proximity>0.65, bcolor(red) width(0.025) start(0) freq)
+		  ```
 	- Librerías Necesarias
 	  collapsed:: true
 		- ```stata
