@@ -46,4 +46,5 @@
 	- Como omitir errores python
 		- https://stackoverflow.com/questions/38707513/ignoring-an-error-message-to-continue-with-the-loop-in-python
 - Poner en español las fechas
-- Convertir tiempo en e
+	- Convertir tiempo en español a data time pandas
+	-
