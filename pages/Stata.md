@@ -260,6 +260,8 @@ collapsed:: true
 	- https://www.statalist.org/forums/forum/general-stata-discussion/general/1406627-add-vertical-line-to-a-twoway-graph
 - Quitar el total de tabla stata
 	- ```stata
+	  tabstat price weight mpg rep78, by(foreign) stat(mean sd min max) nototal
+	  
 	  ```
 - ---
 - {{renderer :linkpreview,https://journals.sagepub.com/doi/pdf/10.1177/1536867X1701700313}}
