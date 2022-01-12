@@ -62,4 +62,4 @@
 	- Extraer año de columna pandas
 	- Extraer mes de columna pandas
 	- ![image.png](../assets/image_1642027544862_0.png)
-	-
+	- https://datascientyst.com/extract-month-and-year-datetime-column-in-pandas/
