@@ -211,7 +211,9 @@ collapsed:: true
 	- Eliminar variable auqnue no es
 	- Eliminar varaible auqnue no exista o auqnue ya exista
 	- Usamos capture antes
-	-
+	- Renombrar variable auqnue no exista
+	- ```stata
+	  ```
 - ---
 - {{renderer :linkpreview,https://journals.sagepub.com/doi/pdf/10.1177/1536867X1701700313}}
 - {{renderer :linkpreview,https://www.stata.com/meeting/switzerland16/slides/bischof-switzerland16.pdf}}
