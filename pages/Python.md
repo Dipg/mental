@@ -54,6 +54,8 @@
 	- https://www.dataindependent.com/pandas/pandas-to-datetime/
 - Convertir columna pandas en datatime
 	- Convertir columna fechas a tiempo Pandas
+	- https://www.statology.org/convert-columns-to-datetime-pandas/v
+	- ![image.png](../assets/image_1642027499431_0.png)
 	- Todos los codigos de fechas
 		- https://www.dataindependent.com/pandas/pandas-to-datetime/
 -
