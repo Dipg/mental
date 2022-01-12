@@ -60,4 +60,4 @@
 		- https://www.dataindependent.com/pandas/pandas-to-datetime/
 - Extraer mes o año o dia de columna tiempo pandas
 	- Extraer año de columna pandas
-	-
+	- Extraer mes de columna pandas
