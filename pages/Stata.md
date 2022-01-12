@@ -286,7 +286,8 @@ collapsed:: true
 	- ![image.png](../assets/image_1641993379526_0.png)
 	- https://www.stata.com/manuals13/rtabstat.pdf
 - Optener promdeio mediana y  moda en Stata
-	-
+	- Optener moda en stata
+		-
 - ---
 - {{renderer :linkpreview,https://journals.sagepub.com/doi/pdf/10.1177/1536867X1701700313}}
 - {{renderer :linkpreview,https://www.stata.com/meeting/switzerland16/slides/bischof-switzerland16.pdf}}
