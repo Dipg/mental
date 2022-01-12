@@ -383,3 +383,4 @@
 	  ```
 		- ![image.png](../assets/image_1642027252376_0.png)
 	- https://www.datasciencemadesimple.com/return-first-n-character-from-left-of-column-in-pandas-python/
+	-
