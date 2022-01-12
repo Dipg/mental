@@ -248,7 +248,9 @@ collapsed:: true
 	  ```
 	- https://www.stata.com/statalist/archive/2008-09/msg00224.html
 - Cambiar linea de color stata
+  collapsed:: true
 	- https://www.stata.com/statalist/archive/2009-07/msg00154.html
+-
 - ---
 - {{renderer :linkpreview,https://journals.sagepub.com/doi/pdf/10.1177/1536867X1701700313}}
 - {{renderer :linkpreview,https://www.stata.com/meeting/switzerland16/slides/bischof-switzerland16.pdf}}
