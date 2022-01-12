@@ -221,7 +221,7 @@ collapsed:: true
 	- https://www.statalist.org/forums/forum/general-stata-discussion/general/1402198-rename-variable-if-variable-exists
 - # Loops en Stata
 	- {{renderer :linkpreview,https://data.library.virginia.edu/stata-basics-foreach-and-forvalues/}}
-	-
+	- {{renderer :linkpreview,https://www.stata.com/manuals/pforeach.pdf}}
 - Obtener total de una columna o variable Stata
   collapsed:: true
 	- Optener suma de una variable Stata columna Stata
