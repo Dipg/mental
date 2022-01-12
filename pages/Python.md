@@ -74,5 +74,6 @@
 	  for i in categories:
 	      listav+=i
 	  print(listav)
-	  
+	  listav[1].string
 	  ```
+-
