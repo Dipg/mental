@@ -230,7 +230,8 @@ collapsed:: true
 	  by industry: egen tot_2008 = total(revenue / (year == 2008)) 
 	  ```
 	- https://stackoverflow.com/questions/41122322/stata-calculate-change-between-years
-	-
+	- Obtener la suma de una columna Stata
+		-
 	- https://www.stata.com/statalist/archive/2002-08/msg00265.html
 - Poner nombre a linea verticas en Stata
   collapsed:: true
