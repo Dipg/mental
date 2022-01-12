@@ -222,6 +222,7 @@ collapsed:: true
 - Obtener total de una columna o variable Stata
 	- Optener suma de una variable Stata columna Stata
 	- ```stata
+	  by industry: egen tot_2008 = total(revenue / (year == 2008)) 
 	  ```
 - ---
 - {{renderer :linkpreview,https://journals.sagepub.com/doi/pdf/10.1177/1536867X1701700313}}
