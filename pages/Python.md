@@ -46,6 +46,8 @@
 	- Como omitir errores python
 		- https://stackoverflow.com/questions/38707513/ignoring-an-error-message-to-continue-with-the-loop-in-python
 - Poner en español las fechas
+  collapsed:: true
 	- Convertir tiempo en español a data time pandas
 	- https://stackoverflow.com/questions/35226904/convert-spanish-date-in-string-format
 	- https://stackoverflow.com/questions/67506116/abbreviated-month-or-day-of-the-week-with-a-dot-at-the-end-of-the-string
+- Cofi
