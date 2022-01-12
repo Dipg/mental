@@ -373,4 +373,5 @@
 	  
 	  ```
 	- https://www.datasciencemadesimple.com/delete-drop-duplicate-row-dataframe-python-pandas/
-- Optener ultimas letras de cel
+- Optener ultimas letras de celda pandas
+	- E
