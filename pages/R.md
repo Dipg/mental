@@ -78,13 +78,13 @@
 			- ej
 				- ![image.png](../assets/image_1640162076013_0.png)
 	- # 4. Análisis Multivariado
-	  collapsed:: true
 		- ## Análisis Clústers
 		  collapsed:: true
 			- K-Means
 				- {{renderer :linkpreview,https://www.youtube.com/watch?v=c1E_4lzfUBw}}
 				- {{renderer :linkpreview,https://www.youtube.com/watch?v=WM3VfPLVFNw}}
 		- ## Árbol de Decisiones
+		  collapsed:: true
 			- Instalar Librerias Necesarias
 			  collapsed:: true
 				- ```r
@@ -95,3 +95,5 @@
 				  library(rpart)
 				  library(rpart.plot)
 				  ```
+		- # Analisisi Factorial
+			-
