@@ -61,3 +61,5 @@
 - Extraer mes o año o dia de columna tiempo pandas
 	- Extraer año de columna pandas
 	- Extraer mes de columna pandas
+	- ![image.png](../assets/image_1642027544862_0.png)
+	-
