@@ -359,3 +359,4 @@
 	- ![image.png](../assets/image_1642027001958_0.png)
 	- https://www.datasciencemadesimple.com/drop-delete-rows-conditions-python-pandas/
 - Eliminar filas duplicadas en dos columnas
+	- Eliminar filas con i
