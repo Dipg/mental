@@ -50,4 +50,5 @@
 	- Convertir tiempo en español a data time pandas
 	- https://stackoverflow.com/questions/35226904/convert-spanish-date-in-string-format
 	- https://stackoverflow.com/questions/67506116/abbreviated-month-or-day-of-the-week-with-a-dot-at-the-end-of-the-string
-- Cofi
+- Codigos para identificar fechas en python
+	- https://www.dataindependent.com/pandas/pandas-to-datetime/
