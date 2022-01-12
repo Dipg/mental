@@ -13,7 +13,7 @@
 -
 - ![image.png](../assets/image_1642021598554_0.png)
 -
--
+- ![image.png](../assets/image_1642029864303_0.png)
 -
 - Elasticidades de la demanda laboral en. (1986). https://www.bcu.gub.uy/Comunicaciones/Jornadas%20de%20Economa/iees03j3591009.pdf
 - ‌
