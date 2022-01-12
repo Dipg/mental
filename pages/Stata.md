@@ -95,6 +95,7 @@
 		- ```stata
 		  xtitle("Month of 2001")
 		  ```
+		-
 		- ![image.png](../assets/image_1641220193625_0.png)
 	- Cambiar el tamaño de la fuente  en Axis - letra en ejes STATA
 	  collapsed:: true
