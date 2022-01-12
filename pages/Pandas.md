@@ -355,4 +355,5 @@
 	  df.drop(['A'], axis = 1)
 	  ```
 	- https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
-- Eliminar filas
+- Eliminar filas Dubplicadas
+	-
