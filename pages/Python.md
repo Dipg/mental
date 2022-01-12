@@ -58,4 +58,6 @@
 	- ![image.png](../assets/image_1642027499431_0.png)
 	- Todos los codigos de fechas
 		- https://www.dataindependent.com/pandas/pandas-to-datetime/
-- Extraer
+- Extraer mes o año o dia de columna tiempo pandas
+	- Extraer año de columna pandas
+	-
