@@ -241,11 +241,13 @@ collapsed:: true
 	  
 	  ```
 - Linea vertical en stata , controlando el alto de la linea
-- ``` stata
-  gr twoway scatter mpg price ||
-  scatteri 20 5000 40 5000, c(l) msym(none) legend(off)
-  ```
-- https://www.stata.com/statalist/archive/2008-09/msg00224.html
+  collapsed:: true
+	- ``` stata
+	  gr twoway scatter mpg price ||
+	  scatteri 20 5000 40 5000, c(l) msym(none) legend(off)
+	  ```
+	- https://www.stata.com/statalist/archive/2008-09/msg00224.html
+-
 - ---
 - {{renderer :linkpreview,https://journals.sagepub.com/doi/pdf/10.1177/1536867X1701700313}}
 - {{renderer :linkpreview,https://www.stata.com/meeting/switzerland16/slides/bischof-switzerland16.pdf}}
