@@ -7,5 +7,5 @@
 	- http://www2.udec.cl/~jdresdne/ddalaboral.pdf
 	- https://www.bcu.gub.uy/Comunicaciones/Jornadas%20de%20Economa/iees03j3591009.pdf
 	-
-- Los resultados obtenidos implican que un aumento de un punto porcentual de la actividad económica uruguaya genera aproximadamente un incremento en el empleo privado de 1% y de 0,7% en
+- Los resultados obtenidos implican que un aumento de un punto porcentual de la actividad económica de ecuador genera aproximadamente un incremento en el empleo privado de 1% y de 0,7% en
   el privado y público en conjun
