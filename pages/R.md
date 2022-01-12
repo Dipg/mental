@@ -95,5 +95,5 @@
 				  library(rpart)
 				  library(rpart.plot)
 				  ```
-		- # Análisis Factorial
-			- https://www.youtube.com/watch?v=ULyTbYKPHuU
+		- # Analisisi Factorial
+			-
