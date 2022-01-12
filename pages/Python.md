@@ -68,4 +68,11 @@
 	- ```python
 	  page = requests.get('https://www.bolsadevaloresguayaquil.com/dividendos/')
 	  soup = BeautifulSoup(page.text, 'html.parser')
+	  categories = soup.find_all('td')
+	  listav = []
+	  
+	  for i in categories:
+	      listav+=i
+	  print(listav)
+	  
 	  ```
