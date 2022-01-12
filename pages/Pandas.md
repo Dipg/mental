@@ -376,3 +376,4 @@
 - Optener ultimas letras de celda pandas
 	- Extraer ultimas letras de celda pandas
 	- Optener ultimas letras de string pandas
+	-
