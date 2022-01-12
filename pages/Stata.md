@@ -231,7 +231,11 @@ collapsed:: true
 	  ```
 	- https://stackoverflow.com/questions/41122322/stata-calculate-change-between-years
 	- Obtener la suma de una columna Stata
-		-
+		- ```stata
+		  summ x
+		  scal sidney=r(sum)
+		  
+		  ```
 	- https://www.stata.com/statalist/archive/2002-08/msg00265.html
 - Poner nombre a linea verticas en Stata
   collapsed:: true
