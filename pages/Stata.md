@@ -82,7 +82,6 @@
 		  scatter mpg weight
 		  ```
 	- Cambiar tipo de linea en Grafica STATA
-	  collapsed:: true
 		- ```stata
 		  twoway function . . . , lpattern(solid) .
 		  ```
