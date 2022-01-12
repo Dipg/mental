@@ -213,6 +213,9 @@ collapsed:: true
 	- Usamos capture antes
 	- Renombrar variable auqnue no exista
 	- ```stata
+	   capture drop variable
+	    capture rename make make_rename
+	  
 	  ```
 - ---
 - {{renderer :linkpreview,https://journals.sagepub.com/doi/pdf/10.1177/1536867X1701700313}}
