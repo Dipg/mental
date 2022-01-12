@@ -7,4 +7,4 @@
 	- http://www2.udec.cl/~jdresdne/ddalaboral.pdf
 	- https://www.bcu.gub.uy/Comunicaciones/Jornadas%20de%20Economa/iees03j3591009.pdf
 	-
-- Los resultados obtenidos implican que un aumento de un punto porcentual de la actividad económica de ecuador genera aproximadamente un incremento en el empleo  de 1.7%
+- Los resultados obtenidos implican que un aumento de un punto porcentual de la actividad económica de ecuador genera aproximadamente un incremento en el empleo pleno de 1.7%
