@@ -231,7 +231,7 @@ collapsed:: true
 	  ```
 	- https://stackoverflow.com/questions/41122322/stata-calculate-change-between-years
 	- Obtener la suma de una columna Stata
-		- Obter
+		- Obtener el total de una columna variable Stata
 		- ```stata
 		  summ x
 		  scal sidney=r(sum)
