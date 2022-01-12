@@ -287,7 +287,19 @@ collapsed:: true
 	- https://www.stata.com/manuals13/rtabstat.pdf
 - Optener promdeio mediana y  moda en Stata
 	- Optener moda en stata
-		-
+		- ```stata
+		  
+		  . egen meanprice = mean(price), by(rep)
+		  
+		  . egen medprice = median(price), by(rep)
+		  
+		  . egen modprice = mode(price), by(rep) missing maxmode
+		  
+		  . egen tag = tag(rep), missing
+		  
+		  . sort rep
+		  
+		  ```
 - ---
 - {{renderer :linkpreview,https://journals.sagepub.com/doi/pdf/10.1177/1536867X1701700313}}
 - {{renderer :linkpreview,https://www.stata.com/meeting/switzerland16/slides/bischof-switzerland16.pdf}}
