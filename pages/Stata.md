@@ -95,7 +95,7 @@
 		- ```stata
 		  xtitle("Month of 2001")
 		  ```
-		- Agregar ejes específicos en STATA - Agregar valores específicos a los ejes Satata
+		- Agregar ejes específicos en STATA - Agregar valores específicos a los ejes Satata  (esta en el bloque de abajo )
 		- ![image.png](../assets/image_1641220193625_0.png)
 	- Cambiar el tamaño de la fuente  en Axis - letra en ejes STATA
 	  collapsed:: true
