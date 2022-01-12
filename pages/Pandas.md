@@ -374,4 +374,5 @@
 	  ```
 	- https://www.datasciencemadesimple.com/delete-drop-duplicate-row-dataframe-python-pandas/
 - Optener ultimas letras de celda pandas
-	- Extraer ultimas letrass de
+	- Extraer ultimas letras de celda pandas
+	- Optener ultimas letras de string pandas
