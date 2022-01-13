@@ -3,7 +3,7 @@
   SCHEDULED: <2022-01-10 Mon .+5d>
 	- #inmediato
 		- DONE [[Ley de Plusvalía ]]
-		- LATER [[Óptimos de precios Regulación]]
+		- DONE [[Óptimos de precios Regulación]]
 		- LATER [[Modelo de Inversión- Qtobi en Ecuador]]
 		- TODO [[Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición de un seguro de medicina prepagada a través de Facebook.]]
 	- #urgente
