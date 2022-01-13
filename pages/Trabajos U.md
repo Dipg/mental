@@ -9,6 +9,7 @@
 	- #urgente
 		- DONE [[Mercado Laboral]]
 		- TODO [[Resúmenes Opta IV]]
+		  DEADLINE: <2022-01-13 Thu>
 	- #Hacer
 		- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]]
 		  DEADLINE: <2022-01-24 Mon>
