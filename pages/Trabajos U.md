@@ -11,4 +11,5 @@
 		- TODO [[Resúmenes Opta IV]]
 	- #Hacer
 		- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]]
+		  DEADLINE: <2022-01-24 Mon>
 -
