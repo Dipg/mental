@@ -5,6 +5,7 @@
 		- DONE [[Ley de Plusvalía ]]
 		- DONE [[Óptimos de precios Regulación]]
 		- LATER [[Modelo de Inversión- Qtobi en Ecuador]]
+		  DEADLINE: <2022-01-13 Thu>
 		- TODO [[Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición de un seguro de medicina prepagada a través de Facebook.]]
 		  DEADLINE: <2022-01-18 Tue>
 	- #urgente
