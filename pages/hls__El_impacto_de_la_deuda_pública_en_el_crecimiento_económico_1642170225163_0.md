@@ -18,3 +18,7 @@
   ls-type:: annotation
   hl-page:: 5
   id:: 61e189c6-5bfd-4d17-a977-2b33e82402f0
+- Lof  y  Malinen  (2014)  
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 61e18a42-c985-4c72-bf1f-f0ad1bfc92cc
