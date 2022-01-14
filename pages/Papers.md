@@ -17,7 +17,7 @@
 			  &+\mu_{i}+v_{t}+\varepsilon_{i, t}
 			  \end{aligned}
 			  $$
-			- Como se puede observar al tomar en cuenta la temporalidad y los individuos (países),
+			- Como se puede observar al tomar en cuenta la temporalidad y los individuos (países) se aplica estimac
 		- # Explique el efecto de la deuda externa sobre el crecimiento de los países.
 		-
 		- # Cuáles son las principales conclusiones y recomendaciones del estudio.
