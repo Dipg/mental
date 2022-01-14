@@ -23,6 +23,6 @@
 		- # Explique el efecto de la deuda externa sobre el crecimiento de los países.
 		-
 		- # Cuáles son las principales conclusiones y recomendaciones del estudio.
-			- Los resultados de todos los modelos muestran uan relacion no lineal significativa estadisticamente  entre e
+			- Los resultados de todos los modelos muestran uan relacion no lineal significativa estadisticamente  entre el ratio de la deuda pública
 -
 -
