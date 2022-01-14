@@ -27,6 +27,6 @@
 		- # Cuáles son las principales conclusiones y recomendaciones del estudio.
 			- Principales conclusiones
 				- Presencia de u invertida en la relación deuda PIB
-				- Punto de Inflexi
+				- Punto de Inflexión entre un 64 y 71 % de media para la muestra
 -
 -
