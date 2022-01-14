@@ -1,5 +1,5 @@
 - [[Finanzas Públicas]]
-	-
+	- ![El impacto de la deuda pública en el crecimiento económico.pdf](../assets/El_impacto_de_la_deuda_pública_en_el_crecimiento_económico_1642170225163_0.pdf)
 -
 -
 -
