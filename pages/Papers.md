@@ -18,7 +18,7 @@
 			  $$
 			- Como se puede observar al tomar en cuenta la temporalidad y los individuos (países) se aplica estimación mediante efectos fijos de panel corregidos de heteroscedasticidad y autocorrelación.
 			- Debido a la presencia de endogeneidad se implantan varias técnicas de estimación mediante variables instrumentales. Los estimadores utilizados son GMM o mínimos cuadrados en dos etapas  usando  así matrices de ponderación óptima.
-			- Se instrumentalizo la variable de deuda para cada país a través de  5 rezagos temporales, sin embargo esto puede ser un problema debido a la alta persistencia de la variable del stock de deuda , se uso además el ratio deuda/PIB como instrumento , El problema de endogeneidad se reduce ya que las variables explicitas se retrasan un año. S eestimo ademas intervalos de confianza  en los puntos de inflexion utilizando el metodo delta ara
+			- Se instrumentalizo la variable de deuda para cada país a través de  5 rezagos temporales, sin embargo esto puede ser un problema debido a la alta persistencia de la variable del stock de deuda , se uso además el ratio deuda/PIB como instrumento , El problema de endogeneidad se reduce ya que las variables explicitas se retrasan un año. S eestimo ademas intervalos de confianza  en los puntos de inflexion utilizando el metodo delta para evaluar la incertidumbre estadistica que rodea
 			-
 		- # Explique el efecto de la deuda externa sobre el crecimiento de los países.
 		-
