@@ -3,7 +3,8 @@
 		- # Resuma la principal bibliografía empleada en el artículo.
 			- Poca revisión pero importante. Sin embargo la revision basada en la relación directa deuda PIB es poco convincente.
 			- Schclarek  (2014) con una muestra de 24 países industrializado no encuentra una relación significativa
-			- Reinhart y Rogoff (2010) niveles bajos de deuda afectan positivamente, niveles altos afectan negativmanete al creimeitno del económico
+			- Reinhart y Rogoff (2010) niveles bajos de deuda afectan positivamente, niveles altos afectan negativamente al crecimiento del económico.
+			-
 		- # Explique la metodología empleada con las variables empleadas.
 		-
 		- # Explique el efecto de la deuda externa sobre el crecimiento de los países.
