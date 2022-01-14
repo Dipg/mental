@@ -17,7 +17,7 @@
 			  \end{aligned}
 			  $$
 			- Como se puede observar al tomar en cuenta la temporalidad y los individuos (países) se aplica estimación mediante efectos fijos de panel corregidos de heteroscedasticidad y autocorrelación.
-			- Debido a la presencia de endogeneidad se implantan varias técnicas de estimación mediante variables instrumentales. Los estimadores utilizados son GMM o mínimos cuadrados en dos etapas  u
+			- Debido a la presencia de endogeneidad se implantan varias técnicas de estimación mediante variables instrumentales. Los estimadores utilizados son GMM o mínimos cuadrados en dos etapas  usando  asi matrices de ponderación
 		- # Explique el efecto de la deuda externa sobre el crecimiento de los países.
 		-
 		- # Cuáles son las principales conclusiones y recomendaciones del estudio.
