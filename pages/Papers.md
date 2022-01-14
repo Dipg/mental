@@ -4,8 +4,6 @@
 			- Poca revisión pero importante. Sin embargo la revision basada en la relación directa deuda PIB es poco convincente.
 			- Schclarek  (2014) con una muestra de 24 países industrializado no encuentra una relación significativa, al igaul que Lof  y  Malinen  (2014)
 			- Reinhart y Rogoff (2010) niveles bajos de deuda afectan positivamente, niveles altos afectan negativamente al crecimiento del económico.
-			- Lof  y  Malinen  (2014)  no encuentran evidencia robusta de la relación deuda PIB
-			  id:: 61e18a26-6b26-4111-b653-a2aa09157886
 			- Woo y Kumar (2015), Encontraron una relación inversa.
 			- Dreger  y  Reimers  (2013) impacto negativo de la deuda se da en periodos de deuda non sostenibles.
 			- Eberhardt  y  Presbitero  (2015) y Égert  (2015)  estudian umbrales de deuda.
