@@ -6,7 +6,7 @@
 			- Reinhart y Rogoff (2010) niveles bajos de deuda afectan positivamente, niveles altos afectan negativamente al crecimiento del económico.
 			- Lof  y  Malinen  (2014)  no encuentran evidencia robusta de la relación deuda PIB
 			  id:: 61e18a26-6b26-4111-b653-a2aa09157886
-			- Woo y Kumar (2015), ENcno
+			- Woo y Kumar (2015), Encontraron una relación inversa.
 		- # Explique la metodología empleada con las variables empleadas.
 		-
 		- # Explique el efecto de la deuda externa sobre el crecimiento de los países.
