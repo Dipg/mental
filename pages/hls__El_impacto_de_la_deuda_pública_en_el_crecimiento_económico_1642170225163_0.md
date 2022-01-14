@@ -42,3 +42,7 @@
   ls-type:: annotation
   hl-page:: 6
   id:: 61e18bd0-0a93-4914-90fe-1f7bba031fc2
+- nuestro modelo de crecimiento empírico se basa en una ecuación de convergencia condicional que relaciona la tasa de crecimiento del PIB per cápita  con  el  nivel  inicial  de  la  renta  per  cápita,  la  tasa  de  inversión/ahorro  respecto  al  
+  ls-type:: annotation
+  hl-page:: 6
+  id:: 61e18e26-f98f-4119-83aa-ece6a9b0ae8e
