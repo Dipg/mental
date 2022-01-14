@@ -14,3 +14,7 @@
   ls-type:: annotation
   hl-page:: 5
   id:: 61e189b0-8578-4cb8-8acc-9e522dee0f23
+- los  niveles  bajos  de  deuda pública  afectan  positivamente  al  crecimiento  económico,  los  niveles  altos  tienen  un  impacto  negativo).
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 61e189c6-5bfd-4d17-a977-2b33e82402f0
