@@ -9,7 +9,7 @@
 			- Woo y Kumar (2015), Encontraron una relación inversa.
 			- Dreger  y  Reimers  (2013) impacto negativo de la deuda se da en periodos de deuda non sostenibles.
 			- Eberhardt  y  Presbitero  (2015) y Égert  (2015)  estudian umbrales de deuda para
-			- Gómez-Puig y Sosvilla-Rivero  (2015)   estuadin un punto de ruptura de efectos de deuda negativos
+			- Gómez-Puig y Sosvilla-Rivero  (2015)   estudian un punto de ruptura de efectos de deuda negativos sobre el PIB
 		- # Explique la metodología empleada con las variables empleadas.
 		-
 		- # Explique el efecto de la deuda externa sobre el crecimiento de los países.
