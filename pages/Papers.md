@@ -26,7 +26,7 @@
 		- Se encuentra una relación significativa no lineal entre el ratio de deuda pública y la tasa de crecimiento del PIB per cápita la forma invertida de una u se presenta teniendo como punto de inflexión un aproximado de 64 a 71%
 		- # Cuáles son las principales conclusiones y recomendaciones del estudio.
 			- Principales conclusiones
-				- Realación no lineal deuda PBI
+				- Realación no lineal deuda PIB per cápita
 				- Presencia de u invertida en la relación deuda PIB
 				- Punto de Inflexión entre un 64 y 71 % de media para la muestra
 -
