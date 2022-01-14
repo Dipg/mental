@@ -46,3 +46,7 @@
   ls-type:: annotation
   hl-page:: 6
   id:: 61e18e26-f98f-4119-83aa-ece6a9b0ae8e
+- utilizamos una ecuación cuadrática en la deuda
+  ls-type:: annotation
+  hl-page:: 8
+  id:: 61e19005-c7a4-41c8-a0c1-ae4a873613c4
