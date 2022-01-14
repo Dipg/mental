@@ -70,3 +70,7 @@
   ls-type:: annotation
   hl-page:: 11
   id:: 61e19898-f5f1-4996-821c-433d2bf8ac31
+- Esto  significa  que,  en  promedio  para  los  países  latinoamericanos, las relaciones deuda pública/PIB por encima de este umbral tendrían un efecto negativo sobre el crecimiento económico (es decir, hasta este umbral, la deuda adicional  tiene  un  impacto  estimulante  sobre  el  crecimiento).  La  variable  institucional  seleccionada muestra el signo esperado y los países con gobiernos democráticos tienden a mostrar mayores tasas de crecimiento.
+  ls-type:: annotation
+  hl-page:: 13
+  id:: 61e199ce-541f-43a1-b567-495279e186a1
