@@ -8,7 +8,7 @@
 			  id:: 61e18a26-6b26-4111-b653-a2aa09157886
 			- Woo y Kumar (2015), Encontraron una relación inversa.
 			- Dreger  y  Reimers  (2013) impacto negativo de la deuda se da en periodos de deuda non sostenibles.
-			- Eberhardt  y  Presbitero  (2015)  no hay un umbral de deuda para
+			- Eberhardt  y  Presbitero  (2015)  no hay un umbral de deuda para todo s,loa paises
 		- # Explique la metodología empleada con las variables empleadas.
 		-
 		- # Explique el efecto de la deuda externa sobre el crecimiento de los países.
