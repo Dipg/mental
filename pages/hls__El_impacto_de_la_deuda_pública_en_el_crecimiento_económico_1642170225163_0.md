@@ -38,3 +38,7 @@
   ls-type:: annotation
   hl-page:: 6
   id:: 61e18b9c-c93d-4694-83bc-ffed5283c191
+- Gómez-Puig y Sosvilla-Rivero  (2015)  
+  ls-type:: annotation
+  hl-page:: 6
+  id:: 61e18bd0-0a93-4914-90fe-1f7bba031fc2
