@@ -1,5 +1,5 @@
 - # Resuma la principal bibliografía empleada en el artículo.
-	- Poca revisión pero importante, esta se basa en un enfoque directo deuda-PIBf
+	- Poca revisión pero importante, esta se basa en un enfoque directo deuda-PIB
 - # Explique la metodología empleada con las variables empleadas.
 -
 - # Explique el efecto de la deuda externa sobre el crecimiento de los países.
