@@ -50,3 +50,7 @@
   ls-type:: annotation
   hl-page:: 8
   id:: 61e19005-c7a4-41c8-a0c1-ae4a873613c4
+- estimación   es   la   de   efectos   fijos   de   panel   corregidos   de   heteroscedasticidad  y  autocorrelació
+  ls-type:: annotation
+  hl-page:: 9
+  id:: 61e191f6-8bd8-4d35-a80f-a69ccead2814
