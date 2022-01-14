@@ -66,3 +66,7 @@
   ls-type:: annotation
   hl-page:: 11
   id:: 61e197b2-89d7-4023-8373-ce869a799e09
+- El  punto  de  inflexión  de  esta  relación  cóncava  (forma  de  U  invertida)  se  sitúa  aproximadamente entre el 64 y el 71% de media para la muestra, en todos los modelos.
+  ls-type:: annotation
+  hl-page:: 11
+  id:: 61e19898-f5f1-4996-821c-433d2bf8ac31
