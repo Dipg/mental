@@ -1,1 +1,1 @@
-- ![El impacto de la deuda pública en el crecimeinto econ](../assets/Cuáles_son_las_principales_conclusiones_y_recomendaciones_del_estudio._1642170033236_0.pdf)
+- ![El impacto de la deuda pública en el crecimiento económico ](../assets/Cuáles_son_las_principales_conclusiones_y_recomendaciones_del_estudio._1642170033236_0.pdf)
