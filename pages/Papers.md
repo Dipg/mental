@@ -23,6 +23,6 @@
 		- # Explique el efecto de la deuda externa sobre el crecimiento de los países.
 		-
 		- # Cuáles son las principales conclusiones y recomendaciones del estudio.
-			- Los resultados de todos los modelos muestran una relación no lineal significativa estadisticamente  entre el ratio de la deuda pública y la tasa de creceimitno del PIB per cápita teneindo como punto de inflexion un 64 a 71 % aproximadamente
+			- Los resultados de todos los modelos muestran una relación no lineal significativa estadísticamente  entre el ratio de la deuda pública y la tasa de crecimiento del PIB per cápita teniendo como punto de inflexión un 64 a 71 % aproximadamente
 -
 -
