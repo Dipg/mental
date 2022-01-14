@@ -9,7 +9,7 @@
 			- Dejando los estudios sin un consenso claro
 		- # Explique la metodología empleada con las variables empleadas.
 			- ((61e18e26-f98f-4119-83aa-ece6a9b0ae8e))
-			- El modelo se bas aen una ecuaci
+			- El modelo se bas aen una ecuación de convergencia condicional que relaciona
 		- # Explique el efecto de la deuda externa sobre el crecimiento de los países.
 		-
 		- # Cuáles son las principales conclusiones y recomendaciones del estudio.
