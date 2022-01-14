@@ -25,6 +25,7 @@
 		- EN promedio par alos países estudiados, las relaciones deuda  pública /PIB por encima del umbral tendían un efecto negativo sobre el crecimiento económico,  mientras que la variable institucional muestra que los países con gobierno democráticos tienden a mostrar mayores tasa de crecimiento
 		- Se encuentra una relación significativa no lineal entre el ratio de deuda pública y la tasa de crecimiento del PIB per cápita la forma invertida de una u se presenta teniendo como punto de inflexión un aproximado de 64 a 71%
 		- # Cuáles son las principales conclusiones y recomendaciones del estudio.
-			-
+			- Principales conclusiones
+		-
 -
 -
