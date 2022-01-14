@@ -54,3 +54,7 @@
   ls-type:: annotation
   hl-page:: 9
   id:: 61e191f6-8bd8-4d35-a80f-a69ccead2814
+- técnicas  de  estimación  de  variables  instrumentales
+  ls-type:: annotation
+  hl-page:: 9
+  id:: 61e1927c-ad0d-4e1e-a056-7c0844f27f10
