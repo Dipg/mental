@@ -2,13 +2,13 @@
 	- ![El impacto de la deuda pública en el crecimiento económico.pdf](../assets/El_impacto_de_la_deuda_pública_en_el_crecimiento_económico_1642170225163_0.pdf)
 		- # Resuma la principal bibliografía empleada en el artículo.
 			- Poca revisión pero importante. Sin embargo la revision basada en la relación directa deuda PIB es poco convincente.
-			- Schclarek  (2014) con una muestra de 24 países industrializado no encuentra una relación significativa, al igaul que Lof  y  Malinen  (2014)
-			- Reinhart y Rogoff (2010) niveles bajos de deuda afectan positivamente, niveles altos afectan negativamente al crecimiento del económico, similar a lo encontrado porWoo y Kumar (2015) en base a una relación inversa.
-			- Dreger  y  Reimers  (2013)encuentran un impacto negativo de la deuda se da en periodos de deuda non sostenibles.
-			- Eberhardt  y  Presbitero  (2015) y Égert  (2015)  estudian umbrales de deuda, similares a lo realizado por Gómez-Puig y Sosvilla-Rivero  (2015) que  estudian un punto de ruptura de efectos de deuda negativos sobre el PIB
-			- Dejando los estudios sin un consenso claro
-		- # Explique la metodología empleada con las variables empleadas.
-			- ((61e18e26-f98f-4119-83aa-ece6a9b0ae8e))
+			- LATER Schclarek  (2014) con una muestra de 24 países industrializado no encuentra una relación significativa, al igaul que Lof  y  Malinen  (2014)
+			- LATER Reinhart y Rogoff (2010) niveles bajos de deuda afectan positivamente, niveles altos afectan negativamente al crecimiento del económico, similar a lo encontrado porWoo y Kumar (2015) en base a una relación inversa.
+			- LATER Dreger  y  Reimers  (2013)encuentran un impacto negativo de la deuda se da en periodos de deuda non sostenibles.
+			- LATER Eberhardt  y  Presbitero  (2015) y Égert  (2015)  estudian umbrales de deuda, similares a lo realizado por Gómez-Puig y Sosvilla-Rivero  (2015) que  estudian un punto de ruptura de efectos de deuda negativos sobre el PIB
+			- LATER Dejando los estudios sin un consenso claro
+		- LATER # Explique la metodología empleada con las variables empleadas.
+			- LATER ((61e18e26-f98f-4119-83aa-ece6a9b0ae8e))
 		- # Explique el efecto de la deuda externa sobre el crecimiento de los países.
 		-
 		- # Cuáles son las principales conclusiones y recomendaciones del estudio.
