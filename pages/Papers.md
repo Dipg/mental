@@ -1,6 +1,13 @@
 - [[Finanzas Públicas]]
 	- ![El impacto de la deuda pública en el crecimiento económico.pdf](../assets/El_impacto_de_la_deuda_pública_en_el_crecimiento_económico_1642170225163_0.pdf)
--
+		- # Resuma la principal bibliografía empleada en el artículo.
+			- Poca revisión pero importante. Sin embargo la revision basada en la relación directa deuda PIB es poco convincente.
+			- Schclarek  (2014) con una muestra de 24 países industrializado no encuentra una relación significativa
+		- # Explique la metodología empleada con las variables empleadas.
+		-
+		- # Explique el efecto de la deuda externa sobre el crecimiento de los países.
+		-
+		- # Cuáles son las principales conclusiones y recomendaciones del estudio.
 -
 -
 -
