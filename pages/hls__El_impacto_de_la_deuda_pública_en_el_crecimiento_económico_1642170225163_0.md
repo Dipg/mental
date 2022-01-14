@@ -10,3 +10,7 @@
   ls-type:: annotation
   hl-page:: 5
   id:: 61e1894d-72ef-4c49-9774-5d1c39a3ddeb
+- Reinhart y Rogoff (2010)
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 61e189b0-8578-4cb8-8acc-9e522dee0f23
