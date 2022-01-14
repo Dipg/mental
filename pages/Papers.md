@@ -21,7 +21,7 @@
 			- Se instrumentalizo la variable de deuda para cada país a través de  5 rezagos temporales, sin embargo esto puede ser un problema debido a la alta persistencia de la variable del stock de deuda , se uso además el ratio deuda/PIB como instrumento , El problema de endogeneidad se reduce ya que las variables explicitas se retrasan un año. S eestimo ademas intervalos de confianza  en los puntos de inflexion utilizando el metodo delta para evaluar la incertidumbre estadistica que rodea a las estimaciones del punto de inflexion
 			-
 		- # Explique el efecto de la deuda externa sobre el crecimiento de los países.
-		- Se encuentra una relación significativa no lineal entre el ratio de deuda pública y la tasa de crecimiento del PIB per cápita la forma invertida de una u se preseta teniendo como punto de inflexion
+		- Se encuentra una relación significativa no lineal entre el ratio de deuda pública y la tasa de crecimiento del PIB per cápita la forma invertida de una u se preseta teniendo como punto de inflexion un aproximado de 64 a 71%
 		- # Cuáles son las principales conclusiones y recomendaciones del estudio.
 			- Los resultados de todos los modelos muestran una relación no lineal significativa estadísticamente  entre el ratio de la deuda pública y la tasa de crecimiento del PIB per cápita teniendo como punto de inflexión un 64 a 71 % aproximadamente
 -
