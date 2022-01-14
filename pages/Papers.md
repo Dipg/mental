@@ -18,6 +18,7 @@
 			  \end{aligned}
 			  $$
 			- Como se puede observar al tomar en cuenta la temporalidad y los individuos (países) se aplica estimación mediante efectos fijos de panel corregidos de heteroscedasticidad y autocorrelación.
+			- De
 		- # Explique el efecto de la deuda externa sobre el crecimiento de los países.
 		-
 		- # Cuáles son las principales conclusiones y recomendaciones del estudio.
