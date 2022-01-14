@@ -2,7 +2,7 @@
 	- ![El impacto de la deuda pública en el crecimiento económico.pdf](../assets/El_impacto_de_la_deuda_pública_en_el_crecimiento_económico_1642170225163_0.pdf)
 		- # Resuma la principal bibliografía empleada en el artículo.
 			- Poca revisión pero importante. Sin embargo la revision basada en la relación directa deuda PIB es poco convincente.
-			- Schclarek  (2014) con una muestra de 24 países industrializado no encuentra una relación significativa
+			- Schclarek  (2014) con una muestra de 24 países industrializado no encuentra una relación significativa, al igaul que Lof  y  Malinen  (2014)
 			- Reinhart y Rogoff (2010) niveles bajos de deuda afectan positivamente, niveles altos afectan negativamente al crecimiento del económico.
 			- Lof  y  Malinen  (2014)  no encuentran evidencia robusta de la relación deuda PIB
 			  id:: 61e18a26-6b26-4111-b653-a2aa09157886
