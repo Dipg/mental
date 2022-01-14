@@ -7,8 +7,8 @@
 			- Dreger  y  Reimers  (2013)encuentran un impacto negativo de la deuda se da en periodos de deuda non sostenibles.
 			- Eberhardt  y  Presbitero  (2015) y Égert  (2015)  estudian umbrales de deuda, similares a lo realizado por Gómez-Puig y Sosvilla-Rivero  (2015) que  estudian un punto de ruptura de efectos de deuda negativos sobre el PIB
 			- Dejando los estudios sin un consenso claro
-		- LATER # Explique la metodología empleada con las variables empleadas.
-			- LATER ((61e18e26-f98f-4119-83aa-ece6a9b0ae8e))
+		- # Explique la metodología empleada con las variables empleadas.
+			- ((61e18e26-f98f-4119-83aa-ece6a9b0ae8e))
 		- # Explique el efecto de la deuda externa sobre el crecimiento de los países.
 		-
 		- # Cuáles son las principales conclusiones y recomendaciones del estudio.
