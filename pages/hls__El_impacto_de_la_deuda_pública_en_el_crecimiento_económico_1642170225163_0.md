@@ -62,3 +62,7 @@
   ls-type:: annotation
   hl-page:: 11
   id:: 61e19551-caf5-4a93-a0ef-a4f788698130
+- El  problema  de  la  endogeneidad  también se ve mitigado en nuestra especificación por el hecho de que todas las variables explicativas se retrasan un año1 con respecto a la variable dependiente.
+  ls-type:: annotation
+  hl-page:: 11
+  id:: 61e197b2-89d7-4023-8373-ce869a799e09
