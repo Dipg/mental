@@ -1,6 +1,6 @@
 - # Resuma la principal bibliografía empleada en el artículo.
 	- Poca revisión pero importante. Sin embargo la revision basada en la relación directa deuda PIB es poco convincente.
-	- Schclarek  (2014) con una muestra de 24 paiseno encuentra una relación significativa
+	- Schclarek  (2014) con una muestra de 24 países no encuentra una relación significativa
 - # Explique la metodología empleada con las variables empleadas.
 -
 - # Explique el efecto de la deuda externa sobre el crecimiento de los países.
