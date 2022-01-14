@@ -5,7 +5,7 @@
 			- Schclarek  (2014) con una muestra de 24 países industrializado no encuentra una relación significativa, al igaul que Lof  y  Malinen  (2014)
 			- Reinhart y Rogoff (2010) niveles bajos de deuda afectan positivamente, niveles altos afectan negativamente al crecimiento del económico, similar a lo encontrado porWoo y Kumar (2015) en base a una relación inversa.
 			- Dreger  y  Reimers  (2013)encuentran un impacto negativo de la deuda se da en periodos de deuda non sostenibles.
-			- Eberhardt  y  Presbitero  (2015) y Égert  (2015)  estudian umbrales de deuda, similares a lo Gómez-Puig y Sosvilla-Rivero  (2015)   estudian un punto de ruptura de efectos de deuda negativos sobre el PIB
+			- Eberhardt  y  Presbitero  (2015) y Égert  (2015)  estudian umbrales de deuda, similares a lo realizado por Gómez-Puig y Sosvilla-Rivero  (2015) que  estudian un punto de ruptura de efectos de deuda negativos sobre el PIB
 		- # Explique la metodología empleada con las variables empleadas.
 		-
 		- # Explique el efecto de la deuda externa sobre el crecimiento de los países.
