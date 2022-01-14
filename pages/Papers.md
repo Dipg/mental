@@ -9,7 +9,7 @@
 			- Dejando los estudios sin un consenso claro
 		- # Explique la metodología empleada con las variables empleadas.
 			- ((61e18e26-f98f-4119-83aa-ece6a9b0ae8e))
-			- El modelo se basa en una ecuación cuadrática de convergencia condicional que relaciona la tas de crecimiento del PIB per cápita con el nivel de renta per cápita, la tasa de inversión /ahorro respecto al PIB y la tas de crecimiento de la población, a mas del nivel de deuda pública, entre algunas variables adicionales tenemos: Indicadores de apertura económica; El capital humano; tipos de gobierno(democráticos o no) y entorno político(Disciplina fiscal en tasa de inflación).
+			- El modelo se basa en una ecuación cuadrática de convergencia condicional que relaciona la tas de crecimiento del PIB per cápita con el nivel de renta per cápita, la tasa de inversión /ahorro respecto al PIB y la tas de crecimiento de la población, a mas del nivel de deuda pública, entre algunas variables adicionales tenemos: Indicadores de apertura económica; El capital humano; tipos de gobierno(democráticos o no) y entorno político(Disciplina fiscal en tasa de inflación). la siguiente ecuaci
 			-
 			  $$
 			  \begin{aligned}
