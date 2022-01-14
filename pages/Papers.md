@@ -29,6 +29,6 @@
 				- Relación no lineal deuda PIB per cápita
 				- Presencia de u invertida en la relación deuda PIB
 				- Punto de Inflexión entre un 64 y 71 % de media para la muestra
-				- Es  de gran Importancia de la forma de gobierno (Democrático o no ) para mayor crecientito económico
+				- Es  de gran Importancia  la forma de gobierno (Democrático o no ) para mayor crecientito económico
 -
 -
