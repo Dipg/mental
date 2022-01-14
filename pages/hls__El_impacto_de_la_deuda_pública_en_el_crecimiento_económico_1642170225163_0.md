@@ -58,3 +58,7 @@
   ls-type:: annotation
   hl-page:: 9
   id:: 61e1927c-ad0d-4e1e-a056-7c0844f27f10
+- puede ser más problemático dada la alta persistencia de la variable del stock de deuda.
+  ls-type:: annotation
+  hl-page:: 11
+  id:: 61e19551-caf5-4a93-a0ef-a4f788698130
