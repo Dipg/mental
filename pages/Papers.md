@@ -7,6 +7,7 @@
 			- Lof  y  Malinen  (2014)  no encuentran evidencia robusta de la relación deuda PIB
 			  id:: 61e18a26-6b26-4111-b653-a2aa09157886
 			- Woo y Kumar (2015), Encontraron una relación inversa.
+			- Dreger  y  Reimers  (2013)
 		- # Explique la metodología empleada con las variables empleadas.
 		-
 		- # Explique el efecto de la deuda externa sobre el crecimiento de los países.
