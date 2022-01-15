@@ -10,7 +10,7 @@
 	- ((06b6b343-4139-4975-9cf8-78b5f4bf7a21))
 		- Las empresas no saben como enfrentarse a la cantidad masiva de usuarios en línea, ni cuales pueden ser los mejores mecanismos de presentación o acercamiento del producto o servicio a ofertar
 - _"están diseñadas de manera que promueven la repetición de su uso", le dijo a CNN Carolina Vidal, profesora asistente de psiquiatría y ciencias del comportamiento, de la Facultad de Medicina en la Universidad Johns Hopkins._ - [¿Por qué son tan adictivas las redes sociales?](https://cnnespanol.cnn.com/lite/?article=1090860)
--
+- _"La mayoría de las redes sociales tienen una característica común —el “like”— que refuerza el comportamiento de la persona que comparte el comentario o la foto, promoviendo su repetición. Los “likes” han demostrado ser equivalentes al refuerzo del dinero o recompensas sociales", dijo Vidal._ - [¿Por qué son tan adictivas las redes sociales?](https://cnnespanol.cnn.com/lite/?article=1090860)
 -
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
