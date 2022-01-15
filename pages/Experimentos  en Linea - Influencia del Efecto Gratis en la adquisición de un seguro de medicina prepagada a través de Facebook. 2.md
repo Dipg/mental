@@ -9,6 +9,7 @@
 		- Realizar un experimento para determinar la existe de un cambia o no, en  el ratio de conversión de una publicación pagada en Facebook, debido a la modificación de información presentada a  dos grupos similares  de  usuarios de la red social.
 	- ((06b6b343-4139-4975-9cf8-78b5f4bf7a21))
 		- Las empresas no saben como enfrentarse a la cantidad masiva de usuarios en línea, ni cuales pueden ser los mejores mecanismos de presentación o acercamiento del producto o servicio a ofertar
+-
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
 	- # Introducción  {{renderer :wordcount_bqvuhong}}
