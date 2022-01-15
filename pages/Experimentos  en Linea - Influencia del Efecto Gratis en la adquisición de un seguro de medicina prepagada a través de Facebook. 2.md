@@ -21,7 +21,7 @@
   #+END_QUOTE
 - _Haugen, exgerente de producto de Facebook con experiencia en "gestión de productos algorítmicos", centra sus críticas principalmente en el algoritmo de la empresa diseñado para mostrar a los usuarios los contenidos con los que es más probable que participen._ - [Éxito de Facebook se basó en algoritmos. ¿Pueden también arreglarlos?](https://cnnespanol.cnn.com/2021/10/10/exito-facebook-algoritmos-arreglarlos-trax/)
 -
--
+- _Posteriormente, investigadores encontraron evidencia de que el acto de revelar informaciónacerca de uno mismo está conectado a las mismas regiones del cerebro que están vinculados a la recompensa. Esto podría ser una razón por la que algunas personas pueden ser adictos a publicar y compartir información en las redes sociales._ - [¿Por qué las redes sociales son tan adictivas? - MVS Noticias](https://mvsnoticias.com/noticias/mundo-geek/por-que-las-redes-sociales-son-tan-adictivas-763/)
 -
 -
 -
