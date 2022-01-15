@@ -25,7 +25,7 @@
 -
 - # Recompensas y publicar en redes sociales
 - _lo que comparten también tiene un impacto directo en los hábitos de consumo o en las decisiones de compra._ - [Cosas del cerebro: Publicamos en redes sociales para conseguir una recompensa emocional](https://www.puromarketing.com/42/27266/cosas-cerebro-publicamos-redes-sociales-para-conseguir-recompensa.html)
--
+- _cuando publicamos ciertas cuestiones estamos buscando ciertas sensaciones concretas._ - [Cosas del cerebro: Publicamos en redes sociales para conseguir una recompensa emocional](https://www.puromarketing.com/42/27266/cosas-cerebro-publicamos-redes-sociales-para-conseguir-recompensa.html)
 -
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
