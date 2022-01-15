@@ -118,4 +118,5 @@
 		- ((61cde762-2b52-442b-8d3c-a057592f124f))
 			- Buscar cuales son las reglas de aleatorización que usa Facebook para mostrar loa anuncios
 			- ((61cdea9b-8f72-4d77-9ced-65643815a334))
--
+- Bibliografía
+	-
