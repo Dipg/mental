@@ -61,6 +61,7 @@
 	- _La anticipación mientras se carga la aplicación aumenta la emoción y la naturaleza adictiva._ - [¿Por qué las redes sociales son tan adictivas?](https://gizmodo.com/why-is-social-media-so-addictive-1841261494)
 	- _Las características como las rachas en Snapchat juegan con nuestro deseo de no defraudar a otras personas \(y romper una racha\)_ - [¿Por qué las redes sociales son tan adictivas?](https://gizmodo.com/why-is-social-media-so-addictive-1841261494)
 	- _ así como con la idea de que cuanto más tiempo e inversión hayamos puesto en algo \(conocido como costos irrecuperables\), más inversión tendremos para mantener en marcha._ - [¿Por qué las redes sociales son tan adictivas?](https://gizmodo.com/why-is-social-media-so-addictive-1841261494)
+	- _ herramientas comunes de psicología del comportamiento para captar la atención de los usuarios y tratar de atraerlos para que pasen más tiempo en sus sitios web/aplicaciones. Los ejemplos incluyen los intentos de hacer que el uso de dichos sitios sea más fácil, repetitivo y automático \(p. ej., no es necesario iniciar sesión cuando se utiliza una aplicación, desplazamiento infinito, reproducción continua automática de videos\), _ - [¿Por qué las redes sociales son tan adictivas?](https://gizmodo.com/why-is-social-media-so-addictive-1841261494)
 -
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
