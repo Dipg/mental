@@ -39,6 +39,7 @@
 	- _ los mecanismos conocidos de aprendizaje por recompensa. Se trata de un concepto psicológico que postula que las recompensas pueden impulsar y reforzar comportamientos._ - [Usamos las redes sociales como los animales buscan comida • Tendencias21](https://tendencias21.levante-emv.com/usamos-las-redes-sociales-como-los-animales-buscan-comida.html)
 	- _ su estudio, publicado en la revista Nature Communications, los mecanismos de recompensa son los mismos que se emplean en los experimentos con roedores y otros animales: los ejemplares son estimulados a realizar una acción a partir del logro de una recompensa_ - [Usamos las redes sociales como los animales buscan comida • Tendencias21](https://tendencias21.levante-emv.com/usamos-las-redes-sociales-como-los-animales-buscan-comida.html)
 	- _ay estudios que evidencian que en países de Latinoamérica hay una relación entre el alto consumo de redes sociales y baja productividad_ - [El precio de las Redes Sociales — Colectivo Millennial](https://www.colectivomillennial.com/blog/el-precio-de-las-redes-sociales)
+	- _La primera razón por la que las redes sociales pueden ser tan adictivas está relacionada con el acrónimo más asociado con ellas: FOMO, o Miedo a perderse algo. _ - [¿Por qué somos tan adictos a las redes sociales?](https://welldoing.org/article/why-are-we-so-addicted-to-social-media)
 -
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
