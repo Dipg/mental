@@ -17,7 +17,7 @@
 - _En Polonia, por ejemplo, la nota dice que el equipo de gestión de redes sociales de un partido estimó que sus publicaciones pasaron de ser mitad positivas y mitad negativas a ser 80% negativas debido al cambio de algoritmo. En España, según el documento, los partidos dijeron sentirse "atrapados en un ciclo ineludible de campaña negativa por las ==estructuras de incentivos de la plataforma"==._ - [La ciencia detrás de las métricas de Facebook para la interacción de los usuarios](https://cnnespanol.cnn.com/2021/10/27/matematicas-news-feed-facebook-papers-trax/)
 -
 - #+BEGIN_QUOTE
-  Usan la valoración o puntuaci
+  Usan la valoración o puntuación mayor en los comentarios como incentivos para generar estos
   #+END_QUOTE
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
