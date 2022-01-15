@@ -30,7 +30,7 @@
 	- _Cuando sus actualizaciones reciben un montón de me gustas, se activa el nucleus accumbens, la parte del cerebro asociada a las recompensas y que es la misma que se pone en ebullición cuando nos damos placeres, como comer chocolate, o cuando ganamos dinero._ - [Cosas del cerebro: Publicamos en redes sociales para conseguir una recompensa emocional](https://www.puromarketing.com/42/27266/cosas-cerebro-publicamos-redes-sociales-para-conseguir-recompensa.html) Universidad de California
 	- _ Conseguir muchos me gusta y muchas respuestas positivas hace que sintamos que hemos sido recompensados_ - [Cosas del cerebro: Publicamos en redes sociales para conseguir una recompensa emocional](https://www.puromarketing.com/42/27266/cosas-cerebro-publicamos-redes-sociales-para-conseguir-recompensa.html)
 	- _Pero lo cierto es que el volumen de me gustas no solo cambia las propias emociones sino que también modifica la percepción de la realidad que les rodea._ - [Cosas del cerebro: Publicamos en redes sociales para conseguir una recompensa emocional](https://www.puromarketing.com/42/27266/cosas-cerebro-publicamos-redes-sociales-para-conseguir-recompensa.html)
-	-
+	- _Cuando la foto ya había tenido éxito, lo más habitual es que ellos también optaran por dar a me gusta. Cuando no lo había tenido, la foto tampoco triunfaba con ellos._ - [Cosas del cerebro: Publicamos en redes sociales para conseguir una recompensa emocional](https://www.puromarketing.com/42/27266/cosas-cerebro-publicamos-redes-sociales-para-conseguir-recompensa.html)
 -
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
