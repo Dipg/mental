@@ -56,6 +56,7 @@
 	- _ Las recompensas, que pueden ser fisiológicas, psicológicas y/o sociales, pueden ser poco frecuentes, pero incluso la anticipación de una de estas recompensas puede ser psicológica y/o fisiológicamente placentera._ - [Why Is Social Media So Addictive?](https://gizmodo.com/why-is-social-media-so-addictive-1841261494)
 	- _Los usuarios habituales de las redes sociales nunca saben si su próximo mensaje o notificación será el que los haga sentir realmente bien. _ - [Why Is Social Media So Addictive?](https://gizmodo.com/why-is-social-media-so-addictive-1841261494)
 	- _==Las recompensas aleatorias hacen que las personas respondan durante más tiempo.==_ - [Why Is Social Media So Addictive?](https://gizmodo.com/why-is-social-media-so-addictive-1841261494)
+	- _Las recompensas son intermitentes e impredecibles: nunca sabemos cuándo iniciamos sesión si obtuvimos más Me gusta, comentarios o seguidores._ - [¿Por qué las redes sociales son tan adictivas?](https://gizmodo.com/why-is-social-media-so-addictive-1841261494)
 -
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
