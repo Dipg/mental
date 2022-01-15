@@ -23,7 +23,7 @@
 -
 - _Posteriormente, investigadores encontraron evidencia de que el acto de revelar informaciónacerca de uno mismo está conectado a las mismas regiones del cerebro que están vinculados a la recompensa. Esto podría ser una razón por la que algunas personas pueden ser adictos a publicar y compartir información en las redes sociales._ - [¿Por qué las redes sociales son tan adictivas? - MVS Noticias](https://mvsnoticias.com/noticias/mundo-geek/por-que-las-redes-sociales-son-tan-adictivas-763/)
 -
--
+- recompensas y publicar en redes sociales
 -
 -
 -
