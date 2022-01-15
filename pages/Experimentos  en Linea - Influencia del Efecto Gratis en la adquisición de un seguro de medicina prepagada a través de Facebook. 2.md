@@ -54,6 +54,7 @@
 	- _el desempeño del usuario se compara directamente con el desempeño de otros a través del botón "me gusta" y otras formas de aprobación social. _ - [Why Social Media Are So Addictive | Mind Matters](https://mindmatters.ai/2019/07/why-social-media-are-so-addictive/)
 	- _Una de las características psicológicas clave en el uso habitual de las redes sociales es la imprevisibilidad y la aleatoriedad de lo que sucede dentro de las plataformas de redes sociales. _ - [Why Is Social Media So Addictive?](https://gizmodo.com/why-is-social-media-so-addictive-1841261494)
 	- _ Las recompensas, que pueden ser fisiológicas, psicológicas y/o sociales, pueden ser poco frecuentes, pero incluso la anticipación de una de estas recompensas puede ser psicológica y/o fisiológicamente placentera._ - [Why Is Social Media So Addictive?](https://gizmodo.com/why-is-social-media-so-addictive-1841261494)
+	- _Los usuarios habituales de las redes sociales nunca saben si su próximo mensaje o notificación será el que los haga sentir realmente bien. _ - [Why Is Social Media So Addictive?](https://gizmodo.com/why-is-social-media-so-addictive-1841261494)
 -
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
