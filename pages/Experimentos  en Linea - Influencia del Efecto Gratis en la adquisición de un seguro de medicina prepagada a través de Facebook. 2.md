@@ -46,6 +46,7 @@
 	- ![image.png](../assets/image_1642215103025_0.png)
 	- ![image.png](../assets/image_1642215091442_0.png)
 	- _El miedo a perderse algo \(FOMO, por sus siglas en inglés\) es un gran impulsor del uso de las redes sociales,_ - [Psicología de las Redes Sociales: ¿Qué nos hace adictos? - Aprende UX](https://www.keepitusable.com/blog/psychology-of-social-networks-what-makes-us-addicted/)
+	-
 -
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
