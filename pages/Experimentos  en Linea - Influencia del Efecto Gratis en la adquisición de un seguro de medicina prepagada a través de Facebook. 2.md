@@ -19,6 +19,14 @@
 - #+BEGIN_QUOTE
   Cuantas mas veces se comparte una publicación mas alcance tiene esta, y ya que es una publicación comentable, se repetira el cilo  , esa es una estructura de incentivos 
   #+END_QUOTE
+- _Haugen, exgerente de producto de Facebook con experiencia en "gestión de productos algorítmicos", centra sus críticas principalmente en el algoritmo de la empresa diseñado para mostrar a los usuarios los contenidos con los que es más probable que participen._ - [Éxito de Facebook se basó en algoritmos. ¿Pueden también arreglarlos?](https://cnnespanol.cnn.com/2021/10/10/exito-facebook-algoritmos-arreglarlos-trax/)
+-
+-
+-
+-
+-
+-
+-
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
 	- # Introducción  {{renderer :wordcount_bqvuhong}}
