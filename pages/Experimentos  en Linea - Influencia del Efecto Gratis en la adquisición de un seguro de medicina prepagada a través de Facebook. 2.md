@@ -50,7 +50,7 @@
 	- _Conocer la resonancia de un medio nos ayuda a comprender su impacto específico en nuestra cultura en general y en los usuarios individuales._ - [Why Social Media Are So Addictive | Mind Matters](https://mindmatters.ai/2019/07/why-social-media-are-so-addictive/)
 	- _la resonancia de las redes sociales es el rendimiento._ - [Why Social Media Are So Addictive | Mind Matters](https://mindmatters.ai/2019/07/why-social-media-are-so-addictive/)
 	- _recibir comentarios positivos sobre su desempeño en lugar de en el contacto y la discusión con los demás. _ - [Why Social Media Are So Addictive | Mind Matters](https://mindmatters.ai/2019/07/why-social-media-are-so-addictive/)
-	-
+	- _Si bien muchos otros elementos promueven la adicción a las redes sociales, la tendencia hacia el rendimiento es probablemente un factor._ - [Why Social Media Are So Addictive | Mind Matters](https://mindmatters.ai/2019/07/why-social-media-are-so-addictive/)
 -
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
