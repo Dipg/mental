@@ -102,7 +102,7 @@
 			- {{youtube https://www.youtube.com/watch?v=p0oEf7sXQ1U}}
 	- Indice de Lerner
 		- Como medir el poder de mercado del Monopolio
-			- La clave para saber cuanto es el poder de mercado que tiene un monopolista es la elasticidad
+			- La clave para saber cuanto es el poder de mercado que tiene un monopolista es la elasticidad de la demandad
 	- Optimo del monopolo
 	  collapsed:: true
 		- Se da cuando:
