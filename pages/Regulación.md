@@ -128,6 +128,8 @@
 		-
 		  $$Q=Q_1+Q_2$$
 		-
+		  $$Q=Q_1+Q_2$$
+		-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
