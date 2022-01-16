@@ -118,26 +118,26 @@
 				- {{youtube-timestamp 643}}  Calcular la elasticidad en Monopolio
 - Elasticidades
 	- ## Demanda
-	- ### Elas
-	- Elasticidad precio de la demanda
-	  collapsed:: true
-		- {{youtube https://www.youtube.com/watch?v=IuHlwLY1-pQ&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=2}}
-	- Elasticidad precio cruzada de la demanda
-	- Calcular la espasticidad de una demanda
-	  collapsed:: true
-		- {{youtube https://www.youtube.com/watch?v=gKCmfkTzrys&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=5}}
-	- Diferencia entre la elasticidad y la pendiente (relación¡ entre la elasticidad y la pendiente)
-	- Tipos de curvas segun su elasticidad
-	  collapsed:: true
-		- {{youtube https://www.youtube.com/watch?v=j63afjS9fxw&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=7}}
-	- Elasticidad precio de una demanda lineal (cada punto de la lineal tienen una elasticidad diferente)
-	  collapsed:: true
-		- {{youtube https://www.youtube.com/watch?v=CnTOOjAjJyY&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=9}}
-	- Los ingresos total y la elasticidad precio de la demanda
-	  collapsed:: true
-		- En mercados donde la demanda es mas elástica no es conveniente que suba el precio, por que el ingreso total que van a recibir los oferentes va a disminuir
-		- EN mercados donde la demanda es más inelástica es mas conveniente aumentar el precio
-		- {{youtube https://www.youtube.com/watch?v=lQ18MbuK23c&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=10}}
+	- ### Elasticidad ingreso de la demanda
+		- Elasticidad precio de la demanda
+		  collapsed:: true
+			- {{youtube https://www.youtube.com/watch?v=IuHlwLY1-pQ&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=2}}
+		- Elasticidad precio cruzada de la demanda
+		- Calcular la espasticidad de una demanda
+		  collapsed:: true
+			- {{youtube https://www.youtube.com/watch?v=gKCmfkTzrys&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=5}}
+		- Diferencia entre la elasticidad y la pendiente (relación¡ entre la elasticidad y la pendiente)
+		- Tipos de curvas segun su elasticidad
+		  collapsed:: true
+			- {{youtube https://www.youtube.com/watch?v=j63afjS9fxw&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=7}}
+		- Elasticidad precio de una demanda lineal (cada punto de la lineal tienen una elasticidad diferente)
+		  collapsed:: true
+			- {{youtube https://www.youtube.com/watch?v=CnTOOjAjJyY&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=9}}
+		- Los ingresos total y la elasticidad precio de la demanda
+		  collapsed:: true
+			- En mercados donde la demanda es mas elástica no es conveniente que suba el precio, por que el ingreso total que van a recibir los oferentes va a disminuir
+			- EN mercados donde la demanda es más inelástica es mas conveniente aumentar el precio
+			- {{youtube https://www.youtube.com/watch?v=lQ18MbuK23c&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=10}}
 	- ### Elasticidad ingreso de la demanda
 		- Ejemplos numéricos de elasticidad ingreso de la demanda
 			- {{youtube https://www.youtube.com/watch?v=3pg5arXw0Gs&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=12}}
