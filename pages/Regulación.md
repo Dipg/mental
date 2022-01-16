@@ -80,7 +80,7 @@
 		  $$(P-P_1)=m(Q-Q_1)$$
 		- Datos:
 		- Epresa
-		- $
+		- $Cmg=50$ →
 		- Clase Empresarial
 		- $p_1=200$
 		- $q_1=1500$
