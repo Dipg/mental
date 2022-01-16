@@ -131,4 +131,4 @@
 	- Elasticidad precio de una demanda lineal (cada punto de la lineal tienen una elasticidad diferente)
 	  collapsed:: true
 		- {{youtube https://www.youtube.com/watch?v=CnTOOjAjJyY&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=9}}
-	- Curvas de demanda e ingresos
+	- Los ingresos
