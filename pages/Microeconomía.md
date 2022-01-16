@@ -149,4 +149,5 @@
 		- Una curva de oferta lineal que parte del eje de la cantidad es bastante inelástica , sin embargo ante un aumento en el precio esta elasticidad tendera a uno
 		- Si la curva de oferta lineal parte de la intersección con el eje del precio, será elástica, sin embargo a mediad que aumente el precio, la elasticidad se aproximara a cero
 		- {{youtube  https://www.youtube.com/watch?v=yzGAZfDzOGM&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=11}}
-	- Tipos de curva de oferta seg
+	- Tipos de curva de oferta según su elasticidad
+		-
