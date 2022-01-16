@@ -149,6 +149,7 @@
 			- {{youtube https://www.youtube.com/watch?v=3pg5arXw0Gs&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=12}}
 	- ### Elasticidad precio cruzada de la demanda
 		- Elasticidad precio cruzada de la demanda
+		- Ejemplos
 	- ## Oferta
 	- Elasticidad precio de la oferta
 	  collapsed:: true
