@@ -149,8 +149,7 @@
 		- Ejemplos numéricos de elasticidad ingreso de la demanda
 		  collapsed:: true
 			- {{youtube https://www.youtube.com/watch?v=3pg5arXw0Gs&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=12}}
-	-
-	  ###
+	- ### Elasticidad precio cruzada de la demanda
 	- ## Oferta
 	- Elasticidad precio de la oferta
 	  collapsed:: true
