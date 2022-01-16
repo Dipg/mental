@@ -148,7 +148,7 @@
 				- Mientras mayor alcance tenga el mercado va a ser menos inelástica
 				- Mientras se tenga un mercado mas focalizado este tendrá una elasticidad mayor
 				- {{youtube https://www.youtube.com/watch?v=TJ2a3VzeUxI&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=16}}
-			-
+			- Ejercicio e interpretación
 		- ### Elasticidad ingreso de la demanda
 		  collapsed:: true
 			- Ejemplos numéricos de elasticidad ingreso de la demanda
