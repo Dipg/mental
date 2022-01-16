@@ -71,7 +71,7 @@
 		- Recordamos
 		- Índice de Lerner
 		-
-		  $$\frac{P-Cmg}{P}=\frac{1}{|\Epsilon_p|}$$
+		  $$\frac{P-Cmg}{P}=\frac{1}{|\varepsilon_p|}$$
 		-
 		-
 		- a)	Si la aerolínea no discrimina cuál sería el precio y cantidad que le permite maximizar sus ganancias, recuerde que tiene un costo Fijo. Calcule los excedentes del consumidor
