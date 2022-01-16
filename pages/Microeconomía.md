@@ -173,6 +173,7 @@
 			  collapsed:: true
 				- {{youtube https://www.youtube.com/watch?v=GktIuO3HugM&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=18}}
 	- ## Oferta
+	  collapsed:: true
 		- Notaciones de la elasticidad de la oferta
 		  collapsed:: true
 			- {{youtube https://www.youtube.com/watch?v=7zBUURlgs1M&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=21}}
