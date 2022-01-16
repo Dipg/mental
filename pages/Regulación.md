@@ -92,11 +92,11 @@
 		-
 		  $$\frac{200-50}{200}=\frac{1}{|\varepsilon_p|} → \frac{3}{4}=\frac{1}{|\varepsilon_p|} →|\varepsilon_p|= \frac{4}{3} $$
 		-
-		  $$\varepsilon=-\frac{4}{3}$$
+		  $$\varepsilon_1=-\frac{4}{3}$$
 		-
 		  $$\varepsilon=-\frac{4}{3} =\frac{1}{m}\frac{p_1}{q_1}→\frac{1}{m} \, \frac{200}{1500}=-\frac{4}{3}→m=-\frac{3}{4}\, \frac{200}{1500}→m=-\frac{600}{6000}$$
 		-
-		  $$m=-0.1$$
+		  $$m_1=-0.1$$
 		- a)	Si la aerolínea no discrimina cuál sería el precio y cantidad que le permite maximizar sus ganancias, recuerde que tiene un costo Fijo. Calcule los excedentes del consumidor
 		-
 		-
