@@ -98,7 +98,7 @@
   id:: 619d1fd5-eb00-418b-b85e-5d724d64e93f
 	- Monopolio vs Competencia perfecta
 		- Introducción
-			- {{youtube }}
+			- {{youtube https://www.youtube.com/watch?v=p0oEf7sXQ1U}}
 	- Se da cuando:
 	-
 	  $$IMg=CMg$$
