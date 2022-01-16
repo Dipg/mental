@@ -105,9 +105,9 @@
 		-
 		  $$\frac{80-50}{80}=\frac{1}{|\varepsilon_p|} → \frac{3}{8}=\frac{1}{|\varepsilon_p|} →|\varepsilon_p|= \frac{8}{3} $$
 		-
-		  $$\varepsilon_1=-\frac{8}{3}$$
+		  $$\varepsilon_2=-\frac{8}{3}$$
 		-
-		  $$\varepsilon_1=-\frac{8}{3} =\frac{1}{m_1}\frac{p_1}{q_1}→\frac{1}{m_1} \, \frac{80}{6000}=-\frac{8}{3}→m_1=-\frac{3}{8}\, \frac{80}{6000}→m_1=-\frac{240}{48000}$$
+		  $$\varepsilon_2=-\frac{8}{3} =\frac{1}{m_1}\frac{p_1}{q_1}→\frac{1}{m_1} \, \frac{80}{6000}=-\frac{8}{3}→m_1=-\frac{3}{8}\, \frac{80}{6000}→m_1=-\frac{240}{48000}$$
 		-
 		  $$m_1=-\frac{1}{200}$$
 		-
