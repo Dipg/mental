@@ -88,7 +88,7 @@
 		- Clase Turística
 			- $p_2=80$
 			- $q_2=6000$
-		- Encontramos las demandas
+		- Encontramos la demanda para el primer
 		-
 		  $$\frac{P-Cmg}{P}=\frac{1}{|\varepsilon_p|}$$
 		- a)	Si la aerolínea no discrimina cuál sería el precio y cantidad que le permite maximizar sus ganancias, recuerde que tiene un costo Fijo. Calcule los excedentes del consumidor
