@@ -130,9 +130,7 @@
 				- {{youtube-timestamp 303}} Comparación entre  Competencia perfecta vs Monopolio
 				- {{youtube-timestamp 643}}  Calcular la elasticidad en Monopolio
 - # Elasticidades
-  collapsed:: true
 	- ## Demanda
-	  collapsed:: true
 		- Uso de notación de las elasticidades
 		  collapsed:: true
 			- {{youtube https://www.youtube.com/watch?v=7zBUURlgs1M&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=21}}
