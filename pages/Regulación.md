@@ -79,13 +79,13 @@
 		-
 		  $$(P-P_1)=m(Q-Q_1)$$
 		- Datos:
-		- Epresa
-		- $Cmg=50$
-		- $CF=F$
-		- $CT=50Q+F$
+		- Empresa
+			- $Cmg=50$
+			- $CF=F$
+			- $CT=50Q+F$
 		- Clase Empresarial
-		- $p_1=200$
-		- $q_1=1500$
+			- $p_1=200$
+			- $q_1=1500$
 		- Clase Turística
 		- $p_2=80$
 		- $q_2=6000$
