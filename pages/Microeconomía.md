@@ -158,7 +158,8 @@
 		  collapsed:: true
 			- Quiero consumir ambos bienes, por lo que si se incrementa el precio de uno de estos, disminuyo el consumo del otro
 		- Elasticidad precio cruzada de la demanda
-		- Ejemplos
+		- Ejemplos úmericos de la elasticidad precio curzada de la demadn
+			- {{youtube }}
 	- ## Oferta
 	- Elasticidad precio de la oferta
 	  collapsed:: true
