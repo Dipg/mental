@@ -107,7 +107,7 @@
 		-
 		  $$\varepsilon_1=-\frac{8}{3}$$
 		-
-		  $$\varepsilon_1=-\frac{4}{3} =\frac{1}{m_1}\frac{p_1}{q_1}→\frac{1}{m_1} \, \frac{200}{1500}=-\frac{4}{3}→m_1=-\frac{3}{4}\, \frac{200}{1500}→m_1=-\frac{600}{6000}$$
+		  $$\varepsilon_1=-\frac{8}{3} =\frac{1}{m_1}\frac{p_1}{q_1}→\frac{1}{m_1} \, \frac{}{1500}=-\frac{4}{3}→m_1=-\frac{3}{4}\, \frac{200}{1500}→m_1=-\frac{600}{6000}$$
 		-
 		  $$m_1=-0,1$$
 		-
