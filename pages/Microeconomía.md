@@ -172,7 +172,8 @@
 		  collapsed:: true
 			- {{youtube https://www.youtube.com/watch?v=GktIuO3HugM&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=18}}
 	- ## Oferta
-	-
+	- Notaciones de la elasticidad de la oferta
+		-
 	- Elasticidad precio de la oferta
 	  collapsed:: true
 		- Cual quiere curva de oferta lineal que pase por el origen va a tener una elasticidad precio igual a 1
