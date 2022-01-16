@@ -148,7 +148,7 @@
 		  collapsed:: true
 			- {{youtube https://www.youtube.com/watch?v=3pg5arXw0Gs&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=12}}
 	- ### Elasticidad precio cruzada de la demanda
-		- Si se tienen una elasticidad precio cruzada de la demanda se tiene
+		- Si se tienen una elasticidad precio cruzada de la demanda se tiene n bienes sutitutos
 		- Elasticidad precio cruzada de la demanda
 		- Ejemplos
 	- ## Oferta
