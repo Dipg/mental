@@ -88,7 +88,7 @@
 		- Clase Turística
 			- $p_2=80$
 			- $q_2=6000$
-		- Encontramos la demanda para la clase empresarial
+		- Encontramos la demanda inversa para la clase empresarial
 		-
 		  $$\frac{200-50}{200}=\frac{1}{|\varepsilon_p|} → \frac{3}{4}=\frac{1}{|\varepsilon_p|} →|\varepsilon_p|= \frac{4}{3} $$
 		-
@@ -101,7 +101,7 @@
 		  $$(p-200)=m_1(q-1500)→(p-200)=-0,1(q-1500)→p-200=-0,1q+150$$
 		-
 		  $$p=350-0,1q$$
-		- Encontramos la demanda para la clase empresarial
+		- Encontramos la demanda inversa  para la clase empresarial
 		- a)	Si la aerolínea no discrimina cuál sería el precio y cantidad que le permite maximizar sus ganancias, recuerde que tiene un costo Fijo. Calcule los excedentes del consumidor
 		-
 		-
