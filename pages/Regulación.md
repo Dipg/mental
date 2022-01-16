@@ -65,7 +65,8 @@
 		- El bienestar de la sociedad es la sumatoria de los excedentes del consumidores que se generan en la producción de cada bien , que produce y vende el monopolista regulado
 		- Vector de cantidades $y=(y_1,y_2...y_n)$
 		- Vector de precios  $p=(p_1,p_2...p_n)$
-	-
+	- Ejercicios
+		- Suponga que viajar en un avión tiene un costo marginal de $50, el precio para los de clase empresaria es te $200, y la cantidad consumida es de 1500 unidades. El precio actual de los consumidores de clase turista es de $80 y la cantidad demanda de 6000.
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
