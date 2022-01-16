@@ -133,7 +133,7 @@
 		  $$
 		-
 		  $$
-		  P=121,43-\frac{1}{210}Q 
+		  P=\frac{850}{7}--\frac{1}{210}Q 
 		  $$
 		- Maximizar sus Ganancias: $$ Img=Cmg$$
 		- $IT=PQ → IT=(\frac{850}{7}-\frac{1}{210}Q )Q$
