@@ -151,7 +151,7 @@
 		- Si se tienen una elasticidad precio cruzada de la demanda se tiene n bienes sustitutos
 		  collapsed:: true
 			- Esto es, yo veo que el precio de un jabón de marca x sube el precio, esto incrementar el consumo de una jabón de la competencia de marca y
-		- Si la elasticidad precio
+		- Si la elasticidad precio cruzada es igual a cero
 		- Elasticidad precio cruzada de la demanda
 		- Ejemplos
 	- ## Oferta
