@@ -202,4 +202,4 @@
 		- Tipos de curva de oferta según su elasticidad
 		  collapsed:: true
 			- {{youtube https://www.youtube.com/watch?v=TQ3VIVpTLfY&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=15}}
-- El costo marginal incluye todos los costos de la empresa
+- El costo marginal incluye todos los costos de la empresa , incluidos los costos de oportunidad , por lo y
