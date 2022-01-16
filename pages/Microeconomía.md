@@ -118,6 +118,7 @@
 				- {{youtube-timestamp 643}}  Calcular la elasticidad en Monopolio
 - Elasticidades
 	- ## Demanda
+		- Uso de notación de las elasticidades
 		-
 	- ### Elasticidad precio de la demanda
 		- Elasticidad precio de la demanda
