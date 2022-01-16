@@ -202,4 +202,4 @@
 		- Tipos de curva de oferta según su elasticidad
 		  collapsed:: true
 			- {{youtube https://www.youtube.com/watch?v=TQ3VIVpTLfY&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=15}}
-- El costo marginal incluye todos los costos de la empresa , incluidos los costos de oportunidad , por lo tanto el costo marginal es mayor al costo contable por unidad adicional , por lo cual si el ingreso es igual al costo marginal , me co
+- El costo marginal incluye todos los costos de la empresa , incluidos los costos de oportunidad , por lo tanto el costo marginal es mayor al costo contable por unidad adicional , por lo cual si el ingreso es igual al costo marginal , me conviene producir , ya que tendr
