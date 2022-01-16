@@ -126,7 +126,7 @@
 		- $Q_1=3500-10P_1$
 		- $Q_2=22000-200P_1$
 		-
-		  $$Q=Q$$
+		  $$Q=Q_1+$$
 		-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
