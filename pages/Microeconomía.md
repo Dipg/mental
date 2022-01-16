@@ -204,4 +204,4 @@
 			- {{youtube https://www.youtube.com/watch?v=TQ3VIVpTLfY&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=15}}
 - El costo marginal incluye todos los costos de la empresa , incluidos los costos de oportunidad , por lo tanto el costo marginal es mayor al costo contable por unidad adicional , por lo cual si el ingreso es igual al costo marginal , me conviene producir , ya que tendré una  ganancia contable, pero no económica
 	- {{youtube https://www.youtube.com/watch?v=piZTHM5fhJQ&list=PLgCZOCnHCZU4b9X6HYvCCcTTSJqly51PJ&index=4}}
-	-
+		-
