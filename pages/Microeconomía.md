@@ -132,3 +132,4 @@
 	  collapsed:: true
 		- {{youtube https://www.youtube.com/watch?v=CnTOOjAjJyY&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=9}}
 	- Los ingresos total y la elasticidad precio de la demanda
+	-
