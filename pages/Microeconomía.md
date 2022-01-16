@@ -118,9 +118,11 @@
 				- {{youtube-timestamp 643}}  Calcular la elasticidad en Monopolio
 - Elasticidades
 	- ## Demanda
+	  collapsed:: true
 		- Uso de notación de las elasticidades
-		-
+		- {{youtube https://www.youtube.com/watch?v=7zBUURlgs1M&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=21}}
 	- ### Elasticidad precio de la demanda
+	  collapsed:: true
 		- Elasticidad precio de la demanda
 		  collapsed:: true
 			- {{youtube https://www.youtube.com/watch?v=IuHlwLY1-pQ&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=2}}
@@ -170,6 +172,7 @@
 		  collapsed:: true
 			- {{youtube https://www.youtube.com/watch?v=GktIuO3HugM&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=18}}
 	- ## Oferta
+	-
 	- Elasticidad precio de la oferta
 	  collapsed:: true
 		- Cual quiere curva de oferta lineal que pase por el origen va a tener una elasticidad precio igual a 1
