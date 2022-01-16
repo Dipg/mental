@@ -96,6 +96,7 @@
 		- Existe Libre entrada y salida de la indsutria
 - # Monopolio
   id:: 619d1fd5-eb00-418b-b85e-5d724d64e93f
+  collapsed:: true
 	- Monopolio vs Competencia perfecta
 		- Introducción
 			- {{youtube https://www.youtube.com/watch?v=p0oEf7sXQ1U}}
@@ -119,6 +120,7 @@
 				- {{youtube-timestamp 303}} Comparación entre  Competencia perfecta vs Monopolio
 				- {{youtube-timestamp 643}}  Calcular la elasticidad en Monopolio
 - # Elasticidades
+  collapsed:: true
 	- ## Demanda
 		- Uso de notación de las elasticidades
 		  collapsed:: true
