@@ -82,7 +82,7 @@
 		- Epresa
 		- $Cmg=50$
 		- $CF=F$
-		- $CT=50Q$
+		- $CT=50Q+F$
 		- Clase Empresarial
 		- $p_1=200$
 		- $q_1=1500$
