@@ -138,4 +138,4 @@
 		- EN mercados donde la demanda es más inelástica es mas conveniente aumentar el precio
 		- {{youtube https://www.youtube.com/watch?v=lQ18MbuK23c&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=10}}
 	- ## Oferta
-	-
+	- Elasticidad precio de la oferta
