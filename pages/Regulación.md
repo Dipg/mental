@@ -98,7 +98,7 @@
 		-
 		  $$m_1=-0.1$$
 		-
-		  $$(p_p1)=m_1()$$
+		  $$(p_p1)=m_1(q-q_1)$$
 		- a)	Si la aerolínea no discrimina cuál sería el precio y cantidad que le permite maximizar sus ganancias, recuerde que tiene un costo Fijo. Calcule los excedentes del consumidor
 		-
 		-
