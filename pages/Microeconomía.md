@@ -138,8 +138,8 @@
 			- En mercados donde la demanda es mas elástica no es conveniente que suba el precio, por que el ingreso total que van a recibir los oferentes va a disminuir
 			- EN mercados donde la demanda es más inelástica es mas conveniente aumentar el precio
 			- {{youtube https://www.youtube.com/watch?v=lQ18MbuK23c&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=10}}
-		- Determinan de la elasticida precio de a
-		- Mientras mayor alcance tenga el mercado va a ser menos inelástica
+		- Determinan de la elasticidad precio de la demanda
+			- Mientras mayor alcance tenga el mercado va a ser menos inelástica
 		- Mientras se tenga un mercado mas focalizado este tendrá una elasticidad mayor
 			- {{youtube https://www.youtube.com/watch?v=TJ2a3VzeUxI&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=16}}
 	- ### Elasticidad ingreso de la demanda
