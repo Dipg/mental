@@ -141,6 +141,6 @@
 	- Elasticidad precio de la oferta
 		- Cual quiere curva de oferta lineal que pase por el origen va a tener una elasticidad precio igual a 1
 		- Una curva de oferta que parte del eje de la cantidad es bastante inelástica , sin embargo ante un aumento en el precio esta elasticidad tendera a uno
-		- Si la curva de oferta parte de la intersección con el eje del precio, será elástica, sin embargo a mediad que aumente el precio, la elasticidad se apro
+		- Si la curva de oferta lineal parte de la intersección con el eje del precio, será elástica, sin embargo a mediad que aumente el precio, la elasticidad se aproximara a cero
 		- {{youtube  https://www.youtube.com/watch?v=yzGAZfDzOGM&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=11}}
 -
