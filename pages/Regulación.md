@@ -133,7 +133,7 @@
 		  $$
 		-
 		  $$
-		  P=121,43-\frac{1}{120}Q / 210
+		  P=121,43-\frac{1}{210}Q 
 		  $$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
