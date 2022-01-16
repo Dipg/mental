@@ -132,6 +132,9 @@
 		  Q=25500-210 P
 		  $$
 		-
+		  $$
+		  P=121,43-0 / 210
+		  $$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
