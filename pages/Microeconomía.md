@@ -140,4 +140,5 @@
 	- ## Oferta
 	- Elasticidad precio de la oferta
 		- Cual quiere curva de oferta lineal que pase por el origen va a tener una elasticidad precio igual a 1
+		-
 -
