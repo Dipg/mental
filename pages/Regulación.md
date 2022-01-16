@@ -82,6 +82,7 @@
 		- Clase Empresarial
 		- $p_1$=200
 		- $q_1$=1500
+		- Clase Turística
 		-
 		- a)	Si la aerolínea no discrimina cuál sería el precio y cantidad que le permite maximizar sus ganancias, recuerde que tiene un costo Fijo. Calcule los excedentes del consumidor
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
