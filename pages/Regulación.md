@@ -69,7 +69,9 @@
 		- Suponga que viajar en un avión tiene un costo marginal de $50, el precio para los de clase empresaria es te $200, y la cantidad consumida es de 1500 unidades. El precio actual de los consumidores de clase turista es de $80 y la cantidad demanda de 6000.
 		- Partimos de encontrar las demandas:
 		- Recordamos
-		- Indi
+		- Índice de Lerner
+		-
+		  $$$$
 		-
 		-
 		- a)	Si la aerolínea no discrimina cuál sería el precio y cantidad que le permite maximizar sus ganancias, recuerde que tiene un costo Fijo. Calcule los excedentes del consumidor
