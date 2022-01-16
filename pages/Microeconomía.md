@@ -150,4 +150,5 @@
 		- Si la curva de oferta lineal parte de la intersección con el eje del precio, será elástica, sin embargo a mediad que aumente el precio, la elasticidad se aproximara a cero
 		- {{youtube  https://www.youtube.com/watch?v=yzGAZfDzOGM&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=11}}
 	- Tipos de curva de oferta según su elasticidad
-		-
+	  collapsed:: true
+		- {{youtube https://www.youtube.com/watch?v=TQ3VIVpTLfY&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=15}}
