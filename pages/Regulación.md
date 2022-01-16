@@ -96,7 +96,7 @@
 		-
 		  $$\varepsilon=-\frac{4}{3} =\frac{1}{m}\frac{p_1}{q_1}→\frac{1}{m} \, \frac{200}{1500}=-\frac{4}{3}→\frac{1}{m}=\frac{3}{4}\, \frac{200}{1500}→\frac{1}{m}=\frac{600}{6000}$$
 		-
-		  $$\frac{m}{}$$
+		  $$m=0.1$$
 		- a)	Si la aerolínea no discrimina cuál sería el precio y cantidad que le permite maximizar sus ganancias, recuerde que tiene un costo Fijo. Calcule los excedentes del consumidor
 		-
 		-
