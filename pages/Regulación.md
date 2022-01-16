@@ -102,7 +102,7 @@
 		-
 		  $$P_1=350-\frac{1}{10}Q_1$$
 		-
-		  $$0,1Q_1=350-P_1$$
+		  $$-\frac{1}{10}Q_1=350-P_1$$
 		-
 		  $$Q_1=3500-10P_1$$
 		- Encontramos la demanda inversa  para la clase turística
