@@ -155,7 +155,7 @@
 		  collapsed:: true
 			- El cambio del precio de un bien , no influye en la demanda de otro
 		- Si la elasticidad precio cruzada es la demanda es negativa, los **bienes son complementarios**
-			- Quiero consumir ambos bienes,
+			- Quiero consumir ambos bienes, por lo que si se incr
 		- Elasticidad precio cruzada de la demanda
 		- Ejemplos
 	- ## Oferta
