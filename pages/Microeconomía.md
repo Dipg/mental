@@ -121,4 +121,5 @@
 	  collapsed:: true
 		- {{youtube https://www.youtube.com/watch?v=IuHlwLY1-pQ&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=2}}
 	- Elasticidad precio cruzada de la demanda
-	- Calcular la
+	- Calcular la espasticidad de una demanda
+	-
