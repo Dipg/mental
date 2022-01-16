@@ -154,7 +154,7 @@
 		- Si la elasticidad precio cruzada es igual a cero , son bienes independentes o sin relación
 		  collapsed:: true
 			- El cambio del precio de un bien , no influye en la demanda de otro
-		-
+		- Si la elasticidad precio cruzda ed la
 		- Elasticidad precio cruzada de la demanda
 		- Ejemplos
 	- ## Oferta
