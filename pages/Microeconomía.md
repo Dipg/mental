@@ -139,5 +139,5 @@
 		- {{youtube https://www.youtube.com/watch?v=lQ18MbuK23c&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=10}}
 	- ## Oferta
 	- Elasticidad precio de la oferta
-		-
+		- Cual quier curva que pase por el origen va a tener una elasticidad precio igual a 1
 -
