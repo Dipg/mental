@@ -102,7 +102,7 @@
 		-
 		  $$P_1=350-0,1Q_1$$
 		-
-		  $$-0,1Q_1=350-P_1$$
+		  $$-0,1Q_1=350-P_1→ -0,1Q_1=350-P_1$$
 		- Encontramos la demanda inversa  para la clase turística
 		-
 		  $$\frac{80-50}{80}=\frac{1}{|\varepsilon_p|} → \frac{3}{8}=\frac{1}{|\varepsilon_p|} →|\varepsilon_p|= \frac{8}{3} $$
