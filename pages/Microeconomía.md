@@ -133,4 +133,4 @@
 		- {{youtube https://www.youtube.com/watch?v=CnTOOjAjJyY&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=9}}
 	- Los ingresos total y la elasticidad precio de la demanda
 		- En mercados donde la demanda es mas elástica no es conveniente que suba el precio, por que el ingreso total que van a recibir los oferentes va a disminuir
-		- EN mercados donde la demanda es má
+		- EN mercados donde la demanda es más inelastica es mas com
