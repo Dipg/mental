@@ -129,4 +129,6 @@
 	  collapsed:: true
 		- {{youtube https://www.youtube.com/watch?v=j63afjS9fxw&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=7}}
 	- Elasticidad precio de una demanda lineal (cada punto de la lineal tienen una elasticidad diferente)
+	  collapsed:: true
 		- {{youtube https://www.youtube.com/watch?v=CnTOOjAjJyY&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=9}}
+-
