@@ -141,6 +141,7 @@
 		- Determinan
 		- Mientras mayor alcance tenga el mercado va a ser menos inelástica
 		- Mientras se tenga un mercado mas focalizado este tendrá una elasticidad mayor
+			-
 	- ### Elasticidad ingreso de la demanda
 		- Ejemplos numéricos de elasticidad ingreso de la demanda
 		  collapsed:: true
