@@ -108,6 +108,7 @@
 	- ¿Qué pasa con las ventas y las ganancias?
 		- Vendo menos y cobro mas
 	- 👁️  El  ingreso marginal tiene  el mismo intercepto con el origen y el doble de pendiente que la función inversa de la curva de demanda
+	  collapsed:: true
 		- Ejem:
 			- Función de demanda Inversa
 			-
@@ -116,6 +117,7 @@
 			-
 			  $$IMg=250 -q$$
 	- 🎞️
+	  collapsed:: true
 		- Ejercicio Monopolío
 		  collapsed:: true
 			- {{youtube https://www.youtube.com/watch?v=fpgCLu380_A&t=114s}}
