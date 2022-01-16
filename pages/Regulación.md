@@ -111,7 +111,7 @@
 		-
 		  $$m_1=-\frac{1}{200}$$
 		-
-		  $$(p-80)=m_1(q-6000)→(p-200)=-0,1(q-1500)→p-200=-0,1q+150$$
+		  $$(p-80)=m_1(q-6000)→(p-80)=-0,1(q-6000)→p-80=-0,1q+150$$
 		-
 		  $$p=350-0,1q$$
 		- a)	Si la aerolínea no discrimina cuál sería el precio y cantidad que le permite maximizar sus ganancias, recuerde que tiene un costo Fijo. Calcule los excedentes del consumidor
