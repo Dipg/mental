@@ -125,3 +125,4 @@
 	  collapsed:: true
 		- {{youtube https://www.youtube.com/watch?v=gKCmfkTzrys&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=5}}
 	- Diferencia entre la elasticidad y la pendiente (relación¡ entre la elasticidad y la pendiente)
+-
