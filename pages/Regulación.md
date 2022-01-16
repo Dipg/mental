@@ -50,18 +50,22 @@
 	  collapsed:: true
 		- Tarifas optimas con información completa
 	- ¿Relación de costos entre los productos?
+	  collapsed:: true
 		- Existen costos comunes en la producción de diversos productos, así como sotos específicos, y costos compartidos.
 	- ¿Cuál es el objetivo de la Tarifa Ramsey-Boiteux?
+	  collapsed:: true
 		- El objetivo es maximizar el bienestar de la sociedad con la condición de que la empresa no obtenga perdidas
 		- ¿Qué es la condición Break Even?
 			- $\pi >=0$  o  que las empresa no obtengan  perdidas, como se mociono antes
 			  id:: 61b00eda-afac-49c0-8eb3-435f221ae731
 	- ¿Supuestos en tarifas Ramsey?
+	  collapsed:: true
 		- Existen n productos y/o mercados en los cuales atiende la empresa
 		- Productos no son interdependientes entre si
 		- El bienestar de la sociedad es la sumatoria de los excedentes del consumidores que se generan en la producción de cada bien , que produce y vende el monopolista regulado
 		- Vector de cantidades $y=(y_1,y_2...y_n)$
 		- Vector de precios  $p=(p_1,p_2...p_n)$
+	-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
