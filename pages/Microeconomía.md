@@ -100,10 +100,11 @@
 	  collapsed:: true
 		- Introducción
 			- {{youtube https://www.youtube.com/watch?v=p0oEf7sXQ1U}}
-	-
-	- Se da cuando:
-	-
-	  $$IMg=CMg$$
+	- Optimo del monopolo
+	  collapsed:: true
+		- Se da cuando:
+		-
+		  $$IMg=CMg$$
 	- ¿Qué pasa con las ventas y las ganancias?
 		- Vendo menos y cobro mas
 	- 👁️  El  ingreso marginal tiene  el mismo intercepto con el origen y el doble de pendiente que la función inversa de la curva de demanda
