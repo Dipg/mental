@@ -140,6 +140,7 @@
 			- {{youtube https://www.youtube.com/watch?v=lQ18MbuK23c&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=10}}
 		- Determinan
 		- Mientras mayor alcance tenga el mercado va a ser menos inelástica
+		- Mientras se tenga un mercado mas
 	- ### Elasticidad ingreso de la demanda
 		- Ejemplos numéricos de elasticidad ingreso de la demanda
 		  collapsed:: true
