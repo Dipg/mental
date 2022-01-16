@@ -121,65 +121,66 @@
 	  collapsed:: true
 		- Uso de notación de las elasticidades
 		- {{youtube https://www.youtube.com/watch?v=7zBUURlgs1M&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=21}}
-	- ### Elasticidad precio de la demanda
-	  collapsed:: true
-		- Elasticidad precio de la demanda
+		- ### Elasticidad precio de la demanda
 		  collapsed:: true
-			- {{youtube https://www.youtube.com/watch?v=IuHlwLY1-pQ&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=2}}
-		- Calcular la espasticidad de una demanda
+			- Elasticidad precio de la demanda
+			  collapsed:: true
+				- {{youtube https://www.youtube.com/watch?v=IuHlwLY1-pQ&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=2}}
+			- Calcular la espasticidad de una demanda
+			  collapsed:: true
+				- {{youtube https://www.youtube.com/watch?v=gKCmfkTzrys&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=5}}
+			- Diferencia entre la elasticidad y la pendiente (relación¡ entre la elasticidad y la pendiente)
+			  collapsed:: true
+				- {{youtube https://www.youtube.com/watch?v=iiIV9Vnat9w&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=6}}
+				- {{youtube https://www.youtube.com/watch?v=D75apoxgRXg&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=19}}
+			- Tipos de curvas segun su elasticidad
+			  collapsed:: true
+				- {{youtube https://www.youtube.com/watch?v=j63afjS9fxw&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=7}}
+			- Elasticidad precio de una demanda lineal (cada punto de la lineal tienen una elasticidad diferente)
+			  collapsed:: true
+				- {{youtube https://www.youtube.com/watch?v=CnTOOjAjJyY&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=9}}
+			- Los ingresos total y la elasticidad precio de la demanda
+			  collapsed:: true
+				- En mercados donde la demanda es mas elástica no es conveniente que suba el precio, por que el ingreso total que van a recibir los oferentes va a disminuir
+				- EN mercados donde la demanda es más inelástica es mas conveniente aumentar el precio
+				- {{youtube https://www.youtube.com/watch?v=lQ18MbuK23c&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=10}}
+			- Determinan de la elasticidad precio de la demanda
+			  collapsed:: true
+				- Mientras mayor alcance tenga el mercado va a ser menos inelástica
+				- Mientras se tenga un mercado mas focalizado este tendrá una elasticidad mayor
+				- {{youtube https://www.youtube.com/watch?v=TJ2a3VzeUxI&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=16}}
+		- ### Elasticidad ingreso de la demanda
 		  collapsed:: true
-			- {{youtube https://www.youtube.com/watch?v=gKCmfkTzrys&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=5}}
-		- Diferencia entre la elasticidad y la pendiente (relación¡ entre la elasticidad y la pendiente)
+			- Ejemplos numéricos de elasticidad ingreso de la demanda
+			  collapsed:: true
+				- {{youtube https://www.youtube.com/watch?v=3pg5arXw0Gs&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=12}}
+		- ### Elasticidad precio cruzada de la demanda
 		  collapsed:: true
-			- {{youtube https://www.youtube.com/watch?v=iiIV9Vnat9w&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=6}}
-			- {{youtube https://www.youtube.com/watch?v=D75apoxgRXg&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=19}}
-		- Tipos de curvas segun su elasticidad
-		  collapsed:: true
-			- {{youtube https://www.youtube.com/watch?v=j63afjS9fxw&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=7}}
-		- Elasticidad precio de una demanda lineal (cada punto de la lineal tienen una elasticidad diferente)
-		  collapsed:: true
-			- {{youtube https://www.youtube.com/watch?v=CnTOOjAjJyY&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=9}}
-		- Los ingresos total y la elasticidad precio de la demanda
-		  collapsed:: true
-			- En mercados donde la demanda es mas elástica no es conveniente que suba el precio, por que el ingreso total que van a recibir los oferentes va a disminuir
-			- EN mercados donde la demanda es más inelástica es mas conveniente aumentar el precio
-			- {{youtube https://www.youtube.com/watch?v=lQ18MbuK23c&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=10}}
-		- Determinan de la elasticidad precio de la demanda
-		  collapsed:: true
-			- Mientras mayor alcance tenga el mercado va a ser menos inelástica
-			- Mientras se tenga un mercado mas focalizado este tendrá una elasticidad mayor
-			- {{youtube https://www.youtube.com/watch?v=TJ2a3VzeUxI&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=16}}
-	- ### Elasticidad ingreso de la demanda
-	  collapsed:: true
-		- Ejemplos numéricos de elasticidad ingreso de la demanda
-		  collapsed:: true
-			- {{youtube https://www.youtube.com/watch?v=3pg5arXw0Gs&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=12}}
-	- ### Elasticidad precio cruzada de la demanda
-	  collapsed:: true
-		- Si se tienen una elasticidad precio cruzada de la demanda se tienen **bienes sustitutos**
-		  collapsed:: true
-			- Esto es, yo veo que el precio de un jabón de marca x sube el precio, esto incrementar el consumo de una jabón de la competencia de marca y
-		- Si la elasticidad precio cruzada es igual a cero , son **bienes independentes o sin relación**
-		  collapsed:: true
-			- El cambio del precio de un bien , no influye en la demanda de otro
-		- Si la elasticidad precio cruzada es la demanda es negativa, los **bienes son complementarios**
-		  collapsed:: true
-			- Quiero consumir ambos bienes, por lo que si se incrementa el precio de uno de estos, disminuyo el consumo del otro
-		- Elasticidad precio cruzada de la demanda
-		  collapsed:: true
-			- {{youtube https://www.youtube.com/watch?v=0WPnm_BPzbo&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=3}}
-		- Ejemplos numéricos de la elasticidad precio cruzada de la demanda
-		  collapsed:: true
-			- {{youtube https://www.youtube.com/watch?v=GktIuO3HugM&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=18}}
+			- Si se tienen una elasticidad precio cruzada de la demanda se tienen **bienes sustitutos**
+			  collapsed:: true
+				- Esto es, yo veo que el precio de un jabón de marca x sube el precio, esto incrementar el consumo de una jabón de la competencia de marca y
+			- Si la elasticidad precio cruzada es igual a cero , son **bienes independentes o sin relación**
+			  collapsed:: true
+				- El cambio del precio de un bien , no influye en la demanda de otro
+			- Si la elasticidad precio cruzada es la demanda es negativa, los **bienes son complementarios**
+			  collapsed:: true
+				- Quiero consumir ambos bienes, por lo que si se incrementa el precio de uno de estos, disminuyo el consumo del otro
+			- Elasticidad precio cruzada de la demanda
+			  collapsed:: true
+				- {{youtube https://www.youtube.com/watch?v=0WPnm_BPzbo&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=3}}
+			- Ejemplos numéricos de la elasticidad precio cruzada de la demanda
+			  collapsed:: true
+				- {{youtube https://www.youtube.com/watch?v=GktIuO3HugM&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=18}}
 	- ## Oferta
-	- Notaciones de la elasticidad de la oferta
-		-
-	- Elasticidad precio de la oferta
-	  collapsed:: true
-		- Cual quiere curva de oferta lineal que pase por el origen va a tener una elasticidad precio igual a 1
-		- Una curva de oferta lineal que parte del eje de la cantidad es bastante inelástica , sin embargo ante un aumento en el precio esta elasticidad tendera a uno
-		- Si la curva de oferta lineal parte de la intersección con el eje del precio, será elástica, sin embargo a mediad que aumente el precio, la elasticidad se aproximara a cero
-		- {{youtube  https://www.youtube.com/watch?v=yzGAZfDzOGM&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=11}}
-	- Tipos de curva de oferta según su elasticidad
-	  collapsed:: true
-		- {{youtube https://www.youtube.com/watch?v=TQ3VIVpTLfY&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=15}}
+		- Notaciones de la elasticidad de la oferta
+		  collapsed:: true
+			- {{youtube https://www.youtube.com/watch?v=7zBUURlgs1M&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=21}}
+		- Elasticidad precio de la oferta
+		  collapsed:: true
+			- Cual quiere curva de oferta lineal que pase por el origen va a tener una elasticidad precio igual a 1
+			- Una curva de oferta lineal que parte del eje de la cantidad es bastante inelástica , sin embargo ante un aumento en el precio esta elasticidad tendera a uno
+			- Si la curva de oferta lineal parte de la intersección con el eje del precio, será elástica, sin embargo a mediad que aumente el precio, la elasticidad se aproximara a cero
+			- {{youtube  https://www.youtube.com/watch?v=yzGAZfDzOGM&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=11}}
+		- Tipos de curva de oferta según su elasticidad
+		  collapsed:: true
+			- {{youtube https://www.youtube.com/watch?v=TQ3VIVpTLfY&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=15}}
