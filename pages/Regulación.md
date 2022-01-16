@@ -103,7 +103,7 @@
 		  $$p=350-0,1q$$
 		- Encontramos la demanda inversa  para la clase turística
 		-
-		  $$\frac{200-50}{200}=\frac{1}{|\varepsilon_p|} → \frac{3}{4}=\frac{1}{|\varepsilon_p|} →|\varepsilon_p|= \frac{4}{3} $$
+		  $$\frac{80-50}{80}=\frac{1}{|\varepsilon_p|} → \frac{3}{4}=\frac{1}{|\varepsilon_p|} →|\varepsilon_p|= \frac{4}{3} $$
 		-
 		  $$\varepsilon_1=-\frac{4}{3}$$
 		-
