@@ -128,4 +128,4 @@
 	- Tipos de curvas segun su elasticidad
 	  collapsed:: true
 		- {{youtube https://www.youtube.com/watch?v=j63afjS9fxw&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=7}}
-- º
+	- Elasticidad precio de una demadna lineal
