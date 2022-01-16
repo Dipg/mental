@@ -78,7 +78,7 @@
 		- Ecuación de demanda
 		-
 		  $$(P-P_1)=m(Q-Q_1)$$
-		-
+		- Datos:
 		-
 		- a)	Si la aerolínea no discrimina cuál sería el precio y cantidad que le permite maximizar sus ganancias, recuerde que tiene un costo Fijo. Calcule los excedentes del consumidor
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
