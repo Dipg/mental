@@ -101,7 +101,8 @@
 		- Introducción
 			- {{youtube https://www.youtube.com/watch?v=p0oEf7sXQ1U}}
 	- Indice de Lerner
-		- Como medir el ppoder de mercado del Monopolio
+		- Como medir el poder de mercado del Monopolio
+			-
 	- Optimo del monopolo
 	  collapsed:: true
 		- Se da cuando:
