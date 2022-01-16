@@ -72,7 +72,7 @@
 		- Índice de Lerner
 		-
 		  $$\frac{P-Cmg}{P}=\frac{1}{|\varepsilon_p|}$$
-		- Indice de lerner-pendiente
+		- Índice de Lerner-pendiente
 		-
 		- a)	Si la aerolínea no discrimina cuál sería el precio y cantidad que le permite maximizar sus ganancias, recuerde que tiene un costo Fijo. Calcule los excedentes del consumidor
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
