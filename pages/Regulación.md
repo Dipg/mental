@@ -76,7 +76,8 @@
 		-
 		  $$\varepsilon_p=\frac{1}{m}\frac{P}{Q}$$
 		- Ecuación de demanda
-		- $$(P-P_1)=m(Q-Q_1)$
+		-
+		  $$(P-P_1)=m(Q-Q_1)$$$$
 		-
 		-
 		-
