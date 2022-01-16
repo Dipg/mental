@@ -118,6 +118,7 @@
 				- {{youtube-timestamp 643}}  Calcular la elasticidad en Monopolio
 - Elasticidades
 	- ## Demanda
+	- ### Elas
 	- Elasticidad precio de la demanda
 	  collapsed:: true
 		- {{youtube https://www.youtube.com/watch?v=IuHlwLY1-pQ&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=2}}
