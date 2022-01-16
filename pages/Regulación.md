@@ -91,6 +91,8 @@
 		- Encontramos la demanda para la clase empresarial
 		-
 		  $$\frac{200-50}{200}=\frac{1}{|\varepsilon_p|} → \frac{3}{4}=\frac{1}{|\varepsilon_p|} →|\varepsilon_p|= \frac{4}{3} $$
+		-
+		  $$$$
 		- a)	Si la aerolínea no discrimina cuál sería el precio y cantidad que le permite maximizar sus ganancias, recuerde que tiene un costo Fijo. Calcule los excedentes del consumidor
 		-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
