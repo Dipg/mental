@@ -101,7 +101,8 @@
 		  $$(p-200)=m_1(q-1500)→(p-200)=-0,1(q-1500)→p-200=-0,1q+150$$
 		-
 		  $$p=350-0,1q$$
-		- Encontramos la demanda inversa  para la clase empresarial
+		- Encontramos la demanda inversa  para la clase turística
+		-
 		- a)	Si la aerolínea no discrimina cuál sería el precio y cantidad que le permite maximizar sus ganancias, recuerde que tiene un costo Fijo. Calcule los excedentes del consumidor
 		-
 		-
