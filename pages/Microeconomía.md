@@ -122,7 +122,6 @@
 		- Elasticidad precio de la demanda
 		  collapsed:: true
 			- {{youtube https://www.youtube.com/watch?v=IuHlwLY1-pQ&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=2}}
-		- Elasticidad precio cruzada de la demanda
 		- Calcular la espasticidad de una demanda
 		  collapsed:: true
 			- {{youtube https://www.youtube.com/watch?v=gKCmfkTzrys&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=5}}
@@ -144,7 +143,7 @@
 			- Mientras se tenga un mercado mas focalizado este tendrá una elasticidad mayor
 			- {{youtube https://www.youtube.com/watch?v=TJ2a3VzeUxI&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=16}}
 	- ### Elasticidad ingreso de la demanda
-	  collapsed:: true
+		- Elasticidad precio cruzada de la demanda
 		- Ejemplos numéricos de elasticidad ingreso de la demanda
 		  collapsed:: true
 			- {{youtube https://www.youtube.com/watch?v=3pg5arXw0Gs&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=12}}
