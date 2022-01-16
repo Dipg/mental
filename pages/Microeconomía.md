@@ -149,7 +149,7 @@
 			- {{youtube https://www.youtube.com/watch?v=3pg5arXw0Gs&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=12}}
 	- ### Elasticidad precio cruzada de la demanda
 		- Si se tienen una elasticidad precio cruzada de la demanda se tiene n bienes sustitutos
-			- Esto es, yo veo que el precio de un jabón de marca x sube el precio, esto incremetnar el consumo de una jabo de la competancia
+			- Esto es, yo veo que el precio de un jabón de marca x sube el precio, esto incrementar el consumo de una jabo de la competancia de marca y
 		- Elasticidad precio cruzada de la demanda
 		- Ejemplos
 	- ## Oferta
@@ -161,4 +161,4 @@
 		- {{youtube  https://www.youtube.com/watch?v=yzGAZfDzOGM&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=11}}
 	- Tipos de curva de oferta según su elasticidad
 	  collapsed:: true
-		- {{youtube https://www.youtube.com/watch?v=TQ3VIVpTLfY&list=PLgCZOCnHCZU7DGYnebO1-Iobyh
+		- {{youtube https://www.youtube.com/watch?v=TQ3VIVpTLfY&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=15}}
