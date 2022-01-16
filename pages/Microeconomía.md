@@ -151,7 +151,7 @@
 		- Si se tienen una elasticidad precio cruzada de la demanda se tiene n bienes sustitutos
 		  collapsed:: true
 			- Esto es, yo veo que el precio de un jabón de marca x sube el precio, esto incrementar el consumo de una jabón de la competencia de marca y
-		- Si la elasticidad precio cruzada es igual a cero , son bienes independentes o sin relación
+		- Si la elasticidad precio cruzada es igual a cero , son **bienes independentes o sin relación**
 		  collapsed:: true
 			- El cambio del precio de un bien , no influye en la demanda de otro
 		- Si la elasticidad precio cruzada es la demanda es negativa, los **bienes son complementarios**
