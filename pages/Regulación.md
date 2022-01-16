@@ -136,7 +136,7 @@
 		  P=121,43-\frac{1}{210}Q 
 		  $$
 		- Maximizar sus Ganancias: $$ Img=Cmg$$
-		- $IT$
+		- $IT=PQ → IT=$
 		-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
