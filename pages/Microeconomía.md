@@ -96,7 +96,6 @@
 		- Existe Libre entrada y salida de la indsutria
 - # Monopolio
   id:: 619d1fd5-eb00-418b-b85e-5d724d64e93f
-  collapsed:: true
 	- Monopolio vs Competencia perfecta
 		- Introducción
 			- {{youtube https://www.youtube.com/watch?v=p0oEf7sXQ1U}}
@@ -192,3 +191,4 @@
 		- Tipos de curva de oferta según su elasticidad
 		  collapsed:: true
 			- {{youtube https://www.youtube.com/watch?v=TQ3VIVpTLfY&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=15}}
+-
