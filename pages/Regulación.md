@@ -100,7 +100,7 @@
 		-
 		  $$(p-200)=m_1(q-1500)→(p-200)=-0,1(q-1500)→p-200=-0,1q+150$$
 		-
-		  $$P_!=350-0,1Q_1$$
+		  $$P_1=350-0,1Q_1$$
 		- Encontramos la demanda inversa  para la clase turística
 		-
 		  $$\frac{80-50}{80}=\frac{1}{|\varepsilon_p|} → \frac{3}{8}=\frac{1}{|\varepsilon_p|} →|\varepsilon_p|= \frac{8}{3} $$
@@ -113,7 +113,7 @@
 		-
 		  $$(p-80)=m_2(q-6000)→(p-80)=-\frac{1}{200}(q-6000)→p-80=-\frac{1}{200}q+30$$
 		-
-		  $$p=110-\frac{1}{200}q$$
+		  $$P_2=110-\frac{1}{200}q$$
 		- a)	Si la aerolínea no discrimina cuál sería el precio y cantidad que le permite maximizar sus ganancias, recuerde que tiene un costo Fijo. Calcule los excedentes del consumidor
 		-
 		  $$Q=q$$
