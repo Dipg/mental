@@ -149,6 +149,7 @@
 				- Mientras se tenga un mercado mas focalizado este tendrá una elasticidad mayor
 				- {{youtube https://www.youtube.com/watch?v=TJ2a3VzeUxI&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=16}}
 			- Ejercicio e interpretación de la elasticidad precio de la demanda
+			  collapsed:: true
 				- {{youtube https://www.youtube.com/watch?v=p0oEf7sXQ1U}}
 		- ### Elasticidad ingreso de la demanda
 		  collapsed:: true
