@@ -158,6 +158,7 @@
 		  collapsed:: true
 			- Quiero consumir ambos bienes, por lo que si se incrementa el precio de uno de estos, disminuyo el consumo del otro
 		- Elasticidad precio cruzada de la demanda
+			- {{youtube }}
 		- Ejemplos numéricos de la elasticidad precio cruzada de la demanda
 			- {{youtube https://www.youtube.com/watch?v=GktIuO3HugM&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=18}}
 	- ## Oferta
