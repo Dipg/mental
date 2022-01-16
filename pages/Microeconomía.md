@@ -142,6 +142,7 @@
 			  collapsed:: true
 				- {{youtube https://www.youtube.com/watch?v=gKCmfkTzrys&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=5}}
 			- Diferencia entre la elasticidad y la pendiente (relación¡ entre la elasticidad y la pendiente)
+			  collapsed:: true
 				- {{youtube https://www.youtube.com/watch?v=iiIV9Vnat9w&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=6}}
 				- {{youtube https://www.youtube.com/watch?v=D75apoxgRXg&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=19}}
 			- Tipos de curvas segun su elasticidad
