@@ -148,10 +148,10 @@
 		  $$P=85,71$$
 		- {{renderer :charts_pukyslh}}
 			- line green 200
-				- y
-					- 350
-					- 0
 				- x
+					- 0
+					- 0
+				- y
 					- 0
 					- 3500
 					-
