@@ -497,7 +497,7 @@
 		  collapsed:: true
 			- La incidencia tributaria sobre el ciclo de vida analiza mi evolución de ingresos con respecto a mi edad  y al final se observa que existe un gran sesgo hacia los estratos mas bajos de la distribución de ingresos e impacta mucho la evolución de la temporalidad en la cual una persona se encuentre para fijar ese nivel de ingresos acumulados
 - [[Ley de plusvalía 20016 (Derogada)]]
-- El deficit fiscal se ha vuelto un pr
+- El deficit fiscal se ha vuelto un pronlema estructural en el ecudor
 - ---
 - Rev
   collapsed:: true
