@@ -165,6 +165,9 @@
 		  EscTotal=Exce1+Exce2=408214,28
 		  $$
 		-
+		  $$
+		  \pi=7500 * 85,71-T-50 * 7500=267.825-\mp
+		  $$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
