@@ -32,9 +32,11 @@ title:: Ley de plusvalía 2016 (Derogada)
 		  collapsed:: true
 			- 7.99%
 		- [](#3.)  Obtenemos el **Factor de Ajuste** con la formula $(1+r*)^n$ donde $$n$$ es  el numero de años y r^* es la tasa pasiva plazo de 361 y mas promedio desde marzo de 2018 hasta enero de 2022: ==1.36==
+		  collapsed:: true
 			- ```calc
 			  (1+7.99%)^(2022-2018)
 			  ```
+		-
 		- [](#4.) Obtenemos el **valor total del bien incluido el interés** : ==$ 100.640,00==
 		  collapsed:: true
 			- ```calc
