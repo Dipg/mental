@@ -6,6 +6,7 @@
 		  DEADLINE: <2022-01-18 Tue>
 	- #urgente
 	- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]]
+	  DEADLINE: <2022-01-19 Wed>
 	- #Hacer
 		- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]]
 		  DEADLINE: <2022-01-24 Mon>
