@@ -69,84 +69,88 @@
 		- Suponga que viajar en un avión tiene un costo marginal de $50, el precio para los de clase empresaria es te $200, y la cantidad consumida es de 1500 unidades. El precio actual de los consumidores de clase turista es de $80 y la cantidad demanda de 6000.
 		- Recordamos
 		- Índice de Lerner
-		-
+		- collapsed:: true
 		  $$\frac{P-Cmg}{P}=\frac{1}{|\varepsilon_p|}$$
 		- Elasticidad precio de la demanda-Pendiente
-		-
+		- collapsed:: true
 		  $$\varepsilon_p=\frac{1}{m}\frac{P}{Q}$$
 		- Ecuación de demanda
-		-
+		- collapsed:: true
 		  $$(P-P_1)=m(Q-Q_1)$$
 		- Datos:
 		- Empresa
+		  collapsed:: true
 			- $Cmg=50$
 			- $CF=F$
 			- $CT=50Q+F$
 		- Clase Empresarial
+		  collapsed:: true
 			- $p_1=200$
 			- $q_1=1500$
 		- Clase Turística
+		  collapsed:: true
 			- $p_2=80$
 			- $q_2=6000$
 		- Encontramos la demanda inversa para la clase empresarial
-		-
+		- collapsed:: true
 		  $$\frac{200-50}{200}=\frac{1}{|\varepsilon_p|} → \frac{3}{4}=\frac{1}{|\varepsilon_p|} →|\varepsilon_p|= \frac{4}{3} $$
-		-
+		- collapsed:: true
 		  $$\varepsilon_1=-\frac{4}{3}$$
-		-
+		- collapsed:: true
 		  $$\varepsilon_1=-\frac{4}{3} =\frac{1}{m_1}\frac{p_1}{q_1}→\frac{1}{m_1} \, \frac{200}{1500}=-\frac{4}{3}→m_1=-\frac{3}{4}\, \frac{200}{1500}→m_1=-\frac{600}{6000}$$
-		-
+		- collapsed:: true
 		  $$m_1=-\frac{1}{10}$$
-		-
+		- collapsed:: true
 		  $$(p-200)=m_1(q-1500)→(p-200)=-\frac{1}{10}(q-1500)→p-200=-\frac{1}{10}q+150$$
-		-
+		- collapsed:: true
 		  $$P_1=350-\frac{1}{10}Q_1$$
-		-
+		- collapsed:: true
 		  $$-\frac{1}{10}Q_1=350-P_1$$
-		-
+		- collapsed:: true
 		  $$Q_1=3500-10P_1$$
 		- Encontramos la demanda inversa  para la clase turística
-		-
+		- collapsed:: true
 		  $$\frac{80-50}{80}=\frac{1}{|\varepsilon_p|} → \frac{3}{8}=\frac{1}{|\varepsilon_p|} →|\varepsilon_p|= \frac{8}{3} $$
-		-
+		- collapsed:: true
 		  $$\varepsilon_2=-\frac{8}{3}$$
-		-
+		- collapsed:: true
 		  $$\varepsilon_2=-\frac{8}{3} =\frac{1}{m_2}\frac{p_2}{q_2}→\frac{1}{m_2} \, \frac{80}{6000}=-\frac{8}{3}→m_1=-\frac{3}{8}\, \frac{80}{6000}→m_2=-\frac{240}{48000}$$
-		-
+		- collapsed:: true
 		  $$m_2=-\frac{1}{200}$$
-		-
+		- collapsed:: true
 		  $$(p-80)=m_2(q-6000)→(p-80)=-\frac{1}{200}(q-6000)→p-80=-\frac{1}{200}q+30$$
-		-
+		- collapsed:: true
 		  $$P_2=110-\frac{1}{200}Q_2$$
-		-
+		- collapsed:: true
 		  $$\frac{1}{200}Q_2=110-P_2$$
-		-
+		- collapsed:: true
 		  $$Q_2=22000-200P_1$$
 		- a)	Si la aerolínea no discrimina cuál sería el precio y cantidad que le permite maximizar sus ganancias, recuerde que tiene un costo Fijo. Calcule los excedentes del consumidor
 		- $Q_1=3500-10P_1$
 		- $Q_2=22000-200P_2$
-		-
+		- collapsed:: true
 		  $$Q=Q_1+Q_2→ Q=3500-10P+22000-200P$$
-		-
+		- collapsed:: true
 		  $$
 		  Q=25500-210 P
 		  $$
-		-
+		- collapsed:: true
 		  $$P=\frac{850}{7}-\frac{1}{210}Q$$
 		- Maximizar sus Ganancias: $$ Img=Cmg$$
 		- $IT=PQ → IT=(\frac{850}{7}-\frac{1}{210}Q )Q$
 		- $IT=\frac{850}{7}Q-\frac{1}{210}Q^{ 2}$
 		- $Img=\frac{850}{7}-(2)\frac{1}{210}Q$
 		- $Img=\frac{850}{7}-\frac{1}{105}Q$
-		-
+		- collapsed:: true
 		  $$Img=\frac{850}{7}-\frac{1}{105}Q=50→-\frac{1}{105}Q=50-\frac{850}{7}→-Q=(50-\frac{850}{7})105→ -Q=-7500$$
-		-
+		- collapsed:: true
 		  $$Q=7500$$
-		-
+		- collapsed:: true
 		  $$P=\frac{850}{7}-\frac{1}{210}(7500)$$
-		-
+		- collapsed:: true
 		  $$P=85,71$$
 		- Excedentes del consumidor
+		  collapsed:: true
 			-
 			  $$
 			  Exce=\frac{\left(P_{\max }-P\right) Q}{2}
@@ -159,17 +163,18 @@
 			  \end{aligned}
 			  $$
 		- $Exce1=349234,69$
+		  collapsed:: true
 		  $Exce2=58979,59$
-		-
+		- collapsed:: true
 		  $$
 		  EscTotal=Exce1+Exce2=408214,28
 		  $$
-		-
+		- collapsed:: true
 		  $$
 		  \pi=7500 * 85,71-F-50 * 7500=267.825-F
 		  $$
 		- b)	Si la aerolínea no discrimina y es regulada, cuál sería el precio y cantidad que le permite maximizar sus ganancias, recuerde que tiene un costo Fijo. Calcule los excedentes del consumidor
-		-
+		- collapsed:: true
 		  $$
 		  \begin{aligned}
 		  &P=C_{\text {me }} \\
@@ -181,19 +186,19 @@
 		  &75002>=210F
 		  \end{aligned}
 		  $$
-		-
+		- collapsed:: true
 		  $$
 		  P^{*}=121,43- \frac{Q^{*}}{210 }
 		  $$
-		-
+		- collapsed:: true
 		  $$
 		  Q_1=3500-10 P^{*}
 		  $$
-		-
+		- collapsed:: true
 		  $$
 		  Q_2=22000-200 P^{*}
 		  $$
-		-
+		- collapsed:: true
 		  $$
 		  \begin{aligned}
 		  &\pi=0 \\
@@ -205,7 +210,7 @@
 		- c)	Si la aerolínea discrimina y es regulada, cuál sería el precio y cantidad que le permite maximizar sus ganancias, recuerde que tiene un costo Fijo. Calcule los excedentes del consumidor
 		- Usamos la maximización de Precios Ramsey
 		-
-		-
+		- collapsed:: true
 		  $$
 		  \left(\frac{p_{1}-50}{p1}\right)\left(-10 \frac{p_1}{Q_{1}}\right)=\left(\frac{p_{2}-50}{p_{2}}\right)\left(-200 \frac{p_{2}}{Q_{t}}\right)
 		  $$
@@ -213,7 +218,7 @@
 		- $\left(350-0,1 Q_{1}-50\right) Q_{2}=\left(110-0,005 Q_{1}-50\right)\left(20 Q_{1}\right)$ → $Q_{2}=\frac{1200}{300} Q_{1}=4 Q_{1}$
 		  id:: 61e4eea3-1902-4969-86ec-cb2a1c91f43c
 		- Donde tenemos que $\pi=0$
-		-
+		- collapsed:: true
 		  $$
 		  \begin{aligned}
 		  &\pi=350 Q_1-0,1 Q_{1}^{2}+110 Q_{2}-0,005 Q_{2}^{2}-F-50\left(Q_{1}+Q_{2}\right)=0 \\
@@ -221,31 +226,38 @@
 		  &\pi=(350+440-250) Q_{1}-0,18 Q_{1}^{2}-F=0
 		  \end{aligned}
 		  $$
-		-
+		- collapsed:: true
 		  $$
 		  0.18Q_1 ^{ 2}- 540Q_1+F=
 		  $$
 		- Encontramos las raíces para obtener la cantidad.
-		-
+		- collapsed:: true
 		  $$
 		  Q_{1}=\frac{540 \pm \sqrt{(-540)^{2}-4(0,18) F}}{2(0,18)}
 		  $$
 		- Remplazando en Q_2 y multiplicando obtenemos
-		-
+		- collapsed:: true
 		  $$
 		  Q_{2}=4 Q_{1}=6000 \pm 22,22 \sqrt{270^{2}-0,18 F}
 		  $$
 		- Remplazando en las funciones de precio
-		-
+		- collapsed:: true
 		  $$
 		  P_{1} =350-150-0,56 \sqrt{270^{2}-0,18 F}→
 		  P_{1}=200-0,56 \sqrt{270^{2}-0,187}
 		  $$
-		-
+		- collapsed:: true
 		  $$
 		  P_{2}=110-0,005 Q_{2}=110-30-0,11 \sqrt{270^{2}-0,19 F}=P_{2}=80-0,11 \sqrt{270^{2}-0,18 F}
 		  $$
-		-
+		- Optemos los excedentes
+		- collapsed:: true
+		  $$
+		  \begin{aligned}
+		  &=(350-200+0,56 ( \sqrt{270^{2}-0,18 F})(1500+5,56  \sqrt{270^{2}-0,18 F}) / 2 \\
+		  &=112500+420 ( \sqrt{270^{2}-0,18 F})+417 ( \sqrt{270^{2}-0,18 F})+1,54 ( 270^{2}-0,18 F)
+		  \end{aligned}
+		  $$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
