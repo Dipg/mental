@@ -23,5 +23,3 @@
 	- DONE [[Mercado Laboral]]
 	- DONE [[Resúmenes Opta IV]]
 	  DEADLINE: <2022-01-13 Thu>
-- fsda
-  SCHEDULED: <2022-01-17 Mon .+2d>
