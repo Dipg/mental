@@ -159,6 +159,8 @@
 						-
 					-
 				- line red 300
+		-
+		-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
