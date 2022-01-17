@@ -9,11 +9,13 @@
 			- https://www.finanzas.gob.ec/
 - Deuda Interna (Deuda Domestica)
 - Deuda Agregada
+  collapsed:: true
 	- ¿Qué es mayor , la deuda agregada o la deuda consolidada?
 	  collapsed:: true
 		- La deuda agregada es siempre mayor que la deuda consolidada
 	- Considero algunos valores adicionales de deuda interna
-	- Toma en cuenta
+	- Toma en cuenta 
+	  collapsed:: true
 		- el banco central
 		- Banco de desarrollo
 		- El iess
