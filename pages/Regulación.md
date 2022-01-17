@@ -160,8 +160,7 @@
 					-
 				-
 		-
-		  <img src="https://quickchart.io/chart?c={ type: 'line', data: { labels: ['January', 'February', 'March', 'April', 'May', 'J ... ax: 100, ticks: { stepSize: 5, }, }, ], }, }, }" />
-		-
+		  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:[2012,2013,2014,2015,2016],datasets:[{label:'Users',data:[120,60,50,180,120]}]}}" />
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
