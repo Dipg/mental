@@ -240,6 +240,10 @@
 		  $$
 		  P_{1}=200-0,56 \sqrt{270^{2}-0,187}
 		  $$
+		-
+		  $$
+		  P_{T}=80-0,11 \sqrt{270^{2}-0,18 F}
+		  $$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
