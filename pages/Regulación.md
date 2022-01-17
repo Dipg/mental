@@ -149,7 +149,7 @@
 		- Excedentes del consumidor
 			-
 			  $$
-			  E \times c C=\frac{\left(P_{\max }-P\right) Q}{2}
+			  ExC=\frac{\left(P_{\max }-P\right) Q}{2}
 			  $$
 		-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
