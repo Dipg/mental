@@ -166,7 +166,7 @@
 		  $$
 		-
 		  $$
-		  \pi=7500 * 85,71-T-50 * 7500=267.825-\mp
+		  \pi=7500 * 85,71-F-50 * 7500=267.825-
 		  $$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
