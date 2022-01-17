@@ -14,6 +14,7 @@
 			  DEADLINE: <2022-01-24 Mon>
 			- TODO Frontera de Posibilidades → [[Economía Empresarial]]
 			  DEADLINE: <2022-01-24 Mon>
+			-
 - Completos
   collapsed:: true
 	- DONE [[Ley de Plusvalía ]]
