@@ -499,7 +499,7 @@
 - [[Ley de plusvalía 20016 (Derogada)]]
 - El déficit fiscal se ha vuelto un problema estructural en el ecuador desde el año 2010
 - La deuda es una variable acumulativa (de stock)
--
+- El déficit es una variable de flujo
 - ---
 - Rev
   collapsed:: true
