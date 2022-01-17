@@ -163,7 +163,7 @@
 		  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:[0,3500],
 		  
 		  datasets:[
-		  {label:'Users',data:[350], fill:false},
+		  {label:'Users',data:[350,0], fill:false},
 		  {label:'Users2',data:[12,60,50,180,120,10,30], fill:false}
 		  ]}}" />
 		- /chart?c={
