@@ -235,7 +235,7 @@
 		  $$
 		  Q_{2}=4 Q_{1}=6000 \pm 22,22 \sqrt{270^{2}-0,18 F}
 		  $$
-		-
+		- Remplazando en las funciones de precio
 		-
 		  $$
 		  P_{E}=200-0,56 \sqrt{270^{2}-0,187}
