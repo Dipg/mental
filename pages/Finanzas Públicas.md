@@ -501,6 +501,7 @@
 - La deuda es una variable acumulativa (de stock)
 - El déficit es una variable de flujo
 -
+-
 - ---
 - Rev
   collapsed:: true
