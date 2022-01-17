@@ -159,7 +159,15 @@
 						-
 					-
 				- line red 300
-		- <htm
+		-
+		  <html>   <LineChart width={500} height={300} data={data}>
+		      <XAxis dataKey="name"/>
+		      <YAxis/>
+		      <CartesianGrid stroke="#eee" strokeDasharray="5 5"/>
+		      <Line type="monotone" dataKey="uv" stroke="#8884d8" />
+		      <Line type="monotone" dataKey="pv" stroke="#82ca9d" />
+		    </LineChart>
+		    </html>
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
