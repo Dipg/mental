@@ -160,7 +160,7 @@
   :block/updated-at 1642377600000}
  {:block/name "2022-01-17",
   :block/created-at 1642456567001,
-  :block/updated-at 1642456985618}
+  :block/updated-at 1642457950480}
  {:block/name "2022-01-17 monday",
   :block/created-at 1642377600000,
   :block/updated-at 1642377600000}
@@ -335,9 +335,6 @@
  {:block/name "draws/2021-11-23-11-37-20.excalidraw",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
- {:block/name "draws/2021-12-14-07-12-42.excalidraw",
-  :block/created-at 1640183914955,
-  :block/updated-at 1640183914955}
  {:block/name "draws/piensa matricialmente.excalidraw",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -417,6 +414,9 @@
  {:block/name "finanzas públicas (conflict 2021-12-20-05-40-14)",
   :block/created-at 1642172083935,
   :block/updated-at 1642172083935}
+ {:block/name "fri, 21-01-2022",
+  :block/created-at 1642723200000,
+  :block/updated-at 1642723200000}
  {:block/name "gasto público",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -632,6 +632,9 @@
  {:block/name "mon, 17-01-2022",
   :block/created-at 1642377600000,
   :block/updated-at 1642377600000}
+ {:block/name "mon, 24-01-2022",
+  :block/created-at 1642982400000,
+  :block/updated-at 1642982400000}
  {:block/name "musical",
   :block/created-at 1642172083941,
   :block/updated-at 1642172083941}
@@ -752,6 +755,9 @@
  {:block/name "revisar",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
+ {:block/name "sat, 29-01-2022",
+  :block/created-at 1643414400000,
+  :block/updated-at 1643414400000}
  {:block/name "sesgo cognitivo",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
@@ -776,6 +782,9 @@
  {:block/name "tasa de interés pasivas referenciales plazo 361 y más",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
+ {:block/name "thu, 20-01-2022",
+  :block/created-at 1642636800000,
+  :block/updated-at 1642636800000}
  {:block/name "todo",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -784,7 +793,10 @@
   :block/updated-at 1641992433040}
  {:block/name "trabajos u",
   :block/created-at 1642178166048,
-  :block/updated-at 1642452069076}
+  :block/updated-at 1642458673725}
+ {:block/name "tue, 18-01-2022",
+  :block/created-at 1642464000000,
+  :block/updated-at 1642464000000}
  {:block/name "urgente",
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
@@ -806,6 +818,9 @@
  {:block/name "waiting",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
+ {:block/name "wed, 19-01-2022",
+  :block/created-at 1642550400000,
+  :block/updated-at 1642550400000}
  {:block/name "yellow",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
