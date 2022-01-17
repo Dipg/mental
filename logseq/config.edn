@@ -170,7 +170,7 @@
  :favorites ["Jan 8th, 2022" "My Papers" "English" "Economía Experimental" "Regulación" "Análisis Multivariante" "Ideas" "Economía" "Proyectos" "Microeconomía" "Finanzas Públicas" "Economía Conductual"]
  :publishing/all-pages-public? true
  :graph/settings {:orphan-pages? true, :journal? false}
- :journal/page-title-format "yyyy-MM-dd EEEE"
+ :journal/page-title-format "yyyy年MM月dd日"
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
