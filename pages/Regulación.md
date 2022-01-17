@@ -202,7 +202,7 @@
 		  &ExceT=108,57+\left(Q_{2}+Q_{1}\right) \frac{Q^{*}}{420}=108,57+ \frac{Q^{*} }{420}
 		  \end{aligned}
 		  $$
-		-
+		- c)	Si la aerolínea discrimina y es regulada, cuál sería el precio y cantidad que le permite maximizar sus ganancias, recuerde que tiene un costo Fijo. Calcule los excedentes del consumidor
 		-
 		  $$
 		  \left(\frac{p_{1}-50}{p1}\right)\left(-10 \frac{p_1}{Q_{1}}\right)=\left(\frac{p_{2}-50}{p_{2}}\right)\left(-200 \frac{p_{2}}{Q_{t}}\right)
