@@ -20,7 +20,7 @@
 		- Gad
 		- Cartificados de tesoreria
 		- empresa publicas
-		-
+		- pero como Rubros menores
 - Deuda Consolidad
   collapsed:: true
 	- No se considera los prestamos con las siguientes entidades
