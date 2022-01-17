@@ -6,7 +6,6 @@ title:: Ley de plusvalía 2016 (Derogada)
 		- https://www.sri.gob.ec/ley-organica-especulacion-sobre-valor-de-las-tierras
 - Ejemplo en clase
 - Ejercicio en casa
-  collapsed:: true
 	- Compra de un bien inmueble
 	- Información de compra
 	  collapsed:: true
