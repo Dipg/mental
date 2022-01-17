@@ -72,3 +72,4 @@ title:: Ley de plusvalía 2016 (Derogada)
 		- [](#10.) **El Impuesto a pagar es de ==$ 18.120,00 ==**
 - No aplica a viviendas sociales
 - Critica
+	-
