@@ -162,7 +162,7 @@
 		  $Exce2=58979,59$
 		-
 		  $$
-		  EscTotal=Esce1=408214,28
+		  EscTotal=Exce1+Exce2=408214,28
 		  $$
 		-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
