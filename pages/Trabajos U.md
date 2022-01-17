@@ -5,9 +5,6 @@
 		- TODO [[Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición de un seguro de medicina prepagada a través de Facebook.]]
 		  DEADLINE: <2022-01-18 Tue>
 	- #urgente
-		- DONE [[Mercado Laboral]]
-		- DONE [[Resúmenes Opta IV]]
-		  DEADLINE: <2022-01-13 Thu>
 	- #Hacer
 		- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]]
 		  DEADLINE: <2022-01-24 Mon>
@@ -15,4 +12,7 @@
 	- DONE [[Ley de Plusvalía ]]
 	- DONE [[Óptimos de precios Regulación]]
 	- DONE [[Modelo de Inversión- Qtobi en Ecuador]]
+	  DEADLINE: <2022-01-13 Thu>
+	- DONE [[Mercado Laboral]]
+	- DONE [[Resúmenes Opta IV]]
 	  DEADLINE: <2022-01-13 Thu>
