@@ -36,7 +36,7 @@ title:: Ley de plusvalía 2016 (Derogada)
 			- ```calc
 			  (1+7.99%)^(2022-2018)
 			  ```
-			- _Si el valor es por ejempl
+			- _Si el valor no es un año cerrado p
 		- [](#4.) Obtenemos el **valor total del bien incluido el interés** : ==$ 100.640,00==
 		  collapsed:: true
 			- ```calc
