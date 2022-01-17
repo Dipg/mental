@@ -14,4 +14,5 @@
 		- La deuda agregada es siempre mayor que la deuda consolidada
 	- Considero algunos valores adicionales de deuda interna
 - Deuda Consolidad
+	- No se considera
 - El endeudamiento externo es el mismo para la deuda agregada y para la Deuda Consolidada
