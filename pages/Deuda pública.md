@@ -14,7 +14,7 @@
 		- La deuda agregada es siempre mayor que la deuda consolidada
 	- Considero algunos valores adicionales de deuda interna
 - Deuda Consolidad
-	- No se considera los prestamos con las sigueintes entidades
+	- No se considera los prestamos con las siguientes entidades
 	- BDE
 	- IESS
 - El endeudamiento externo es el mismo para la deuda agregada y para la Deuda Consolidada
