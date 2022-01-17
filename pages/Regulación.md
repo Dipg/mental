@@ -212,7 +212,7 @@
 		- Simplificando
 		- $\left(350-0,1 Q_{1}-50\right) Q_{2}=\left(110-0,005 Q_{1}-50\right)\left(20 Q_{1}\right)$ → $Q_{2}=\frac{1200}{300} Q_{1}=4 Q_{1}$
 		  id:: 61e4eea3-1902-4969-86ec-cb2a1c91f43c
-		-
+		- Donde tenemos que $\pho
 		-
 		  $$
 		  \begin{aligned}
