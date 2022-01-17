@@ -143,7 +143,7 @@
 		-
 		  $$Q=7500$$
 		-
-		  $$P=\frac{850}{7}--\frac{1}{210}Q$$
+		  $$P=\frac{850}{7}--\frac{1}{210}(7500)$$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
