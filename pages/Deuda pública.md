@@ -12,5 +12,5 @@
 	- ¿Qué es mayor , la deuda agregada o la deuda consolidada?
 	  collapsed:: true
 		- La deuda agregada es siempre mayor que la deuda consolidada
-	-
+	- Considero algunos valores adicionales
 - Deuda Consolidad
