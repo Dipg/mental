@@ -14,6 +14,7 @@
 		  DEADLINE: <2022-01-24 Mon>
 		-
 - Completos
+  collapsed:: true
 	- DONE [[Ley de Plusvalía ]]
 	- DONE [[Óptimos de precios Regulación]]
 	- DONE [[Modelo de Inversión- Qtobi en Ecuador]]
