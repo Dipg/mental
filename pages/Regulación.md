@@ -160,6 +160,7 @@
 					-
 				- line red 300
 		-
+		  <html>   </html>
 		-
 		  <html>   <LineChart width={500} height={300} data={data}>
 		      <XAxis dataKey="name"/>
