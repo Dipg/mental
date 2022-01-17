@@ -164,7 +164,7 @@
 		  
 		  datasets:[
 		  {label:'Users',data:[120,60,50,180,120]},
-		  {label:'Users',data:[120,60,50,180,120]}
+		  {label:'Users2',data:[12,60,50,180,120]}
 		  ]}}" />
 		-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
