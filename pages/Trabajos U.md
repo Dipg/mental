@@ -3,18 +3,18 @@
   SCHEDULED: <2022-01-10 Mon .+5d>
 	- {{renderer milestone-61e5ea95-5174-4fc3-b226-40d4e274c61a}}
 		- milestones
-	- #inmediato
+		- #inmediato
 		- TODO [[Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición de un seguro de medicina prepagada a través de Facebook.]]
 		  DEADLINE: <2022-01-18 Tue>
-	- #urgente
-	- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]]
-	  DEADLINE: <2022-01-19 Wed>
-	- #Hacer
-		- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]]
-		  DEADLINE: <2022-01-24 Mon>
-		- TODO Frontera de Posibilidades → [[Economía Empresarial]]
-		  DEADLINE: <2022-01-24 Mon>
-		-
+		- #urgente
+		- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]]
+		  DEADLINE: <2022-01-19 Wed>
+		- #Hacer
+			- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]]
+			  DEADLINE: <2022-01-24 Mon>
+			- TODO Frontera de Posibilidades → [[Economía Empresarial]]
+			  DEADLINE: <2022-01-24 Mon>
+			-
 - Completos
   collapsed:: true
 	- DONE [[Ley de Plusvalía ]]
