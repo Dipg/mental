@@ -152,6 +152,12 @@
 			  Exce=\frac{\left(P_{\max }-P\right) Q}{2}
 			  $$
 			-
+			  $$
+			  \begin{aligned}
+			  &E \times C C_{E}=\frac{(350-85,71) \times 2642,86}{2} \\
+			  &E \times C_{1}=\frac{(110-85,71) \times 4857,14}{2}
+			  \end{aligned}
+			  $$
 		-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
