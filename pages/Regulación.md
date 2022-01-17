@@ -265,7 +265,7 @@
 		  Exce2&=90000+330 R+333,33 ( \sqrt{270^{2}-0,18 F})+1,22 ( 270^{2}-0,18 F)
 		  \end{aligned}
 		  $$
-		-
+		- De
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
