@@ -10,7 +10,7 @@
 			- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Wed, 19-01-2022]] 
 			  DEADLINE: <2022-01-19 Wed>
 			- #Hacer
-			- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]]
+			- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[Mon, 24-01-2022]] 
 			  DEADLINE: <2022-01-24 Mon>
 			- TODO Frontera de Posibilidades → [[Economía Empresarial]] [[Mon, 24-01-2022]]
 			- ​📚​
