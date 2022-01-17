@@ -19,6 +19,7 @@
 		- El iess
 		- Gad
 		- Cartificados de tesoreria
+		- empresa publicas
 		-
 - Deuda Consolidad
   collapsed:: true
