@@ -160,7 +160,7 @@
 					-
 				-
 		-
-		  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:[1,2,3,4,5,6,7,8],
+		  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:[0,3500],
 		  
 		  datasets:[
 		  {label:'Users',data:[120,60,50,180,120,30,20], fill:false},
