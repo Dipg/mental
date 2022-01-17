@@ -7,4 +7,4 @@
 		- No entendí bien la clase
 		- Ministerio de Fianzas
 			- https://www.finanzas.gob.ec/
-- Deuda
+- Deuda Interna (Deuda Domestica)
