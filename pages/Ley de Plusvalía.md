@@ -1,2 +1,2 @@
 - No aplica para viviendas sociales
--
+- No aplicaba a casa cons
