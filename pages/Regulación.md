@@ -231,6 +231,10 @@
 		  Q_{1}=\frac{540 \pm \sqrt{(-540)^{2}-4(0,18) F}}{2(0,18)}
 		  $$
 		- Remplazando en Q_2 y multiplicando obtenemos
+		-
+		  $$
+		  Q_{T}=4 Q_{E}=6000 \pm 22,22 \sqrt{270^{2}-0,18 F}
+		  $$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
