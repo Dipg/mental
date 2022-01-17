@@ -193,6 +193,15 @@
 		  $$
 		  Q_2=22000-200 P^{*}
 		  $$
+		-
+		  $$
+		  \begin{aligned}
+		  &\pi=0 \\
+		  &Exce1=\frac{\left(350-121,43+Q^{*} / 210\right) Q_{2}}{2}=114,285 Q_{2}+Q^{*} \frac{Q_{2}}{420}\\
+		  &Exce2=\frac{\left(110-121,43+Q^{*} / 210\right) Q_{1}}{2}=-5,715 Q_{1}+Q^{*}  \frac{Q_{1}}{420}\\
+		  &ExceT=108,57+\left(Q_{2}+Q_{1}\right) \frac{Q^{*}}{420}=108,57+ \frac{Q^{*} }{420}
+		  \end{aligned}
+		  $$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
