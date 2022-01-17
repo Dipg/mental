@@ -162,7 +162,7 @@
 		  $Exce2=58979,59$
 		-
 		  $$
-		  \text { Exc } C_{\text {Total }}=E_{\text {nc }} C_{E}+E \times C_{\text {T }}=408214,28
+		  Esc=E_{\text {nc }} C_{E}+E \times C_{\text {T }}=408214,28
 		  $$
 		-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
