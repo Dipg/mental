@@ -168,6 +168,7 @@
 		  $$
 		  \pi=7500 * 85,71-F-50 * 7500=267.825-F
 		  $$
+		- b)	Si la aerolínea no discrimina y es regulada, cuál sería el precio y cantidad que le permite maximizar sus ganancias, recuerde que tiene un costo Fijo. Calcule los excedentes del consumidor
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
