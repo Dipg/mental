@@ -149,7 +149,7 @@
 		- {{renderer :charts_pukyslh}}
 			- line green 200
 				- x
-					- 2
+					- 350
 				- y
 					- 4
 					-
