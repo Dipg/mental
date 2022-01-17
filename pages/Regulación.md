@@ -149,7 +149,10 @@
 		- {{renderer :charts_ovllquixzff}}
 		- line
 			- x
+				- 2
 			- y
+				- 4
+				-
 			-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
