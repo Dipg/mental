@@ -141,7 +141,7 @@
 		- $Img=\frac{850}{7}-(2)\frac{1}{210}Q$
 		- $Img=\frac{850}{7}-\frac{1}{105}Q$
 		-
-		  $$Img=\frac{850}{7}-\frac{1}{150}Q=50→-\frac{1}{150}Q=50-\frac{850}{7}→-Q=(50-\frac{850}{7})150$$
+		  $$Img=\frac{850}{7}-\frac{1}{105}Q=50→-\frac{1}{105}Q=50-\frac{850}{7}→-Q=(50-\frac{850}{7})150$$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
