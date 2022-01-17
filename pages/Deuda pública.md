@@ -14,3 +14,4 @@
 		- La deuda agregada es siempre mayor que la deuda consolidada
 	- Considero algunos valores adicionales de deuda interna
 - Deuda Consolidad
+- El
