@@ -154,7 +154,7 @@
 				- Precio
 					- 350
 					- 0
-					- 1010
+					- 110
 					-
 				-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
