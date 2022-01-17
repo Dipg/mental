@@ -243,7 +243,7 @@
 		  $$
 		-
 		  $$
-		  P_{2}=P_{2}=110-0,005 Q_{2}=110-30-0,11 \sqrt{270^{2}-0,19 F}=80-0,11 \sqrt{270^{2}-0,18 F}
+		  P_{2}=110-0,005 Q_{2}=110-30-0,11 \sqrt{270^{2}-0,19 F}=P_{2}=80-0,11 \sqrt{270^{2}-0,18 F}
 		  $$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
