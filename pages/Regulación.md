@@ -151,7 +151,7 @@
 				- x
 					- 350
 				- y
-					- 4
+					- 3500
 					-
 				-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
