@@ -203,6 +203,10 @@
 		  \end{aligned}
 		  $$
 		-
+		-
+		  $$
+		  \left(\frac{p_{1}-50}{p1}\right)\left(-10 \frac{p_1}{Q_{1}}\right)=\left(\frac{p_{2}-50}{p_{2}}\right)\left(-200 \frac{p_{2}}{Q_{t}}\right)
+		  $$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
