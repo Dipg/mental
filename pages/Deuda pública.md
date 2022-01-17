@@ -30,6 +30,8 @@
 	- IESS
 - El endeudamiento externo es el mismo para la deuda agregada y para la Deuda Consolidada
 - Existen tres contabilidades distintas de la deuda
+  collapsed:: true
 	- Sector público total
 	- Sector Público no financiero
 	- Presupuesto general del Estado
+-
