@@ -161,8 +161,7 @@
 				- line red 300
 		-
 		-
-		- <
-		  </html>
+		-
 		-
 		  <script>
 		  const labels = [
