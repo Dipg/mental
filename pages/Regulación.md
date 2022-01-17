@@ -166,7 +166,17 @@
 		  {label:'Users',data:[120,60,50,180,120]},
 		  {label:'Users2',data:[12,60,50,180,120]}
 		  ]}}" />
-		-
+		- /chart?c={
+		    type: 'line',
+		    data: {
+		      labels: ['January', 'February', 'March', 'April', 'May', 'J ...  },
+		    options: {
+		      title: {
+		        display: true,
+		        text: 'Chart.js Line Chart',
+		      },
+		    },
+		  }
 		-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
