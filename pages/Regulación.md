@@ -146,8 +146,8 @@
 		  $$P=\frac{850}{7}-\frac{1}{210}(7500)$$
 		-
 		  $$P=85,71$$
-		- {{renderer :charts_ovllquixzff}}
-		- line
+		-
+		- line green 200
 			- x
 				- 2
 			- y
