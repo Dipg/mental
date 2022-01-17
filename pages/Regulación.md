@@ -187,7 +187,7 @@
 		  $$
 		-
 		  $$
-		  Q_{E}=3500-10 P^{*}
+		  Q_1=3500-10 P^{*}
 		  $$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
