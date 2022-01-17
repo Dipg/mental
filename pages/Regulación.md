@@ -235,6 +235,10 @@
 		  $$
 		  Q_{2}=4 Q_{1}=6000 \pm 22,22 \sqrt{270^{2}-0,18 F}
 		  $$
+		-
+		  $$
+		  P_{E}=200-0,56 \sqrt{270^{2}-0,187}
+		  $$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
