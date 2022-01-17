@@ -155,6 +155,21 @@
   "../assets/why_the_move_to_free_trade_1638791104368_0.pdf",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
+ {:block/name "17-01-2022",
+  :block/created-at 1642377600000,
+  :block/updated-at 1642377600000}
+ {:block/name "2022-01-17",
+  :block/created-at 1642456567001,
+  :block/updated-at 1642456985618}
+ {:block/name "2022-01-17 monday",
+  :block/created-at 1642377600000,
+  :block/updated-at 1642377600000}
+ {:block/name "2022_01_16",
+  :block/created-at 1642291200000,
+  :block/updated-at 1642291200000}
+ {:block/name "2022年01月17日",
+  :block/created-at 1642377600000,
+  :block/updated-at 1642377600000}
  {:block/name "36eea4e8-4e33-4daf-bae6-f81bb09a4813",
   :block/created-at 1640183914952,
   :block/updated-at 1640183914952}
@@ -304,7 +319,7 @@
   :block/updated-at 1638961917540}
  {:block/name "deuda pública",
   :block/created-at 1642172083936,
-  :block/updated-at 1642172083936}
+  :block/updated-at 1642430321681}
  {:block/name "doing",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -398,7 +413,7 @@
   :block/updated-at 1641992433040}
  {:block/name "finanzas públicas",
   :block/created-at 1642172083942,
-  :block/updated-at 1642172083942}
+  :block/updated-at 1642429413541}
  {:block/name "finanzas públicas (conflict 2021-12-20-05-40-14)",
   :block/created-at 1642172083935,
   :block/updated-at 1642172083935}
@@ -527,9 +542,18 @@
  {:block/name "jan 16th, 2022",
   :block/created-at 1642291200000,
   :block/updated-at 1642291200000}
+ {:block/name "jan 17th, 2022",
+  :block/created-at 1642455905419,
+  :block/updated-at 1642456506867}
+ {:block/name "jan 18th, 2022",
+  :block/created-at 1642464000000,
+  :block/updated-at 1642464000000}
  {:block/name "jan 1st, 2022",
   :block/created-at 1640995200000,
   :block/updated-at 1640995200000}
+ {:block/name "jan 20th, 2022",
+  :block/created-at 1642636800000,
+  :block/updated-at 1642636800000}
  {:block/name "jan 2nd, 2022",
   :block/created-at 1641081600000,
   :block/updated-at 1641081600000}
@@ -566,12 +590,18 @@
  {:block/name "letras",
   :block/created-at 1642172083935,
   :block/updated-at 1642172083935}
+ {:block/name "ley de plusvalía",
+  :block/created-at 1642432993547,
+  :block/updated-at 1642433075652}
  {:block/name "ley de plusvalía ",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
  {:block/name "ley de plusvalía 20016 (derogada)",
+  :block/created-at 1642457015620,
+  :block/updated-at 1642457015620}
+ {:block/name "ley de plusvalía 2016 (derogada)",
   :block/created-at 1642172083942,
-  :block/updated-at 1642172083942}
+  :block/updated-at 1642433618608}
  {:block/name "macroeconomía",
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
@@ -599,6 +629,9 @@
  {:block/name "modelos de equilibrio",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
+ {:block/name "mon, 17-01-2022",
+  :block/created-at 1642377600000,
+  :block/updated-at 1642377600000}
  {:block/name "musical",
   :block/created-at 1642172083941,
   :block/updated-at 1642172083941}
@@ -706,7 +739,7 @@
   :block/updated-at 1638961917543}
  {:block/name "regulación",
   :block/created-at 1642172083942,
-  :block/updated-at 1642378138238}
+  :block/updated-at 1642394426364}
  {:block/name "repaso del día",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
@@ -729,8 +762,11 @@
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
  {:block/name "sueños",
-  :block/created-at 1642378308607,
-  :block/updated-at 1642378308607}
+  :block/created-at 1642457015620,
+  :block/updated-at 1642457015620}
+ {:block/name "sun, 16-01-2022",
+  :block/created-at 1642291200000,
+  :block/updated-at 1642291200000}
  {:block/name "tarifa en bloque creciente",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
@@ -748,7 +784,7 @@
   :block/updated-at 1641992433040}
  {:block/name "trabajos u",
   :block/created-at 1642178166048,
-  :block/updated-at 1642178166048}
+  :block/updated-at 1642452069076}
  {:block/name "urgente",
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
