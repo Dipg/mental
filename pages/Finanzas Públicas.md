@@ -502,6 +502,7 @@
 - El déficit es una variable de flujo
 -
 - Videos
+	- 29 de Mayo
 	- https://drive.google.com/drive/u/1/folders/1HLDI-ohR65Evt3BmWr_TSQhJw0sdXEjS
 	-
 - ---
@@ -510,6 +511,4 @@
 	- ¿Por que la incidencia tributaria se grafica como un rectángulo debajo del precio que incluye el impuesto  y por encima  de precio sin impuesto?
 		- Esto es debido a que por cada unidad consumida se va a pagar el precio con impuesto.
 		- [[draws/2021-12-14-07-12-42.excalidraw]]
-		- [[Excel]]
--
--
+		- [[
