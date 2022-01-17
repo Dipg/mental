@@ -225,7 +225,11 @@
 		  $$
 		  0.18Q_1 ^{ 2}- 540Q_1+F=
 		  $$
-		- Encontramos las racies para optener la cantidad.
+		- Encontramos las raíces para obtener la cantidad.
+		-
+		  $$
+		  Q_{E}=\frac{540 \pm \sqrt{(-540)^{2}-4(0,18) F}}{2(0,18)}
+		  $$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
