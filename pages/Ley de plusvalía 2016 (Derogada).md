@@ -36,7 +36,7 @@ title:: Ley de plusvalía 2016 (Derogada)
 			- ```calc
 			  (1+7.99%)^(2022-2018)
 			  ```
-			- _Si el valor no es un año cerrado por ejemplo 15 meses, divido estos 15 meses para 12 , lo que nos da 1,25, y esevalor de 1,25 lo ^{ }o
+			- _Si el valor no es un año cerrado por ejemplo 15 meses, divido estos 15 meses para 12 , lo que nos da 1,25, y ese valor de 1,25 es el que elevo
 		- [](#4.) Obtenemos el **valor total del bien incluido el interés** : ==$ 100.640,00==
 		  collapsed:: true
 			- ```calc
