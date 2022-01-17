@@ -4,7 +4,7 @@
 	- #inmediato
 		- TODO [[Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición de un seguro de medicina prepagada a través de Facebook.]]
 		  DEADLINE: <2022-01-18 Tue>
-		- TODO Estimación de demanda  → []
+		- TODO Estimación de demanda  → [[Economía Empresarial]]
 	- #urgente
 	- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]]
 	- #Hacer
