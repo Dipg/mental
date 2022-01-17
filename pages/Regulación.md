@@ -155,7 +155,7 @@
 			  $$
 			  \begin{aligned}
 			  &Exce1=\frac{(350-85,71) \times 2642,86}{2} \\
-			  &Exce=\frac{(110-85,71) \times 4857,14}{2}
+			  &Exce2=\frac{(110-85,71) \times 4857,14}{2}
 			  \end{aligned}
 			  $$
 		- $Exce=349234,69$
