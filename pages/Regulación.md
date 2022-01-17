@@ -158,8 +158,8 @@
 			  &Exce2=\frac{(110-85,71) \times 4857,14}{2}
 			  \end{aligned}
 			  $$
-		- $Exce=349234,69$
-		  $Exce=58979,59$
+		- $Exce1=349234,69$
+		  $Exce2=58979,59$
 		-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
