@@ -17,6 +17,8 @@
 		- el banco central
 		- Banco de desarrollo
 		- El iess
+		- Gad
+		-
 - Deuda Consolidad
   collapsed:: true
 	- No se considera los prestamos con las siguientes entidades
