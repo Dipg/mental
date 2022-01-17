@@ -9,6 +9,6 @@
 			- https://www.finanzas.gob.ec/
 - Deuda Interna (Deuda Domestica)
 - Deuda Agregada
-	- ¿Que es mayo
+	- ¿Que es mayor , la deuda agregada o la deuda consoldidada?
 	- La deuda agregada es siempre mayor que la deuda consolidada
 - Deuda Consolidad
