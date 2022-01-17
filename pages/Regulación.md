@@ -146,7 +146,8 @@
 		  $$P=\frac{850}{7}-\frac{1}{210}(7500)$$
 		-
 		  $$P=85,71$$
-		- Excedente
+		- Excedentes del consumidor
+		-
 		-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
