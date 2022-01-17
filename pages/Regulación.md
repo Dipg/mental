@@ -221,6 +221,11 @@
 		  &\pi=(350+440-250) Q_{1}-0,18 Q_{1}^{2}-F=0
 		  \end{aligned}
 		  $$
+		-
+		  $$
+		  0.18Q_1 ^{ 2}- 540Q_1+F=
+		  $$
+		-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
