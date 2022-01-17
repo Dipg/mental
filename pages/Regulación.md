@@ -162,6 +162,12 @@
 		-
 		-
 		  <html>   
+		  <script>
+		    const myChart = new Chart(
+		      document.getElementById('myChart'),
+		      config
+		    );
+		  </script>
 		  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 		  
 		  <canvas id="myChart" width="400" height="400"></canvas>
