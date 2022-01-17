@@ -32,4 +32,4 @@
 - Existen tres contabilidades distintas de la deuda
 	- Sector público total
 	- Sector Público no financiero
-	- Presu
+	- Presupuesto general del Estado
