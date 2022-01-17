@@ -19,7 +19,7 @@
 		- El iess
 		- Gad
 		- Cartificados de tesoreria
-		- empresa publicas
+		- Empresa publicas
 		- pero como Rubros menores
 - Deuda Consolidad
   collapsed:: true
