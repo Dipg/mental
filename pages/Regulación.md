@@ -147,11 +147,11 @@
 		-
 		  $$P=85,71$$
 		- {{renderer :charts_pukyslh}}
-			- line green 200
-				- x
+			- line green 400
+				- Cantidad
 					- 0
 					- 3500
-				- y
+				- Precio
 					- 350
 					- 0
 					-
