@@ -202,6 +202,7 @@
 		  &ExceT=108,57+\left(Q_{2}+Q_{1}\right) \frac{Q^{*}}{420}=108,57+ \frac{Q^{*} }{420}
 		  \end{aligned}
 		  $$
+		-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
