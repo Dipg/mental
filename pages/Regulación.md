@@ -162,8 +162,8 @@
 		-
 		  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:[2012,2013,2014,2015,2016],
 		  
-		  datasets:[{label:
-		  'Users',data:[120,60,50,180,120]
+		  datasets:[
+		  {label:'Users',data:[120,60,50,180,120]
 		  }]}}" />
 		-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
