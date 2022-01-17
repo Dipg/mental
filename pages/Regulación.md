@@ -146,18 +146,19 @@
 		  $$P=\frac{850}{7}-\frac{1}{210}(7500)$$
 		-
 		  $$P=85,71$$
-		- {{renderer :charts_pukyslh}}
-			- line green 300
-				- Cantidad
-					- 0
-					- 3500
-				- Precio
-					- 350
-					- 0
-					- 110
+		- Grafica
+			- {{renderer :charts_pukyslh}}
+				- line green 300
+					- Cantidad
+						- 0
+						- 3500
+					- Precio
+						- 350
+						- 0
+						- 110
+						-
 					-
-				-
-			- line red 300
+				- line red 300
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
