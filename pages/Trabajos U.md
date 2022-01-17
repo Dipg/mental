@@ -15,7 +15,7 @@
 			- TODO Frontera de Posibilidades → [[Economía Empresarial]]
 			  DEADLINE: <2022-01-24 Mon>
 			- ​📚​
-			- Prueba de Finanzas P
+			- Prueba de Finanzas Públicas
 - Completos
   collapsed:: true
 	- DONE [[Ley de Plusvalía ]]
