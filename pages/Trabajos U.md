@@ -12,7 +12,7 @@
 			- #Hacer
 			- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]]
 			  DEADLINE: <2022-01-24 Mon>
-			- TODO Frontera de Posibilidades → [[Economía Empresarial]]
+			- TODO Frontera de Posibilidades → [[Economía Empresarial]] [[Mon, 24-01-2022]] 
 			  DEADLINE: <2022-01-24 Mon>
 			- ​📚​
 			- TODO Prueba de Finanzas Públicas [[Fri, 21-01-2022]]
