@@ -172,8 +172,8 @@
 		      <XAxis dataKey="name"/>
 		      <YAxis/>
 		      <CartesianGrid stroke="#eee" strokeDasharray="5 5"/>
-		      <Line type="monotone" dataKey="uv" stroke="#8884d8" />
-		      <Line type="monotone" dataKey="pv" stroke="#82ca9d" />
+		      <Line type="monotone" dataKey="uv:300" stroke="#8884d8" />
+		      <Line type="monotone" dataKey="pv:300" stroke="#82ca9d" />
 		    </LineChart>
 		    </html>
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
