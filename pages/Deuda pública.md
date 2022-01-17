@@ -15,5 +15,6 @@
 	- Considero algunos valores adicionales de deuda interna
 - Deuda Consolidad
 	- No se considera los preatamos conel
-	-
+	- BDE
+	- IESS
 - El endeudamiento externo es el mismo para la deuda agregada y para la Deuda Consolidada
