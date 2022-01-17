@@ -258,6 +258,13 @@
 		  &Excce1=112500+420 ( \sqrt{270^{2}-0,18 F})+417 ( \sqrt{270^{2}-0,18 F})+1,54 ( 270^{2}-0,18 F)
 		  \end{aligned}
 		  $$
+		-
+		  $$
+		  \begin{aligned}
+		  Exce2&=(110-80+0,11 ( \sqrt{270^{2}-0,18 F}))(6000+22,2 ( \sqrt{270^{2}-0,18 F}) / 2 \\
+		  Exce2&=90000+330 R+333,33 ( \sqrt{270^{2}-0,18 F})+1,22 ( 270^{2}-0,18 F)
+		  \end{aligned}
+		  $$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
