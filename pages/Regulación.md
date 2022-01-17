@@ -159,7 +159,7 @@
 			  \end{aligned}
 			  $$
 		- $Exce=349234,69$
-		  $\operatorname{Exc} C_{T}=58979,59$
+		  $Exce=58979,59$
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
