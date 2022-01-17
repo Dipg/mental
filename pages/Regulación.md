@@ -158,13 +158,7 @@
 						- 110
 						-
 					-
-				- line red 300
-		-
-		-
-		-
-		- style="width: 900px; height: 500px"></div>
-		  </body>
-		  </html>
+				- line red 300<img src="https://quickchart.io/chart?c={type:'bar',data:{labels:[2012,2013,2014,2015,2016],datasets:[{label:'Users',data:[120,60,50,180,120]}]}}" />
 		-
 		  <html>
 		  <head>  
