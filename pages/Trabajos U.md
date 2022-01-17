@@ -10,11 +10,10 @@
 		- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]]
 		  DEADLINE: <2022-01-19 Wed>
 		- #Hacer
-			- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]]
-			  DEADLINE: <2022-01-24 Mon>
-			- TODO Frontera de Posibilidades → [[Economía Empresarial]]
-			  DEADLINE: <2022-01-24 Mon>
-			-
+		- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]]
+		  DEADLINE: <2022-01-24 Mon>
+		- TODO Frontera de Posibilidades → [[Economía Empresarial]]
+		  DEADLINE: <2022-01-24 Mon>
 - Completos
   collapsed:: true
 	- DONE [[Ley de Plusvalía ]]
