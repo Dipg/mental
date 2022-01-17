@@ -147,7 +147,7 @@
 		-
 		  $$P=85,71$$
 		- {{renderer :charts_pukyslh}}
-			- line green 400
+			- line green 300
 				- Cantidad
 					- 0
 					- 3500
