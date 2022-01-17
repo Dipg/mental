@@ -10,5 +10,7 @@
 - Deuda Interna (Deuda Domestica)
 - Deuda Agregada
 	- ¿Qué es mayor , la deuda agregada o la deuda consolidada?
-	- La deuda agregada es siempre mayor que la deuda consolidada
+	  collapsed:: true
+		- La deuda agregada es siempre mayor que la deuda consolidada
+	-
 - Deuda Consolidad
