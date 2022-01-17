@@ -150,10 +150,10 @@
 			- line green 200
 				- x
 					- 0
-					- 0
-				- y
-					- 0
 					- 3500
+				- y
+					- 3500
+					- 0
 					-
 				-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
