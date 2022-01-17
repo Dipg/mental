@@ -160,7 +160,13 @@
 					-
 				- line red 300
 		-
-		  <html>   </html>
+		  <html>  
+		  <script src="https://unpkg.com/react/umd/react.production.min.js"></script>
+		  <script src="https://unpkg.com/react-dom/umd/react-dom.production.min.js"></script>
+		  <script src="https://unpkg.com/prop-types/prop-types.min.js"></script>
+		  <script src="https://unpkg.com/recharts/umd/Recharts.js"></script>
+		  
+		   </html>
 		-
 		  <html>   <LineChart width={500} height={300} data={data}>
 		      <XAxis dataKey="name"/>
