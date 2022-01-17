@@ -14,6 +14,7 @@
 		- La deuda agregada es siempre mayor que la deuda consolidada
 	- Considero algunos valores adicionales de deuda interna
 - Deuda Consolidad
+  collapsed:: true
 	- No se considera los prestamos con las siguientes entidades
 	- BDE
 	- IESS
