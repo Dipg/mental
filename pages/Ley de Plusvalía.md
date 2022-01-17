@@ -1,2 +1,2 @@
 - No aplica para viviendas sociales
-- No aplicaba a casa con
+- No aplicaba a casas que se comprar a parti
