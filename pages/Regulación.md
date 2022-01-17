@@ -225,7 +225,7 @@
 		  $$
 		  0.18Q_1 ^{ 2}- 540Q_1+F=
 		  $$
-		-
+		- Encontramos las racies para optener la cantidad.
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
