@@ -524,6 +524,9 @@
  {:block/name "jan 15th, 2022",
   :block/created-at 1642282122348,
   :block/updated-at 1642282264221}
+ {:block/name "jan 16th, 2022",
+  :block/created-at 1642291200000,
+  :block/updated-at 1642291200000}
  {:block/name "jan 1st, 2022",
   :block/created-at 1640995200000,
   :block/updated-at 1640995200000}
@@ -583,7 +586,7 @@
   :block/updated-at 1638961917542}
  {:block/name "microeconomía",
   :block/created-at 1642172083941,
-  :block/updated-at 1642172083941}
+  :block/updated-at 1642373983912}
  {:block/name "modelo de inversión- qtobi en ecuador",
   :block/created-at 1642119189886,
   :block/updated-at 1642119884539}
@@ -703,7 +706,7 @@
   :block/updated-at 1638961917543}
  {:block/name "regulación",
   :block/created-at 1642172083942,
-  :block/updated-at 1642172083942}
+  :block/updated-at 1642378138238}
  {:block/name "repaso del día",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
@@ -726,8 +729,8 @@
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
  {:block/name "sueños",
-  :block/created-at 1642297915502,
-  :block/updated-at 1642297915502}
+  :block/created-at 1642378308607,
+  :block/updated-at 1642378308607}
  {:block/name "tarifa en bloque creciente",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
