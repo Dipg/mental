@@ -148,6 +148,9 @@
 		  $$P=85,71$$
 		- Excedentes del consumidor
 			-
+			  $$
+			  E \times c C=\frac{\left(P_{\max }-P\right) Q}{2}
+			  $$
 		-
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
