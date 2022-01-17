@@ -1,3 +1,5 @@
+title:: Ley de plusvalía 2016 (Derogada)
+
 - Ref:
   collapsed:: true
 	- Accionar de la Ley
@@ -68,3 +70,4 @@
 			  24160*75%
 			  ```
 		- [](#10.) **El Impuesto a pagar es de ==$ 18.120,00 ==**
+- No aplica a
