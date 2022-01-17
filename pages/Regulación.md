@@ -265,7 +265,7 @@
 		  Exce2&=90000+330 (\sqrt{270^{2}-0,18 F})+333,33 ( \sqrt{270^{2}-0,18 F})+1,22 ( 270^{2}-0,18 F)
 		  \end{aligned}
 		  $$
-		- El precio ramsey nos permite obtener un optimo para mejorar el bienestar social y que rl productor optega benefio cero
+		- El precio ramsey nos permite obtener un optimo para mejorar el bienestar social y que el productor optega benefio cero
 - # [](#7.)  [[Tarifa en Bloque Creciente]]
 	- ¿Cuáles son los pasos para la creación de una tarifa en bloques creciente?
 	  collapsed:: true
