@@ -238,6 +238,8 @@
 		- Remplazando en las funciones de precio
 		-
 		  $$
+		  =350-150-0,56 \sqrt{270^{2}-0,18 F}
+		  $$ $$
 		  P_{1}=200-0,56 \sqrt{270^{2}-0,187}
 		  $$
 		-
