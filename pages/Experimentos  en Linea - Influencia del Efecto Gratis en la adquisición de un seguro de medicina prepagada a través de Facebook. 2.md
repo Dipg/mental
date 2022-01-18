@@ -87,6 +87,7 @@
 	  Sí, a veces sucede. En este caso, una experiencia de usuario positiva radica en contrarrestar los efectos negativos causados ​​por la expectativa. Entonces, ¿cómo lograr eso? Considere los siguientes pasos:
 	- _Diseña una animación llamativa. Puede quitar la atención del usuario con algunos efectos visualmente agradables. De esa manera, cambia el enfoque de la expectativa a otra cosa. La animación resuelve el caso de la mejor manera posible para este fin. Aquí hay un ejemplo: _ - [Trucos mentales en diseño UX: ilusión de control | de Alec Vishmidt | Trinetix | Medio](https://medium.com/trinetix/mental-tricks-in-ux-design-illusion-of-control-d144cfebb9f5)
 	- _"Desplazarse es una continuación, hacer clic es una decisión". — Josué Porter_ - [Adicción al desplazamiento infinito: cómo Instagram acaba de mostrarnos que pueden estar tratando de resolver esta trampa | de Anish Bhanot | Medio](https://medium.com/@anish\_b/infinite-scroll-addiction-how-instagram-just-showed-us-they-may-be-seeking-to-solve-this-trap-776ef75981b7)
+	- https://builtin.com/ux-design/infinite-scroll
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
 	- # Introducción  {{renderer :wordcount_bqvuhong}}
