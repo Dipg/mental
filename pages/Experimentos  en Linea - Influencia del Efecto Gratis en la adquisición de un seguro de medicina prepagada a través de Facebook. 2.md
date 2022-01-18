@@ -170,3 +170,4 @@
 	- https://www.nature.com/articles/s41467-020-19607-x
 	- Control
 		- https://medium.com/trinetix/mental-tricks-in-ux-design-illusion-of-control-d144cfebb9f5
+- https://uxdesign.cc/our-brains-mess-with-us-heres-how-to-employ-this-in-ux-design-f4f2aa761c5a
