@@ -66,6 +66,7 @@
 	- _empleando mecanismos que brindan recompensas inmediatas, como "me gusta" en un horario desconocido \(que se asemeja al programa de recompensa variable que FB Skinner usó con sus palomas\), y creando motivaciones internas para mantener a uno comprometido con el sitio, a través del uso de funciones como "rachas" en Snapchat._ - [¿Por qué las redes sociales son tan adictivas?](https://gizmodo.com/why-is-social-media-so-addictive-1841261494)
 - # Scroll infinito
 	- _los desarrolladores crean intencionalmente funciones para ser adictivas, como me gusta, notificaciones y la opción de actualización, que nos hacen volver a sus aplicaciones._ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
+	- _El desplazamiento infinito es solo otra de estas características de diseño adictivas, como notificaciones y me gusta._ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
 	- # Introducción  {{renderer :wordcount_bqvuhong}}
