@@ -1,7 +1,6 @@
 title:: Experimentos  en Linea -Prueba A/B través de Facebook
 
 - # Diapos
-  collapsed:: true
 	- # Experimentos  en Linea: Influencia del Efecto Gratis en la adquisición de producto o servicios a través de Facebook.
 	- ((138c2bdb-61d9-4329-b5d4-61f2413c97e1))
 		- ==En este estuidio no experimetno , proposito analizar el cmportamiento==
