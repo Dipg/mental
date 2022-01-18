@@ -176,3 +176,4 @@
 		- https://think360studio.com/blog/how-progress-bar-indicators-help-in-mobile-ux-design
 	- Maquina tragaperras
 		- https://www.spiegel.de/international/zeitgeist/smartphone-addiction-is-part-of-the-design-a-1104237.html
+-
