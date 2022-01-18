@@ -9,7 +9,7 @@
 		- TODO Aplicación  Ecuaciones Estructurales [[Fri, 21-01-2022]]
 		- TODO Aplicación Machine learning [[Sat, 22-01-2022]]
 		- TODO  🧪 Opta IV [[Wed, 19-01-2022]]
-		- TODO 🧪 Finanzas Públicas [[Fri, 21-01-2022]]
+		- TODO 🧪 Finanzas Públicas [[Thu, 20-01-2022]]
 		- #Hacer
 		- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[Mon, 24-01-2022]]
 		- TODO Frontera de Posibilidades → [[Economía Empresarial]] [[Sat, 22-01-2022]]
