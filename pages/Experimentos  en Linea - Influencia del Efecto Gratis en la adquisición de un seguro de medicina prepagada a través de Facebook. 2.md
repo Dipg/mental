@@ -65,7 +65,7 @@
 	- _ herramientas comunes de psicología del comportamiento para captar la atención de los usuarios y tratar de atraerlos para que pasen más tiempo en sus sitios web/aplicaciones. Los ejemplos incluyen los intentos de hacer que el uso de dichos sitios sea más fácil, repetitivo y automático \(p. ej., no es necesario iniciar sesión cuando se utiliza una aplicación, desplazamiento infinito, reproducción continua automática de videos\), _ - [¿Por qué las redes sociales son tan adictivas?](https://gizmodo.com/why-is-social-media-so-addictive-1841261494)
 	- _empleando mecanismos que brindan recompensas inmediatas, como "me gusta" en un horario desconocido \(que se asemeja al programa de recompensa variable que FB Skinner usó con sus palomas\), y creando motivaciones internas para mantener a uno comprometido con el sitio, a través del uso de funciones como "rachas" en Snapchat._ - [¿Por qué las redes sociales son tan adictivas?](https://gizmodo.com/why-is-social-media-so-addictive-1841261494)
 - # Scroll infinito
-	-
+	- _los desarrolladores crean intencionalmente funciones para ser adictivas, como me gusta, notificaciones y la opción de actualización, que nos hacen volver a sus aplicaciones._ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
 	- # Introducción  {{renderer :wordcount_bqvuhong}}
@@ -146,5 +146,6 @@
 			- Buscar cuales son las reglas de aleatorización que usa Facebook para mostrar loa anuncios
 			- ((61cdea9b-8f72-4d77-9ced-65643815a334))
 - Bibliografía
+  collapsed:: true
 	- Recompensas , me gustas y ratones
 	- https://www.nature.com/articles/s41467-020-19607-x
