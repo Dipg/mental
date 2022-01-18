@@ -64,8 +64,8 @@
 	- _ así como con la idea de que cuanto más tiempo e inversión hayamos puesto en algo \(conocido como costos irrecuperables\), más inversión tendremos para mantener en marcha._ - [¿Por qué las redes sociales son tan adictivas?](https://gizmodo.com/why-is-social-media-so-addictive-1841261494)
 	- _ herramientas comunes de psicología del comportamiento para captar la atención de los usuarios y tratar de atraerlos para que pasen más tiempo en sus sitios web/aplicaciones. Los ejemplos incluyen los intentos de hacer que el uso de dichos sitios sea más fácil, repetitivo y automático \(p. ej., no es necesario iniciar sesión cuando se utiliza una aplicación, desplazamiento infinito, reproducción continua automática de videos\), _ - [¿Por qué las redes sociales son tan adictivas?](https://gizmodo.com/why-is-social-media-so-addictive-1841261494)
 	- _empleando mecanismos que brindan recompensas inmediatas, como "me gusta" en un horario desconocido \(que se asemeja al programa de recompensa variable que FB Skinner usó con sus palomas\), y creando motivaciones internas para mantener a uno comprometido con el sitio, a través del uso de funciones como "rachas" en Snapchat._ - [¿Por qué las redes sociales son tan adictivas?](https://gizmodo.com/why-is-social-media-so-addictive-1841261494)
--
-  #
+- # Scroll infinito
+	-
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
 	- # Introducción  {{renderer :wordcount_bqvuhong}}
