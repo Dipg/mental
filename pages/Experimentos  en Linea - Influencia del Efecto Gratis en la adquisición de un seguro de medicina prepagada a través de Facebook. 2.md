@@ -168,3 +168,5 @@
 - Bibliografía
 	- Recompensas , me gustas y ratones
 	- https://www.nature.com/articles/s41467-020-19607-x
+	- Control
+		- https://medium.com/trinetix/mental-tricks-in-ux-design-illusion-of-control-d144cfebb9f5
