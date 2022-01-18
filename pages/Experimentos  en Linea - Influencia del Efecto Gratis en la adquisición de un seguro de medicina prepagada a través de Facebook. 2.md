@@ -77,7 +77,7 @@
 	- _Cuando te sientas a jugar, no sabes si vas a ganar o no, pero sabes que es posible que puedas. Y es esa posibilidad de refuerzo la que te hace volver al juego una y otra vez._ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
 	- _Esta es la razón por la que los diseñadores no quieren que sus juegos sean demasiado fáciles o demasiado difíciles; en ambos casos, los jugadores pronto dejarán de jugar. _ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
 	- _“Cuando sacamos nuestro teléfono de nuestro bolsillo, estamos jugando en una máquina tragamonedas para ver qué notificaciones hemos recibido. Cuando deslizamos el dedo hacia abajo para desplazarnos por el feed de Instagram, estamos jugando en una máquina tragamonedas para ver qué foto sigue”._ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
-	-
+	- _"Si desea maximizar la adicción", dice Harris, "todo lo que los diseñadores de tecnología deben hacer es vincular la acción de un usuario \(como tirar de una palanca\) con una recompensa variable"._ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
 	-
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
