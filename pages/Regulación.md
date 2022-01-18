@@ -17,6 +17,7 @@
 			- [](#3.)  El subsidio cruzado
 			-
 	- ##  [](#6.2.) Fijación de precios de primer mejor versus segundo mejor
+	  collapsed:: true
 		- Fijación de precios cuando no existe asimetría de información, en el caso de monopolios naturales uniproducto.
 		- Precios de Primer mejor
 			- $P=CMg$ donde alcanzamos el nivel de producción de competencia $y_pm$ , donde se alcanza el máximo bienestar social
@@ -66,6 +67,7 @@
 		- Vector de cantidades $y=(y_1,y_2...y_n)$
 		- Vector de precios  $p=(p_1,p_2...p_n)$
 	- Ejercicios
+	  collapsed:: true
 		- Suponga que viajar en un avión tiene un costo marginal de $50, el precio para los de clase empresaria es te $200, y la cantidad consumida es de 1500 unidades. El precio actual de los consumidores de clase turista es de $80 y la cantidad demanda de 6000.
 		- Recordamos
 		- Índice de Lerner
