@@ -6,7 +6,7 @@
 		- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Mon, 24-01-2022]]
 		- TODO Buscar base de datos de análisis Multivariante [[Fri, 21-01-2022]]
 		- TODO Aplicación análisis de correspondencia [[Fri, 21-01-2022]]
-		-
+		- TODO Aplicación
 		- #Hacer
 		- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[Mon, 24-01-2022]]
 		- TODO Frontera de Posibilidades → [[Economía Empresarial]] [[Sat, 22-01-2022]]
