@@ -174,4 +174,5 @@
 	- Programa de reforzamiento y economia conductual
 		- https://www.simplypsychology.org/schedules-of-reinforcement.html
 		- https://think360studio.com/blog/how-progress-bar-indicators-help-in-mobile-ux-design
+	- Maquina tragaperras
 	-
