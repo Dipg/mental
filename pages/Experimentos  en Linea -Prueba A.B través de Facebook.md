@@ -1,4 +1,4 @@
-title:: Experimentos  en Linea -Prueba A/B través de Facebook/ 2
+title:: Experimentos  en Linea -Prueba A/B través de Facebook
 
 - # Diapos
   collapsed:: true
