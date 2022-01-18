@@ -3,7 +3,6 @@
   SCHEDULED: <2022-01-10 Mon .+11d>
 	- #inmediato
 	- #urgente
-		- [[Métodos Para el Análisis Regional]]
-		  DEADLINE: <2022-01-21 Fri>
+		-
 	- #Hacer
 	-
