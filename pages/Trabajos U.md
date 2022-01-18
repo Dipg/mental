@@ -13,6 +13,7 @@
 		- TODO Frontera de Posibilidades → [[Economía Empresarial]] [[Sat, 22-01-2022]]
 		- ​📚**Estudiar**
 		- TODO Prueba de Finanzas Públicas [[Fri, 21-01-2022]]
+		- TODO Prueba O
 - Completos
   collapsed:: true
 	- DONE [[Ley de Plusvalía ]]
