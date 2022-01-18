@@ -75,6 +75,8 @@
 	- _ Las conductas reforzadas por una proporción variable son las menos susceptibles de extinción _ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
 	- Esto se debe a que cuando alguien realiza un comportamiento reforzado por una proporción variable, no sabe si recibirá o no el refuerzo. Pero saben que es posible . Por lo tanto, siguen repitiendo el comportamiento con la esperanza de ser reforzado.
 	- _Cuando te sientas a jugar, no sabes si vas a ganar o no, pero sabes que es posible que puedas. Y es esa posibilidad de refuerzo la que te hace volver al juego una y otra vez._ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
+	- _Esta es la razón por la que los diseñadores no quieren que sus juegos sean demasiado fáciles o demasiado difíciles; en ambos casos, los jugadores pronto dejarán de jugar. _ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
+	-
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
 	- # Introducción  {{renderer :wordcount_bqvuhong}}
