@@ -82,6 +82,7 @@
 - # Adciionales -Ilusión de Control
 	- _Nos ponemos nerviosos cuando el sistema con el que interactuamos, ya sea una aplicación o un sitio web, no responde rápidamente.  Y sabes por que? Eso es porque no sentimos que lo controlamos. _ - [Trucos mentales en diseño UX: ilusión de control | de Alec Vishmidt | Trinetix | Medio](https://medium.com/trinetix/mental-tricks-in-ux-design-illusion-of-control-d144cfebb9f5)
 	- Pero muy a menudo nos enfrentamos a restricciones técnicas: Internet lento, datos extensos, complejidad computacional.
+	- _Esa sensación percibida de control del sistema provocará la satisfacción del usuario. También sentirán cierto grado de comodidad, incluso a pesar de que no pueden influir en el proceso._ - [Trucos mentales en diseño UX: ilusión de control | de Alec Vishmidt | Trinetix | Medio](https://medium.com/trinetix/mental-tricks-in-ux-design-illusion-of-control-d144cfebb9f5)
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
 	- # Introducción  {{renderer :wordcount_bqvuhong}}
