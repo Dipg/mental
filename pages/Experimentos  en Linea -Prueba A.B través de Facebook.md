@@ -1,16 +1,5 @@
 title:: Experimentos  en Linea -Prueba A/B través de Facebook
 
-- # Diapos
-  id:: 61e6e09b-01a5-426d-97e3-06774bbf3db0
-	- # Experimentos  en Linea: Influencia del Efecto Gratis en la adquisición de producto o servicios a través de Facebook.
-	- ((138c2bdb-61d9-4329-b5d4-61f2413c97e1))
-		- ==En este estuidio no experimetno , proposito analizar el cmportamiento==
-		- En los últimos años la economía experimental y conductual han experimentado un auge en su implementación en diversas áreas tanto académicas, empresariales y tecnológicas, siendo esta ultima la que mas repercusiones y crecimiento
-		- Sin embargo a sido poco estudiado los tipos de experimentos que pueden realizar negocios externos con la información de paga proporcionada por este tipo de grandes  empresas  tecnológicas.
-	- # Objetivo
-		- Realizar un experimento para determinar la existe de un cambia o no, en  el ratio de conversión de una publicación pagada en Facebook, debido a la modificación de información presentada a  dos grupos similares  de  usuarios de la red social.
-	- ((06b6b343-4139-4975-9cf8-78b5f4bf7a21))
-		- Las empresas no saben como enfrentarse a la cantidad masiva de usuarios en línea, ni cuales pueden ser los mejores mecanismos de presentación o acercamiento del producto o servicio a ofertar
 - _"están diseñadas de manera que promueven la repetición de su uso", le dijo a CNN Carolina Vidal, profesora asistente de psiquiatría y ciencias del comportamiento, de la Facultad de Medicina en la Universidad Johns Hopkins._ - [¿Por qué son tan adictivas las redes sociales?](https://cnnespanol.cnn.com/lite/?article=1090860)
 - _"La mayoría de las redes sociales tienen una característica común —el “like”— que refuerza el comportamiento de la persona que comparte el comentario o la foto, promoviendo su repetición. Los “likes” han demostrado ser equivalentes al refuerzo del dinero o recompensas sociales", dijo Vidal._ - [¿Por qué son tan adictivas las redes sociales?](https://cnnespanol.cnn.com/lite/?article=1090860)
 - _La nota señalaba que la empresa hizo cosas como analizar "un montón de experimentos que dan a la gente una retroalimentación extra". En esos experimentos, a algunas publicaciones se les dio "un poco más de ‘me gusta’" y a otros "un poco más de comentarios". Los resultados se utilizaron para predecir cuántas publicaciones originales adicionales generaría la gente teniendo en cuenta el número de “me gusta”, comentarios y reacciones que habían recibido en publicaciones anteriores._ - [La ciencia detrás de las métricas de Facebook para la interacción de los usuarios](https://cnnespanol.cnn.com/2021/10/27/matematicas-news-feed-facebook-papers-trax/)
