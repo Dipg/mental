@@ -171,4 +171,5 @@
 	- Control
 		- https://medium.com/trinetix/mental-tricks-in-ux-design-illusion-of-control-d144cfebb9f5
 		- https://uxdesign.cc/our-brains-mess-with-us-heres-how-to-employ-this-in-ux-design-f4f2aa761c5a
-	- Programa de refor
+	- Programa de reforzamiento y economia conductual
+		- https://think360studio.com/blog/how-progress-bar-indicators-help-in-mobile-ux-design
