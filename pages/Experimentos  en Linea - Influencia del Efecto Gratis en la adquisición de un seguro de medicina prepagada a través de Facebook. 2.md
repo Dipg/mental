@@ -67,6 +67,7 @@
 - # Scroll infinito
 	- _los desarrolladores crean intencionalmente funciones para ser adictivas, como me gusta, notificaciones y la opción de actualización, que nos hacen volver a sus aplicaciones._ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
 	- _El desplazamiento infinito es solo otra de estas características de diseño adictivas, como notificaciones y me gusta._ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
+	- _El desplazamiento infinito es solo otra de estas características de diseño adictivas, como notificaciones y me gusta._ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
 	- # Introducción  {{renderer :wordcount_bqvuhong}}
