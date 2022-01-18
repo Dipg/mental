@@ -7,7 +7,7 @@
 		- TODO Buscar base de datos de análisis Multivariante [[Fri, 21-01-2022]]
 		- TODO Aplicación análisis de correspondencia [[Fri, 21-01-2022]]
 		- TODO Aplicación  Ecuaciones Estructurales [[Fri, 21-01-2022]]
-		-
+		- TODO Aplicación Machine learning
 		- #Hacer
 		- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[Mon, 24-01-2022]]
 		- TODO Frontera de Posibilidades → [[Economía Empresarial]] [[Sat, 22-01-2022]]
