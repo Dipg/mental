@@ -1,6 +1,5 @@
-- # [[Trabajos U]]  {{renderer(:todomaster-NjFkOTkxNzItMzNhZC00YWJmLWFhMjQtM2ExMWQxZTkxOWNh)}}
-  id:: 61dc237b-1620-4acf-8aea-326df2e12c22
-  SCHEDULED: <2022-01-17 Mon .+5d>
+id:: 61dc237b-1620-4acf-8aea-326df2e12c22
+
 	- {{renderer milestone-61e5ea95-5174-4fc3-b226-40d4e274c61a}}
 		- milestones
 			- #inmediato
