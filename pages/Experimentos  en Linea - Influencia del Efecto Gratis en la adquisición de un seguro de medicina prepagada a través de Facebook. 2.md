@@ -71,6 +71,7 @@
 	- _Estos gustos se traducen en última instancia en tres de los reforzadores más poderosos: atención, aprobación y afecto de otras personas._ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
 	- _En el condicionamiento operante, el comportamiento se fortalece con el refuerzo o se debilita con el castigo._ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
 	- _el refuerzo de los me gusta fortalece el comportamiento de publicación._ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
+	- _Skinner formuló varios tipos de programas de refuerzo , que son patrones predecibles o aleatorios de comportamiento posterior al refuerzo. Entre estos se encuentra el programa de reforzamiento de razón variable, en el que el reforzamiento sigue a una conducta de manera intermitente, solo una parte del tiempo._ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
 	- # Introducción  {{renderer :wordcount_bqvuhong}}
