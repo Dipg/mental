@@ -166,6 +166,5 @@
 			- Buscar cuales son las reglas de aleatorización que usa Facebook para mostrar loa anuncios
 			- ((61cdea9b-8f72-4d77-9ced-65643815a334))
 - Bibliografía
-  collapsed:: true
 	- Recompensas , me gustas y ratones
 	- https://www.nature.com/articles/s41467-020-19607-x
