@@ -74,6 +74,7 @@
 	- _Skinner formuló varios tipos de programas de refuerzo , que son patrones predecibles o aleatorios de comportamiento posterior al refuerzo. Entre estos se encuentra el programa de reforzamiento de razón variable, en el que el reforzamiento sigue a una conducta de manera intermitente, solo una parte del tiempo._ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
 	- _ Las conductas reforzadas por una proporción variable son las menos susceptibles de extinción _ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
 	- Esto se debe a que cuando alguien realiza un comportamiento reforzado por una proporción variable, no sabe si recibirá o no el refuerzo. Pero saben que es posible . Por lo tanto, siguen repitiendo el comportamiento con la esperanza de ser reforzado.
+	- _Cuando te sientas a jugar, no sabes si vas a ganar o no, pero sabes que es posible que puedas. Y es esa posibilidad de refuerzo la que te hace volver al juego una y otra vez._ - [Por qué el pergamino infinito es tan adictivo | de Grant Collins | Colectivo UX](https://uxdesign.cc/why-the-infinite-scroll-is-so-addictive-9928367019c5)
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
 	- # Introducción  {{renderer :wordcount_bqvuhong}}
