@@ -7,7 +7,7 @@
 		- TODO Buscar base de datos de análisis Multivariante [[Fri, 21-01-2022]]
 		- TODO Aplicación análisis de correspondencia [[Fri, 21-01-2022]]
 		- TODO Aplicación  Ecuaciones Estructurales [[Fri, 21-01-2022]]
-		- TODO Aplicación Machine learning [[Fri, 21-01-2022]]
+		- TODO Aplicación Machine learning [[Sat, 22-01-2022]]
 		- TODO  🧪 Opta IV [[Wed, 19-01-2022]]
 		- TODO 🧪 Finanzas Públicas [[Fri, 21-01-2022]]
 		- #Hacer
