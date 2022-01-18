@@ -4,8 +4,7 @@
 		- TODO [[Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición de un seguro de medicina prepagada a través de Facebook.]] [[Tue, 18-01-2022]]
 		- #urgente
 		- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Mon, 24-01-2022]]
-			-
-			  TODO
+			- TODO Trabajo de Analisis
 			-
 		- #Hacer
 		- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[Mon, 24-01-2022]]
