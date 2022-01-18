@@ -3,7 +3,7 @@
 
 /*  Eliminar bloque de referencias*/
 
-.references{
+references{
     opacity:0;
     }*/
    .references:hover{
