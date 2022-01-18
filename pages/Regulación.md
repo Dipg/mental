@@ -290,7 +290,7 @@ collapsed:: true
 		-
 	- Se puede comenzar con un bloque que este por debajo del costo marginal, sin embargo los demás deben de estar por encima de este, e incluso por encima del costo medio , para que se logre pagar lo del primer bloque
 -
-- TODO P
+- TODO Prueba de regulción t
 -
 -
 - ---
