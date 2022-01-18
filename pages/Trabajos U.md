@@ -8,12 +8,12 @@
 		- TODO Aplicación análisis de correspondencia [[Fri, 21-01-2022]]
 		- TODO Aplicación  Ecuaciones Estructurales [[Fri, 21-01-2022]]
 		- TODO Aplicación Machine learning [[Fri, 21-01-2022]]
+		- TODO  🧪 Opta IV [[Wed, 19-01-2022]]
+		- TODO 🧪 Finanzas Públicas [[Fri, 21-01-2022]]
 		- #Hacer
 		- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[Mon, 24-01-2022]]
 		- TODO Frontera de Posibilidades → [[Economía Empresarial]] [[Sat, 22-01-2022]]
 		- ​📚**Estudiar**
-		- TODO 🧪 Finanzas Públicas [[Fri, 21-01-2022]]
-		- TODO  🧪 Opta IV [[Wed, 19-01-2022]]
 - Completos
   collapsed:: true
 	- DONE [[Ley de Plusvalía ]]
