@@ -24,6 +24,7 @@
 - _Posteriormente, investigadores encontraron evidencia de que el acto de revelar informaciónacerca de uno mismo está conectado a las mismas regiones del cerebro que están vinculados a la recompensa. Esto podría ser una razón por la que algunas personas pueden ser adictos a publicar y compartir información en las redes sociales._ - [¿Por qué las redes sociales son tan adictivas? - MVS Noticias](https://mvsnoticias.com/noticias/mundo-geek/por-que-las-redes-sociales-son-tan-adictivas-763/)
 -
 - # Recompensas y publicar en redes sociales
+  collapsed:: true
 	- _lo que comparten también tiene un impacto directo en los hábitos de consumo o en las decisiones de compra._ - [Cosas del cerebro: Publicamos en redes sociales para conseguir una recompensa emocional](https://www.puromarketing.com/42/27266/cosas-cerebro-publicamos-redes-sociales-para-conseguir-recompensa.html)
 	- _cuando publicamos ciertas cuestiones estamos buscando ciertas sensaciones concretas._ - [Cosas del cerebro: Publicamos en redes sociales para conseguir una recompensa emocional](https://www.puromarketing.com/42/27266/cosas-cerebro-publicamos-redes-sociales-para-conseguir-recompensa.html)
 	- _Lo que publicamos lo hacemos porque queremos que los demás lo aprecien: con cada actualización en redes sociales buscamos gustar y los 'me gusta' o los retuits no son más que una suerte de bendición de los demás._ - [Cosas del cerebro: Publicamos en redes sociales para conseguir una recompensa emocional](https://www.puromarketing.com/42/27266/cosas-cerebro-publicamos-redes-sociales-para-conseguir-recompensa.html)
@@ -64,6 +65,7 @@
 	- _ herramientas comunes de psicología del comportamiento para captar la atención de los usuarios y tratar de atraerlos para que pasen más tiempo en sus sitios web/aplicaciones. Los ejemplos incluyen los intentos de hacer que el uso de dichos sitios sea más fácil, repetitivo y automático \(p. ej., no es necesario iniciar sesión cuando se utiliza una aplicación, desplazamiento infinito, reproducción continua automática de videos\), _ - [¿Por qué las redes sociales son tan adictivas?](https://gizmodo.com/why-is-social-media-so-addictive-1841261494)
 	- _empleando mecanismos que brindan recompensas inmediatas, como "me gusta" en un horario desconocido \(que se asemeja al programa de recompensa variable que FB Skinner usó con sus palomas\), y creando motivaciones internas para mantener a uno comprometido con el sitio, a través del uso de funciones como "rachas" en Snapchat._ - [¿Por qué las redes sociales son tan adictivas?](https://gizmodo.com/why-is-social-media-so-addictive-1841261494)
 -
+  #
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
 	- # Introducción  {{renderer :wordcount_bqvuhong}}
