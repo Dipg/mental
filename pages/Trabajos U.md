@@ -4,7 +4,7 @@
 		- TODO 🧪 Finanzas Públicas [[Thu, 20-01-2022]]
 		- TODO Aplicación Machine learning [[Sat, 22-01-2022]]
 		- TODO  🧪 Opta IV [[Wed, 19-01-2022]]
-		- TODO [[Experimentos  en Linea -Prueba A/B través de Facebook]] tomorrow
+		- TODO [[Experimentos  en Linea -Prueba A/B través de Facebook]] tomorrow /link
 		- #urgente
 		- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Mon, 24-01-2022]]
 		- TODO Buscar base de datos de análisis Multivariante [[Fri, 21-01-2022]]
