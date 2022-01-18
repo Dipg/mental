@@ -8,7 +8,7 @@
 		- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[Mon, 24-01-2022]]
 		- TODO Frontera de Posibilidades → [[Economía Empresarial]] [[Fri, 21-01-2022]]
 		- ​📚**Estudiar**
-		- TODO Prueba de Finanzas Públicas [[Fri, 21-01-2022]]
+		- TODO Prueba de Finanzas Públicas [[Thu, 20-01-2022]]
 - Completos
   collapsed:: true
 	- DONE [[Ley de Plusvalía ]]
