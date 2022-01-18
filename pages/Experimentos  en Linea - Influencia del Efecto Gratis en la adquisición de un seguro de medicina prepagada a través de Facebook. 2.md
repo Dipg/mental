@@ -81,7 +81,7 @@
 	- _Ya sabes, como estas barras de progreso que se llenan lentamente. Creemos que realmente nos muestran “progreso”. De hecho, rara vez lo hacen, a menudo lo simulan solo para consolarnos._ - [Nuestros cerebros se meten con nosotros. Aquí se explica cómo emplear esto en el diseño de UX | de Alec Vishmidt | Colectivo UX](https://uxdesign.cc/our-brains-mess-with-us-heres-how-to-employ-this-in-ux-design-f4f2aa761c5a)
 - # Adciionales
 	- _Nos ponemos nerviosos cuando el sistema con el que interactuamos, ya sea una aplicación o un sitio web, no responde rápidamente.  Y sabes por que? Eso es porque no sentimos que lo controlamos. _ - [Trucos mentales en diseño UX: ilusión de control | de Alec Vishmidt | Trinetix | Medio](https://medium.com/trinetix/mental-tricks-in-ux-design-illusion-of-control-d144cfebb9f5)
-	-
+	- Pero muy a menudo nos enfrentamos a restricciones técnicas: Internet lento, datos extensos, complejidad computacional.
 - # Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición producto o servicios a través de Facebook.   {{renderer :wordcount_bqvuhong}} Maximo ==4000== Palabras
   collapsed:: true
 	- # Introducción  {{renderer :wordcount_bqvuhong}}
