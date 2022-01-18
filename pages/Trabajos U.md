@@ -6,7 +6,7 @@
 		- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Mon, 24-01-2022]]
 		- #Hacer
 		- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[Mon, 24-01-2022]]
-		- TODO Frontera de Posibilidades → [[Economía Empresarial]] [[Mon, 24-01-2022]]
+		- TODO Frontera de Posibilidades → [[Economía Empresarial]] [[Fri, 21-01-2022]]
 		- ​📚**Estudiar**
 		- TODO Prueba de Finanzas Públicas [[Fri, 21-01-2022]]
 - Completos
