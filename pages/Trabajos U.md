@@ -12,7 +12,7 @@
 		- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[Mon, 24-01-2022]]
 		- TODO Frontera de Posibilidades → [[Economía Empresarial]] [[Sat, 22-01-2022]]
 		- ​📚**Estudiar**
-		- TODO Prueba de Finanzas Públicas [[Fri, 21-01-2022]]
+		- TODO 🧪  Finanzas Públicas [[Fri, 21-01-2022]]
 		- TODO  🧪 Opta IV [[Wed, 19-01-2022]]
 - Completos
   collapsed:: true
