@@ -72,6 +72,7 @@ collapsed:: true
 - # LATE (Local average treatment effect)
 	- Sharp Regresión Disconyinuitu (Regresión Discontinua Nítida)
 		- Participación perfectamente definida por el umbral
+	- Regresi
 - # Control Sintético
   collapsed:: true
 	- Video principal
