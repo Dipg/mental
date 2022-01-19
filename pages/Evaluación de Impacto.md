@@ -72,7 +72,7 @@ collapsed:: true
 - # LATE (Local average treatment effect)
 	- Sharp Regresión Disconyinuitu (Regresión Discontinua Nítida)
 		- Participación perfectamente definida por el umbral
-	- Regresión discontinua borrosa (RB)
+	- Regresión discontinua borrosa (RDB) Fuzzy Regressi
 - # Control Sintético
   collapsed:: true
 	- Video principal
