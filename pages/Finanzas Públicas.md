@@ -515,6 +515,7 @@
 			- equidad transparencia
 			- Suficiencia recaudatoria
 		- Tabla de impuestos a la renta 2019
+		  collapsed:: true
 			- ![image.png](../assets/image_1642563170371_0.png)
 			- Tabla de Impuesto a la renta 2007
 			- ![image.png](../assets/image_1642563187670_0.png)
