@@ -72,7 +72,7 @@ collapsed:: true
 - # LATE (Local average treatment effect)
 	- Sharp Regresión Disconyinuitu (Regresión Discontinua Nítida)
 		- Participación perfectamente definida por el umbral
-		- El $\var Z$ Determina participación
+		- El $\{Z}$ Determina participación
 	- Regresión discontinua borrosa (RDB) Fuzzy Regression Discontinuity
 		- No todos los individuos participan y no todos los individuos que no participan participan.
 - # Control Sintético
