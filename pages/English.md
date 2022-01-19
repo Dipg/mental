@@ -102,5 +102,3 @@
 	  collapsed:: true
 		- Negative in past
 			- Allways use didn`t  for diferente persons , i , you , he she they
--
--
