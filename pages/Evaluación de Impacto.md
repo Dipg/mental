@@ -73,7 +73,7 @@ collapsed:: true
 	- Sharp Regresión Disconyinuitu (Regresión Discontinua Nítida)
 		- Participación perfectamente definida por el umbral
 	- Regresión discontinua borrosa (RDB) Fuzzy Regression Discontinuity
-		- No todos los individuos participan y no todos los individuos que no participan
+		- No todos los individuos participan y no todos los individuos que no participan partici
 - # Control Sintético
   collapsed:: true
 	- Video principal
