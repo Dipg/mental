@@ -534,6 +534,7 @@
 			-
 			- Todo el impuesto recae sobre los productores o todo el impuesto recae sobre los consumidores
 		- Traslación parcial:
+		- Cuadno
 		-
 	- 2 de junio
 	  collapsed:: true
