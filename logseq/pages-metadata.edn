@@ -1,6 +1,6 @@
 [{:block/name "",
-  :block/created-at 1642548692736,
-  :block/updated-at 1642548692736}
+  :block/created-at 1642593446682,
+  :block/updated-at 1642593446682}
  {:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -296,8 +296,11 @@
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
  {:block/name "draws/2021-12-14-07-12-42.excalidraw",
-  :block/created-at 1642548692737,
-  :block/updated-at 1642548692737}
+  :block/created-at 1642593446682,
+  :block/updated-at 1642593446682}
+ {:block/name "draws/2022-01-18-22-36-24.excalidraw",
+  :block/created-at 1642593446688,
+  :block/updated-at 1642593446688}
  {:block/name "draws/piensa matricialmente.excalidraw",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -342,7 +345,7 @@
   :block/updated-at 1642172083936}
  {:block/name "evaluación de impacto",
   :block/created-at 1642172083944,
-  :block/updated-at 1642172083944}
+  :block/updated-at 1642557970223}
  {:block/name
   "evaluación del impacto de la crisis financiera del año 2008 en los países desarrollados",
   :block/created-at 1642172083943,
@@ -363,11 +366,11 @@
   :block/updated-at 1642172083943}
  {:block/name
   "experimentos  en linea - influencia del efecto gratis en la adquisición de un seguro de medicina prepagada a través de facebook/ 2",
-  :block/created-at 1642548692736,
-  :block/updated-at 1642548692736}
+  :block/created-at 1642593446682,
+  :block/updated-at 1642593446682}
  {:block/name "experimentos  en linea -prueba a",
-  :block/created-at 1642548692739,
-  :block/updated-at 1642548692739}
+  :block/created-at 1642593446687,
+  :block/updated-at 1642593446687}
  {:block/name "experimentos  en linea -prueba a/b través de facebook",
   :block/created-at 1642180004251,
   :block/updated-at 1642529926039}
@@ -379,7 +382,7 @@
   :block/updated-at 1641992433040}
  {:block/name "finanzas públicas",
   :block/created-at 1642172083942,
-  :block/updated-at 1642429413541}
+  :block/updated-at 1642565795630}
  {:block/name "finanzas públicas (conflict 2021-12-20-05-40-14)",
   :block/created-at 1642172083935,
   :block/updated-at 1642172083935}
@@ -505,20 +508,17 @@
   :block/created-at 1642173792409,
   :block/updated-at 1642217658353}
  {:block/name "jan 17th, 2022",
-  :block/created-at 1642548692736,
-  :block/updated-at 1642548692736}
+  :block/created-at 1642593446682,
+  :block/updated-at 1642593446682}
  {:block/name "jan 18th, 2022",
-  :block/created-at 1642548692737,
-  :block/updated-at 1642548692737}
+  :block/created-at 1642593446683,
+  :block/updated-at 1642593446683}
  {:block/name "jan 19th, 2022",
-  :block/created-at 1642548692735,
-  :block/updated-at 1642548692735}
+  :block/created-at 1642593446681,
+  :block/updated-at 1642593446681}
  {:block/name "jan 1st, 2022",
   :block/created-at 1640995200000,
   :block/updated-at 1640995200000}
- {:block/name "jan 20th, 2022",
-  :block/created-at 1642548692738,
-  :block/updated-at 1642548692738}
  {:block/name "javascript",
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
@@ -683,7 +683,7 @@
   :block/updated-at 1638961917543}
  {:block/name "regulación",
   :block/created-at 1642172083942,
-  :block/updated-at 1642548684962}
+  :block/updated-at 1642548788185}
  {:block/name "repaso del día",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
@@ -779,7 +779,7 @@
   :block/updated-at 1641859200000}
  {:block/name "tue, 18-01-2022",
   :block/created-at 1642464000000,
-  :block/updated-at 1642548610032}
+  :block/updated-at 1642555570362}
  {:block/name "tue, 28-12-2021",
   :block/created-at 1640649600000,
   :block/updated-at 1640649600000}
