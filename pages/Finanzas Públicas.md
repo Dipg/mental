@@ -530,6 +530,8 @@
 		- La incidencia hacia atrás es cuando la incidencia económica recae sobre los productores del bien gravado
 		- La incidencia hacia Adelante. Cuando la incidencia recae hacia los consumidores : invierten consumen produucen arriesgan trabajan
 		- Traslación total:
+			-
+			-
 			- Todo el impuesto recae sobre los productores o todo el impuesto recae sobre los consumidores
 	- 2 de junio
 	  collapsed:: true
