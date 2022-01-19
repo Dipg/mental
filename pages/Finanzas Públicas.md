@@ -503,7 +503,6 @@
 -
 - Videos
 	- 29 de Mayo
-	  collapsed:: true
 		- https://drive.google.com/drive/u/1/folders/1HLDI-ohR65Evt3BmWr_TSQhJw0sdXEjS
 		- Propiedades deseables de los impuestos
 		  collapsed:: true
