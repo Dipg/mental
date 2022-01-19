@@ -510,7 +510,7 @@
 			- Eficiencia
 			- Simplicidad
 			- Administrativa
-			- Irretroactividad
+			- Irretroactividad, No puedo cobrar un impuesto nuevo como de años anteriores
 			- equidad transparencia
 			- Suficiencia recaudatoria
 	- 2 de junio
