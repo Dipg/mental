@@ -71,7 +71,7 @@ collapsed:: true
 		- ((61a042e1-bf94-4e68-b0f7-cd2516f1f566))
 - # LATE (Local average treatment effect)
 	- Sharp Regresión Disconyinuitu
-		- Participacion perfe
+		- Participacion perfectamente definida por el umbral
 - # Control Sintético
   collapsed:: true
 	- Video principal
