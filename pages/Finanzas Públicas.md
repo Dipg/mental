@@ -520,7 +520,7 @@
 		- Tabla de Impuesto a la renta 2007
 		  collapsed:: true
 			- ![image.png](../assets/image_1642563187670_0.png)
-		- Carga directa - El total pagada por con
+		- Carga directa - El total pagada por productores y por consumidores
 	- 2 de junio
 	  collapsed:: true
 		- https://rr6---sn-cvb7ln7l.c.drive.google.com/videoplayback?expire=1642443458&ei=gnrlYauEO4qChwbGoarIBw&ip=200.55.237.84&cp=QVRJVEVfUlRTSVhPOjBHWnNza081bVF4NDQzZ3NqRUUzQ1VPa3lPN1BqYjRxNjB0ZWQ4NnZ1VFE&id=4adf82958ce885ba&itag=22&source=webdrive&requiressl=yes&mh=YO&mm=32&mn=sn-cvb7ln7l&ms=su&mv=m&mvi=6&pl=24&ttl=transient&susc=dr&driveid=1MEDnXbCMmOe1duOtS7S3UP9P9U3AcHx4&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=2408.698&lmt=1591144796631217&mt=1642428745&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRgIhAIDPBkOgvwNpLRW4mFIABuo30RGWiO8119bh6k6kUi-7AiEA452CGFUJZQMjxClG47GPqbqN2PViZ1581wUkBtEYfQQ=&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgVLDy3bARh0LscMWHXD_mnZjvJlniAjdygPFG3PV-bEACICu-49q2RHK6z0ah8LMm1jq_pXoMrhphKR3MqCglX48M&cpn=s1JztxsMnxD0lsfi&c=WEB_EMBEDDED_PLAYER&cver=1.20220112.01.00
