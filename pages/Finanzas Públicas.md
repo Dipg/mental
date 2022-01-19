@@ -521,6 +521,7 @@
 		  collapsed:: true
 			- ![image.png](../assets/image_1642563187670_0.png)
 		- Carga directa - El total pagada por productores y por consumidores
+			- [[draws/2022-01-18-22-36-24.excalidraw]]
 			-
 	- 2 de junio
 	  collapsed:: true
