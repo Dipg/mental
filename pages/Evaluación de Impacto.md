@@ -75,6 +75,7 @@ collapsed:: true
 		- El $\tilde{Z}$ Determina participación
 	- Regresión discontinua borrosa (RDB) Fuzzy Regression Discontinuity
 		- No todos los individuos participan y no todos los individuos que no participan participan.
+		- El $\tilde{Z}$ Determina
 - # Control Sintético
   collapsed:: true
 	- Video principal
