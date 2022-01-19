@@ -522,7 +522,7 @@
 			- ![image.png](../assets/image_1642563187670_0.png)
 		- Carga directa - El total pagada por productores y por consumidores
 			- [[draws/2022-01-18-22-36-24.excalidraw]]
-		- Calcular las cargar (Carga total tributaria) ()
+		- Calcular las cargar (Carga total tributaria) (Calcular la carga total tributaria)
 			- ![image.png](../assets/image_1642564498414_0.png)
 				- ![image.png](../assets/image_1642564520244_0.png)
 	- 2 de junio
