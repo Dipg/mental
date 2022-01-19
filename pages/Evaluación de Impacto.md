@@ -69,8 +69,9 @@ collapsed:: true
 	- Ejercicios
 		- ((61a0421f-d475-45fa-ab4a-aa6fdb71cc02))
 		- ((61a042e1-bf94-4e68-b0f7-cd2516f1f566))
--
+- # L
 - # Control Sintético
+  collapsed:: true
 	- Video principal
 		- https://www.youtube.com/watch?v=uT6Gtzg1dyw&t=315s
 		- Do principal
