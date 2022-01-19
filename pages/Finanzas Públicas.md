@@ -534,7 +534,7 @@
 			-
 			- Todo el impuesto recae sobre los productores o todo el impuesto recae sobre los consumidores
 		- Traslación parcial:
-		- Cuadno los
+		- Cuándo los dos agentes económicos soportan la carga tributaria
 		-
 	- 2 de junio
 	  collapsed:: true
