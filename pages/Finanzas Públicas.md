@@ -502,7 +502,7 @@
 - El déficit es una variable de flujo
 -
 - Videos
-	- DONE 29 de Mayo
+	- DONE 29 de Mayo (Introducci)
 		- https://drive.google.com/drive/u/1/folders/1HLDI-ohR65Evt3BmWr_TSQhJw0sdXEjS
 		- Propiedades deseables de los impuestos
 		  collapsed:: true
