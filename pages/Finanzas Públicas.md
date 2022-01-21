@@ -553,7 +553,7 @@
 			  collapsed:: true
 				- No importa el lado del mercado sobre el cual el impuesto es colocado
 			- Segunda ´
-				- El lado inelastico soporta l
+				- El lado inelástico soporta los impuestos, el lado elástico los evita
 			- Tercera
 			-
 	- 5 de junio
