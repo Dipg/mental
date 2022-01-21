@@ -28,7 +28,6 @@ title:: Ley de plusvalía 2016 (Derogada)
 			  ```
 			-
 		- [](#2.) Obtenemos el **promedio de  la tasa pasiva referencial** Plazo 361 y más: ==7,99%==
-		  collapsed:: true
 			- 7.99%
 		- [](#3.)  Obtenemos el **Factor de Ajuste** con la formula $(1+r*)^n$ donde $$n$$ es  el numero de años y r^* es la tasa pasiva plazo de 361 y mas promedio desde marzo de 2018 hasta enero de 2022: ==1.36==
 		  collapsed:: true
