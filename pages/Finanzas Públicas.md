@@ -574,7 +574,7 @@
 			- la política comercial adoptada
 		- ¿Cuales son los factores instituciones de la presión fiscal  ?
 			- (eficiencia y corrupción)
-			-
+			- Si existe una alta corrupción
 		- ¿Cuales son los factores sociales de la presión fiscal?
 		  collapsed:: true
 			- Educación
