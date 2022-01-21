@@ -611,6 +611,7 @@
   collapsed:: true
 	- Impuesto al consumo
 - Principios del IVA
+	- Neutralidad
 	-
 - ---
 - Rev
