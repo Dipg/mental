@@ -543,6 +543,7 @@
 		- El mercado inmobiliario es mas  inelástico en los oferentes, y mas elástico en los demandantes por lo que un impuesto inmobiliario recae en los oferentes o curva de oferta
 		- Pago de impuestos en el tiempo
 			- Lado de la demanda-Precio (movimiento de traslación impositiva de delante hacia atrás)
+			  collapsed:: true
 				- En el cortísimo plazo toda la incidencia económica del impuesto recae sobre los consumidores, la función de demanda es completamente inelástica, no varia la producción, no existe perdida de eficiencia o carga excesiva
 				- Se comienza a repartir los impuestos entre productor y consumidor, se genera perdida de eficiencia y carga excesiva
 				- En el largo plazo la incidencia recae en los oferente y un poco en los cosumidores , la perdida de eficiencia o carga excesiva es aun mayot
