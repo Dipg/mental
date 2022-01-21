@@ -612,7 +612,8 @@
 	- Impuesto al consumo
 - Principios del IVA
 	- Neutralidad
-	-
+	- Principio de Neutralidad Internacional
+	- Universalidad
 - ---
 - Rev
   collapsed:: true
