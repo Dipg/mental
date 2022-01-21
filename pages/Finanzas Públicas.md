@@ -564,7 +564,7 @@
 			-
 		- Ecuación fundamental de la incidencia económica de un impuesto
 			- ![image.png](../assets/image_1642729657942_0.png)
-	- # 5 de junio
+	- TODO # 5 de junio
 		- Que es la presión fiscal = Total de impuestos recaudados / PIB o tambien recaudación fiscal /PIB
 		- ¿Cuales son los factores macroeconómicos de la presión fiscal  ( son 4 )?
 		  collapsed:: true
