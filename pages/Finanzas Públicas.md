@@ -556,7 +556,7 @@
 			  collapsed:: true
 				- El lado inelástico soporta los impuestos, el lado elástico los evita
 			- Tercera
-				- La incidencia tributaria es hacerca de los precios no de las cantidades, ya que generalemnte
+				- La incidencia tributaria es hacerca de los precios no de las cantidades, ya que
 			-
 	- 5 de junio
 	  collapsed:: true
