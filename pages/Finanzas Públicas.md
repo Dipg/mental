@@ -290,6 +290,7 @@
 	- 3. Incidencia Estatutaria u Obligatoria
 	- 4. Incidencia Económica
 	- 5 Incidencia Estatutaria vs Incidencia Económica
+	  collapsed:: true
 		- 5.1 Análisis de equilibrio parcial de la incidencia económica de un impuesto
 		  collapsed:: true
 			- Solo se analiza el mercado de consumo final donde se aplico el impuesto
@@ -383,6 +384,7 @@
 				- ((61d8a9df-9019-4bdc-ac4c-22c59a13574a))
 	- [](#7.) . Ecuación Fundamental de la Incidencia Económica de un impuesto
 	- [](#8.)  INCIDENCIA TRIBUTARIADE UN ==IMPUESTO== APLICADO EN ==MERCADOS DE FACTORES PRODUCTIVOS== ((61d33803-a468-41bb-922c-ac8ccc5532c9))
+	  collapsed:: true
 		- ¿Por que Analizar esta Sección?
 			- Existe una relación entre el mercado de factores y el mercado de consumo , por lo cual puede afectar el uno en el otro
 			- Recordar la función de oferta y demanda
