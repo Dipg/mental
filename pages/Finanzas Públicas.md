@@ -567,10 +567,12 @@
 	- 5 de junio
 		- Que es la presión fiscal = Total de impuestos recaudados / PIB o tambien recaudación fiscal /PIB
 		- ¿Cuales son los factores macroeconómicos de la presión fiscal ?
+		  collapsed:: true
 			- Tamaño economico del pais,
 			- nivel de ingresos per cápita
 			- ,Especialización productiva
 			- la política comercial adoptada
+		-
 	- 9 de junio
 	  collapsed:: true
 		- https://rr2---sn-cvb7ln7e.c.drive.google.com/videoplayback?expire=1642443619&ei=I3vlYdeNLY2Vhwbxl57ABw&ip=200.55.237.84&cp=QVRJVEVfUlZPSlhPOjBHWnN1Z1A1bVF4NDQzaW9rRUUzQ1VPa2FLOFBqYjRxNjB2YWU4NnZ1VFE&id=a68aa67db386e54d&itag=18&source=webdrive&requiressl=yes&mh=s-&mm=32&mn=sn-cvb7ln7e&ms=su&mv=m&mvi=2&pl=24&ttl=transient&susc=dr&driveid=1nAkeP3Y4ks4fNKdXklKxwLRNh19sXgGt&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=4995.520&lmt=1591801982429661&mt=1642428745&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIgJqP4kvSJgjYjHUDQs9f6n0POZz0IWL_pxCU3IArPV94CIQCPfPYn2ZlBAcu-C5yRdSfQ5uiWIH5OfukdqeQsJ6RqVA==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwQwIgPsvdXa1hAKY96c7nIgKWuBRdTZM17EmPD_7g8u4gNZUCH0O_pDKFksrbIl1XVdjqjL8Pnigvu1F52wjfFPkO5_0=&cpn=Wu-ApAJgXYT89p3n&c=WEB_EMBEDDED_PLAYER&cver=1.20220112.01.00
