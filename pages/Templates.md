@@ -1,4 +1,4 @@
 - Code
 	- TODO Python
-	-
-	  TODO
+	- TODO [[Svelte]]
+	- TODO [[JavaScript]]
