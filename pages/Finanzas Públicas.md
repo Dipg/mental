@@ -538,8 +538,8 @@
 		- Cuándo los dos agentes económicos soportan la carga tributaria
 		-
 	- 2 de junio
-		- Paga mas impuesto el lado del mercado mas inelastico
-		- El mercado inmobiliario es mas  inelástico en los oferentes, y las
+		- Paga mas impuesto el lado del mercado mas inelástico
+		- El mercado inmobiliario es mas  inelástico en los oferentes, y
 	- 5 de junio
 	  collapsed:: true
 		- https://rr4---sn-cvb7lnee.c.drive.google.com/videoplayback?expire=1642443553&ei=4XrlYfygA5e4hwbJiq3IDQ&ip=200.55.237.84&cp=QVRJVEVfUlVTRFhPOjBHWnN0a0o1bVF4NDQzaHNlRUUzQ1VPa3pPMlBqYjRxNjB1ZXk4NnZ1VFE&id=a34479cd8183b9c6&itag=22&source=webdrive&requiressl=yes&mh=W_&mm=32&mn=sn-cvb7lnee&ms=su&mv=m&mvi=4&pl=24&ttl=transient&susc=dr&driveid=1UntyFimiMFTv_BGJlqV17iaSkuCx9tUV&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=4514.377&lmt=1591475476583812&mt=1642428745&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRAIgL-AddOPbEn3zw7WKGme2JKM-DJfGtGio5haf7BbUNdMCIGqzuEvhtz3ZSwVxXqzn4v3sNRAdN-vIrnaOdJo0bm3O&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhANJYXXEVEEfRWHdmX8qZPnCIFaRLZCP1jKXqEQn5gkGDAiBHqv6CXORbv6FJKnEVaGGxEMBQfGmo3Z_fKFo-WfJ0KQ==&cpn=cEbIICYz_WQjKy8R&c=WEB_EMBEDDED_PLAYER&cver=1.20220112.01.00
