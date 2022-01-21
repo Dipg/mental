@@ -6,4 +6,4 @@
 	- Para construir una base de datos usamos nos enfocamos en el modelo de base de datos
 	- Un modelo de base de datos nos permite entender y describir características de las bases de datos entre ellas
 		- La [[Estructura de datos]]
-		- L
+		- Las restricciones de integridad
