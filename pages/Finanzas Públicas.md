@@ -237,7 +237,6 @@
 # Unidad 2 ![📑](../assets/UNIDAD_2._1637746281546_0.pdf)
 # Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
 - # Unidad 4 ![📑](../assets/Unidad_4_1637751172084_0.pdf) ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf)
-  collapsed:: true
 	- 1. Introducción
 	- collapsed:: true
 	  2. Incidencia tributaria
@@ -385,7 +384,6 @@
 				- ((61d8a9df-9019-4bdc-ac4c-22c59a13574a))
 	- [](#7.) . Ecuación Fundamental de la Incidencia Económica de un impuesto
 	- [](#8.)  INCIDENCIA TRIBUTARIADE UN ==IMPUESTO== APLICADO EN ==MERCADOS DE FACTORES PRODUCTIVOS== ((61d33803-a468-41bb-922c-ac8ccc5532c9))
-	  collapsed:: true
 		- ¿Por que Analizar esta Sección?
 			- Existe una relación entre el mercado de factores y el mercado de consumo , por lo cual puede afectar el uno en el otro
 			- Recordar la función de oferta y demanda
@@ -599,6 +597,7 @@
 			- Posibles varaibles instrumentales que solucionen la endogenidad , division religiosa y etnica
 		- Es importante mejorar los niveles de recaudación tributaria, ya que esto permite disminuir la desigualdad
 	- TODO 9 de junio
+	  collapsed:: true
 		- https://rr2---sn-cvb7ln7e.c.drive.google.com/videoplayback?expire=1642443619&ei=I3vlYdeNLY2Vhwbxl57ABw&ip=200.55.237.84&cp=QVRJVEVfUlZPSlhPOjBHWnN1Z1A1bVF4NDQzaW9rRUUzQ1VPa2FLOFBqYjRxNjB2YWU4NnZ1VFE&id=a68aa67db386e54d&itag=18&source=webdrive&requiressl=yes&mh=s-&mm=32&mn=sn-cvb7ln7e&ms=su&mv=m&mvi=2&pl=24&ttl=transient&susc=dr&driveid=1nAkeP3Y4ks4fNKdXklKxwLRNh19sXgGt&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=4995.520&lmt=1591801982429661&mt=1642428745&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIgJqP4kvSJgjYjHUDQs9f6n0POZz0IWL_pxCU3IArPV94CIQCPfPYn2ZlBAcu-C5yRdSfQ5uiWIH5OfukdqeQsJ6RqVA==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwQwIgPsvdXa1hAKY96c7nIgKWuBRdTZM17EmPD_7g8u4gNZUCH0O_pDKFksrbIl1XVdjqjL8Pnigvu1F52wjfFPkO5_0=&cpn=Wu-ApAJgXYT89p3n&c=WEB_EMBEDDED_PLAYER&cver=1.20220112.01.00
 	- Efecto cascada y ley de plusvalia
 	  collapsed:: true
