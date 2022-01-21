@@ -550,7 +550,7 @@
 				- En el largo plazo la incidencia recae en los oferente y un poco en los cosumidores , la perdida de eficiencia o carga excesiva es aun mayot
 		- Reglas de la incidencia tributaria
 			- Primera
-				-
+				- No importa
 			- Segunda ´
 			- Tercera
 			-
