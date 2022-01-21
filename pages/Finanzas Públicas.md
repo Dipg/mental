@@ -614,7 +614,7 @@
 	- Neutralidad
 		- No debe afectar a la competitividad empresaria
 	- Principio de Neutralidad Internacional
-		- No se afecta a la competitividad internacional
+		- No se afecta a la competitividad internacional , el exportador puede pedir
 	- Universalidad
 - ---
 - Rev
