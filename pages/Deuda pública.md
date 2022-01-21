@@ -32,4 +32,5 @@
 	- Sector Público no financiero
 	- Presupuesto general del Estado
 - ![image.png](../assets/image_1642774286321_0.png)
-- No sonsidero valores de endeudamiento con el sector publico con el bnaco de desarrollo con el banco central empresas publicas, certificados de tesoreria
+- No sonsidero valores de endeudamiento con el sector publico con el bnaco de desarrollo con el banco central empresas publicas, certificados de tesoreria, cone liess
+-
