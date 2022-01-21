@@ -573,8 +573,8 @@
 			- ,Especialización productiva
 			- la política comercial adoptada
 		- ¿Cuales son los factores instituciones de la presión fiscal  ?
-		  collapsed:: true
 			- (eficiencia y corrupción)
+			-
 		- ¿Cuales son los factores sociales de la presión fiscal?
 		  collapsed:: true
 			- Educación
