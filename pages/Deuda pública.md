@@ -1,5 +1,4 @@
 - Deuda Pública Ecuador
-  collapsed:: true
 	- Acceder a los boletines de Deuda Pública del Ecuador
 	  collapsed:: true
 		- https://www.finanzas.gob.ec/https-wwwdeuda-publica-nueva-metodologia/
