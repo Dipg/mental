@@ -576,6 +576,7 @@
 		  collapsed:: true
 			- (eficiencia y corrupción)
 		- ¿Cuales son los factores sociales de la presión fiscal?
+		  collapsed:: true
 			- Educación
 			- Urbanidad
 			- Natalidad
