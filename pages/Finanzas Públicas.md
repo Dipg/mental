@@ -549,6 +549,7 @@
 				- Se comienza a repartir los impuestos entre productor y consumidor, se genera perdida de eficiencia y carga excesiva
 				- En el largo plazo la incidencia recae en los oferente y un poco en los cosumidores , la perdida de eficiencia o carga excesiva es aun mayot
 		- Reglas de la incidencia tributaria
+		  collapsed:: true
 			- Primera
 			  collapsed:: true
 				- No importa el lado del mercado sobre el cual el impuesto es colocado
@@ -556,8 +557,10 @@
 			  collapsed:: true
 				- El lado inelástico soporta los impuestos, el lado elástico los evita
 			- Tercera
+			  collapsed:: true
 				- La incidencia tributaria es acerca de los precios no de las cantidades, ya que generalmente la incidencia no se aplica sobre cantidades sino sobre precios
 			-
+		- Ecuación funf
 	- 5 de junio
 	  collapsed:: true
 		- https://rr4---sn-cvb7lnee.c.drive.google.com/videoplayback?expire=1642443553&ei=4XrlYfygA5e4hwbJiq3IDQ&ip=200.55.237.84&cp=QVRJVEVfUlVTRFhPOjBHWnN0a0o1bVF4NDQzaHNlRUUzQ1VPa3pPMlBqYjRxNjB1ZXk4NnZ1VFE&id=a34479cd8183b9c6&itag=22&source=webdrive&requiressl=yes&mh=W_&mm=32&mn=sn-cvb7lnee&ms=su&mv=m&mvi=4&pl=24&ttl=transient&susc=dr&driveid=1UntyFimiMFTv_BGJlqV17iaSkuCx9tUV&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=4514.377&lmt=1591475476583812&mt=1642428745&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRAIgL-AddOPbEn3zw7WKGme2JKM-DJfGtGio5haf7BbUNdMCIGqzuEvhtz3ZSwVxXqzn4v3sNRAdN-vIrnaOdJo0bm3O&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhANJYXXEVEEfRWHdmX8qZPnCIFaRLZCP1jKXqEQn5gkGDAiBHqv6CXORbv6FJKnEVaGGxEMBQfGmo3Z_fKFo-WfJ0KQ==&cpn=cEbIICYz_WQjKy8R&c=WEB_EMBEDDED_PLAYER&cver=1.20220112.01.00
