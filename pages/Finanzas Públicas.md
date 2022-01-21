@@ -568,6 +568,7 @@
 		- Que es la presión fiscal = Total de impuestos recaudados / PIB o tambien recaudación fiscal /PIB
 		- ¿Cuales son los factores macroeconómicos de la presión fiscal  ( son 4 )?
 			- Tamaño economico del pais,
+			  collapsed:: true
 				- bajo nivel de crecimiento genera baja presion fiscal
 			- nivel de ingresos per cápita
 			- ,Especialización productiva
