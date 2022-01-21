@@ -603,6 +603,7 @@
 		  collapsed:: true
 			- ![image.png](../assets/image_1642765751592_0.png)
 			- Un arancel es pagado totalmente por los consumidores
+	-
 	- Efecto cascada y ley de plusvalia y Grandeç
 	  collapsed:: true
 		- https://rr4---sn-cvb7ln7z.c.drive.google.com/videoplayback?expire=1642443088&ei=EHnlYajrH5-H_9EPtf6R-AY&ip=200.55.237.84&cp=QVRJVEVfUlBWSVhPOjBHWnNvbk81bVF4NDQzY3ZqRUUzQ1VPa3VSN1BqYjRxNjBwaGQ4NnZ1VFE&id=b63295126ccc436e&itag=22&source=webdrive&requiressl=yes&mh=6G&mm=32&mn=sn-cvb7ln7z&ms=su&mv=u&mvi=4&pl=24&ttl=transient&susc=dr&driveid=12lNBE0cQ0ASDhJPkIoPn485KxxRvijoi&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=3081.009&lmt=1595368462407088&mt=1642428058&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRgIhAPO6Uskm6Nx55EJxLj78S2WHOlpcy5clzgCzV6AUM3ZvAiEArTj_PTHRL0D1YWjeFzpoH1QN9B5jxXwZWQz3HzC6iG4=&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhALgvqL4HGyL3Wlj2TMaXVaanZSXeUek1qxq0ZB_Osa8FAiEAqmkSLKG9ypFFKDxMPAUgkBjwGgOcbwnf-arK07HtAas=&cpn=mpuB8Gzpo_W0AalM&c=WEB_EMBEDDED_PLAYER&cver=1.20220112.01.00
