@@ -586,6 +586,7 @@
 			- Grado de desarollo del sistema fianciero
 			- Política de tipo de cambio adoptada
 		- ¿Cómo es la presión fisca  en américa  latina?
+		  collapsed:: true
 			- La presión fiscal en america  latina es baja
 			- A que se debe ?
 				- Se debe muchas veces a al ineficiencia en la recaudación fiscal
