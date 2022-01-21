@@ -15,4 +15,4 @@
 	- ![image.png](../assets/image_1642028087150_0.png)
 	- https://support.google.com/a/answer/1371417?hl=es
 - Como empezar con la programación
-	-
+	- Primero instalamos Node
