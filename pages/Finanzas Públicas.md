@@ -560,7 +560,7 @@
 			  collapsed:: true
 				- La incidencia tributaria es acerca de los precios no de las cantidades, ya que generalmente la incidencia no se aplica sobre cantidades sino sobre precios
 			-
-		- Ecuación fundametnal de la incidencia económica
+		- Ecuación fundamental de la incidencia económica de un impuesto
 			- ![image.png](../assets/image_1642729657942_0.png)
 	- 5 de junio
 	  collapsed:: true
@@ -577,6 +577,4 @@
 	- ¿Por que la incidencia tributaria se grafica como un rectángulo debajo del precio que incluye el impuesto  y por encima  de precio sin impuesto?
 		- Esto es debido a que por cada unidad consumida se va a pagar el precio con impuesto.
 		- [[draws/2021-12-14-07-12-42.excalidraw]]
-		- [[Excel]]
--
--
+		
