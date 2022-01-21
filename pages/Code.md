@@ -17,5 +17,5 @@
 - Como empezar con la programación
 	- Primero instalamos Node
 		- Node
-			- Es el motor donde corre javascript
+			- Es el motor donde corre javascript nos permite escribir en
 			- Node nos instala npm
