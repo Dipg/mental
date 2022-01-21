@@ -553,7 +553,7 @@
 			  collapsed:: true
 				- No importa el lado del mercado sobre el cual el impuesto es colocado
 			- Segunda ´
-				- El lado inelastico
+				- El lado inelastico soporta l
 			- Tercera
 			-
 	- 5 de junio
