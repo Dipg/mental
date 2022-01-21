@@ -538,7 +538,8 @@
 		- Traslación parcial:
 		- Cuándo los dos agentes económicos soportan la carga tributaria
 		-
-	- T2 de junio
+	- DONE 2 de junio
+	  collapsed:: true
 		- Paga mas impuesto el lado del mercado mas inelástico
 		- El mercado inmobiliario es mas  inelástico en los oferentes, y mas elástico en los demandantes por lo que un impuesto inmobiliario recae en los oferentes o curva de oferta
 		- Pago de impuestos en el tiempo
