@@ -616,6 +616,7 @@
 	- Principio de Neutralidad Internacional
 		- No se afecta a la competitividad internacional , el exportador puede pedir devoluciñon del IVA de sus compras, Facilitando a que el producto salga libre de impuestos
 	- Universalidad
+		- Grava tods y cd
 - ---
 - Rev
   collapsed:: true
