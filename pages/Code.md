@@ -18,3 +18,4 @@
 	- Primero instalamos Node
 		- Node
 			- Es el motor donde corre javascript
+			- Node nos instala npm
