@@ -6,7 +6,6 @@
 	- TODO [[Experimentos  en Linea -Prueba A/B través de Facebook]] [[Jan 19th, 2022]]
 	- #urgente
 	- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Mon, 24-01-2022]]
-	- TODO revisar Carpeta de Economía Ecuatoriana [[Tue, 25-01-2022]]
 	- TODO Buscar base de datos de análisis Multivariante [[Fri, 21-01-2022]]
 	  :LOGBOOK:
 	  CLOCK: [2022-01-21 Fri 19:37:51]--[2022-01-21 Fri 19:38:52] =>  00:01:01
