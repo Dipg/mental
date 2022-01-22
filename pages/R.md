@@ -35,7 +35,6 @@
 			  df$edad
 			  ```
 		- ## Seleccionar  columnas Especificas
-		  collapsed:: true
 			- Seleccionar un Subconjunto especifico de  de columnas por nombre en R
 			- ```r
 			  df[,c("A","B","E")] 
