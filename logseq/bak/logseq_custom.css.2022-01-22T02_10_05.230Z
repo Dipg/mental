@@ -12,7 +12,7 @@ margin-left:-15px !important;
 
 }
 .custom-query .color-level{
-    box-shadow: 1px 1px 8px 1px #4b4b4b9b; 
+    box-shadow: 1px 1px 8px 1px #1616169b; 
 
     background-color: #26262600;
     border-top: 1px solid #1c1c1c00;
