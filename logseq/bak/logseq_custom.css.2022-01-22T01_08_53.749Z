@@ -1,10 +1,8 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 
-.custom-query-title
-{
-    visibility: hidden;
-}
+
+
 .dsl-query{
 
 margin-left:-20px !important;
