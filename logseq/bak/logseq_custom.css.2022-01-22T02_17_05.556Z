@@ -1,7 +1,7 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 
-.logseq-tab[data-active=false] {
+.dark .logseq-tab[data-active=false] {
     box-shadow: 1px 1px 8px 1px #ff0f0f !important; 
     --tw-bg-opacity: 1;
     background-color: rgba(31,41,55,var(--tw-bg-opacity));
