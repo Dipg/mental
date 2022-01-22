@@ -1,6 +1,6 @@
 [{:block/name "",
-  :block/created-at 1642806466804,
-  :block/updated-at 1642806466804}
+  :block/created-at 1642811898269,
+  :block/updated-at 1642811898269}
  {:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -214,6 +214,9 @@
  {:block/name "análisis multivariante",
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
+ {:block/name "aprender",
+  :block/created-at 1642811898271,
+  :block/updated-at 1642811898271}
  {:block/name "b",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -222,7 +225,7 @@
   :block/updated-at 1642172083941}
  {:block/name "bases de datos",
   :block/created-at 1642172083942,
-  :block/updated-at 1642172083942}
+  :block/updated-at 1642807955210}
  {:block/name "biólogos",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
@@ -296,11 +299,11 @@
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
  {:block/name "draws/2021-12-14-07-12-42.excalidraw",
-  :block/created-at 1642806466806,
-  :block/updated-at 1642806466806}
+  :block/created-at 1642811898270,
+  :block/updated-at 1642811898270}
  {:block/name "draws/2022-01-18-22-36-24.excalidraw",
-  :block/created-at 1642806466807,
-  :block/updated-at 1642806466808}
+  :block/created-at 1642811898272,
+  :block/updated-at 1642811898272}
  {:block/name "draws/piensa matricialmente.excalidraw",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -309,7 +312,7 @@
   :block/updated-at 1642172083941}
  {:block/name "economía",
   :block/created-at 1642172083936,
-  :block/updated-at 1642172083936}
+  :block/updated-at 1642811129704}
  {:block/name "economía conductual",
   :block/created-at 1642172083939,
   :block/updated-at 1642172083939}
@@ -343,6 +346,9 @@
  {:block/name "english",
   :block/created-at 1642172083936,
   :block/updated-at 1642593974874}
+ {:block/name "estructura de datos",
+  :block/created-at 1642811898270,
+  :block/updated-at 1642811898270}
  {:block/name "evaluación de impacto",
   :block/created-at 1642172083944,
   :block/updated-at 1642557970223}
@@ -366,11 +372,11 @@
   :block/updated-at 1642172083943}
  {:block/name
   "experimentos  en linea - influencia del efecto gratis en la adquisición de un seguro de medicina prepagada a través de facebook/ 2",
-  :block/created-at 1642806466805,
-  :block/updated-at 1642806466805}
+  :block/created-at 1642811898270,
+  :block/updated-at 1642811898270}
  {:block/name "experimentos  en linea -prueba a",
-  :block/created-at 1642806466807,
-  :block/updated-at 1642806466807}
+  :block/created-at 1642811898272,
+  :block/updated-at 1642811898272}
  {:block/name "experimentos  en linea -prueba a/b través de facebook",
   :block/created-at 1642180004251,
   :block/updated-at 1642710325652}
@@ -397,7 +403,7 @@
   :block/updated-at 1637280000000}
  {:block/name "fri, 21-01-2022",
   :block/created-at 1642723200000,
-  :block/updated-at 1642806189582}
+  :block/updated-at 1642811686570}
  {:block/name "fri, 24-12-2021",
   :block/created-at 1640304000000,
   :block/updated-at 1640304000000}
@@ -494,7 +500,7 @@
   :block/updated-at 1642172083942}
  {:block/name "ideas",
   :block/created-at 1642172083936,
-  :block/updated-at 1642172083936}
+  :block/updated-at 1642810365906}
  {:block/name "in-progress",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
@@ -511,14 +517,14 @@
   :block/created-at 1642173792409,
   :block/updated-at 1642217658353}
  {:block/name "jan 17th, 2022",
-  :block/created-at 1642806466805,
-  :block/updated-at 1642806466805}
+  :block/created-at 1642811898270,
+  :block/updated-at 1642811898270}
  {:block/name "jan 18th, 2022",
-  :block/created-at 1642806466806,
-  :block/updated-at 1642806466806}
+  :block/created-at 1642811898271,
+  :block/updated-at 1642811898271}
  {:block/name "jan 19th, 2022",
-  :block/created-at 1642806466803,
-  :block/updated-at 1642806466803}
+  :block/created-at 1642811898268,
+  :block/updated-at 1642811898268}
  {:block/name "jan 1st, 2022",
   :block/created-at 1640995200000,
   :block/updated-at 1640995200000}
@@ -736,8 +742,8 @@
   :block/created-at 1642896000000,
   :block/updated-at 1642896000000}
  {:block/name "svelte",
-  :block/created-at 1642806466806,
-  :block/updated-at 1642806466806}
+  :block/created-at 1642811898271,
+  :block/updated-at 1642811898271}
  {:block/name "tarifa en bloque creciente",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
@@ -782,7 +788,7 @@
   :block/updated-at 1641992433040}
  {:block/name "trabajos u",
   :block/created-at 1642178166048,
-  :block/updated-at 1642548145010}
+  :block/updated-at 1642811873116}
  {:block/name "tue, 04-01-2022",
   :block/created-at 1641254400000,
   :block/updated-at 1641254400000}
@@ -827,7 +833,7 @@
   :block/updated-at 1641945600000}
  {:block/name "wed, 19-01-2022",
   :block/created-at 1642593557220,
-  :block/updated-at 1642640343632}
+  :block/updated-at 1642810302478}
  {:block/name "wed, 22-12-2021",
   :block/created-at 1640131200000,
   :block/updated-at 1640131200000}
