@@ -2,7 +2,7 @@
 
 
 .dark .logseq-tab[data-active=false] {
-    box-shadow: 1px 1px 8px 1px #ff0f0f !important; 
+    box-shadow: 1px 1px 8px 1px #1a1a1a7a; 
     --tw-bg-opacity: 1;
     background-color: rgba(31,41,55,var(--tw-bg-opacity));
     --tw-text-opacity: 1;
