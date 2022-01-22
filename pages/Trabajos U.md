@@ -1,4 +1,4 @@
--
+- {{renderer :todomaster-NjFlYjUzMmEtZWNhMC00YzZjLTk0YmUtN2JlZTQ1NjczMjZi}}
 - #inmediato
 - TODO 🧪 Finanzas Públicas [[Thu, 20-01-2022]]
 - TODO Aplicación Machine learning [[Sat, 22-01-2022]]
