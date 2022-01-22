@@ -13,9 +13,9 @@
   :LOGBOOK:
   CLOCK: [2022-01-21 Fri 19:37:52]--[2022-01-21 Fri 19:38:54] =>  00:01:02
   :END:
-- DOING Aplicación  Ecuaciones Estructurales [[Fri, 21-01-2022]]
+- TODO Aplicación  Ecuaciones Estructurales [[Fri, 21-01-2022]]
   :LOGBOOK:
-  CLOCK: [2022-01-21 Fri 19:37:53]
+  CLOCK: [2022-01-21 Fri 19:37:53]--[2022-01-21 Fri 19:38:54] =>  00:01:01
   :END:
 - #Hacer
 - TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[Mon, 24-01-2022]]
