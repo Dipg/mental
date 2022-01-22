@@ -1,6 +1,6 @@
 [{:block/name "",
-  :block/created-at 1642875598914,
-  :block/updated-at 1642875598914}
+  :block/created-at 1642895132771,
+  :block/updated-at 1642895132771}
  {:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -215,8 +215,8 @@
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
  {:block/name "aprender",
-  :block/created-at 1642875598916,
-  :block/updated-at 1642875598916}
+  :block/created-at 1642895132773,
+  :block/updated-at 1642895132773}
  {:block/name "b",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -299,11 +299,11 @@
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
  {:block/name "draws/2021-12-14-07-12-42.excalidraw",
-  :block/created-at 1642875598916,
-  :block/updated-at 1642875598916}
+  :block/created-at 1642895132772,
+  :block/updated-at 1642895132772}
  {:block/name "draws/2022-01-18-22-36-24.excalidraw",
-  :block/created-at 1642875598920,
-  :block/updated-at 1642875598920}
+  :block/created-at 1642895132776,
+  :block/updated-at 1642895132776}
  {:block/name "draws/piensa matricialmente.excalidraw",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -347,8 +347,8 @@
   :block/created-at 1642172083936,
   :block/updated-at 1642593974874}
  {:block/name "estructura de datos",
-  :block/created-at 1642875598915,
-  :block/updated-at 1642875598915}
+  :block/created-at 1642895132772,
+  :block/updated-at 1642895132772}
  {:block/name "evaluación de impacto",
   :block/created-at 1642172083944,
   :block/updated-at 1642557970223}
@@ -372,11 +372,11 @@
   :block/updated-at 1642172083943}
  {:block/name
   "experimentos  en linea - influencia del efecto gratis en la adquisición de un seguro de medicina prepagada a través de facebook/ 2",
-  :block/created-at 1642875598915,
-  :block/updated-at 1642875598915}
+  :block/created-at 1642895132771,
+  :block/updated-at 1642895132771}
  {:block/name "experimentos  en linea -prueba a",
-  :block/created-at 1642875598920,
-  :block/updated-at 1642875598920}
+  :block/created-at 1642895132775,
+  :block/updated-at 1642895132775}
  {:block/name "experimentos  en linea -prueba a/b través de facebook",
   :block/created-at 1642180004251,
   :block/updated-at 1642710325652}
@@ -517,14 +517,14 @@
   :block/created-at 1642173792409,
   :block/updated-at 1642217658353}
  {:block/name "jan 17th, 2022",
-  :block/created-at 1642875598915,
-  :block/updated-at 1642875598915}
+  :block/created-at 1642895132771,
+  :block/updated-at 1642895132771}
  {:block/name "jan 18th, 2022",
-  :block/created-at 1642875598916,
-  :block/updated-at 1642875598916}
+  :block/created-at 1642895132773,
+  :block/updated-at 1642895132773}
  {:block/name "jan 19th, 2022",
-  :block/created-at 1642875598912,
-  :block/updated-at 1642875598912}
+  :block/created-at 1642895132769,
+  :block/updated-at 1642895132769}
  {:block/name "jan 1st, 2022",
   :block/created-at 1640995200000,
   :block/updated-at 1640995200000}
@@ -742,8 +742,8 @@
   :block/created-at 1642896000000,
   :block/updated-at 1642896000000}
  {:block/name "svelte",
-  :block/created-at 1642875598916,
-  :block/updated-at 1642875598916}
+  :block/created-at 1642895132773,
+  :block/updated-at 1642895132773}
  {:block/name "tarifa en bloque creciente",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
