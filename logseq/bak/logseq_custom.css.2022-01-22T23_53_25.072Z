@@ -3,12 +3,14 @@
 
 .dsl-query .custom-query{
 
-    background-color: #22232200;
+    box-shadow: 1px 1px 8px 1px #1a1a1a7a; 
+
+    background-color: #26262600;
     border-top: 1px solid #1c1c1c00;
     border-right: 1px solid #1c1c1c00;
     border-bottom: 1px solid #1c1c1c00;
     border-left: 1px solid #1c1c1c00;
-    color: var(--cl-white);
+    border-radius: 2px !important;
 }
 
 .dsl-query .custom-query-title
