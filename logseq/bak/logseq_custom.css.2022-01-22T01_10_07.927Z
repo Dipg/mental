@@ -3,7 +3,7 @@
 
 .custom-query-title
 {
-    /* visibility: hidden; */
+    visibility: hidden;
 }
 .dsl-query{
 
