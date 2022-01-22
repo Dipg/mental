@@ -1,7 +1,7 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 .custom-query .color-level{
-    box-shadow: 4px 4px 1px 4px #1616169b; 
+    box-shadow: 4px 4px 4px 4px #1616169b; 
 
     background-color: #26262600;
     border-top: 1px solid #1c1c1c00;
