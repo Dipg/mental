@@ -4,7 +4,8 @@
 .logseq-tab[data-active=false] {
     box-shadow: 1px 1px 8px 1px #ff0f0f !important; 
     --tw-bg-opacity: 1;
-    background-color:red !important; 
+    background-color: rgba(31,41,55,var(--tw-bg-opacity));
+    --tw-text-opacity: 1;
     color: red;
 }
 
