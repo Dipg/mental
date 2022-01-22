@@ -5,13 +5,13 @@
 - TODO [[Experimentos  en Linea -Prueba A/B través de Facebook]] [[Jan 19th, 2022]]
 - #urgente
 - TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Mon, 24-01-2022]]
-- DOING Buscar base de datos de análisis Multivariante [[Fri, 21-01-2022]]
+- TODO Buscar base de datos de análisis Multivariante [[Fri, 21-01-2022]]
   :LOGBOOK:
-  CLOCK: [2022-01-21 Fri 19:37:51]
+  CLOCK: [2022-01-21 Fri 19:37:51]--[2022-01-21 Fri 19:38:52] =>  00:01:01
   :END:
-- DOING Aplicación análisis de correspondencia [[Fri, 21-01-2022]]
+- TODO Aplicación análisis de correspondencia [[Fri, 21-01-2022]]
   :LOGBOOK:
-  CLOCK: [2022-01-21 Fri 19:37:52]
+  CLOCK: [2022-01-21 Fri 19:37:52]--[2022-01-21 Fri 19:38:54] =>  00:01:02
   :END:
 - DOING Aplicación  Ecuaciones Estructurales [[Fri, 21-01-2022]]
   :LOGBOOK:
