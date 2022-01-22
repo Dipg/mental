@@ -4,6 +4,6 @@
 	- TODO [[Python]]
 	- TODO [[Svelte]]
 	- TODO [[JavaScript]]
-- T
+- Tareas Hoy
 	- {{query (and (todo todo doing) <%today%> ) }}
 -
