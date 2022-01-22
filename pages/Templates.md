@@ -5,5 +5,6 @@
 	- TODO [[Svelte]]
 	- TODO [[JavaScript]]
 - Tareas Hoy
+  template:: Tareas hoy
 	- {{query (and (todo todo doing) <%today%> ) }}
 -
