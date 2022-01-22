@@ -2,7 +2,7 @@
 
 
 .logseq-tab{
-    box-shadow: 1px 1px 8px 1px #d10a0a !important; 
+    box-shadow: 1px 1px 8px 1px #1a1a1a7a !important; 
 
 }
 
