@@ -1,12 +1,12 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 
-.dark .logseq-tab[data-active=false] {
-    --tw-bg-opacity: 1;
-    background-color: rgba(31,41,55,var(--tw-bg-opacity));
-    --tw-text-opacity: 1;
-    color: rgba(156,163,175,var(--tw-text-opacity));
+.logseq-tab .group{
+    box-shadow: 1px 1px 8px 1px #d10a0a !important; 
+
 }
+
+
 
 
 .dsl-query .custom-query-title
