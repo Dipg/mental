@@ -21,6 +21,7 @@
 	- #Hacer
 	- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[Mon, 24-01-2022]]
 	- TODO Frontera de Posibilidades → [[Economía Empresarial]] [[Sat, 22-01-2022]]
+	- TODO revisar Carpeta de Economía Ecuatoriana [[Tue, 25-01-2022]]
 	- TODO Sistemas de información gerencial de Laurol [[Mon, 31-01-2022]] Capitulo 5 del Silabo
 	- ​📚**Estudiar**
 - Completos
