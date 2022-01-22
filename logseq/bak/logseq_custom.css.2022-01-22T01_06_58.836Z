@@ -3,12 +3,7 @@
 
 
 
-.dsl-query{
-
-
-
-
-}
+,dsl-query
 .custom-query .color-level{
     box-shadow: 1px 1px 8px 1px #1616169b; 
 
