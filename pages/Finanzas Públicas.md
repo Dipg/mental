@@ -280,7 +280,7 @@
 				-
 			-
 	- 3. Incidencia Estatutaria u Obligatoria #yellow
-	- 4. Incidencia Económica
+	- 4. Incidencia Económica #yellow
 	- 5 Incidencia Estatutaria vs Incidencia Económica
 	  collapsed:: true
 		- 5.1 Análisis de equilibrio parcial de la incidencia económica de un impuesto
