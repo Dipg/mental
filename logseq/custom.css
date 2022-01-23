@@ -2,7 +2,6 @@
 
 .custom-query .initial {
     padding: - 10px !important;
-    padding-left: -20px !important;
 }
 
 
@@ -39,8 +38,8 @@
 
 .dsl-query .custom-query-title
 {
-    display: none !important;
-    visibility: hidden;
+    /* display: none !important;
+    visibility: hidden; */
 }
 
 .dsl-query .custom-query-title::before{
