@@ -5,7 +5,7 @@
 
 .dsl-query .custom-query  .initial {
     /* padding-top:-160px !important; */
-    pad - 160px !important;
+    padding-top: - 160px !important;
     
 }
 
