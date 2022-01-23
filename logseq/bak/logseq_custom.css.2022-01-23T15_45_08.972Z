@@ -15,8 +15,9 @@
 }
 
 
-.dsl-query  .custom-query .initial .block-parents {
-   display: block !important;
+.dsl-query  .custom-query .initial {
+    margin-top: 0px !important;
+    margin-left: -20px !important;
 }
 
 
