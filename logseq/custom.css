@@ -6,7 +6,7 @@
 }
 
 .dsl-query  .custom-query .content {
-    margin-top: 1px !important;
+    margin-top: -10px !important;
     margin-left: 0px !important;
 }
 .dsl-query  .custom-query .initial {
@@ -335,4 +335,4 @@ div[data-refs-self*="kanban"] >.block-children > div {
                     border-radius: 10px !important;
                     padding-left: 5px !important;
                     padding-right: 5px !important;
-                }
+                
