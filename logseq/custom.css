@@ -15,7 +15,7 @@
 }
 
 
-.dsl-query  .custom-query .initial {
+.dsl-query  .custom-query .initial block-parents {
     margin-top: 0px !important;
     margin-left: -20px !important;
 }
