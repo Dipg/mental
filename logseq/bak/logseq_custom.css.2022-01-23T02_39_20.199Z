@@ -13,12 +13,12 @@
 
 .dsl-query .custom-query-title
 {
-    visibility: hidden;
+    visibility: s hidden;
 }
 
 .dsl-query .custom-query-title::before{
     content: "HOla";
-    visibility: inline !important;
+    visibility: in !important;
 }
 .dsl-query{
 
