@@ -3,9 +3,9 @@
 
 .dsl-query .custom-query{
 
-    background-color: #22232200 !important;
-    border-top: 1px solid #1c1c1c00 !important;
-    border-right: 1px solid #1c1c1c00 !important;
+    background-color: #22232200;
+    border-top: 1px solid #1c1c1c00;
+    border-right: 1px solid #1c1c1c00;
     border-bottom: 1px solid #1c1c1c00;
     border-left: 1px solid #1c1c1c00;
     color: var(--cl-white);
