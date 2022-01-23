@@ -26,9 +26,9 @@
     
 }
 
-.dsl-query .custom-query  .content>div>div>{
+.dsl-query .custom-query  .content>div>span>{
     /* padding-top:-160px !important; */
-    display: none !important;
+    /* display: none !important; */
     
 }
 
