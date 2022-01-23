@@ -1,4 +1,4 @@
-- {{renderer :todomaster-NjFlZDcxYWMtODljOC00ODhiLWJkMzgtM2QyNjk3OGI4Y2M2}}
+- {{renderer :todomaster-VHJhYmFqb3MgVQ==}}
 - #inmediato
 - TODO Aplicación Machine learning [[Sun, 23-01-2022]] [[Jan 23rd, 2022]]
 - TODO  🧪 Opta IV [[Wed, 26-01-2022]] [[Jan 26th, 2022]]
