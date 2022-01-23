@@ -15,13 +15,6 @@
 }
 
 
-.dsl-query  .custom-query .initial {
-    margin-top: 0px !important;
-    margin-left: -20px !important;
-}
-
-
-
 
 .dsl-query  .custom-query  .content .items-center {
     display: none !important;
