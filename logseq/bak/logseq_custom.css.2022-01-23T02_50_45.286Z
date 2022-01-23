@@ -4,7 +4,7 @@
 .dsl-query .custom-query  .initial .content .my-2{
     /* padding-top:-160px !important; */
     margin-top: - 160px !important;
-    
+    visibility: hidden !important;
 }
 
 
