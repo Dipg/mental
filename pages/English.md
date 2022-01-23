@@ -77,8 +77,8 @@
 			- Octavo
 		-
 		-
-	- the real amount of tangible fixed assets
-		- Cantidad de activos fijos tangibles
+		- the real amount of tangible fixed assets
+			- Cantidad de activos fijos tangibles
 	- # 2. WORDS
 	  collapsed:: true
 		- Research #card
