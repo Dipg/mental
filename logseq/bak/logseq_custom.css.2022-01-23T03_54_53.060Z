@@ -32,7 +32,7 @@
     
 }
 
-.dsl-query .custom-query>div>div>div>div>div>div{
+.dsl-query .custom-query>div>div>div>div{
     /* padding-top:-160px !important; */
     display: none !important;
     
