@@ -14,13 +14,6 @@
 
 }
 
-
-.dsl-query  .custom-query  .items-center .page-ref {
-    display: none !important;
-
-}
-
-
 .custom-query .initial {
     padding: - 10px !important;
 }

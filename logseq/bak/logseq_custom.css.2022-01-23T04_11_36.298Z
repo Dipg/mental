@@ -15,11 +15,11 @@
 }
 
 
-.dsl-query  .custom-query  .items-center .page-ref {
+.dsl-query  .custom-query  .items-center {
     display: none !important;
 
 }
-
+page-ref
 
 .custom-query .initial {
     padding: - 10px !important;
