@@ -18,8 +18,10 @@
 
 .dsl-query .custom-query-title::before{
     content: "HOla";
-    visibility: visible !important;
+    visibility: inl !important;
 }
+
+
 .dsl-query{
 
 margin-left:-15px !important  !important;
