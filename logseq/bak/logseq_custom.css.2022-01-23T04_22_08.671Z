@@ -10,7 +10,7 @@
 
 
 .dsl-query  .custom-query  .content .items-center {
-    /* display: none !important; */
+    display: none !important;
 
 }
 
