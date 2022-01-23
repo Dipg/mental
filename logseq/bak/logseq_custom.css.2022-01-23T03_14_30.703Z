@@ -60,7 +60,7 @@ margin-left:-15px !important  !important;
     background-color: #26262600 !important;
     border-top: 1px solid #1c1c1c00 !important;
     border-right: 1px solid #1c1c1c00 !important;
-    border-bottom: 1px solid #dddada !important;
+    border-bottom: 1px solid #dddada00 !important;
     border-left: 1px solid #1c1c1c00 !important;
     border-radius: 2px !important;
 }
