@@ -15,7 +15,7 @@
 }
 
  .page-ref{
-    display: inline !important;
+    display: block !important;
 
 }
 
