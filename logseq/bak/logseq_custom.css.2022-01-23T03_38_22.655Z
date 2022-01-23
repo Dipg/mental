@@ -37,7 +37,7 @@
 
 .dsl-query .custom-query{
     box-shadow: 1px 1px 8px 1px #1a1a1a7a; 
-    background-color: #00000000 !important;
+    background-color: #00ff0000 !important;
     border-top: 1px solid #1c1c1c00 !important;
     border-right: 1px solid #1c1c1c00 !important;
     border-bottom: 1px solid #1c1c1c00 !important;
