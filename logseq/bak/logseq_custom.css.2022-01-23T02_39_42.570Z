@@ -20,8 +20,6 @@
     content: "HOla";
     visibility: inl !important;
 }
-
-
 .dsl-query{
 
 margin-left:-15px !important  !important;
