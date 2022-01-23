@@ -1,7 +1,7 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 .custom-query .initial {
-    padding: - 20px !important;
+    padding: - 10px !important;
 }
 
 
@@ -38,8 +38,8 @@
 
 .dsl-query .custom-query-title
 {
-    display: none !important;
-    visibility: hidden;
+    /* display: none !important;
+    visibility: hidden; */
 }
 
 .dsl-query .custom-query-title::before{
