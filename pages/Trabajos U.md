@@ -1,6 +1,6 @@
 - {{renderer :todomaster-NjFlYjUzMmEtZWNhMC00YzZjLTk0YmUtN2JlZTQ1NjczMjZi}}
 	- #inmediato
-	- TODO 🧪 Finanzas Públicas [[Thu, 20-01-2022]]
+	- DONE 🧪 Finanzas Públicas [[Thu, 20-01-2022]]
 	- TODO Aplicación Machine learning [[Sat, 22-01-2022]]
 	- TODO  🧪 Opta IV [[Wed, 19-01-2022]]
 	- TODO [[Experimentos  en Linea -Prueba A/B través de Facebook]] [[Jan 19th, 2022]]
