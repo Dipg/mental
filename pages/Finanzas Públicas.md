@@ -96,7 +96,7 @@
 			- Por coste o factor :
 			  collapsed:: true
 				- Se divide  la primera columna por la segunda para obtener la primera celda y se escoge de esa columna la que menor sea
-			- Por cantidad : #green
+			- Por cantidad :
 			  collapsed:: true
 				- Divido la columna de alada por la columna que deseo encontrar y obtengo la celda de la columna que busco, de ogual forma elijo en la columna la que menor sea
 	- Fallas del mercado
