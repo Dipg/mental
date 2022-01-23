@@ -1,6 +1,5 @@
 - {{renderer :todomaster-NjFlYjUzMmEtZWNhMC00YzZjLTk0YmUtN2JlZTQ1NjczMjZi}}
 	- #inmediato
-	- DONE 🧪 Finanzas Públicas [[Thu, 20-01-2022]]
 	- TODO Aplicación Machine learning [[Sat, 22-01-2022]]
 	- TODO  🧪 Opta IV [[Wed, 26-01-2022]]
 	- #urgente
@@ -22,6 +21,7 @@
 	- ​📚**Estudiar**
 - Completos
   collapsed:: true
+	- DONE 🧪 Finanzas Públicas [[Thu, 20-01-2022]]
 	- DONE Buscar base de datos de análisis Multivariante [[Fri, 21-01-2022]]
 	  :LOGBOOK:
 	  CLOCK: [2022-01-21 Fri 19:37:51]--[2022-01-21 Fri 19:38:52] =>  00:01:01
