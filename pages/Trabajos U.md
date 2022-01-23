@@ -39,4 +39,9 @@
 	  DEADLINE: <2022-01-13 Thu>
 	-
 	- sda
+- Economia Conductual
+- Regulación
+- Informatica
+- Empresarial
+- Economia Ecuatoriana
 -
