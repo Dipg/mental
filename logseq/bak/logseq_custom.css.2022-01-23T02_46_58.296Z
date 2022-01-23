@@ -2,7 +2,7 @@
 
 
 .dsl-query .custom-query  .initial .content{
-    padding-top:-60px;
+    padding-top:30px;
     margin-top: 0.25rem;
 }
 
