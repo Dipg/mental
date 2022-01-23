@@ -14,7 +14,7 @@
 
 }
 
-.items-cente .page-ref{
+  .page-ref{
     display: block !important;
 
 }
