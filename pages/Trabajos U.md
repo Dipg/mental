@@ -3,7 +3,7 @@
 	- DONE 🧪 Finanzas Públicas [[Thu, 20-01-2022]]
 	- TODO Aplicación Machine learning [[Sat, 22-01-2022]]
 	- TODO  🧪 Opta IV [[Wed, 26-01-2022]]
-	- TODO [[Experimentos  en Linea -Prueba A/B través de Facebook]] [[Jan 19th, 2022]]
+	- DONE [[Experimentos  en Linea -Prueba A/B través de Facebook]] [[Jan 19th, 2022]]
 	- #urgente
 	- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Mon, 24-01-2022]]
 	- TODO Trabajo Final de escritura [[Fri, 28-01-2022]]
