@@ -3,7 +3,7 @@
 
 .dsl-query .custom-query  .initial .content{
 
-    margin-top: 5px;
+    margin-top: 0rem;
 }
 
 
