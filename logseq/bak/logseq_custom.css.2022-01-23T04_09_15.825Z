@@ -9,7 +9,7 @@
 }
 
 
-.dsl-query  .custom-query  .items-center{
+.dsl-query  .custom-query   .flex-row .items-center{
     display: none !important;
 
 }
