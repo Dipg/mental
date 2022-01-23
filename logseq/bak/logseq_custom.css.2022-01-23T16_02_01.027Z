@@ -2,7 +2,7 @@
 
 
 .dsl-query  .custom-query .block-control  {
-    padding-left: -20px !important;
+    padding-left: 20px
     margin-left: -20px !important;
 }
 
