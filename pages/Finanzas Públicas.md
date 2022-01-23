@@ -209,7 +209,7 @@
 	- Preferencias unimodales
 	  collapsed:: true
 		- Existe cuando existe un máximo preferido
-	- Votante Mediano
+	- Votante Mediano #yellow
 	  collapsed:: true
 		- Toma en consideración las preferencias en promedio que tienen los individuos
 		- menor beneficio , pero también menor costo
