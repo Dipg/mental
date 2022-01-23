@@ -9,10 +9,7 @@
     margin-top: 1px !important;
     margin-left: -10px !important;
 }
-.dsl-query  .custom-query .content {
-    margin-top: 1px !important;
-    margin-left: -10px !important;
-}
+
 
 
 
