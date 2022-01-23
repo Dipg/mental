@@ -7,7 +7,12 @@
     margin-left: 0px;
 }
 
+.query-title[data-ref*="Query: (and [[Finanzas Públicas]] [[yellow]] )"]{
 
+    visibility: hidden !important;
+
+
+}
 
 
 .dsl-query  .custom-query  .content .items-center {
@@ -21,6 +26,9 @@
 }
 
 
+.custom-query .initial {
+    padding: - 10px !important;
+}
 
 
 .dsl-query .custom-query  .initial {
