@@ -13,11 +13,11 @@
 	  :LOGBOOK:
 	  CLOCK: [2022-01-21 Fri 19:37:52]--[2022-01-21 Fri 19:38:54] =>  00:01:02
 	  :END:
-	- TODO Aplicación  Ecuaciones Estructurales [[[[Jan 23rd, 2022]]]
+	- TODO Aplicación  Ecuaciones Estructurales [[[[Jan 23rd, 2022]]
 	  :LOGBOOK:
 	  CLOCK: [2022-01-21 Fri 19:37:53]--[2022-01-21 Fri 19:38:54] =>  00:01:01
 	  :END:
-	- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[[[Jan 24th, 2022]]]
+	- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[Jan 24th, 2022]]
 	- TODO Frontera de Posibilidades → [[Economía Empresarial]]  [[Jan 23rd, 2022]]
 	- TODO revisar Carpeta de Economía Ecuatoriana [[Jan 25th, 2022]]
 	- #Hacer
