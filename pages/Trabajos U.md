@@ -2,10 +2,10 @@
 	- #inmediato
 	- TODO Aplicación Machine learning [[Sun, 23-01-2022]] [[Jan 23rd, 2022]]
 	- TODO  🧪 Opta IV [[Wed, 26-01-2022]] [[Jan 26th, 2022]]
-	- TODO 🧪 Regulación [[Mon, 24-01-2022]]
-	- TODO 🧪 Finanzas Públicas [[Fri, 28-01-2022]]
-	- TODO 🧪 Opta I [[Mon, 24-01-2022]]
-	- TODO 🧪 Escritura [[Thu, 27-01-2022]]
+	- TODO 🧪 Regulación [[Mon, 24-01-2022]] [[Jan 24th, 2022]]
+	- TODO 🧪 Finanzas Públicas [[[[Jan 28th, 2022]]]
+	- TODO 🧪 Opta I [[[[Jan 24th, 2022]]]
+	- TODO 🧪 Escritura [[[[Jan 27th, 2022]]]
 	- #urgente
 	- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Mon, 24-01-2022]]
 	- TODO Trabajo Final de escritura [[Fri, 28-01-2022]]
