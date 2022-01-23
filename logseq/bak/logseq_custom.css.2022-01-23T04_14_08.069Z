@@ -15,7 +15,7 @@
 }
 
 
-.dsl-query  .custom-query  .items-center .page-ref{
+.dsl-query  .custom-query  .items-center .page-ref>div {
     display: block !important;
 
 }
