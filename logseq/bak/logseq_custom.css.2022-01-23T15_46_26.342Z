@@ -1,14 +1,5 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
-
-
-.mt-10 {
-    margin-top: 2.5rem;
-}
-
-
-
-
 .custom-query .initial {
     padding: 0px !important;
     padding-left: - 10px !important;
