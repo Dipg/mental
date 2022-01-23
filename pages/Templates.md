@@ -5,5 +5,5 @@
 	- TODO [[Svelte]]
 	- TODO [[JavaScript]]
 -
-	- {{query (and (todo todo doing) <%today%> ) }}
 -
+- {{query (and (todo todo doing) <%today%> ) }}
