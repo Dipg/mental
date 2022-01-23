@@ -2,6 +2,7 @@
 	- #inmediato
 	- TODO Aplicación Machine learning [[Sat, 22-01-2022]]
 	- TODO  🧪 Opta IV [[Wed, 26-01-2022]]
+	-
 	- #urgente
 	- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Mon, 24-01-2022]]
 	- TODO Trabajo Final de escritura [[Fri, 28-01-2022]]
