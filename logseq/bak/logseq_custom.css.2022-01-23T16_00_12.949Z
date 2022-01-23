@@ -1,9 +1,9 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
+.control-hide{
 
-.dsl-query  .custom-query .block-control control-hide {
-
-    margin-left: -20px !important;
+    margin-left: -60px !important;
+    padding-left: -30px !important;
 }
 
 .mt-10 {
