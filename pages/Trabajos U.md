@@ -1,6 +1,6 @@
 - {{renderer :todomaster-NjFlYjUzMmEtZWNhMC00YzZjLTk0YmUtN2JlZTQ1NjczMjZi}}
 	- #inmediato
-	- TODO Aplicación Machine learning [[Sun, 23-01-2022]]
+	- TODO Aplicación Machine learning [[Sun, 23-01-2022]] [[Jan 23rd, 2022]]
 	- TODO  🧪 Opta IV [[Wed, 26-01-2022]] [[Jan 26th, 2022]]
 	- TODO 🧪 Regulación [[Mon, 24-01-2022]]
 	- TODO 🧪 Finanzas Públicas [[Fri, 28-01-2022]]
