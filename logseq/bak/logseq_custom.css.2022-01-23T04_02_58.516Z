@@ -52,7 +52,7 @@
 
 .dsl-query .custom-query-title
 {
-    /* display: none !important; */
+    display: none !important;
     /* visibility: hidden; */
 }
 
