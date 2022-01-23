@@ -16,9 +16,9 @@
     visibility: hidden;
 }
 
-.dsl-query .custom-query-title::before{
+.dsl-query .custom-query-title::after{
     content: "HOla";
-visi
+
 }
 .dsl-query{
 
