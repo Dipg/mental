@@ -1,6 +1,6 @@
 [{:block/name "",
-  :block/created-at 1642953917425,
-  :block/updated-at 1642953917425}
+  :block/created-at 1642980776760,
+  :block/updated-at 1642980776760}
  {:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -335,11 +335,11 @@
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
  {:block/name "e, 24-01-2022",
-  :block/created-at 1642953917425,
-  :block/updated-at 1642953917425}
+  :block/created-at 1642980776760,
+  :block/updated-at 1642980776760}
  {:block/name "e, [[jan 23rd, 2022",
-  :block/created-at 1642953917424,
-  :block/updated-at 1642953917424}
+  :block/created-at 1642980776758,
+  :block/updated-at 1642980776758}
  {:block/name "econometría",
   :block/created-at 1642172083941,
   :block/updated-at 1642172083941}
@@ -378,7 +378,7 @@
   :block/updated-at 1638961917545}
  {:block/name "english",
   :block/created-at 1642172083936,
-  :block/updated-at 1642593974874}
+  :block/updated-at 1642975066895}
  {:block/name "estructura de datos",
   :block/created-at 1642950922906,
   :block/updated-at 1642950922906}
@@ -418,6 +418,12 @@
  {:block/name "finanzas públicas",
   :block/created-at 1642172083942,
   :block/updated-at 1642951174838}
+ {:block/name "finanzas públicas (conflict 2021-12-20-05-40-14)",
+  :block/created-at 1642980776757,
+  :block/updated-at 1642980776757}
+ {:block/name "flashcard",
+  :block/created-at 1642980776760,
+  :block/updated-at 1642980776760}
  {:block/name "fri, 21-01-2022",
   :block/created-at 1642723200000,
   :block/updated-at 1642875320015}
@@ -565,7 +571,7 @@
   :block/updated-at 1642809600000}
  {:block/name "jan 23rd, 2022",
   :block/created-at 1642951113397,
-  :block/updated-at 1642952973879}
+  :block/updated-at 1642954887972}
  {:block/name "jan 24th, 2022",
   :block/created-at 1642950922908,
   :block/updated-at 1642950922908}
@@ -826,10 +832,10 @@
   :block/updated-at 1641992433040}
  {:block/name "trabajos u",
   :block/created-at 1642178166048,
-  :block/updated-at 1642952064353}
+  :block/updated-at 1642958789412}
  {:block/name "tue, 18-01-2022",
-  :block/created-at 1642953917424,
-  :block/updated-at 1642953917424}
+  :block/created-at 1642980776758,
+  :block/updated-at 1642980776758}
  {:block/name "urgente",
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
