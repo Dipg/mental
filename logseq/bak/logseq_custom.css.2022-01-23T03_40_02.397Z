@@ -36,7 +36,7 @@
 
 
 .dsl-query .custom-query{
-    padding-top: 20 !important;
+    mar
     box-shadow: 1px 1px 8px 1px #1a1a1a7a; 
     background-color: #00000000 !important;
     border-top: 1px solid #1c1c1c00 !important;
