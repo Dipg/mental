@@ -21,7 +21,7 @@ content:
 
 .dsl-query{
 
-margin-left:-15px !important  !important;
+margin-left:-15px !important;
 
 
 }
