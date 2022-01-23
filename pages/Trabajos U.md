@@ -1,6 +1,6 @@
 - {{renderer :todomaster-VHJhYmFqb3MgVQ==}}
 - #inmediato
-- TODO [#A] Frontera de Posibilidades → [[Economía Empresarial]]  [[Jan 23rd, 2022]]
+- TODO [#A] Frontera de Posibilidades → [[Economía Empresarial]]  [[Jan 23rd, 2022]] !!
 - TODO [#C] Aplicación Machine learning [[Jan 23rd, 2022]]
 - TODO  🧪 Opta IV [[Wed, 26-01-2022]] [[Jan 26th, 2022]]
 - TODO 🧪 Regulación [[Mon, 24-01-2022]] [[Jan 24th, 2022]]
