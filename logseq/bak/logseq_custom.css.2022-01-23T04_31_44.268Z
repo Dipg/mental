@@ -16,7 +16,7 @@
 }
 
 .dsl-query  .custom-query  .initial .items-center  {
-    display: block !important;
+    display: inline !important;
 
 }
 
