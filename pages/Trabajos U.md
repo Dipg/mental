@@ -4,8 +4,8 @@
 	- TODO  🧪 Opta IV [[Wed, 26-01-2022]] [[Jan 26th, 2022]]
 	- TODO 🧪 Regulación [[Mon, 24-01-2022]] [[Jan 24th, 2022]]
 	- TODO 🧪 Finanzas Públicas [[[[Jan 28th, 2022]]]
-	- TODO 🧪 Opta I [[[[Jan 24th, 2022]]]
-	- TODO 🧪 Escritura [[[[Jan 27th, 2022]]]
+	- TODO 🧪 Opta I [[Jan 24th, 2022]]
+	- TODO 🧪 Escritura [[Jan 27th, 2022]]
 	- #urgente
 	- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Jan 24th, 2022]]
 	- TODO Trabajo Final de escritura [[Jan 28th, 2022]]
