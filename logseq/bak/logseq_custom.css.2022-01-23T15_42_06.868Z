@@ -6,7 +6,7 @@
 }
 
 .dsl-query  .custom-query .content {
-    margin-top: -7px !important;
+    margin-top: -5px !important;
     margin-left: 0px !important;
 }
 .dsl-query  .custom-query .initial {
