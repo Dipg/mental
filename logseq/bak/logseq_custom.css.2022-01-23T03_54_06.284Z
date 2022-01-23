@@ -26,15 +26,15 @@
     
 }
 
-.dsl-query .custom-query>div>div>div>div{
+.dsl-query .custom-query .flex  .content{
     /* padding-top:-160px !important; */
     /* display: none !important; */
     
 }
 
-.dsl-query .custom-query>div>div>div>div{
+.dsl-query .custom-query .flex .initial{
     /* padding-top:-160px !important; */
-    display: none !important;
+   /* display: block !important; */
     
 }
 
