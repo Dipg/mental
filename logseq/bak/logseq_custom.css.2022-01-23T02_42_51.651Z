@@ -1,11 +1,6 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 
-
-flex flex-row align-items mt-2
-
-
-
 .dsl-query .custom-query{
 
     background-color: #22232200 !important;
