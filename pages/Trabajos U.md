@@ -13,12 +13,9 @@
 	  :LOGBOOK:
 	  CLOCK: [2022-01-21 Fri 19:37:53]--[2022-01-21 Fri 19:38:54] =>  00:01:01
 	  :END:
-	- #Hacer
 	- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[Mon, 24-01-2022]]
-	- TODO Frontera de Posibilidades → [[Economía Empresarial]] [[Sat, 22-01-2022]]
-	- TODO revisar Carpeta de Economía Ecuatoriana [[Tue, 25-01-2022]]
-	- TODO Sistemas de información gerencial de Laurol [[Mon, 31-01-2022]] Capitulo 5 del Silabo
-	- ​📚**Estudiar**
+		- TODO Frontera de Posibilidades → [[Economía Empresarial]] [[Sat, 22-01-2022]]
+	- #Hacer
 - Completos
   collapsed:: true
 	- DONE 🧪 Finanzas Públicas [[Thu, 20-01-2022]]
