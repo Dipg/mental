@@ -28,7 +28,7 @@
 
 .dsl-query .custom-query  .initial .content .foldable-title{
     /* padding-top:-160px !important; */
-    margin-top: - 160px !important;
+    display: none !important;
     
 }
 
