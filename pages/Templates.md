@@ -5,3 +5,4 @@
 	- TODO [[Svelte]]
 	- TODO [[JavaScript]]
 - {{query (and (todo todo doing) <%today%> ) }}
+  template:: Todo hoy
