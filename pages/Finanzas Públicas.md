@@ -220,7 +220,7 @@
 		- Problema
 			- Información oculta por parte de los consumidores
 	-
-	-
+	- TODO Prueba
 	-
 	-
 	-
