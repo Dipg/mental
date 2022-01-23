@@ -9,9 +9,9 @@
 }
 
 
-.flex .flex-row .items-center{
-    display: none !important;
+flex flex-row items-center{
 
+    
 }
 
 .custom-query .initial {
