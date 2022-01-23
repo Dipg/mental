@@ -18,7 +18,7 @@
 
 .dsl-query .custom-query-title::before{
     content: "HOla";
-    visibili
+visibility: in li
 }
 .dsl-query{
 
