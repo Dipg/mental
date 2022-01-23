@@ -1,7 +1,7 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 
-.dsl-query  .custom-query  .content  .block-control  {
+.dsl-query  .custom-query .block-control  {
     padding-left: -20px !important;
     margin-left: -40px !important;
 }
