@@ -32,12 +32,6 @@
     
 }
 
-.dsl-query .custom-query>div>div>div>div{
-    /* padding-top:-160px !important; */
-    display: none !important;
-    
-}
-
 
 
 .dsl-query .custom-query  .mt-2{
