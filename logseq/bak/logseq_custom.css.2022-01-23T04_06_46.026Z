@@ -9,11 +9,6 @@
 }
 
 
-.flex flex-row items-center{
-
-
-}
-
 .custom-query .initial {
     padding: - 10px !important;
 }
