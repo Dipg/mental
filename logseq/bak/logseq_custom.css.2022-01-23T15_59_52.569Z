@@ -3,7 +3,7 @@
 .control-hide{
 
     margin-left: -60px !important;
-    padding-left: -30px !important;
+    padding-left: - 300px !important;
 }
 
 .mt-10 {
