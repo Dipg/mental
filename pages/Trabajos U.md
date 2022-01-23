@@ -21,7 +21,7 @@
 	- TODO Frontera de Posibilidades → [[Economía Empresarial]]  [[Jan 23rd, 2022]]
 	- TODO revisar Carpeta de Economía Ecuatoriana [[Jan 25th, 2022]]
 	- #Hacer
-	- TODO Sistemas de información gerencial de Laurol [[[[Jan 31st, 2022]]] Capitulo 5 del Silabo
+	- TODO Sistemas de información gerencial de Laurol [[Jan 31st, 2022]] Capitulo 5 del Silabo
 - Completos
   collapsed:: true
 	- DONE  Finanzas Públicas [[Thu, 20-01-2022]]
