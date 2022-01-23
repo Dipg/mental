@@ -13,7 +13,7 @@
 
 .dsl-query .custom-query-title
 {
-    visibility: inline;
+    visibility: in;
 }
 
 .dsl-query .custom-query-title::before{
