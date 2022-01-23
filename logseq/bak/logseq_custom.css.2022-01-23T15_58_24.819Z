@@ -3,7 +3,7 @@
 
 .dsl-query  .custom-query .block-control .mr-2 {
 
-    margin-left: -60px !important;
+    margin-left: -30px !important;
 }
 
 .mt-10 {
