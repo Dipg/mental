@@ -24,7 +24,7 @@
 	- TODO Sistemas de información gerencial de Laurol [[Mon, 31-01-2022]] Capitulo 5 del Silabo
 - Completos
   collapsed:: true
-	- DONE 🧪 Finanzas Públicas [[Thu, 20-01-2022]]
+	- DONE  Finanzas Públicas [[Thu, 20-01-2022]]
 	- DONE Buscar base de datos de análisis Multivariante [[Fri, 21-01-2022]]
 	  :LOGBOOK:
 	  CLOCK: [2022-01-21 Fri 19:37:51]--[2022-01-21 Fri 19:38:52] =>  00:01:01
