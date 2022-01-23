@@ -2,10 +2,10 @@
 
 
 
-.dsl-query  .custom-query .content {
+/* .dsl-query  .custom-query .content {
     margin-top: -5px !important;
     margin-left: 0px;
-}
+} */
 
 .query-title[data-ref*="Query: (and [[Finanzas Públicas]] [[yellow]] )"]{
 
