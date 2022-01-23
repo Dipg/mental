@@ -25,8 +25,8 @@
     margin-top: - 160px !important;
     
 }
-
-.dsl-query .custom-query  .content .foldable-title{
+flex-1 flex-row foldable-title cursor
+.dsl-query .custom-query  .content {
     /* padding-top:-160px !important; */
     /* display: none !important; */
     
