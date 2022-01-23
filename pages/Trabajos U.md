@@ -7,19 +7,19 @@
 	- TODO 🧪 Opta I [[[[Jan 24th, 2022]]]
 	- TODO 🧪 Escritura [[[[Jan 27th, 2022]]]
 	- #urgente
-	- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Mon, 24-01-2022]]
-	- TODO Trabajo Final de escritura [[Fri, 28-01-2022]]
-	- TODO Aplicación análisis de correspondencia [[Sun, 23-01-2022]]
+	- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[[[Jan 24th, 2022]]]
+	- TODO Trabajo Final de escritura [[[[Jan 28th, 2022]]]
+	- TODO Aplicación análisis de correspondencia [[[[Jan 23rd, 2022]]]
 	  :LOGBOOK:
 	  CLOCK: [2022-01-21 Fri 19:37:52]--[2022-01-21 Fri 19:38:54] =>  00:01:02
 	  :END:
-	- TODO Aplicación  Ecuaciones Estructurales [[Sun, 23-01-2022]]
+	- TODO Aplicación  Ecuaciones Estructurales [[[[Jan 23rd, 2022]]]
 	  :LOGBOOK:
 	  CLOCK: [2022-01-21 Fri 19:37:53]--[2022-01-21 Fri 19:38:54] =>  00:01:01
 	  :END:
-	- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[Mon, 24-01-2022]]
-	- TODO Frontera de Posibilidades → [[Economía Empresarial]] [[Sun, 23-01-2022]]
-	- TODO revisar Carpeta de Economía Ecuatoriana [[Tue, 25-01-2022]]
+	- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[[[Jan 24th, 2022]]]
+	- TODO Frontera de Posibilidades → [[Economía Empresarial]] [[[[Jan 23rd, 2022]]]
+	- TODO revisar Carpeta de Economía Ecuatoriana [[[[Jan 25th, 2022]]]
 	- #Hacer
 	- TODO Sistemas de información gerencial de Laurol [[Mon, 31-01-2022]] Capitulo 5 del Silabo
 - Completos
