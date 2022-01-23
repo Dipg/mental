@@ -26,9 +26,9 @@
     
 }
 
-.dsl-query .custom-query  .content>div>span>{
+.dsl-query .custom-query  .content .foldable-title{
     /* padding-top:-160px !important; */
-    display: none !important;
+    /* display: none !important; */
     
 }
 
