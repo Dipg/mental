@@ -11,7 +11,7 @@
 	  :LOGBOOK:
 	  CLOCK: [2022-01-21 Fri 19:37:51]--[2022-01-21 Fri 19:38:52] =>  00:01:01
 	  :END:
-	- TODO Aplicación análisis de correspondencia
+	- TODO Aplicación análisis de correspondencia tomorrow
 	  :LOGBOOK:
 	  CLOCK: [2022-01-21 Fri 19:37:52]--[2022-01-21 Fri 19:38:54] =>  00:01:02
 	  :END:
