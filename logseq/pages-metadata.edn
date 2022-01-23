@@ -1,6 +1,6 @@
 [{:block/name "",
-  :block/created-at 1642950922905,
-  :block/updated-at 1642950922905}
+  :block/created-at 1642953917425,
+  :block/updated-at 1642953917425}
  {:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -208,9 +208,6 @@
  {:block/name "8d3feec9-0966-42ae-8d02-8186b4043d5a",
   :block/created-at 1640183914955,
   :block/updated-at 1640183914955}
- {:block/name "[[e, 24-01-2022",
-  :block/created-at 1642950922906,
-  :block/updated-at 1642950922906}
  {:block/name "a",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -274,15 +271,39 @@
  {:block/name "datos de panel",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
+ {:block/name "dec 10th, 2021",
+  :block/created-at 1639094400000,
+  :block/updated-at 1639094400000}
+ {:block/name "dec 22nd, 2021",
+  :block/created-at 1640131200000,
+  :block/updated-at 1640131200000}
+ {:block/name "dec 23rd, 2021",
+  :block/created-at 1640217600000,
+  :block/updated-at 1640217600000}
+ {:block/name "dec 24th, 2021",
+  :block/created-at 1640304000000,
+  :block/updated-at 1640304000000}
+ {:block/name "dec 25th, 2021",
+  :block/created-at 1640390400000,
+  :block/updated-at 1640390400000}
+ {:block/name "dec 27th, 2021",
+  :block/created-at 1640563200000,
+  :block/updated-at 1640563200000}
  {:block/name "dec 28th, 2021",
   :block/created-at 1640649600000,
   :block/updated-at 1640649600000}
  {:block/name "dec 29th, 2021",
   :block/created-at 1640736000000,
   :block/updated-at 1640736000000}
+ {:block/name "dec 2nd, 2021",
+  :block/created-at 1638403200000,
+  :block/updated-at 1638403200000}
  {:block/name "dec 30th, 2021",
   :block/created-at 1640822400000,
   :block/updated-at 1640822400000}
+ {:block/name "dec 9th, 2021",
+  :block/created-at 1639008000000,
+  :block/updated-at 1639008000000}
  {:block/name "demanda agregada",
   :block/created-at 1638961917540,
   :block/updated-at 1638961917540}
@@ -313,15 +334,12 @@
  {:block/name "draws/piensa matricialmente.excalidraw",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
- {:block/name "e, 23-01-2022",
-  :block/created-at 1642950922906,
-  :block/updated-at 1642950922906}
  {:block/name "e, 24-01-2022",
-  :block/created-at 1642950922904,
-  :block/updated-at 1642950922904}
- {:block/name "e, [[jan 24th, 2022",
-  :block/created-at 1642950922906,
-  :block/updated-at 1642950922906}
+  :block/created-at 1642953917425,
+  :block/updated-at 1642953917425}
+ {:block/name "e, [[jan 23rd, 2022",
+  :block/created-at 1642953917424,
+  :block/updated-at 1642953917424}
  {:block/name "econometría",
   :block/created-at 1642172083941,
   :block/updated-at 1642172083941}
@@ -385,10 +403,6 @@
   "experimentos  en linea - influencia del efecto gratis en la adquisición de un seguro de medicina prepagada a través de facebook.",
   :block/created-at 1642172083943,
   :block/updated-at 1642172083943}
- {:block/name
-  "experimentos  en linea - influencia del efecto gratis en la adquisición de un seguro de medicina prepagada a través de facebook/ 2",
-  :block/created-at 1642950922906,
-  :block/updated-at 1642950922906}
  {:block/name "experimentos  en linea -prueba a",
   :block/created-at 1642950922909,
   :block/updated-at 1642950922909}
@@ -403,28 +417,10 @@
   :block/updated-at 1641992433040}
  {:block/name "finanzas públicas",
   :block/created-at 1642172083942,
-  :block/updated-at 1642912556729}
- {:block/name "fri, 10-12-2021",
-  :block/created-at 1639094400000,
-  :block/updated-at 1639094400000}
- {:block/name "fri, 14-01-2022",
-  :block/created-at 1642118400000,
-  :block/updated-at 1642118400000}
- {:block/name "fri, 19-11-2021",
-  :block/created-at 1637280000000,
-  :block/updated-at 1637280000000}
+  :block/updated-at 1642951174838}
  {:block/name "fri, 21-01-2022",
   :block/created-at 1642723200000,
   :block/updated-at 1642875320015}
- {:block/name "fri, 24-12-2021",
-  :block/created-at 1640304000000,
-  :block/updated-at 1640304000000}
- {:block/name "fri, 26-11-2021",
-  :block/created-at 1637884800000,
-  :block/updated-at 1637884800000}
- {:block/name "fri, 28-01-2022",
-  :block/created-at 1643328000000,
-  :block/updated-at 1643328000000}
  {:block/name "gasto público",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -528,9 +524,24 @@
  {:block/name "inversión",
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
+ {:block/name "jan 10th, 2022",
+  :block/created-at 1641772800000,
+  :block/updated-at 1641772800000}
+ {:block/name "jan 11th, 2022",
+  :block/created-at 1641859200000,
+  :block/updated-at 1641859200000}
+ {:block/name "jan 12th, 2022",
+  :block/created-at 1641945600000,
+  :block/updated-at 1641945600000}
+ {:block/name "jan 13th, 2022",
+  :block/created-at 1642032000000,
+  :block/updated-at 1642032000000}
  {:block/name "jan 14th, 2022",
   :block/created-at 1642173792409,
   :block/updated-at 1642217658353}
+ {:block/name "jan 15th, 2022",
+  :block/created-at 1642204800000,
+  :block/updated-at 1642204800000}
  {:block/name "jan 17th, 2022",
   :block/created-at 1642950922906,
   :block/updated-at 1642950922906}
@@ -543,9 +554,57 @@
  {:block/name "jan 1st, 2022",
   :block/created-at 1640995200000,
   :block/updated-at 1640995200000}
+ {:block/name "jan 20th, 2022",
+  :block/created-at 1642636800000,
+  :block/updated-at 1642636800000}
+ {:block/name "jan 21st, 2022",
+  :block/created-at 1642723200000,
+  :block/updated-at 1642723200000}
+ {:block/name "jan 22nd, 2022",
+  :block/created-at 1642809600000,
+  :block/updated-at 1642809600000}
+ {:block/name "jan 23rd, 2022",
+  :block/created-at 1642951113397,
+  :block/updated-at 1642952973879}
  {:block/name "jan 24th, 2022",
   :block/created-at 1642950922908,
   :block/updated-at 1642950922908}
+ {:block/name "jan 25th, 2022",
+  :block/created-at 1643068800000,
+  :block/updated-at 1643068800000}
+ {:block/name "jan 26th, 2022",
+  :block/created-at 1643155200000,
+  :block/updated-at 1643155200000}
+ {:block/name "jan 27th, 2022",
+  :block/created-at 1643241600000,
+  :block/updated-at 1643241600000}
+ {:block/name "jan 28th, 2022",
+  :block/created-at 1643328000000,
+  :block/updated-at 1643328000000}
+ {:block/name "jan 2nd, 2022",
+  :block/created-at 1641081600000,
+  :block/updated-at 1641081600000}
+ {:block/name "jan 31st, 2022",
+  :block/created-at 1643587200000,
+  :block/updated-at 1643587200000}
+ {:block/name "jan 3rd, 2022",
+  :block/created-at 1641168000000,
+  :block/updated-at 1641168000000}
+ {:block/name "jan 4th, 2022",
+  :block/created-at 1641254400000,
+  :block/updated-at 1641254400000}
+ {:block/name "jan 5th, 2022",
+  :block/created-at 1641340800000,
+  :block/updated-at 1641340800000}
+ {:block/name "jan 6th, 2022",
+  :block/created-at 1641427200000,
+  :block/updated-at 1641427200000}
+ {:block/name "jan 8th, 2022",
+  :block/created-at 1641600000000,
+  :block/updated-at 1641600000000}
+ {:block/name "jan 9th, 2022",
+  :block/created-at 1641686400000,
+  :block/updated-at 1641686400000}
  {:block/name "javascript",
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
@@ -597,27 +656,9 @@
  {:block/name "modelos de equilibrio",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
- {:block/name "mon, 03-01-2022",
-  :block/created-at 1641168000000,
-  :block/updated-at 1641168000000}
- {:block/name "mon, 10-01-2022",
-  :block/created-at 1641772800000,
-  :block/updated-at 1641772800000}
- {:block/name "mon, 17-01-2022",
-  :block/created-at 1642377600000,
-  :block/updated-at 1642377600000}
  {:block/name "mon, 24-01-2022",
   :block/created-at 1642982400000,
   :block/updated-at 1642945315970}
- {:block/name "mon, 27-12-2021",
-  :block/created-at 1640563200000,
-  :block/updated-at 1640563200000}
- {:block/name "mon, 29-11-2021",
-  :block/created-at 1638144000000,
-  :block/updated-at 1638144000000}
- {:block/name "mon, 31-01-2022",
-  :block/created-at 1643587200000,
-  :block/updated-at 1643587200000}
  {:block/name "musical",
   :block/created-at 1642172083941,
   :block/updated-at 1642172083941}
@@ -645,6 +686,21 @@
  {:block/name "notion",
   :block/created-at 1642950922906,
   :block/updated-at 1642950922906}
+ {:block/name "nov 19th, 2021",
+  :block/created-at 1637280000000,
+  :block/updated-at 1637280000000}
+ {:block/name "nov 24th, 2021",
+  :block/created-at 1637712000000,
+  :block/updated-at 1637712000000}
+ {:block/name "nov 25th, 2021",
+  :block/created-at 1637798400000,
+  :block/updated-at 1637798400000}
+ {:block/name "nov 26th, 2021",
+  :block/created-at 1637884800000,
+  :block/updated-at 1637884800000}
+ {:block/name "nov 29th, 2021",
+  :block/created-at 1638144000000,
+  :block/updated-at 1638144000000}
  {:block/name "now",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
@@ -726,21 +782,9 @@
  {:block/name "revisar",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
- {:block/name "sat, 01-01-2022",
-  :block/created-at 1640995200000,
-  :block/updated-at 1640995200000}
- {:block/name "sat, 08-01-2022",
-  :block/created-at 1641600000000,
-  :block/updated-at 1641600000000}
- {:block/name "sat, 15-01-2022",
-  :block/created-at 1642204800000,
-  :block/updated-at 1642204800000}
  {:block/name "sat, 22-01-2022",
   :block/created-at 1642895339060,
   :block/updated-at 1642942662270}
- {:block/name "sat, 25-12-2021",
-  :block/created-at 1640390400000,
-  :block/updated-at 1640390400000}
  {:block/name "sesgo cognitivo",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
@@ -753,12 +797,6 @@
  {:block/name "sueños",
   :block/created-at 1642457015620,
   :block/updated-at 1642457015620}
- {:block/name "sun, 02-01-2022",
-  :block/created-at 1641081600000,
-  :block/updated-at 1641081600000}
- {:block/name "sun, 09-01-2022",
-  :block/created-at 1641686400000,
-  :block/updated-at 1641686400000}
  {:block/name "sun, 23-01-2022",
   :block/created-at 1642942385854,
   :block/updated-at 1642950896447}
@@ -777,33 +815,9 @@
  {:block/name "templates",
   :block/created-at 1642805872131,
   :block/updated-at 1642900085114}
- {:block/name "thu, 02-12-2021",
-  :block/created-at 1638403200000,
-  :block/updated-at 1638403200000}
- {:block/name "thu, 06-01-2022",
-  :block/created-at 1641427200000,
-  :block/updated-at 1641427200000}
- {:block/name "thu, 09-12-2021",
-  :block/created-at 1639008000000,
-  :block/updated-at 1639008000000}
- {:block/name "thu, 13-01-2022",
-  :block/created-at 1642032000000,
-  :block/updated-at 1642032000000}
  {:block/name "thu, 20-01-2022",
   :block/created-at 1642687170876,
   :block/updated-at 1642900294595}
- {:block/name "thu, 23-12-2021",
-  :block/created-at 1640217600000,
-  :block/updated-at 1640217600000}
- {:block/name "thu, 25-11-2021",
-  :block/created-at 1637798400000,
-  :block/updated-at 1637798400000}
- {:block/name "thu, 27-01-2022",
-  :block/created-at 1643241600000,
-  :block/updated-at 1643241600000}
- {:block/name "thu, 30-12-2021",
-  :block/created-at 1640822400000,
-  :block/updated-at 1640822400000}
  {:block/name "todo",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -812,22 +826,10 @@
   :block/updated-at 1641992433040}
  {:block/name "trabajos u",
   :block/created-at 1642178166048,
-  :block/updated-at 1642945133041}
- {:block/name "tue, 04-01-2022",
-  :block/created-at 1641254400000,
-  :block/updated-at 1641254400000}
- {:block/name "tue, 11-01-2022",
-  :block/created-at 1641859200000,
-  :block/updated-at 1641859200000}
+  :block/updated-at 1642952064353}
  {:block/name "tue, 18-01-2022",
-  :block/created-at 1642464000000,
-  :block/updated-at 1642555570362}
- {:block/name "tue, 25-01-2022",
-  :block/created-at 1643068800000,
-  :block/updated-at 1643068800000}
- {:block/name "tue, 28-12-2021",
-  :block/created-at 1640649600000,
-  :block/updated-at 1640649600000}
+  :block/created-at 1642953917424,
+  :block/updated-at 1642953917424}
  {:block/name "urgente",
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
@@ -849,27 +851,9 @@
  {:block/name "waiting",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
- {:block/name "wed, 05-01-2022",
-  :block/created-at 1641340800000,
-  :block/updated-at 1641340800000}
- {:block/name "wed, 12-01-2022",
-  :block/created-at 1641945600000,
-  :block/updated-at 1641945600000}
- {:block/name "wed, 19-01-2022",
-  :block/created-at 1642593557220,
-  :block/updated-at 1642811962817}
- {:block/name "wed, 22-12-2021",
-  :block/created-at 1640131200000,
-  :block/updated-at 1640131200000}
- {:block/name "wed, 24-11-2021",
-  :block/created-at 1637712000000,
-  :block/updated-at 1637712000000}
  {:block/name "wed, 26-01-2022",
   :block/created-at 1643155200000,
   :block/updated-at 1643155200000}
- {:block/name "wed, 29-12-2021",
-  :block/created-at 1640736000000,
-  :block/updated-at 1640736000000}
  {:block/name "yellow",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
