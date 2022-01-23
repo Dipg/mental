@@ -4,11 +4,11 @@
 .dsl-query .custom-query{
 
     background-color: #22232200 !important;
-    border-top: 1px solid #1c1c1c00 !important;
-    border-right: 1px solid #1c1c1c00 !important;
-    border-bottom: 1px solid #1c1c1c00 !important;
-    border-left: 1px solid #1c1c1c00 !important; 
-    color: var(--cl-white) !important;
+    border-top: 1px solid #1c1c1c00!important;
+    border-right: 1px solid #1c1c1c00;
+    border-bottom: 1px solid #1c1c1c00;
+    border-left: 1px solid #1c1c1c00;
+    color: var(--cl-white);
 }
 
 .dsl-query .custom-query-title
