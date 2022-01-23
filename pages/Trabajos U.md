@@ -1,6 +1,6 @@
 - {{renderer :todomaster-VHJhYmFqb3MgVQ==}}
 - #inmediato
-- TODO [#A] Frontera de Posibilidades → [[Economía Empresarial]]  [[Jan 23rd, 2022]] !!
+- TODO [#A] Frontera de Posibilidades → [[Economía Empresarial]]  [[Jan 23rd, 2022]]
 - TODO [#A] Aplicación Machine learning [[Jan 23rd, 2022]]
 - TODO  🧪 Opta IV [[Wed, 26-01-2022]] [[Jan 26th, 2022]]
 - TODO 🧪 Regulación [[Mon, 24-01-2022]] [[Jan 24th, 2022]]
@@ -10,11 +10,11 @@
 - #urgente
 - TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Jan 24th, 2022]]
 - TODO Trabajo Final de escritura [[Jan 28th, 2022]]
-- TODO [#C] Aplicación análisis de correspondencia [[Jan 23rd, 2022]]  !!!!
+- TODO [#C] Aplicación análisis de correspondencia [[Jan 23rd, 2022]]
   :LOGBOOK:
   CLOCK: [2022-01-21 Fri 19:37:52]--[2022-01-21 Fri 19:38:54] =>  00:01:02
   :END:
-- TODO [#B] Aplicación  Ecuaciones Estructurales [[Jan 23rd, 2022]]  !!
+- TODO [#B] Aplicación  Ecuaciones Estructurales [[Jan 23rd, 2022]]
   :LOGBOOK:
   CLOCK: [2022-01-21 Fri 19:37:53]--[2022-01-21 Fri 19:38:54] =>  00:01:01
   :END:
