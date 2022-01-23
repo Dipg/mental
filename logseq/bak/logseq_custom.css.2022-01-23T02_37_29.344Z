@@ -17,9 +17,11 @@
 }
 
 .dsl-query .custom-query-title:after{
-    content: "HOla";
 
+    
 }
+content:
+
 .dsl-query{
 
 margin-left:-15px !important  !important;

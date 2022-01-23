@@ -17,7 +17,7 @@
 }
 
 .dsl-query .custom-query-title:after{
-    content: "HOla";
+    content:
 
 }
 .dsl-query{
