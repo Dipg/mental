@@ -1,7 +1,7 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 .custom-query .initial {
-    padding: - 10px !important;
+    padding: - 0px !important;
 }
 
 
