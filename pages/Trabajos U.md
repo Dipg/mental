@@ -40,10 +40,10 @@
 	-
 	- sda
 -
-- Regulación
-- Informatica
-- Empresarial
-- Economia Ecuatoriana
-- Opta I
-- Opta II
-- Opta IV
+- 1 Regulación
+- 2 Informatica
+- 3 Empresarial
+- 4 Economia Ecuatoriana
+- 5 Opta I
+- 6 Opta II
+- 7 Opta IV
