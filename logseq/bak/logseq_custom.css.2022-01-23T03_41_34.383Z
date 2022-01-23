@@ -33,7 +33,7 @@
 }
 
 
-items-center
+flex flex-row items-center
 
 .dsl-query .custom-query  .mt-2{
     display: none !important;
