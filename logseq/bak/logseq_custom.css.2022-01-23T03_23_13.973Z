@@ -1,7 +1,7 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 
-span[data-ref*="Query: (and [[Finanzas Públicas]] [[yellow]] )"]{
+.sp[data-ref*="Query: (and [[Finanzas Públicas]] [[yellow]] )"]{
 
     visibility: hidden !important;
 
