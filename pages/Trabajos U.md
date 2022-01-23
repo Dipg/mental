@@ -33,4 +33,7 @@
 	  DEADLINE: <2022-01-13 Thu>
 	- DONE [[Mercado Laboral]]
 	- DONE [[Resúmenes Opta IV]]
-	  DEADLINE: <2022
+	  DEADLINE: <2022-01-13 Thu>
+	-
+	- sda
+-
