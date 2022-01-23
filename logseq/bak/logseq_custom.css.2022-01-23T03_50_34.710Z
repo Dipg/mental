@@ -34,7 +34,7 @@
 
 .dsl-query .custom-query .initial>div>div>div>div{
     /* padding-top:-160px !important; */
-   display: block !important;
+    diplay:inline;
     
 }
 
