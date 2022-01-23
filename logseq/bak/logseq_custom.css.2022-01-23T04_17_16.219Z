@@ -9,12 +9,12 @@
 }
 
 
-.dsl-query  .custom-query  .items-center {
+.dsl-query  .custom-query  .items-center .page-ref {
     display: none !important;
 
 }
 
-.dsl-query  .custom-query  .items-center .page-ref {
+ .page-ref{
     display: inline !important;
 
 }
