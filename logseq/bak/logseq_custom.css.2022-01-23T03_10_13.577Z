@@ -2,7 +2,7 @@
 
 .custom-query .initial {
     padding: - 10px !important;
-    padding-left: -20px !important;
+    padding-left: -10px !important;
 }
 
 
