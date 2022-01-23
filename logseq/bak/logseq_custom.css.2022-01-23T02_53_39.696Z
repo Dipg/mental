@@ -1,14 +1,6 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 
-
-
-.dsl-query .custom-query  .initial {
-    /* padding-top:-160px !important; */
-    margin-top: - 160px !important;
-    
-}
-
 .dsl-query .custom-query  .initial .content .my-2{
     /* padding-top:-160px !important; */
     margin-top: - 160px !important;
