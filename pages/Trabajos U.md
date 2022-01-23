@@ -3,14 +3,9 @@
 	- DONE 🧪 Finanzas Públicas [[Thu, 20-01-2022]]
 	- TODO Aplicación Machine learning [[Sat, 22-01-2022]]
 	- TODO  🧪 Opta IV [[Wed, 26-01-2022]]
-	- DONE [[Experimentos  en Linea -Prueba A/B través de Facebook]] [[Jan 19th, 2022]]
 	- #urgente
 	- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Mon, 24-01-2022]]
 	- TODO Trabajo Final de escritura [[Fri, 28-01-2022]]
-	- DONE Buscar base de datos de análisis Multivariante [[Fri, 21-01-2022]]
-	  :LOGBOOK:
-	  CLOCK: [2022-01-21 Fri 19:37:51]--[2022-01-21 Fri 19:38:52] =>  00:01:01
-	  :END:
 	- TODO Aplicación análisis de correspondencia [[Sun, 23-01-2022]]
 	  :LOGBOOK:
 	  CLOCK: [2022-01-21 Fri 19:37:52]--[2022-01-21 Fri 19:38:54] =>  00:01:02
@@ -27,6 +22,11 @@
 	- ​📚**Estudiar**
 - Completos
   collapsed:: true
+	- DONE Buscar base de datos de análisis Multivariante [[Fri, 21-01-2022]]
+	  :LOGBOOK:
+	  CLOCK: [2022-01-21 Fri 19:37:51]--[2022-01-21 Fri 19:38:52] =>  00:01:01
+	  :END:
+	- DONE [[Experimentos  en Linea -Prueba A/B través de Facebook]] [[Jan 19th, 2022]]
 	- DONE [[Ley de Plusvalía ]]
 	- DONE [[Óptimos de precios Regulación]]
 	- DONE [[Modelo de Inversión- Qtobi en Ecuador]]
