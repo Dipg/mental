@@ -54,6 +54,10 @@
     /* visibility: hidden; */
 }
 
+.dsl-query .custom-query-title::before{
+    content: "HOla";
+ 
+}
 
 
 .custom-query .color-level{
