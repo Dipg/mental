@@ -4,7 +4,7 @@
 element.style {
     width: 14px;
     height: 16px;
-    margin-left: -60px !important;
+    margin-left: -60px ;
 }
 
 .mt-10 {
