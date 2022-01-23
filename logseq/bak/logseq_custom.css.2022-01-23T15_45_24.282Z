@@ -16,7 +16,7 @@
 
 
 .dsl-query  .custom-query .initial .block-parents {
-   display: none !important;
+   display: block !important;
 }
 
 
