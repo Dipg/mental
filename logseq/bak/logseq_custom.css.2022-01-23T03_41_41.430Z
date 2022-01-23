@@ -26,13 +26,14 @@
     
 }
 
-.dsl-query .custom-query  .initial .content .items-center{
+.dsl-query .custom-query  .initial .content .my-2{
     /* padding-top:-160px !important; */
-    display: none !important;
+    margin-top: - 160px !important;
     
 }
 
 
+items-center
 
 .dsl-query .custom-query  .mt-2{
     display: none !important;
