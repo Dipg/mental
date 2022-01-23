@@ -15,20 +15,19 @@
 
 }
 
-
-
-
-
-
-
-
-
-
-.dsl-query .custom-query  .mt-2{
-    display: none !important;
-    visibility: hidden !important;
+.dsl-query  .custom-query  .initial .items-center  {
+    display: inline !important;
 
 }
+
+
+
+
+
+
+
+
+
 
 
 

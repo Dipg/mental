@@ -15,6 +15,11 @@
 
 }
 
+.dsl-query  .custom-query  .initial .items-center  {
+    display: inline !important;
+
+}
+
 
 
 
