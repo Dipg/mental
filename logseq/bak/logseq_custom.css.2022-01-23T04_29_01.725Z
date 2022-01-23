@@ -21,9 +21,16 @@
 }
 
 
+.custom-query .initial {
+    padding: - 10px !important;
+}
 
 
-
+.dsl-query .custom-query  .initial {
+    /* padding-top:-160px !important; */
+    padding-bottom : -160px !important;
+    
+}
 
 .dsl-query .custom-query  .initial .content .my-2{
     /* padding-top:-160px !important; */
