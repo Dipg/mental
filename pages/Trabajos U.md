@@ -9,7 +9,7 @@
 	  :LOGBOOK:
 	  CLOCK: [2022-01-21 Fri 19:37:52]--[2022-01-21 Fri 19:38:54] =>  00:01:02
 	  :END:
-	- TODO Aplicación  Ecuaciones Estructurales [[Fri, 21-01-2022]]
+	- TODO Aplicación  Ecuaciones Estructurales
 	  :LOGBOOK:
 	  CLOCK: [2022-01-21 Fri 19:37:53]--[2022-01-21 Fri 19:38:54] =>  00:01:01
 	  :END:
