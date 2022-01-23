@@ -14,7 +14,8 @@
 
 }
 
-  .page-ref{
+
+.dsl-query  .custom-query .page-ref{
     display: block !important;
 
 }
