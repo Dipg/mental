@@ -8,6 +8,8 @@
 	- Pero yo no quiero copiar todo
 	- LATER Introducción
 	-
+	  TODO
+	-
 	-
 - TODO Aplicación Machine learning [[Jan 24th, 2022]]
 - TODO  🧪 Opta IV [[Wed, 26-01-2022]] [[Jan 26th, 2022]]
