@@ -1,2 +1,2 @@
 - ![image.png](../assets/image_1643061761054_0.png)
-- ||
+- |Analisis|
