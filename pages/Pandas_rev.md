@@ -397,7 +397,7 @@
 		- ![image.png](../assets/image_1642027252376_0.png)
 	- https://www.datasciencemadesimple.com/return-first-n-character-from-left-of-column-in-pandas-python/
 	-
-- Eliminar
+- Eliminar, Borrar, Drop
 - Eliminar filas que contienen un valor específico 
   collapsed:: true
 	- ```python
