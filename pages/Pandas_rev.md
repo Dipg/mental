@@ -357,16 +357,6 @@
 	  df.columns = new_header #Set the header row as the df header
 	  ```
 	- {{renderer :linkpreview,https://poopcode.com/make-first-row-as-column-names-in-pandas/}}
-- Eliminar columna especfica en pandas
-  collapsed:: true
-	- ```python
-	  df.drop(['A'], axis = 1)
-	  ```
-	- https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
-- Eliminar filas Dubplicadas
-  collapsed:: true
-	- ![image.png](../assets/image_1642027001958_0.png)
-	- https://www.statology.org/pandas-drop-rows-with-condition/
 - Eliminar filas duplicadas condicionadas en dos columnas
   collapsed:: true
 	- Eliminar filas duplicadas  mediante condicional
@@ -405,3 +395,13 @@
 		- Eliminar columnas con condicionales
 		- https://www.statology.org/pandas-drop-rows-with-condition/
 		- ![image.png](../assets/image_1642027084428_0.png)
+	- Eliminar filas Dubplicadas
+	  collapsed:: true
+		- ![image.png](../assets/image_1642027001958_0.png)
+		- https://www.statology.org/pandas-drop-rows-with-condition/
+	- Eliminar columna especfica en pandas
+	  collapsed:: true
+		- ```python
+		  df.drop(['A'], axis = 1)
+		  ```
+		- https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
