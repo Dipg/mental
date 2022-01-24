@@ -8,7 +8,7 @@
 	- Donde
 	- $ln(c_i)$ : es el logaritmo del costo de la empresa medido en dólares
 	- $q_i$: Es el numero de unidades de producción , medido en unidades
-	- $ln(p_{ji})$ : Es el logaritmo del precio de los insumos Capital, trabajo, medido en dolares
+	- $ln(p_{ji})$ : Es el logaritmo del precio de los insumos Capital, Trabajo, etc, medido en dolares
 	- Estimación
 	  collapsed:: true
 		- Estimación de la Frontera de costos para el sector manufacturero de Ecuador
