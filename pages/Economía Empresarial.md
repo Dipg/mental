@@ -32,7 +32,7 @@
 			- Si $\lambda$ es mayor a uno , esto quiere decir que la desviación estándar debido a la ineficiencia es mayor que la desviación estándar debido a un componente idiosincrático o aleatorio, es decir la ineficiencia se debe mas a términos internos de la empresa
 			- Si $\lambda$ es menor a uno la ineficiencia de la empresa esta dada por un componente aleatorio
 			- ![image.png](../assets/image_1643001183951_0.png)
-			- el sigma mu no mide directamente el parametro de eficiciencis
+			- el sigma mu no mide directamente el parametro de eficiciencis, sino que tanto de costo mas esta añadiendo cada una de las emrpesas
 		- Estimación de la Frontera de costos para el sector manufacturero de Ecuador
 		  collapsed:: true
 			- 1. Datos
