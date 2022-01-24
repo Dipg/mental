@@ -344,6 +344,7 @@
 	- https://www.datasciencemadesimple.com/return-first-n-character-from-left-of-column-in-pandas-python/
 	-
 - # Eliminar, Borrar, Drop
+  collapsed:: true
 	- ## DataFrame Completo
 	  collapsed:: true
 		- Eliminar valores duplicados en dataframe pandas
