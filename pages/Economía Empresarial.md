@@ -29,7 +29,7 @@
 			  $$
 			  \lambda=\sigma_{u} / \sigma_{v}
 			  $$
-			- Si $\lambda$ es mayor a uno , esto quiere decir que la ineficiencia es mayor
+			- Si $\lambda$ es mayor a uno , esto quiere decir que la ineficiencia
 		- Estimación de la Frontera de costos para el sector manufacturero de Ecuador
 		  collapsed:: true
 			- 1. Datos
