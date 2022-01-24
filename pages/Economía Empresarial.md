@@ -34,7 +34,7 @@
 			- ![image.png](../assets/image_1643001183951_0.png)
 			- el sigma mu no mide directamente el parámetro de eficiencia, sino que tanto de costo mas esta añadiendo cada una de las empresas en su forma de producir
 			- Cuando se estima la función de costo, no solamente tengo la eficiencia técnica sino también  tengo la eficiencia productiva, es decir la eficiencia técnica mas la asignativa
-			- Mientras mayor sea el c
+			- Mientras mayor sea el costo de eficiencia mas ineficiencte soy
 		- Estimación de la Frontera de costos para el sector manufacturero de Ecuador
 		  collapsed:: true
 			- 1. Datos
