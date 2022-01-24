@@ -23,7 +23,7 @@
   :END:
 - TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[Jan 24th, 2022]]
 - TODO Carpeta de Economía Ecuatoriana [[Jan 25th, 2022]]
-- TODO Trabjo Finanzas Públicas Sostenibilidad de la
+- TODO Trabjo Finanzas Públicas Sostenibilidad de la Deuda
 - #Hacer
 - TODO Sistemas de información gerencial de Laurol [[Jan 31st, 2022]] Capitulo 5 del Silabo
 - Completos
