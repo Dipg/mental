@@ -4,11 +4,6 @@
   :LOGBOOK:
   CLOCK: [2022-01-23 Sun 12:26:29]--[2022-01-24 Mon 16:13:21] =>  27:46:52
   :END:
-	- Probamos esto
-	- Pero yo no quiero copiar todo
-	- DONE Introd
-	-
-	-
 - TODO Aplicación Machine learning [[Jan 24th, 2022]]
 - TODO  🧪 Opta IV [[Wed, 26-01-2022]] [[Jan 26th, 2022]]
 - TODO 🧪 Regulación [[Mon, 24-01-2022]] [[Jan 24th, 2022]]
