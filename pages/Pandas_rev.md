@@ -62,13 +62,11 @@
 		- Con lo anterior  `np.arange(1, len(df)+1)` creamos un rango para que sea el indice numerico que queremos
 	- {{renderer :linkpreview,https://python.quantecon.org/pandas_panel.html}}
 - ¿Cómo cargamos datos .sav  , datos de SPSS?
-  collapsed:: true
 	- Importar datos SPSS a Pandas
 	- collapsed:: true
 	  ```python
 	  ```
 - Importar datos csv
-  collapsed:: true
 	- collapsed:: true
 	  ```python
 	  df = pd.read_csv("ejemplo.csv")
