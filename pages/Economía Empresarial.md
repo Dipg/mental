@@ -33,7 +33,7 @@
 			- Si $\lambda$ es menor a uno la ineficiencia de la empresa esta dada por un componente aleatorio
 			- ![image.png](../assets/image_1643001183951_0.png)
 			- el sigma mu no mide directamente el parámetro de eficiencia, sino que tanto de costo mas esta añadiendo cada una de las empresas en su forma de producir
-			- Cuando se estima la funcion de costo, no solamente tengo la eficiencia tecnica sino tambien  tengo la eficiencia productiva
+			- Cuando se estima la función de costo, no solamente tengo la eficiencia técnica sino también  tengo la eficiencia productiva
 		- Estimación de la Frontera de costos para el sector manufacturero de Ecuador
 		  collapsed:: true
 			- 1. Datos
