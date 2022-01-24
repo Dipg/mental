@@ -6,7 +6,7 @@
 		- Lunes
 			- Analisis
 			- Martes
-			-
+			- Miercoles
 		- Martes
 			- Opta II
 		- Miercoles
