@@ -10,7 +10,10 @@
 	- ((61ee9510-a304-45dd-b7d4-65b4f4449bc1))
 	- ![image.png](../assets/image_1643024791727_0.png)
 -
+- Rezago espacial
 - ((61ee9a4e-918d-42ed-802d-27d16dcc4bad))
+- ((61ee9a52-1560-4a57-b5ad-55db2fb6f01c))
+-
 -
 - ![chapter 3ç es.pdf](../assets/chapter_3ç_es_1643006765502_0.pdf)
 - ![chapter 1 y 2 es.pdf](../assets/chapter_1_y_2_es_1643006775158_0.pdf)
