@@ -357,18 +357,6 @@
 	  df.columns = new_header #Set the header row as the df header
 	  ```
 	- {{renderer :linkpreview,https://poopcode.com/make-first-row-as-column-names-in-pandas/}}
-- Eliminar filas duplicadas condicionadas en dos columnas
-  collapsed:: true
-	- Eliminar filas duplicadas  mediante condicional
-	- ![image.png](../assets/image_1642027131677_0.png)
-	- https://www.statology.org/pandas-drop-duplicates/
-- Eliminar valores duplicados en dataframe pandas
-  collapsed:: true
-	- ```python
-	  df.drop_duplicates()
-	  
-	  ```
-	- https://www.datasciencemadesimple.com/delete-drop-duplicate-row-dataframe-python-pandas/
 - Optener ultimas letras de celda pandas
   collapsed:: true
 	- Extraer ultimas letras de celda pandas
@@ -405,3 +393,15 @@
 		  df.drop(['A'], axis = 1)
 		  ```
 		- https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
+	- Eliminar filas duplicadas condicionadas en dos columnas
+	  collapsed:: true
+		- Eliminar filas duplicadas  mediante condicional
+		- ![image.png](../assets/image_1642027131677_0.png)
+		- https://www.statology.org/pandas-drop-duplicates/
+	- Eliminar valores duplicados en dataframe pandas
+	  collapsed:: true
+		- ```python
+		  df.drop_duplicates()
+		  
+		  ```
+		- https://www.datasciencemadesimple.com/delete-drop-duplicate-row-dataframe-python-pandas/
