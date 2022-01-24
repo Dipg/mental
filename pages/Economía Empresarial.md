@@ -24,6 +24,12 @@
 			- $ln(q_i)$: Es el logaritmo del numero de unidades producidas por la empresa , medido en unidades
 			- $ln(p_{ji})$ : Es el logaritmo del precio de los insumos Capital, Trabajo, etc, medido en dólares a diferencia de la estimación de la ((61ee2013-ba01-4b4c-ba53-dc30f15e62e5))
 	- Estimación
+		- Interpretación de resultados
+			-
+			  $$
+			  \lambda=\sigma_{u} / \sigma_{v}
+			  $$
+			-
 		- Estimación de la Frontera de costos para el sector manufacturero de Ecuador
 		  collapsed:: true
 			- 1. Datos
