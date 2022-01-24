@@ -3,6 +3,6 @@
   |Análisis  | Regulación    |  Economía Empresarial    |  Opta IV  |  Finanzas Públicas  |
   | Opta 1  |  Opta II   |   Economía Ecuatoriana  |   |   |
 - ![image.png](../assets/image_1643062246993_0.png)
-- |Lunes [[Jan 31st, 2022]] | Martes    |  Miércoles  |  Jueves  |  Viernes  |
+- |Lunes [[Jan 31st, 2022]] | Martes [[Feb 1st, 2022]] |  Miércoles   |  Jueves  |  Viernes  |
   |Análisis  | Regulación    |  Economía Empresarial    |  Opta IV  |  Finanzas Públicas  |
   | Opta 1  |  Opta II   |   Economía Ecuatoriana  |   |   |
