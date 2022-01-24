@@ -1,8 +1,10 @@
 - Frontera de Producción
   id:: 61ee2013-ba01-4b4c-ba53-dc30f15e62e5
+	-
 - Frontera de Costos
   id:: 61edfb56-65bd-400b-b36f-3815b0c8f671
 	- La frontera de costo parte de la siguiente expresión
+	  id:: 61ee1ef1-069d-4085-a8d8-5d61c255b089
 	-
 	  $$
 	  \ln \left(c_{i}\right)=\beta_{0}+\beta_{q} \ln \left(q_{i}\right)+\sum_{j=1}^{k} \beta_{j} \ln \left(p_{j i}\right) \text { 㐲 } v_{i}+u_{i}
