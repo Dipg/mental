@@ -29,7 +29,7 @@
 			  $$
 			  \lambda=\sigma_{u} / \sigma_{v}
 			  $$
-			- Si $\lambda$ es mayor a uno , esto quiere decir que la desviación estandar devido a la ineficiencia es mayor que la desviación estandar devido a un componente exr
+			- Si $\lambda$ es mayor a uno , esto quiere decir que la desviación estándar debido a la ineficiencia es mayor que la desviación estándar debido a un componente externo
 		- Estimación de la Frontera de costos para el sector manufacturero de Ecuador
 		  collapsed:: true
 			- 1. Datos
