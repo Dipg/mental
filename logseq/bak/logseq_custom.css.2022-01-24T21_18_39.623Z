@@ -7,8 +7,7 @@
     margin-right: 0.5rem;
     border-radius: 4px;
     border: 1px solid #eaeaea;
-    width: 40px !important;
-    hi
+    width: 40px;
 }
 
 
