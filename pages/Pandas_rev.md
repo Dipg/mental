@@ -177,6 +177,7 @@
 	   df["weight"].mean()
 	  ```
 - Seleccionar algunas columnas de dataframe pandas
+  collapsed:: true
 	- collapsed:: true
 	  ```python
 	  df['Fruit Total']= df.iloc[:, -4:-1].sum(axis=1)
@@ -184,6 +185,7 @@
 	- https://stackoverflow.com/questions/42063716/pandas-sum-up-multiple-columns-into-one-column-without-last-column
 - ((61b659d4-74eb-40c9-9bfd-0f741c201c32))
 - Convertir columna pandas en números int enteros
+  collapsed:: true
 	- ```python
 	  df['col1'] = df['col1'].astype(int)
 	  ```
@@ -273,6 +275,7 @@
 	  ```
 	- {{renderer :linkpreview,https://www.codegrepper.com/code-examples/python/pandas+drop+if+all+columns+are+nan}}
 - Eliminar columnas sin nombre
+  collapsed:: true
 	- Eliminar columnas con NaN
 	- ![image.png](../assets/image_1639648698403_0.png)
 	- collapsed:: true
@@ -355,14 +358,17 @@
 	  ```
 	- {{renderer :linkpreview,https://poopcode.com/make-first-row-as-column-names-in-pandas/}}
 - Eliminar columna especfica en pandas
+  collapsed:: true
 	- ```python
 	  df.drop(['A'], axis = 1)
 	  ```
 	- https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
 - Eliminar filas Dubplicadas
+  collapsed:: true
 	- ![image.png](../assets/image_1642027001958_0.png)
 	- https://www.statology.org/pandas-drop-rows-with-condition/
 - Eliminar filas mediante condicionales
+  collapsed:: true
 	- Eliminar filas con if o condicionales
 	- Eliminar columnas con condicionales
 	- https://www.statology.org/pandas-drop-rows-with-condition/
