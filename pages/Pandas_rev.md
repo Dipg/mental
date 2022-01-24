@@ -67,7 +67,6 @@
 	- collapsed:: true
 	  ```python
 	  ```
--
 - Importar datos csv
   collapsed:: true
 	- collapsed:: true
@@ -87,6 +86,7 @@
 	- agregar multiples indices adaatafrem pandas
 	- {{renderer :linkpreview,https://www.datasciencemadesimple.com/hierarchical-indexing-multiple-indexing-python-pandas/}}
 - Importar Excel en Pandas
+  collapsed:: true
 	- collapsed:: true
 	  ```python
 	  df = pd.read_excel('example.xlsx', sheet_name='example')
@@ -100,6 +100,7 @@
 	  ```
 	- {{renderer :linkpreview,https://www.analyticslane.com/2018/07/30/guardar-y-leer-archivos-excel-en-python/}}
 - # Columnas
+  collapsed:: true
 	- Añadir columna en la primera posición Pandas
 	  collapsed:: true
 		- Agregar columna en la primera posición pandas
@@ -170,8 +171,7 @@
 	  ```
 	- https://intellipaat.com/community/28342/how-to-select-columns-from-dataframe-by-regex
 - Optener Promedio de Columna pandas
-- collapsed:: true
-  ```python
+- ```python
    df["weight"].mean()
   ```
 - https://stackoverflow.com/questions/31037298/pandas-get-column-average-mean
