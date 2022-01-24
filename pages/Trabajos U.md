@@ -6,9 +6,7 @@
   :END:
 	- Probamos esto
 	- Pero yo no quiero copiar todo
-	- DONE Introducción
-	- DONE Comer
-	- DONE Dormir
+	- DONE Introd
 	-
 	-
 - TODO Aplicación Machine learning [[Jan 24th, 2022]]
