@@ -5,7 +5,8 @@
 				- Los datos se obtuvieron de superintendencia de compañías, mismo que pertenece al sector manufacturero de Ecuador para el año 2017, los datos a utilizar son:
 					- Costos: Como el total de costo de las empresas en el año
 					- Ventas: El total de ventas que se genero en dólares en el año
-					- Precio Laboral:
+					- Precio Laboral: Se tomo el costo de man
 			- 1. Obtención de Datos
 				- Los datos se obtuvieron de superintendencia de compañías
+-
 -
