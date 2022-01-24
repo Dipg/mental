@@ -344,6 +344,7 @@
 	- https://www.datasciencemadesimple.com/return-first-n-character-from-left-of-column-in-pandas-python/
 	-
 - # Eliminar, Borrar, Drop
+	- ## Data
 	- ## Filas
 	  collapsed:: true
 		- Eliminar filas que contienen un valor específico 
@@ -369,6 +370,7 @@
 			- ![image.png](../assets/image_1642027131677_0.png)
 			- https://www.statology.org/pandas-drop-duplicates/
 	- ## Columnas
+	  collapsed:: true
 		- Eliminar columna especfica en pandas
 		  collapsed:: true
 			- ```python
