@@ -236,8 +236,10 @@ collapsed:: true
 	- https://www.statalist.org/forums/forum/general-stata-discussion/general/1402198-rename-variable-if-variable-exists
 - # Listas
 	- Listas Globales
+	  collapsed:: true
 		- Se corren una vez y se pueden llamar en cualquier otro moment
 	- Listas Locales
+	  collapsed:: true
 		- Se corren siempre que se pretenden usar
 - # Loops en Stata
   collapsed:: true
