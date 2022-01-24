@@ -5,6 +5,8 @@
   CLOCK: [2022-01-23 Sun 12:26:29]
   :END:
 - TODO Aplicación Machine learning [[Jan 23rd, 2022]] tomorrow
+- tomorrow
+-
 -
 - TODO  🧪 Opta IV [[Wed, 26-01-2022]] [[Jan 26th, 2022]]
 - TODO 🧪 Regulación [[Mon, 24-01-2022]] [[Jan 24th, 2022]]
