@@ -1,4 +1,4 @@
 - Frontera de Costos
 	- Estimación
-		- Estimación de la Fo
+		- Estimación de la Frontera de costos para el sector manufactures
 	- Obtención de Datos
