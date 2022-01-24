@@ -235,7 +235,9 @@ collapsed:: true
 	  ```
 	- https://www.statalist.org/forums/forum/general-stata-discussion/general/1402198-rename-variable-if-variable-exists
 - # Listas
-	- L
+	- Listas Globales
+		-
+	- Listas Locales
 - # Loops en Stata
   collapsed:: true
 	- {{renderer :linkpreview,https://data.library.virginia.edu/stata-basics-foreach-and-forvalues/}}
