@@ -124,7 +124,10 @@
 			- https://www.stata.com/manuals/g-3axis_label_options.pdf
 		-
 - # [](#2.) Loop for en Stata
-	- ### Loop para Lista
+	- ### Loop en Listas
+		-
+		- ```python
+		  ```
 	- Loop for en todo el rango de variables. Donde la primera coluna (variable es  `year` y la ultima es `time`). Generamos los logaritmos de cada variable
 	- ```stata
 	  foreach v of var year-time {
