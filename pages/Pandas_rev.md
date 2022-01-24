@@ -345,6 +345,7 @@
 	-
 - # Eliminar, Borrar, Drop
 	- ## Filas
+	  collapsed:: true
 		- Eliminar filas que contienen un valor específico 
 		  collapsed:: true
 			- ```python
@@ -362,6 +363,11 @@
 		  collapsed:: true
 			- ![image.png](../assets/image_1642027001958_0.png)
 			- https://www.statology.org/pandas-drop-rows-with-condition/
+		- Eliminar filas duplicadas condicionadas en dos columnas
+		  collapsed:: true
+			- Eliminar filas duplicadas  mediante condicional
+			- ![image.png](../assets/image_1642027131677_0.png)
+			- https://www.statology.org/pandas-drop-duplicates/
 	- ## Columnas
 		- Eliminar columna especfica en pandas
 		  collapsed:: true
@@ -369,11 +375,6 @@
 			  df.drop(['A'], axis = 1)
 			  ```
 			- https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
-	- Eliminar filas duplicadas condicionadas en dos columnas
-	  collapsed:: true
-		- Eliminar filas duplicadas  mediante condicional
-		- ![image.png](../assets/image_1642027131677_0.png)
-		- https://www.statology.org/pandas-drop-duplicates/
 	- Eliminar valores duplicados en dataframe pandas
 	  collapsed:: true
 		- ```python
