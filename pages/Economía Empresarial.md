@@ -29,7 +29,7 @@
 			  $$
 			  \lambda=\sigma_{u} / \sigma_{v}
 			  $$
-			-
+			- Si
 		- Estimación de la Frontera de costos para el sector manufacturero de Ecuador
 		  collapsed:: true
 			- 1. Datos
