@@ -8,6 +8,7 @@
 	- Donde
 	- $ln(c_i)$ : es el logaritmo del costo de la empresa medido en dólares
 	-
+	  $$q_i$$
 	- Estimación
 	  collapsed:: true
 		- Estimación de la Frontera de costos para el sector manufacturero de Ecuador
