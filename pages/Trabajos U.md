@@ -8,7 +8,7 @@
 	- Pero yo no quiero copiar todo
 	- DONE Introducción
 	- DONE Comer
-	- TODO Dormir
+	- DONE Dormir
 	-
 	-
 - TODO Aplicación Machine learning [[Jan 24th, 2022]]
