@@ -367,12 +367,6 @@
   collapsed:: true
 	- ![image.png](../assets/image_1642027001958_0.png)
 	- https://www.statology.org/pandas-drop-rows-with-condition/
-- Eliminar filas mediante condicionales
-  collapsed:: true
-	- Eliminar filas con if o condicionales
-	- Eliminar columnas con condicionales
-	- https://www.statology.org/pandas-drop-rows-with-condition/
-	- ![image.png](../assets/image_1642027084428_0.png)
 - Eliminar filas duplicadas condicionadas en dos columnas
   collapsed:: true
 	- Eliminar filas duplicadas  mediante condicional
@@ -397,11 +391,17 @@
 		- ![image.png](../assets/image_1642027252376_0.png)
 	- https://www.datasciencemadesimple.com/return-first-n-character-from-left-of-column-in-pandas-python/
 	-
-- Eliminar, Borrar, Drop
-- Eliminar filas que contienen un valor específico 
-  collapsed:: true
-	- ```python
-	  #drop rows that contain specific 'value' in 'column_name'
-	  df = df[df.column_name != value]
-	  ```
-	- https://www.statology.org/pandas-drop-rows-with-value/
+- # Eliminar, Borrar, Drop
+	- Eliminar filas que contienen un valor específico 
+	  collapsed:: true
+		- ```python
+		  #drop rows that contain specific 'value' in 'column_name'
+		  df = df[df.column_name != value]
+		  ```
+		- https://www.statology.org/pandas-drop-rows-with-value/
+	- Eliminar filas mediante condicionales
+	  collapsed:: true
+		- Eliminar filas con if o condicionales
+		- Eliminar columnas con condicionales
+		- https://www.statology.org/pandas-drop-rows-with-condition/
+		- ![image.png](../assets/image_1642027084428_0.png)
