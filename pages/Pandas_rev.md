@@ -274,16 +274,6 @@
 	  df.dropna(axis='columns')
 	  ```
 	- {{renderer :linkpreview,https://www.codegrepper.com/code-examples/python/pandas+drop+if+all+columns+are+nan}}
-- Eliminar columnas sin nombre
-  collapsed:: true
-	- Eliminar columnas con NaN
-	- ![image.png](../assets/image_1639648698403_0.png)
-	- collapsed:: true
-	  ```python
-	   df = df.loc[:, df.columns.notnull()]
-	  ```
-	- ![image.png](../assets/image_1639648709196_0.png)
-	- {{renderer :linkpreview,https://stackoverflow.com/questions/46101714/pandas-how-to-drop-multiple-columns-with-nan-as-col-name}}
 - Buscar todas las columnas sin nombre
   collapsed:: true
 	- Buscar todas las columnas con nana
@@ -339,15 +329,6 @@
 	  ```python
 	  df['column name'].isna().sum()
 	  ```
-- Eliminar la primera  fila de un dataframe pandas
-  collapsed:: true
-	- collapsed:: true
-	  ```python
-	  df = df.iloc[1: , :]
-	  df.drop(df.index[1])
-	  ```
-	- {{renderer :linkpreview,https://thispointer.com/drop-first-row-of-pandas-dataframe-3-ways/}}
-	- {{renderer :linkpreview,https://www.codegrepper.com/code-examples/python/pandas+set+first+row+as+column+names}}
 - Poner primera fila como columna pandas
   collapsed:: true
 	- collapsed:: true
@@ -405,3 +386,22 @@
 		  
 		  ```
 		- https://www.datasciencemadesimple.com/delete-drop-duplicate-row-dataframe-python-pandas/
+	- Eliminar la primera  fila de un dataframe pandas
+	  collapsed:: true
+		- collapsed:: true
+		  ```python
+		  df = df.iloc[1: , :]
+		  df.drop(df.index[1])
+		  ```
+		- {{renderer :linkpreview,https://thispointer.com/drop-first-row-of-pandas-dataframe-3-ways/}}
+		- {{renderer :linkpreview,https://www.codegrepper.com/code-examples/python/pandas+set+first+row+as+column+names}}
+	- Eliminar columnas sin nombre
+	  collapsed:: true
+		- Eliminar columnas con NaN
+		- ![image.png](../assets/image_1639648698403_0.png)
+		- collapsed:: true
+		  ```python
+		   df = df.loc[:, df.columns.notnull()]
+		  ```
+		- ![image.png](../assets/image_1639648709196_0.png)
+		- {{renderer :linkpreview,https://stackoverflow.com/questions/46101714/pandas-how-to-drop-multiple-columns-with-nan-as-col-name}}
