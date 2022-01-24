@@ -1,5 +1,7 @@
+- Frontera de Producción
 - Frontera de Costos
   id:: 61edfb56-65bd-400b-b36f-3815b0c8f671
+  collapsed:: true
 	- La frontera de costo parte de la siguiente expresión
 	-
 	  $$
