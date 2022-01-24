@@ -342,12 +342,11 @@
 	- https://www.datasciencemadesimple.com/return-first-n-character-from-left-of-column-in-pandas-python/
 	-
 - # Exportar DataFrame
-  collapsed:: true
 	- Exportar a Stata
-	  collapsed:: true
 		- ```python
 		  df.to_stata('animals.dta')  
 		  ```
+		-
 - # Eliminar, Borrar, Drop
   collapsed:: true
 	- ## DataFrame Completo
