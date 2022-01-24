@@ -238,7 +238,7 @@ collapsed:: true
 	- Listas Globales
 		- Se corren una vez y se pueden llamar en cualquier otro moment
 	- Listas Locales
-		-
+		- Se corren cuando se
 - # Loops en Stata
   collapsed:: true
 	- {{renderer :linkpreview,https://data.library.virginia.edu/stata-basics-foreach-and-forvalues/}}
