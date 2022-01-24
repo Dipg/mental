@@ -1,7 +1,7 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 .todo-master-progress-bar__bars {
-    box-shadow: 1px 1px 8px 1px #f3f3f373 !important; 
+    box-shadow: 1px 1px 8px 1px #f3f3f34b !important; 
     display: flex;
     flex: 1;
     overflow: hidden;
