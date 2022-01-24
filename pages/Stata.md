@@ -124,7 +124,9 @@
 			- https://www.stata.com/manuals/g-3axis_label_options.pdf
 		-
 - # [](#2.) Loop for en Stata
+  collapsed:: true
 	- ### Loop en Lista
+	  collapsed:: true
 		- ```stata
 		  ** Solo correra si corro la lista local al mismo tiempo
 		  local month jan feb mar apr
