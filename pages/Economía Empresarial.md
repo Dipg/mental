@@ -8,7 +8,7 @@
 	- Donde
 	- $ln(c_i)$ : es el logaritmo del costo de la empresa medido en dólares
 	- $q_i$: Es el numero de unidades de producción , medido en unidades
-	- $ln(p_{ji})$ : Es el numero
+	- $ln(p_{ji})$ : Es el logaritmo del precio de los insumos medido
 	- Estimación
 	  collapsed:: true
 		- Estimación de la Frontera de costos para el sector manufacturero de Ecuador
@@ -21,4 +21,6 @@
 			- 1. Obtención de Datos
 				- Los datos se obtuvieron de superintendencia de compañías para el año 2017, las cuentas que se seleccionaron con sus respectivos códigos fueron ; Costos con el código 7991 ;
 			- 2. Estimación de Frontera de Costos
-				- Escogemos la estimación de modelo de función de costos, para esta estimación se seleccionó una distribución de tipo half-normal para el termino de ef
+				- Escogemos la estimación de modelo de función de costos, para esta estimación se seleccionó una distribución de tipo half-normal para el termino de eficiencia.
+-
+-
