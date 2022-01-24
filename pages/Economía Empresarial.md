@@ -1,6 +1,6 @@
 - Frontera de Producción
   id:: 61ee2013-ba01-4b4c-ba53-dc30f15e62e5
-	-
+	- La frontera de costo parte de la siguiente expresión
 - Frontera de Costos
   id:: 61edfb56-65bd-400b-b36f-3815b0c8f671
 	- La frontera de costo parte de la siguiente expresión
@@ -26,6 +26,3 @@
 				- Los datos se obtuvieron de superintendencia de compañías para el año 2017, las cuentas que se seleccionaron con sus respectivos códigos fueron ; Costos con el código 7991 ;
 			- 2. Estimación de Frontera de Costos
 				- Escogemos la estimación de modelo de función de costos, para esta estimación se seleccionó una distribución de tipo half-normal para el termino de eficiencia.
--
--
--
