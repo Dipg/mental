@@ -1,7 +1,7 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 
-.table-auto>colgroup>col{
+.table-auto>colgroup{
     background-color: #ff0000 !important;
 
 }
