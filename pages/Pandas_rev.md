@@ -342,6 +342,7 @@
 	- https://www.datasciencemadesimple.com/return-first-n-character-from-left-of-column-in-pandas-python/
 	-
 - # Exportar DataFrame
+  collapsed:: true
 	- Exportar a Stata
 	  collapsed:: true
 		- collapsed:: true
@@ -352,7 +353,6 @@
 		  collapsed:: true
 			- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_stata.html
 - # Eliminar, Borrar, Drop
-  collapsed:: true
 	- ## DataFrame Completo
 	  collapsed:: true
 		- Eliminar valores duplicados en dataframe pandas
@@ -363,7 +363,6 @@
 			  ```
 			- https://www.datasciencemadesimple.com/delete-drop-duplicate-row-dataframe-python-pandas/
 	- ## Filas
-	  collapsed:: true
 		- Eliminar la primera  fila de un dataframe pandas
 		  collapsed:: true
 			- collapsed:: true
