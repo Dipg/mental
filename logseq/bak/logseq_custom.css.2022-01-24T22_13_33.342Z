@@ -2,7 +2,7 @@
 
 
 .table-auto{
-    
+    color: black !important;
 
 
 }
