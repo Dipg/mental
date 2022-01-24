@@ -399,5 +399,6 @@
 	-
 - Eliminar filas que contienen un valor específico
 	- ```python
+	  #drop rows that contain specific 'value' in 'column_name'
 	  df = df[df.column_name != value]
 	  ```
