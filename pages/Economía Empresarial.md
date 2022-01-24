@@ -17,7 +17,7 @@
 	  $$
 	- Donde
 		- $ln(c_i)$ : es el logaritmo del costo de la empresa medido en dólares
-		- $q_i$: Es el logaritmo del numero de unidades producidas por la empresa , medido en unidades
+		- $ln(q_i)$: Es el logaritmo del numero de unidades producidas por la empresa , medido en unidades
 		- $ln(p_{ji})$ : Es el logaritmo del precio de los insumos Capital, Trabajo, etc, medido en dólares a diferencia de la estimación de la ((61ee2013-ba01-4b4c-ba53-dc30f15e62e5))
 	- Estimación
 	  collapsed:: true
