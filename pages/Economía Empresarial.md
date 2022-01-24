@@ -1,6 +1,6 @@
 - Frontera de Producción
   id:: 61ee2013-ba01-4b4c-ba53-dc30f15e62e5
-	- La frontera de costo parte de la siguiente expresión
+	- La frontera de producción parte de la siguiente expresión
 		-
 		  $$
 		  \ln \left(q_{i}\right)=\beta_{0}+\sum_{j=1}^{k} \beta_{j} \ln \left(z_{j i}\right)+\left(v_{i}\right)-u_{i}
