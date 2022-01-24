@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "61ee4c7d-8aa2-445d-9c25-0b8c31127cfc", :page 7, :position {:bounding {:x1 63.109375, :y1 201.140625, :x2 619.4585571289062, :y2 220.140625, :width 684.1999999999999, :height 1068.3}, :rects ({:x1 63.109375, :y1 201.140625, :x2 619.4585571289062, :y2 220.140625, :width 684.1999999999999, :height 1068.3}), :page 7}, :content {:text "Los effectos de congestión representan un  tipo  de  desbordamiento  espacial,"}, :properties {:color "yellow"}}]}
