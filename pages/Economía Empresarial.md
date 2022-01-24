@@ -4,7 +4,7 @@
 			- 1. Datos
 				- Los datos a utilizar son
 					- Costos: Como el total de costo de las empresas en el año
-					- Ventas: El total de ventas que se genero en dolares en el año
+					- Ventas: El total de ventas que se genero en dólares en el año
 			- 1. Obtención de Datos
 				- Los datos se obtuvieron de superintendencia de compañías
 -
