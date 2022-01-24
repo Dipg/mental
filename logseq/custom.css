@@ -6,7 +6,7 @@
 
 
 .todo-master-progress-bar__bars {
-    box-shadow: 1px 1px 8px 1px #f3f3f34b !important; 
+    box-shadow: 1px 1px 8px 1px #ff00004b !important; 
     display: flex;
     flex: 1;
     overflow: hidden;
