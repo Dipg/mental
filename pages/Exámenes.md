@@ -4,10 +4,12 @@
 - {{renderer :tables_sttupu}}
 	- Examenes {{renderer :tables_hhinjnp}}
 		- Lunes
+		  collapsed:: true
 			- Analisis
 			- Martes
 			- Miercoles
 		- Martes
+		  collapsed:: true
 			- Opta II
 		- Miercoles
 		- Jueves
