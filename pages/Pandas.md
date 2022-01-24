@@ -171,4 +171,3 @@
 	   df["weight"].mean()
 	  ```
 		- https://stackoverflow.com/questions/31037298/pandas-get-column-average-mean
--
