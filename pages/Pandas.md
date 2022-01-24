@@ -166,10 +166,10 @@
 	  ```
 	- https://intellipaat.com/community/28342/how-to-select-columns-from-dataframe-by-regex
 - Optener Promedio de Columna pandas
-- collapsed:: true
-  ```python
-   df["weight"].mean()
-  ```
+	- collapsed:: true
+	  ```python
+	   df["weight"].mean()
+	  ```
 - https://stackoverflow.com/questions/31037298/pandas-get-column-average-mean
 - Seleccionar algunas columnas de dataframe pandas
 	- collapsed:: true
