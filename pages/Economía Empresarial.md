@@ -12,7 +12,6 @@
 - Frontera de Costos
   id:: 61edfb56-65bd-400b-b36f-3815b0c8f671
 	- Teoría
-	  collapsed:: true
 		- La frontera de costo parte de la siguiente expresión
 		  id:: 61ee1ef1-069d-4085-a8d8-5d61c255b089
 		-
@@ -25,6 +24,7 @@
 			- $ln(p_{ji})$ : Es el logaritmo del precio de los insumos Capital, Trabajo, etc, medido en dólares a diferencia de la estimación de la ((61ee2013-ba01-4b4c-ba53-dc30f15e62e5))
 	- Estimación
 		- Estimación de la Frontera de costos para el sector manufacturero de Ecuador
+		  collapsed:: true
 			- 1. Datos
 				- Los datos se obtuvieron de superintendencia de compañías, mismo que pertenece al sector manufacturero de Ecuador para el año 2017, los datos a utilizar son:
 					- Costos: Como el total de costo de las empresas en el año
