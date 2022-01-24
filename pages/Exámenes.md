@@ -2,6 +2,8 @@
 - |Analisis|
 -
 - {{renderer :tables_gtoudx}}
-	- Lunes
-		- ANalisis
+	- Examenes
+		- Lunes
+		- Martes
+		-
 	-
