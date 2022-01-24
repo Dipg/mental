@@ -1,6 +1,7 @@
 - Frontera de Producción
   id:: 61ee2013-ba01-4b4c-ba53-dc30f15e62e5
 	- La frontera de costo parte de la siguiente expresión
+	-
 - Frontera de Costos
   id:: 61edfb56-65bd-400b-b36f-3815b0c8f671
 	- La frontera de costo parte de la siguiente expresión
