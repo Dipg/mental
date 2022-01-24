@@ -8,6 +8,6 @@
 					- Precio Laboral: Se tomo el sueldo junto con los salarios y demás remuneraciones
 					- Precio del Capital: Se tomo el total de Activos fijos
 			- 1. Obtención de Datos
-				- Los datos se obtuvieron de superintendencia de compañías
+				- Los datos se obtuvieron de superintendencia de compañías, para
 -
 -
