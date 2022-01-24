@@ -397,7 +397,9 @@
 		- ![image.png](../assets/image_1642027252376_0.png)
 	- https://www.datasciencemadesimple.com/return-first-n-character-from-left-of-column-in-pandas-python/
 	-
-- Eliminar filas que contienen un valor específico
+- Eliminar
+- Eliminar filas que contienen un valor específico 
+  collapsed:: true
 	- ```python
 	  #drop rows that contain specific 'value' in 'column_name'
 	  df = df[df.column_name != value]
