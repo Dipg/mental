@@ -372,8 +372,7 @@
 			  ```
 			- {{renderer :linkpreview,https://thispointer.com/drop-first-row-of-pandas-dataframe-3-ways/}}
 			- {{renderer :linkpreview,https://www.codegrepper.com/code-examples/python/pandas+set+first+row+as+column+names}}
-		- Eliminar filas que contienen un valor específico 
-		  collapsed:: true
+		- Eliminar filas que contienen un valor específico
 			- ```python
 			  #drop rows that contain specific 'value' in 'column_name'
 			  df = df[df.column_name != value]
