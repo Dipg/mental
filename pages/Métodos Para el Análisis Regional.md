@@ -2,4 +2,5 @@
 - ![chapter 1 y 2 es.pdf](../assets/chapter_1_y_2_es_1643006775158_0.pdf)
 -
   <object data="G:/Mi unidad/Autosync/Logmy/NewLog/assets/Regional.pdf" type="application/pdf" width="100%" height="800px"></object>
-- {{renderer :localpdfinline, Region}}
+-
+  <object data="G:/Mi unidad/Autosync/Logmy/NewLog/assets/Regional.pdf " type="application/pdf" width="100%" height="800px"></object>
