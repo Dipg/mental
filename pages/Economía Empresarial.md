@@ -1,6 +1,10 @@
 - Frontera de Costos
   id:: 61edfb56-65bd-400b-b36f-3815b0c8f671
 	- La frontera de costo parte de la siguiente expresión
+	-
+	  $$
+	  \ln \left(c_{i}\right)=\beta_{0}+\beta_{q} \ln \left(q_{i}\right)+\sum_{j=1}^{k} \beta_{j} \ln \left(p_{j i}\right) \text { 㐲 } v_{i}+u_{i}
+	  $$
 	- Estimación
 		- Estimación de la Frontera de costos para el sector manufacturero de Ecuador
 			- 1. Datos
