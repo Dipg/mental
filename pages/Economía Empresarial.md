@@ -6,7 +6,7 @@
 					- Costos: Como el total de costo de las empresas en el año
 					- Ventas: El total de ventas que se genero en dólares en el año
 					- Precio Laboral: Se tomo el sueldo junto con los salarios y demás remuneraciones
-					- Precio del Capital::
+					- Precio del Capital: La maquinaria
 					-
 			- 1. Obtención de Datos
 				- Los datos se obtuvieron de superintendencia de compañías
