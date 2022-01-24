@@ -2,7 +2,8 @@
 
 
 .table-auto>colgroup{
-    background-color: #ff0000 !important;
+    
+
 
 }
 
