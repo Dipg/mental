@@ -6,7 +6,7 @@
 		  \ln \left(q_{i}\right)=\beta_{0}+\sum_{j=1}^{k} \beta_{j} \ln \left(z_{j i}\right)+\left(v_{i}\right)-u_{i}
 		  $$
 		- Donde:
-		-
+			- $ln(q_i)$: Es el logaritmo del numero de unidades producidas por la empresa , medido en unidades
 - Frontera de Costos
   id:: 61edfb56-65bd-400b-b36f-3815b0c8f671
 	- La frontera de costo parte de la siguiente expresión
