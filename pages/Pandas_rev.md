@@ -374,16 +374,19 @@
 	- https://www.statology.org/pandas-drop-rows-with-condition/
 	- ![image.png](../assets/image_1642027084428_0.png)
 - Eliminar filas duplicadas condicionadas en dos columnas
+  collapsed:: true
 	- Eliminar filas duplicadas  mediante condicional
 	- ![image.png](../assets/image_1642027131677_0.png)
 	- https://www.statology.org/pandas-drop-duplicates/
 - Eliminar valores duplicados en dataframe pandas
+  collapsed:: true
 	- ```python
 	  df.drop_duplicates()
 	  
 	  ```
 	- https://www.datasciencemadesimple.com/delete-drop-duplicate-row-dataframe-python-pandas/
 - Optener ultimas letras de celda pandas
+  collapsed:: true
 	- Extraer ultimas letras de celda pandas
 	- Optener ultimas letras de string pandas
 	- ```python
