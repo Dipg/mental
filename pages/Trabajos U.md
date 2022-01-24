@@ -1,12 +1,13 @@
 - {{renderer :todomaster-VHJhYmFqb3MgVQ==}}
 - #inmediato
-- DOING [#A] Frontera de Posibilidades → [[Economía Empresarial]] [[Jan 24th, 2022]] ((61edfb56-65bd-400b-b36f-3815b0c8f671)) {{renderer :todomaster-NjFlZjExMzAtMzg5OC00YTlkLWEzNDItYzIyNWFkYmQ1NmI0}}
+- LATER [#A] Frontera de Posibilidades → [[Economía Empresarial]] [[Jan 24th, 2022]] ((61edfb56-65bd-400b-b36f-3815b0c8f671)) {{renderer :todomaster-NjFlZjExMzAtMzg5OC00YTlkLWEzNDItYzIyNWFkYmQ1NmI0}}
   :LOGBOOK:
-  CLOCK: [2022-01-23 Sun 12:26:29]
+  CLOCK: [2022-01-23 Sun 12:26:29]--[2022-01-24 Mon 16:13:21] =>  27:46:52
   :END:
 	- Probamos esto
 	- Pero yo no quiero copiar todo
-	- DONE Introducción
+	- LATER Introducción
+	-
 	-
 - TODO Aplicación Machine learning [[Jan 24th, 2022]]
 - TODO  🧪 Opta IV [[Wed, 26-01-2022]] [[Jan 26th, 2022]]
