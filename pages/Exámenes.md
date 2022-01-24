@@ -4,8 +4,9 @@
 - {{renderer :tables_gtoudx}}
 	- Examenes
 		- Lunes
-			-
+			- Analisis
 		- Martes
+			-
 		- Miercoles
 		- Jueves
 		- Viernes
