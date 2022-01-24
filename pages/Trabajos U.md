@@ -7,7 +7,7 @@
 	- Probamos esto
 	- Pero yo no quiero copiar todo
 	- DONE Introducción
-	- LATER Comer
+	- DONE Comer
 	- DONE Dormir
 	-
 	-
