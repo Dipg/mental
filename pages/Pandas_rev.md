@@ -399,4 +399,5 @@
 	-
 - Eliminar filas que contienen un valor específico
 	- ```python
+	  df = df[df.column_name != value]
 	  ```
