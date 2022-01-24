@@ -1,3 +1,3 @@
 - ![image.png](../assets/image_1643061761054_0.png)
-- |Lunes  | I   |  Economía Empresarial  - Economía Ecuatoriana  |  Opta IV  |  Finanzas Públicas  |
+- |Lunes  | Martes   |  Economía Empresarial  - Economía Ecuatorian  |  Opta IV  |  Finanzas Públicas  |
   |Analisis - Opta 1  | Regulación Opta II   |  Economía Empresarial  - Economía Ecuatoriana  |  Opta IV  |  Finanzas Públicas  |
