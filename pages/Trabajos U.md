@@ -1,6 +1,6 @@
 - {{renderer :todomaster-VHJhYmFqb3MgVQ==}}
 - #inmediato
-- DOING [#A] Frontera de Posibilidades → [[Economía Empresarial]]  [[Jan 23rd, 2022]]
+- DOING [#A] Frontera de Posibilidades → [[Economía Empresarial]]  [[Jan 23rd, 2022]] ((61edfb56-65bd-400b-b36f-3815b0c8f671))
   :LOGBOOK:
   CLOCK: [2022-01-23 Sun 12:26:29]
   :END:
