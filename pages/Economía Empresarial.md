@@ -1,5 +1,6 @@
 - Frontera de Producción
   id:: 61ee2013-ba01-4b4c-ba53-dc30f15e62e5
+  collapsed:: true
 	- La frontera de producción parte de la siguiente expresión
 		-
 		  $$
