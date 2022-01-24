@@ -1,5 +1,5 @@
 - ![image.png](../assets/image_1643024507969_0.png)
-- M
+- Matriz de Contigüidad de primer orden
 - ![image.png](../assets/image_1643024517228_0.png){:height 226, :width 348}
 -
 -
