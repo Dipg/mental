@@ -425,4 +425,4 @@
 			- {{renderer :linkpreview,https://www.codegrepper.com/code-examples/python/pandas+drop+if+all+columns+are+nan}}
 - # Extraer Datos
 	- Extraer Listas
-	-
+		- Extraer Lista de
