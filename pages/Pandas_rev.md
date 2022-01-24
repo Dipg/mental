@@ -427,5 +427,7 @@
 	- Extraer Listas
 		- Extraer Lista de Valore únicos de Columna Pandas
 			- ```python
+			  gapminder['country'].unique()
 			  ```
--
+			- ref
+				- https://cmdlinetips.com/2018/01/how-to-get-unique-values-from-a-column-in-pandas-data-frame/
