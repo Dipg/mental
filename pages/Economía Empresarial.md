@@ -1,3 +1,4 @@
 - Frontera de Costos
-	- Estimacióon
+	- Estimación
+		- Estimación de la Fo
 	- Obtención de Datos
