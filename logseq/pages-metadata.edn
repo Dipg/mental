@@ -1,6 +1,6 @@
 [{:block/name "",
-  :block/created-at 1642983606659,
-  :block/updated-at 1642983606659}
+  :block/created-at 1642983725830,
+  :block/updated-at 1642983725830}
  {:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -707,6 +707,9 @@
  {:block/name "pandas",
   :block/created-at 1642172083940,
   :block/updated-at 1642172083940}
+ {:block/name "pandas_rev",
+  :block/created-at 1642983725831,
+  :block/updated-at 1642983725831}
  {:block/name "papers",
   :block/created-at 1642170023107,
   :block/updated-at 1642172007649}
@@ -825,8 +828,8 @@
   :block/created-at 1642178166048,
   :block/updated-at 1642958789412}
  {:block/name "tue, 18-01-2022",
-  :block/created-at 1642983606659,
-  :block/updated-at 1642983606659}
+  :block/created-at 1642983725830,
+  :block/updated-at 1642983725830}
  {:block/name "urgente",
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
