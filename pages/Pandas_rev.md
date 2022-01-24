@@ -345,6 +345,7 @@
 	-
 - # Eliminar, Borrar, Drop
 	- ## DataFrame Completo
+	  collapsed:: true
 		- Eliminar valores duplicados en dataframe pandas
 		  collapsed:: true
 			- ```python
