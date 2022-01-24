@@ -7,7 +7,7 @@
 		  $$
 		- Donde:
 			- $ln(q_i)$: Es el logaritmo del numero de unidades producidas por la empresa , medido en unidades
-			- $z_{ji}$_: Es el logaritmo del nivel de uso de los insumos, es decir cuanto se ha usado de capital, cuanto se ha usado de trabajo y ase sucesivamente con los demás factores de producción que se tomen en cuenta
+			- $z_{ji}$_: Es el logaritmo del nivel de uso de los insumos, es decir cuanto se ha usado de capital, cuanto se ha usado de trabajo y ase sucesivamente con los demás [[Factores de Producción]] que se tomen en cuenta
 - Frontera de Costos
   id:: 61edfb56-65bd-400b-b36f-3815b0c8f671
 	- La frontera de costo parte de la siguiente expresión
