@@ -125,7 +125,7 @@
 		-
 - # [](#2.) Loop for en Stata
 	- ### Loop en Lista
-		- ```python
+		- ```stata
 		  ** Solo correra si corro la lista local al mismo tiempo
 		  local month jan feb mar apr
 		  foreach m of local month {
