@@ -7,7 +7,7 @@
 		  $$
 		- Donde:
 			- $ln(q_i)$: Es el logaritmo del numero de unidades producidas por la empresa , medido en unidades
-			- $z_{ji}$_: Es el logaritmo del nivel de uso de los insumos, es decir cuanto se ha usado de capital, cuanto se ha usado de trabajo y ase sucesivamente con los demas factores de producci
+			- $z_{ji}$_: Es el logaritmo del nivel de uso de los insumos, es decir cuanto se ha usado de capital, cuanto se ha usado de trabajo y ase sucesivamente con los demás factores de producción que se tomen en cuenta
 - Frontera de Costos
   id:: 61edfb56-65bd-400b-b36f-3815b0c8f671
 	- La frontera de costo parte de la siguiente expresión
@@ -32,4 +32,4 @@
 			- 1. Obtención de Datos
 				- Los datos se obtuvieron de superintendencia de compañías para el año 2017, las cuentas que se seleccionaron con sus respectivos códigos fueron ; Costos con el código 7991 ;
 			- 2. Estimación de Frontera de Costos
-				- Escogemos la estimación de modelo de función de costos, para esta estimación se seleccionó una distribución de tipo half-normal para el termino de
+				- Escogemos la estimación de modelo de función de costos, para esta estimación se seleccionó una distribución de tipo half-normal para el termino de eficiencia.
