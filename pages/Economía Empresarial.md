@@ -1,2 +1,3 @@
 - Frontera de Costos
-	- Optención de Datos
+	- Estimacióon
+	- Obtención de Datos
