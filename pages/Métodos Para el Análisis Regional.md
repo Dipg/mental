@@ -24,3 +24,4 @@
 	- ![image.png](../assets/image_1643033907137_0.png)
 -
   <object data="G:/Mi unidad/Autosync/Logmy/NewLog/assets/Regional.pdf " type="application/pdf" width="100%" height="800px"></object>
+- ![image.png](../assets/image_1643034292857_0.png)
