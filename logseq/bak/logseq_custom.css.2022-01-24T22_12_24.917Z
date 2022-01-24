@@ -2,7 +2,8 @@
 
 
 .table-auto{
-    background-color: #f60000 !important;
+
+    background-color: red !important;
 
 
 }
