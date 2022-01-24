@@ -11,16 +11,17 @@
 			- $ln(z_{ji})$_: Es el logaritmo del nivel de uso de los insumos, es decir cuanto se ha usado de capital, cuanto se ha usado de trabajo y ase sucesivamente con los demás [[Factores de Producción]] que se tomen en cuenta, por lo general que construyen índices de cantidades para estimar estas variables.
 - Frontera de Costos
   id:: 61edfb56-65bd-400b-b36f-3815b0c8f671
-	- La frontera de costo parte de la siguiente expresión
-	  id:: 61ee1ef1-069d-4085-a8d8-5d61c255b089
-	-
-	  $$
-	  \ln \left(c_{i}\right)=\beta_{0}+\beta_{q} \ln \left(q_{i}\right)+\sum_{j=1}^{k} \beta_{j} \ln \left(p_{j i}\right) \text { 㐲 } v_{i}+u_{i}
-	  $$
-	- Donde
-		- $ln(c_i)$ : es el logaritmo del costo de la empresa medido en dólares
-		- $ln(q_i)$: Es el logaritmo del numero de unidades producidas por la empresa , medido en unidades
-		- $ln(p_{ji})$ : Es el logaritmo del precio de los insumos Capital, Trabajo, etc, medido en dólares a diferencia de la estimación de la ((61ee2013-ba01-4b4c-ba53-dc30f15e62e5))
+	- Teoría
+		- La frontera de costo parte de la siguiente expresión
+		  id:: 61ee1ef1-069d-4085-a8d8-5d61c255b089
+		-
+		  $$
+		  \ln \left(c_{i}\right)=\beta_{0}+\beta_{q} \ln \left(q_{i}\right)+\sum_{j=1}^{k} \beta_{j} \ln \left(p_{j i}\right) \text { 㐲 } v_{i}+u_{i}
+		  $$
+		- Donde
+			- $ln(c_i)$ : es el logaritmo del costo de la empresa medido en dólares
+			- $ln(q_i)$: Es el logaritmo del numero de unidades producidas por la empresa , medido en unidades
+			- $ln(p_{ji})$ : Es el logaritmo del precio de los insumos Capital, Trabajo, etc, medido en dólares a diferencia de la estimación de la ((61ee2013-ba01-4b4c-ba53-dc30f15e62e5))
 	- Estimación
 		- Estimación de la Frontera de costos para el sector manufacturero de Ecuador
 			- 1. Datos
