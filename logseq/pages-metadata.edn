@@ -1,6 +1,6 @@
 [{:block/name "",
-  :block/created-at 1642980776760,
-  :block/updated-at 1642980776760}
+  :block/created-at 1642983195973,
+  :block/updated-at 1642983195973}
  {:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -334,12 +334,6 @@
  {:block/name "draws/piensa matricialmente.excalidraw",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
- {:block/name "e, 24-01-2022",
-  :block/created-at 1642980776760,
-  :block/updated-at 1642980776760}
- {:block/name "e, [[jan 23rd, 2022",
-  :block/created-at 1642980776758,
-  :block/updated-at 1642980776758}
  {:block/name "econometría",
   :block/created-at 1642172083941,
   :block/updated-at 1642172083941}
@@ -417,10 +411,7 @@
   :block/updated-at 1641992433040}
  {:block/name "finanzas públicas",
   :block/created-at 1642172083942,
-  :block/updated-at 1642951174838}
- {:block/name "finanzas públicas (conflict 2021-12-20-05-40-14)",
-  :block/created-at 1642980776757,
-  :block/updated-at 1642980776757}
+  :block/updated-at 1642983041686}
  {:block/name "flashcard",
   :block/created-at 1642980776760,
   :block/updated-at 1642980776760}
@@ -834,8 +825,8 @@
   :block/created-at 1642178166048,
   :block/updated-at 1642958789412}
  {:block/name "tue, 18-01-2022",
-  :block/created-at 1642980776758,
-  :block/updated-at 1642980776758}
+  :block/created-at 1642983195973,
+  :block/updated-at 1642983195973}
  {:block/name "urgente",
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
