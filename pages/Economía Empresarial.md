@@ -2,7 +2,7 @@
 	- Estimación
 		- Estimación de la Frontera de costos para el sector manufacturero de Ecuador
 			- 1. Datos
-				- Los datos a utilizar son
+				- Los datos se obtuvieron de superintendencia de compañías, Los datos a utilizar son
 					- Costos: Como el total de costo de las empresas en el año
 					- Ventas: El total de ventas que se genero en dólares en el año
 			- 1. Obtención de Datos
