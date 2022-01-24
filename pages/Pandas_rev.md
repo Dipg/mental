@@ -343,11 +343,13 @@
 	-
 - # Exportar DataFrame
 	- Exportar a Stata
-		- ```python
+		- collapsed:: true
+		  ```python
 		  df.to_stata('animals.dta')  
 		  ```
 		- Ref
-		- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_stata.html
+		  collapsed:: true
+			- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_stata.html
 - # Eliminar, Borrar, Drop
   collapsed:: true
 	- ## DataFrame Completo
