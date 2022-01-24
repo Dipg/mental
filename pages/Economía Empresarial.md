@@ -1,7 +1,8 @@
 - Frontera de Costos
 	- Estimación
 		- Estimación de la Frontera de costos para el sector manufacturero de Ecuador
+			- 1. Datos
 			- 1. Obtención de Datos
-				- Los datos se obtuvieron de superintendecia de compañias
+				- Los datos se obtuvieron de superintendencia de compañías
 -
 -
