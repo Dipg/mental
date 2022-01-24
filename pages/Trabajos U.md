@@ -7,8 +7,8 @@
 	- Probamos esto
 	- Pero yo no quiero copiar todo
 	- LATER Introducción
-	-
-	  TODO
+	- TODO Comer
+	- TODO Dormir
 	-
 	-
 - TODO Aplicación Machine learning [[Jan 24th, 2022]]
