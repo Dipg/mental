@@ -64,7 +64,6 @@
 	- collapsed:: true
 	  ```python
 	  ```
--
 - Importar datos csv
   collapsed:: true
 	- collapsed:: true
