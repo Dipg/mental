@@ -5,7 +5,9 @@
 	  $$
 	  \ln \left(c_{i}\right)=\beta_{0}+\beta_{q} \ln \left(q_{i}\right)+\sum_{j=1}^{k} \beta_{j} \ln \left(p_{j i}\right) \text { 㐲 } v_{i}+u_{i}
 	  $$
+	- Donde
 	- Estimación
+	  collapsed:: true
 		- Estimación de la Frontera de costos para el sector manufacturero de Ecuador
 			- 1. Datos
 				- Los datos se obtuvieron de superintendencia de compañías, mismo que pertenece al sector manufacturero de Ecuador para el año 2017, los datos a utilizar son:
