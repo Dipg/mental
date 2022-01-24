@@ -6,8 +6,8 @@
   :END:
 	- Probamos esto
 	- Pero yo no quiero copiar todo
-	- LATER Introducción
-	- TODO Comer
+	- DONE Introducción
+	- DONE Comer
 	- TODO Dormir
 	-
 	-
