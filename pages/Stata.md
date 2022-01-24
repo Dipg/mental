@@ -125,8 +125,11 @@
 		-
 - # [](#2.) Loop for en Stata
 	- ### Loop en Listas
-		-
 		- ```python
+		  foreach m of local month {
+		      local mcode = `mcode' + 1
+		      display "`mcode': `m'"
+		     }
 		  ```
 	- Loop for en todo el rango de variables. Donde la primera coluna (variable es  `year` y la ultima es `time`). Generamos los logaritmos de cada variable
 	- ```stata
