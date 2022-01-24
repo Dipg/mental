@@ -1,7 +1,4 @@
-[{:block/name "",
-  :block/created-at 1642985676385,
-  :block/updated-at 1642985676385}
- {:block/name " modelo de inversión- qtobi en ecuador",
+[{:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
  {:block/name
@@ -348,7 +345,7 @@
   :block/updated-at 1642172083942}
  {:block/name "economía empresarial",
   :block/created-at 1638961917544,
-  :block/updated-at 1638961917544}
+  :block/updated-at 1643003011619}
  {:block/name "economía experimental",
   :block/created-at 1642172083941,
   :block/updated-at 1642172083941}
@@ -403,6 +400,9 @@
  {:block/name "experimentos  en linea -prueba a/b través de facebook",
   :block/created-at 1642180004251,
   :block/updated-at 1642913066951}
+ {:block/name "factores de producción",
+  :block/created-at 1643003865192,
+  :block/updated-at 1643003865192}
  {:block/name "favorites",
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
@@ -411,7 +411,7 @@
   :block/updated-at 1641992433040}
  {:block/name "finanzas públicas",
   :block/created-at 1642172083942,
-  :block/updated-at 1642983041686}
+  :block/updated-at 1642985887712}
  {:block/name "flashcard",
   :block/created-at 1642980776760,
   :block/updated-at 1642980776760}
@@ -562,10 +562,10 @@
   :block/updated-at 1642809600000}
  {:block/name "jan 23rd, 2022",
   :block/created-at 1642951113397,
-  :block/updated-at 1642954887972}
+  :block/updated-at 1642988679695}
  {:block/name "jan 24th, 2022",
   :block/created-at 1642950922908,
-  :block/updated-at 1642950922908}
+  :block/updated-at 1643000420168}
  {:block/name "jan 25th, 2022",
   :block/created-at 1643068800000,
   :block/updated-at 1643068800000}
@@ -691,7 +691,7 @@
   :block/updated-at 1637712000000}
  {:block/name "nov 25th, 2021",
   :block/created-at 1637798400000,
-  :block/updated-at 1637798400000}
+  :block/updated-at 1642986471541}
  {:block/name "nov 26th, 2021",
   :block/created-at 1637884800000,
   :block/updated-at 1637884800000}
@@ -709,7 +709,7 @@
   :block/updated-at 1642172083940}
  {:block/name "pandas_rev",
   :block/created-at 1642984530258,
-  :block/updated-at 1642984824410}
+  :block/updated-at 1642986129401}
  {:block/name "papers",
   :block/created-at 1642170023107,
   :block/updated-at 1642172007649}
@@ -826,10 +826,10 @@
   :block/updated-at 1641992433040}
  {:block/name "trabajos u",
   :block/created-at 1642178166048,
-  :block/updated-at 1642958789412}
+  :block/updated-at 1642998386593}
  {:block/name "tue, 18-01-2022",
-  :block/created-at 1642985676385,
-  :block/updated-at 1642985676385}
+  :block/created-at 1643003865191,
+  :block/updated-at 1643003865191}
  {:block/name "urgente",
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
