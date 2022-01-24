@@ -362,12 +362,13 @@
 		  collapsed:: true
 			- ![image.png](../assets/image_1642027001958_0.png)
 			- https://www.statology.org/pandas-drop-rows-with-condition/
-	- Eliminar columna especfica en pandas
-	  collapsed:: true
-		- ```python
-		  df.drop(['A'], axis = 1)
-		  ```
-		- https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
+	- ## Columnas
+		- Eliminar columna especfica en pandas
+		  collapsed:: true
+			- ```python
+			  df.drop(['A'], axis = 1)
+			  ```
+			- https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
 	- Eliminar filas duplicadas condicionadas en dos columnas
 	  collapsed:: true
 		- Eliminar filas duplicadas  mediante condicional
