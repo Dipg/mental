@@ -1,7 +1,7 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
-.table-wrapper {
-    max-width: 800px !important;
+element.style {
+    max-width: 800px;
 }
 
 
