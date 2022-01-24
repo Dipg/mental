@@ -135,6 +135,7 @@ collapsed:: true
 		- ![image.png](../assets/image_1638965003258_0.png){:height 199, :width 689}
 		- ![image.png](../assets/image_1638965051829_0.png){:height 189, :width 689}
 # [](#3.)  Modificar elementos de variable(Columna)
+collapsed:: true
 	- Cambiar nombres por labels en elementos de columna/variable Stata
 	- ```stata
 	  > label define sector 1 "SECTOR 1" 2 "SECTOR 2" 3 "SECTOR 3"
@@ -285,6 +286,7 @@ collapsed:: true
 	- ![image.png](../assets/image_1641993379526_0.png)
 	- https://www.stata.com/manuals13/rtabstat.pdf
 - Optener promdeio mediana y  moda en Stata
+  collapsed:: true
 	- Optener moda en stata
 		- ```stata
 		  
