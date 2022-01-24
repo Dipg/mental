@@ -267,13 +267,6 @@
 	  ```
 	- ![image.png](../assets/image_1639648274136_0.png)
 	- {{renderer :linkpreview,https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html}}
-- Eliminar columnas que contengan NaN pandas
-  collapsed:: true
-	- collapsed:: true
-	  ```python
-	  df.dropna(axis='columns')
-	  ```
-	- {{renderer :linkpreview,https://www.codegrepper.com/code-examples/python/pandas+drop+if+all+columns+are+nan}}
 - Buscar todas las columnas sin nombre
   collapsed:: true
 	- Buscar todas las columnas con nana
@@ -405,3 +398,10 @@
 		  ```
 		- ![image.png](../assets/image_1639648709196_0.png)
 		- {{renderer :linkpreview,https://stackoverflow.com/questions/46101714/pandas-how-to-drop-multiple-columns-with-nan-as-col-name}}
+	- Eliminar columnas que contengan NaN pandas
+	  collapsed:: true
+		- collapsed:: true
+		  ```python
+		  df.dropna(axis='columns')
+		  ```
+		- {{renderer :linkpreview,https://www.codegrepper.com/code-examples/python/pandas+drop+if+all+columns+are+nan}}
