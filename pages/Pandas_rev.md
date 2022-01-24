@@ -355,6 +355,15 @@
 			- https://www.datasciencemadesimple.com/delete-drop-duplicate-row-dataframe-python-pandas/
 	- ## Filas
 	  collapsed:: true
+		- Eliminar la primera  fila de un dataframe pandas
+		  collapsed:: true
+			- collapsed:: true
+			  ```python
+			  df = df.iloc[1: , :]
+			  df.drop(df.index[1])
+			  ```
+			- {{renderer :linkpreview,https://thispointer.com/drop-first-row-of-pandas-dataframe-3-ways/}}
+			- {{renderer :linkpreview,https://www.codegrepper.com/code-examples/python/pandas+set+first+row+as+column+names}}
 		- Eliminar filas que contienen un valor específico 
 		  collapsed:: true
 			- ```python
@@ -377,15 +386,6 @@
 			- Eliminar filas duplicadas  mediante condicional
 			- ![image.png](../assets/image_1642027131677_0.png)
 			- https://www.statology.org/pandas-drop-duplicates/
-	- Eliminar la primera  fila de un dataframe pandas
-	  collapsed:: true
-		- collapsed:: true
-		  ```python
-		  df = df.iloc[1: , :]
-		  df.drop(df.index[1])
-		  ```
-		- {{renderer :linkpreview,https://thispointer.com/drop-first-row-of-pandas-dataframe-3-ways/}}
-		- {{renderer :linkpreview,https://www.codegrepper.com/code-examples/python/pandas+set+first+row+as+column+names}}
 	- ## Columnas
 	  collapsed:: true
 		- Eliminar columna especfica en pandas
