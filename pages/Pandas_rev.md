@@ -343,6 +343,7 @@
 	-
 - # Exportar DataFrame
 	- Exportar a Stata
+	  collapsed:: true
 		- collapsed:: true
 		  ```python
 		  df.to_stata('animals.dta')  
