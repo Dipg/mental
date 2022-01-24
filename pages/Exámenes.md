@@ -1,8 +1,8 @@
 - ![image.png](../assets/image_1643061761054_0.png)
 - |Analisis|
 -
-- {{renderer :tables_gtoudx}}
-	- Examenes
+- {{renderer :tables_sttupu}}
+	- Examenes {{renderer :tables_hhinjnp}}
 		- Lunes
 			- Analisis
 		- Martes
