@@ -344,7 +344,14 @@
 	- https://www.datasciencemadesimple.com/return-first-n-character-from-left-of-column-in-pandas-python/
 	-
 - # Eliminar, Borrar, Drop
-	- ## Data
+	- ## DataFrame Completo
+		- Eliminar valores duplicados en dataframe pandas
+		  collapsed:: true
+			- ```python
+			  df.drop_duplicates()
+			  
+			  ```
+			- https://www.datasciencemadesimple.com/delete-drop-duplicate-row-dataframe-python-pandas/
 	- ## Filas
 	  collapsed:: true
 		- Eliminar filas que contienen un valor específico 
@@ -377,13 +384,6 @@
 			  df.drop(['A'], axis = 1)
 			  ```
 			- https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
-	- Eliminar valores duplicados en dataframe pandas
-	  collapsed:: true
-		- ```python
-		  df.drop_duplicates()
-		  
-		  ```
-		- https://www.datasciencemadesimple.com/delete-drop-duplicate-row-dataframe-python-pandas/
 	- Eliminar la primera  fila de un dataframe pandas
 	  collapsed:: true
 		- collapsed:: true
