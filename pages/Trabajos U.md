@@ -22,7 +22,7 @@
   CLOCK: [2022-01-21 Fri 19:37:53]--[2022-01-21 Fri 19:38:54] =>  00:01:01
   :END:
   CLOCK: [2022-01-21 Fri 19:37:53]--[2022-01-21 Fri 19:38:54] =>  00:01:01
-  :END
+  :END:
 - TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[Jan 24th, 2022]]
 - TODO Carpeta de Economía Ecuatoriana [[Jan 25th, 2022]]
 - #Hacer
