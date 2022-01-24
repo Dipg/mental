@@ -3,9 +3,9 @@
 
 .table-auto{
 
-    background-color red ;
 
 
+    
 }
 
 .todo-master-progress-bar__bars {
