@@ -376,14 +376,6 @@
 			- Eliminar filas duplicadas  mediante condicional
 			- ![image.png](../assets/image_1642027131677_0.png)
 			- https://www.statology.org/pandas-drop-duplicates/
-	- ## Columnas
-	  collapsed:: true
-		- Eliminar columna especfica en pandas
-		  collapsed:: true
-			- ```python
-			  df.drop(['A'], axis = 1)
-			  ```
-			- https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
 	- Eliminar la primera  fila de un dataframe pandas
 	  collapsed:: true
 		- collapsed:: true
@@ -393,20 +385,28 @@
 		  ```
 		- {{renderer :linkpreview,https://thispointer.com/drop-first-row-of-pandas-dataframe-3-ways/}}
 		- {{renderer :linkpreview,https://www.codegrepper.com/code-examples/python/pandas+set+first+row+as+column+names}}
-	- Eliminar columnas sin nombre
+	- ## Columnas
 	  collapsed:: true
-		- Eliminar columnas con NaN
-		- ![image.png](../assets/image_1639648698403_0.png)
-		- collapsed:: true
-		  ```python
-		   df = df.loc[:, df.columns.notnull()]
-		  ```
-		- ![image.png](../assets/image_1639648709196_0.png)
-		- {{renderer :linkpreview,https://stackoverflow.com/questions/46101714/pandas-how-to-drop-multiple-columns-with-nan-as-col-name}}
-	- Eliminar columnas que contengan NaN pandas
-	  collapsed:: true
-		- collapsed:: true
-		  ```python
-		  df.dropna(axis='columns')
-		  ```
-		- {{renderer :linkpreview,https://www.codegrepper.com/code-examples/python/pandas+drop+if+all+columns+are+nan}}
+		- Eliminar columna especfica en pandas
+		  collapsed:: true
+			- ```python
+			  df.drop(['A'], axis = 1)
+			  ```
+			- https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/
+		- Eliminar columnas sin nombre
+		  collapsed:: true
+			- Eliminar columnas con NaN
+			- ![image.png](../assets/image_1639648698403_0.png)
+			- collapsed:: true
+			  ```python
+			   df = df.loc[:, df.columns.notnull()]
+			  ```
+			- ![image.png](../assets/image_1639648709196_0.png)
+			- {{renderer :linkpreview,https://stackoverflow.com/questions/46101714/pandas-how-to-drop-multiple-columns-with-nan-as-col-name}}
+		- Eliminar columnas que contengan NaN pandas
+		  collapsed:: true
+			- collapsed:: true
+			  ```python
+			  df.dropna(axis='columns')
+			  ```
+			- {{renderer :linkpreview,https://www.codegrepper.com/code-examples/python/pandas+drop+if+all+columns+are+nan}}
