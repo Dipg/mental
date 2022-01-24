@@ -13,7 +13,7 @@
 - #urgente
 - TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Jan 24th, 2022]]
 - TODO Trabajo Final de escritura [[Jan 28th, 2022]]
-- TODO [#C] Aplicación análisis de correspondencia [[Jan 23rd, 2022]]
+- TODO [#C] Aplicación análisis de correspondencia  [[Jan 24th, 2022]]
   :LOGBOOK:
   CLOCK: [2022-01-21 Fri 19:37:52]--[2022-01-21 Fri 19:38:54] =>  00:01:02
   :END:
