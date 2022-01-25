@@ -110,3 +110,7 @@
   id:: 61b01b48-2d16-4d81-a210-fefe1b6b47a5
   hl-type:: area
   hl-stamp:: 1638931271376
+- uando  los  consumidores  en  el  mercado  son heterogéneos, es decir con diferentes valoraciones por el bien producido por la empresa, el establecimiento de un cargo fijo igual para todos puede llevar a que algunos consumidores con bajas valoraciones por el bien o bajos ingresos no puedan acceder al consumo del mismo y por lo tanto se generen problemas de exclusión, lo que haría inviable la aplicación es esta alternativa.
+  ls-type:: annotation
+  hl-page:: 174
+  id:: 61eff511-6cb9-4c7a-85de-ea5b882552fc
