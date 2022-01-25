@@ -114,3 +114,7 @@
   ls-type:: annotation
   hl-page:: 174
   id:: 61eff511-6cb9-4c7a-85de-ea5b882552fc
+- Para   resolver   este   problema   se   puede   diseñar   esquemas   tarifarios   que   incluyan   la   heterogeneidad de los consumidores e intenten solucionar el problema de la exclusión. Una solución  se  puede  alcanzar  con  el  diseño  de  contratos,  ante  lo  cual  se  les  ofrece  un  menú  de  opciones a los consumidores, incorporando su heterogeneidad y la asimetría de información que existe con respecto a su tipo.
+  ls-type:: annotation
+  hl-page:: 174
+  id:: 61eff538-fb09-4948-adc3-88819b6cbd99
