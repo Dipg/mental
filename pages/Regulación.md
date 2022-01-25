@@ -295,7 +295,8 @@ collapsed:: true
 	- Precio Ramsey
 	  collapsed:: true
 		- https://drive.google.com/drive/folders/1_ZFp3o-xROaOd420LGnbiKJvHcjG2lQx
-	-
+	- Precios Libres de subsidios
+		- {{renderer :localvideo, }}
 	- Tarifas no lineales
 	  collapsed:: true
 		- https://drive.google.com/file/d/1DASHWPNAiJRSGrByLpX2mrD9qj47wM9X/view
