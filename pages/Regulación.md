@@ -305,6 +305,6 @@ collapsed:: true
 		- Tarifa en Bloques decrecientes
 		  collapsed:: true
 			- https://drive.google.com/file/d/1wYVxCRfSCnDXuhyggtY4sOIzwTsacbTG/view
-		- T
+		- Tarifa en Bloques Crecientes
 - ---
 - [^1]: ((61b0089d-c0ca-4616-bbc9-377124c9bed5))
