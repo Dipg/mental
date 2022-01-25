@@ -52,5 +52,5 @@
 			- # 3. Estimación de Frontera de Costos
 				- Escogemos la estimación de modelo de función de costos, para esta estimación se seleccionó una distribución de tipo half-normal para el termino de eficiencia.
 				- |1|3|2|
-				- ![image.png](../assets/image_1643153590619_0.png)
+				-
 -
