@@ -293,5 +293,6 @@ collapsed:: true
 -
 - Viideos
 	- Precio Ramsey
+		- https://drive.google.com/drive/folders/1_ZFp3o-xROaOd420LGnbiKJvHcjG2lQx
 - ---
 - [^1]: ((61b0089d-c0ca-4616-bbc9-377124c9bed5))
