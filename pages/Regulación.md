@@ -302,6 +302,6 @@ collapsed:: true
 		- Trifas en 2 Partes
 		  collapsed:: true
 			- https://drive.google.com/file/d/1DASHWPNAiJRSGrByLpX2mrD9qj47wM9X/view
-		- Tarifa
+		- Tarifa en Bloques decrecientes
 - ---
 - [^1]: ((61b0089d-c0ca-4616-bbc9-377124c9bed5))
