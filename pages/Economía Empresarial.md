@@ -13,7 +13,8 @@
   id:: 61edfb56-65bd-400b-b36f-3815b0c8f671
 	- Teoría
 	  collapsed:: true
-		- La frontera de costo parte de la siguiente expresión
+		- Expresión Matematica
+		- La frºontera de costo parte de la siguiente expresión
 		  id:: 61ee1ef1-069d-4085-a8d8-5d61c255b089
 		-
 		  $$
