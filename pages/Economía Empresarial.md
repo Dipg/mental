@@ -26,7 +26,7 @@
 	- Estimación
 		- # Análisis descriptivo
 			-
-		- Interpretación de resultados
+		- # Interpretación de resultados
 			-
 			  $$
 			  \lambda=\sigma_{u} / \sigma_{v}
