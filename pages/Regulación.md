@@ -300,7 +300,7 @@ collapsed:: true
 		- [:video {:controls true :src "G:/Otros ordenadores/Mi Ordenador/Habilidades/Universidad/Regulación/Video Clases/precios_libre_subsi.mp4"}]
 	- Tarifas no lineales
 		- Trifas en 2 Partes
-		- https://drive.google.com/file/d/1DASHWPNAiJRSGrByLpX2mrD9qj47wM9X/view
+			- https://drive.google.com/file/d/1DASHWPNAiJRSGrByLpX2mrD9qj47wM9X/view
 	-
 - ---
 - [^1]: ((61b0089d-c0ca-4616-bbc9-377124c9bed5))
