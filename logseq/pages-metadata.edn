@@ -1,6 +1,6 @@
 [{:block/name "",
-  :block/created-at 1643074869530,
-  :block/updated-at 1643074869530}
+  :block/created-at 1643130630901,
+  :block/updated-at 1643130630901}
  {:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -33,11 +33,11 @@
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
  {:block/name "../assets/chapter_1_y_2_es_1643006775158_0.pdf",
-  :block/created-at 1643074869528,
-  :block/updated-at 1643074869528}
+  :block/created-at 1643130630899,
+  :block/updated-at 1643130630899}
  {:block/name "../assets/chapter_3ç_es_1643006765502_0.pdf",
-  :block/created-at 1643074869528,
-  :block/updated-at 1643074869528}
+  :block/created-at 1643130630898,
+  :block/updated-at 1643130630898}
  {:block/name
   "../assets/dialnet-teoriaprospectiva-65981_(1)_1637533445262_0.pdf",
   :block/created-at 1638961917544,
@@ -215,8 +215,11 @@
   :block/created-at 1640183914955,
   :block/updated-at 1640183914955}
  {:block/name "[[feb 2nd, 2022",
-  :block/created-at 1643074869528,
-  :block/updated-at 1643074869528}
+  :block/created-at 1643130630900,
+  :block/updated-at 1643130630900}
+ {:block/name "[[jan 24th, 2022",
+  :block/created-at 1643130630901,
+  :block/updated-at 1643130630901}
  {:block/name "a",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -383,8 +386,8 @@
   :block/created-at 1642172083936,
   :block/updated-at 1642975066895}
  {:block/name "english (conflict 2022-01-23-17-01-23)",
-  :block/created-at 1643074869528,
-  :block/updated-at 1643074869528}
+  :block/created-at 1643130630899,
+  :block/updated-at 1643130630899}
  {:block/name "estructura de datos",
   :block/created-at 1642950922906,
   :block/updated-at 1642950922906}
@@ -399,8 +402,8 @@
   :block/created-at 1643061595035,
   :block/updated-at 1643061621629}
  {:block/name "examenes",
-  :block/created-at 1643074869530,
-  :block/updated-at 1643074869530}
+  :block/created-at 1643130630901,
+  :block/updated-at 1643130630901}
  {:block/name "excel",
   :block/created-at 1642172083943,
   :block/updated-at 1642172083943}
@@ -425,8 +428,8 @@
   :block/created-at 1643061761600,
   :block/updated-at 1643063034376}
  {:block/name "factores de producción",
-  :block/created-at 1643074869530,
-  :block/updated-at 1643074869530}
+  :block/created-at 1643130630901,
+  :block/updated-at 1643130630901}
  {:block/name "favorites",
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
@@ -490,8 +493,8 @@
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
  {:block/name "hls__chapter_1_y_2_es_1643006775158_0",
-  :block/created-at 1643074869528,
-  :block/updated-at 1643074869528}
+  :block/created-at 1643130630898,
+  :block/updated-at 1643130630898}
  {:block/name
   "hls__dialnet-teoriaprospectiva-65981_(1)_1637533445262_0",
   :block/created-at 1642172083937,
@@ -619,10 +622,10 @@
   :block/updated-at 1643058688651}
  {:block/name "jan 24th, 2022",
   :block/created-at 1642950922908,
-  :block/updated-at 1643065965913}
+  :block/updated-at 1643081389022}
  {:block/name "jan 25th, 2022",
   :block/created-at 1643068800000,
-  :block/updated-at 1643068800000}
+  :block/updated-at 1643109982211}
  {:block/name "jan 26th, 2022",
   :block/created-at 1643155200000,
   :block/updated-at 1643155200000}
@@ -632,6 +635,9 @@
  {:block/name "jan 28th, 2022",
   :block/created-at 1643328000000,
   :block/updated-at 1643328000000}
+ {:block/name "jan 29th, 2022",
+  :block/created-at 1643414400000,
+  :block/updated-at 1643414400000}
  {:block/name "jan 2nd, 2022",
   :block/created-at 1641081600000,
   :block/updated-at 1641081600000}
@@ -707,9 +713,6 @@
  {:block/name "modelos de equilibrio",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
- {:block/name "mon, 24-01-2022",
-  :block/created-at 1642982400000,
-  :block/updated-at 1642945315970}
  {:block/name "musical",
   :block/created-at 1642172083941,
   :block/updated-at 1642172083941}
@@ -823,7 +826,7 @@
   :block/updated-at 1638961917543}
  {:block/name "regulación",
   :block/created-at 1642172083942,
-  :block/updated-at 1642548788185}
+  :block/updated-at 1643120028875}
  {:block/name "repaso del día",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
@@ -880,10 +883,10 @@
   :block/updated-at 1641992433040}
  {:block/name "trabajos u",
   :block/created-at 1642178166048,
-  :block/updated-at 1643066192056}
+  :block/updated-at 1643110057712}
  {:block/name "tue, 18-01-2022",
-  :block/created-at 1643074869527,
-  :block/updated-at 1643074869527}
+  :block/created-at 1643130630898,
+  :block/updated-at 1643130630898}
  {:block/name "urgente",
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
