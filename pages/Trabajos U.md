@@ -7,7 +7,7 @@
 - TODO Aplicación Machine learning [[Jan 29th, 2022]]
 - TODO  🧪 Opta IV [[Wed, 26-01-2022]] [[Jan 26th, 2022]]
 	-
-- TODO 🧪 Regulación [[[[Jan 24th, 2022]]] [[Jan 25th, 2022]]
+- DONE 🧪 Regulación [[[[Jan 24th, 2022]]] [[Jan 25th, 2022]]
 - TODO 🧪 Finanzas Públicas [[Jan 28th, 2022]]
 - DONE 🧪 Opta I [[Jan 24th, 2022]]
 - TODO 🧪 Escritura [[Jan 27th, 2022]]
