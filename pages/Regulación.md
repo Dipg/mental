@@ -312,7 +312,9 @@ collapsed:: true
 		- Tarifas Punta y Valle
 		  collapsed:: true
 			- https://drive.google.com/file/d/1uiREUU0gxo-wYbklv_PbBFco7E8gp_Dm/view
-	- Price Cap
-		- https://grado.ucuenca.edu.ec/course/view.php?id=31188
+	- Sistemas de Regulación
+		- Price Cap
+		  collapsed:: true
+			- https://grado.ucuenca.edu.ec/course/view.php?id=31188
 - ---
 - [^1]: ((61b0089d-c0ca-4616-bbc9-377124c9bed5))
