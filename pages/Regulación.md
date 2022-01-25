@@ -294,7 +294,6 @@
 	  collapsed:: true
 		- https://drive.google.com/drive/folders/1_ZFp3o-xROaOd420LGnbiKJvHcjG2lQx
 	- Precios Libres de subsidios
-	  collapsed:: true
 		- [:video {:controls true :src "G:/Otros ordenadores/Mi Ordenador/Habilidades/Universidad/Regulación/Video Clases/precios_libre_subsi.mp4"}]
 	- Tarifas no lineales
 		- Trifas en 2 Partes
