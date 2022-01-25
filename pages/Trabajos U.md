@@ -4,10 +4,10 @@
   :LOGBOOK:
   CLOCK: [2022-01-23 Sun 12:26:29]--[2022-01-24 Mon 16:13:21] =>  27:46:52
   :END:
-- TODO Aplicación Machine learning [[Jan 24th, 2022]]
+- TODO Aplicación Machine learning [[Jan 29th, 2022]]
 - TODO  🧪 Opta IV [[Wed, 26-01-2022]] [[Jan 26th, 2022]]
 	-
-- TODO 🧪 Regulación [[Mon, 24-01-2022]] [[Jan 24th, 2022]]
+- TODO 🧪 Regulación [[[[Jan 24th, 2022]]] [[Jan 25th, 2022]]
 - TODO 🧪 Finanzas Públicas [[Jan 28th, 2022]]
 - DONE 🧪 Opta I [[Jan 24th, 2022]]
 - TODO 🧪 Escritura [[Jan 27th, 2022]]
