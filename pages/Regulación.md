@@ -296,7 +296,7 @@ collapsed:: true
 	  collapsed:: true
 		- https://drive.google.com/drive/folders/1_ZFp3o-xROaOd420LGnbiKJvHcjG2lQx
 	- Precios Libres de subsidios
-		- [:video {:controls true :src "G:/Mi unidad/Autosync/Logmy/NewLog/assets/Precios"}]
+		- [:video {:controls true :src ""G:\Otros ordenadores\Mi Ordenador\Habilidades\Universidad\Regulación\Video Clases\precios_libre_subsi.mp4"}]
 	- Tarifas no lineales
 	  collapsed:: true
 		- https://drive.google.com/file/d/1DASHWPNAiJRSGrByLpX2mrD9qj47wM9X/view
