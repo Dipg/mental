@@ -323,7 +323,6 @@ collapsed:: true
 - # Exportar
 	- Tablas
 		- A Word
-			-
 			- ```stata
 			  asdoc sum, save(summary.doc)
 			  ```
