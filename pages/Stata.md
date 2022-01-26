@@ -334,8 +334,9 @@ collapsed:: true
 			  collapsed:: true
 				- https://fintechprofessor.com/2018/03/22/asdoc-options-examples/
 - # DataSet
-	- ## Columna
+	- ## Columnas
 	- ## Filas
+		- Optener
 - ---
 - Extras
   collapsed:: true
