@@ -337,7 +337,7 @@ collapsed:: true
 	- ## Columnas (Variables)
 		- Máximo y Mínimos de una Columna O Variable
 			- Método Simple
-				-
+				- Realizamos una tabla resumen de la variable
 			- Metodo que no me ha funcionado
 				- ```stata
 				  egen min_varname = min(varname)
