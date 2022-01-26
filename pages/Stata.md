@@ -348,7 +348,8 @@ collapsed:: true
 - # Tablas
 	- Una Variable
 		- Tabla de principales estadísticos de una variable (Resumen)
-			-
+			- General
+			- Mas especific
 	- Múltiples variables
 	  collapsed:: true
 		- Tabla de Contingencias
@@ -364,5 +365,4 @@ collapsed:: true
 - Extras
   collapsed:: true
 	- {{renderer :linkpreview,https://journals.sagepub.com/doi/pdf/10.1177/1536867X1701700313}}
-	- {{renderer :linkpreview,https://www.stata.com/meeting/switzerland16/slides/bischof-switzerland16.pdf}}
--
+	- {{renderer :linkpreview,https://www.stata.com/meeting/switzerland16/slides/bischof-switzer
