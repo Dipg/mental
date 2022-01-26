@@ -390,7 +390,9 @@ collapsed:: true
 			  collapsed:: true
 				- https://www.statalist.org/forums/forum/general-stata-discussion/general/1352714-identify-variables-with-a-particular-value
 	- Transformar
+	  collapsed:: true
 		- Separar DataSet  en bloques iguales
+		  collapsed:: true
 			- ```stata
 			  *Separamos en 4 bloques, de un numero igual de observaciones de la variable ingresos
 			  * Empezando la división desde el valor mas peuqeño al mayor 
