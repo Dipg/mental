@@ -324,7 +324,10 @@ collapsed:: true
 	- Tablas
 		- A Word
 			- ```stata
+			  asdoc sum, save(summary.doc)
 			  ```
+			- ref
+				-
 - ---
 - {{renderer :linkpreview,https://journals.sagepub.com/doi/pdf/10.1177/1536867X1701700313}}
 - {{renderer :linkpreview,https://www.stata.com/meeting/switzerland16/slides/bischof-switzerland16.pdf}}
