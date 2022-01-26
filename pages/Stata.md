@@ -345,7 +345,8 @@ collapsed:: true
 					  *Listamos una variable con el condicional del Minimo buscado
 					  list if Activo_fi ==r(min)
 					  ```
-					-
+					- ref
+						- https://www.stata.com/statalist/archive/2006-06/msg00661.html
 			- Metodo que no me ha funcionado
 			  collapsed:: true
 				- ```stata
