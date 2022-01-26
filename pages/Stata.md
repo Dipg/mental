@@ -337,7 +337,7 @@ collapsed:: true
 	- ## Columnas (Variables)
 		- Máximo y Mínimos de una Columna O Variable
 			- Método Simple
-				- Realizamos una ((61f17930-6e8f-4bbb-9883-cbff25fea066)) de la variable y depuse  estrraemos el minimo
+				- Realizamos una ((61f17930-6e8f-4bbb-9883-cbff25fea066)) de la variable y depuse  extraemos el mínimo `r(min)
 					- ```stata
 					  list if Activo_fi ==r(min)
 					  ```
