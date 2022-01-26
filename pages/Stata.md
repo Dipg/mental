@@ -413,7 +413,7 @@ collapsed:: true
 			- ![image.png](../assets/image_1643215012962_0.png)
 			- Ref
 				- https://stats.oarc.ucla.edu/stata/modules/using-if-with-stata-commands/
-		- Tabla de Contingencia con estadísticos basicos
+		- Tabla de Contingencia con estadísticos básicos
 		-
 - ---
 - Extras
