@@ -332,7 +332,9 @@ collapsed:: true
 - # Exportar
   collapsed:: true
 	- Tablas formato APA
+	  collapsed:: true
 		- A Word
+		  collapsed:: true
 			- ```stata
 			  * Si quiero exportar una tabla cualquiera y remplazar las previas 
 			  asdoc sum ingreso, replace
@@ -340,9 +342,10 @@ collapsed:: true
 			  asdoc sum ingreso, save(summary.doc)
 			  ```
 			- ref
-			  collapsed:: true
 				- https://fintechprofessor.com/2018/03/22/asdoc-options-examples/
+				- https://fintechprofessor.com/2019/10/12/export-output-of-table-command-from-stata-to-word-using-asdoc/
 - # DataSet
+  collapsed:: true
 	- ## Columnas (Variables)
 	  collapsed:: true
 		- Máximo y Mínimos de una Columna O Variable
