@@ -60,11 +60,13 @@ collapsed:: true
 		- ((61a04241-8f3e-4454-874b-970517e51ebf))
 		- ((61a042a0-d760-4518-8a53-5066c4324afb))
 # Unidad 3 [📝](619fa0a9-c7e8-46ae-af9a-788d35db006c)
+collapsed:: true
 	- Ejercicios
 	  collapsed:: true
 		- ((61a041f0-9b95-40e3-879c-63d092a1e89d))
 			- ((61a042b6-83bf-4378-bced-ee3099dbe3d6))
 # Unidad 4 ![​📝 ](619fa0c5-d175-43cc-9167-74b765901e22)
+collapsed:: true
 	- Ejercicios
 		- ((61a0421f-d475-45fa-ab4a-aa6fdb71cc02))
 		- ((61a042e1-bf94-4e68-b0f7-cd2516f1f566))
