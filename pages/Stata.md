@@ -355,6 +355,7 @@ collapsed:: true
 				  ```
 			- Mas especifico (incluye Cuantiles)
 				- ```stata
+				  summarize variable, detail
 				  ```
 	- Múltiples variables
 	  collapsed:: true
