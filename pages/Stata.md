@@ -358,7 +358,7 @@ collapsed:: true
 	- ## Filas
 		- Obtener la primera fila
 			- ``` stata
-			  
+			  list in 1
 			  ```
 		- Obtener Filas Especificas 
 		  collapsed:: true
