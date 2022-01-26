@@ -361,7 +361,7 @@ collapsed:: true
 			- ``` stata
 			  list in 1
 			  ```
-		- Obtener cualquier
+		- Obtener cualquier fila según su  de posición
 		- Obtener Filas Especificas 
 		  collapsed:: true
 			- ```stata
