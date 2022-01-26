@@ -344,6 +344,7 @@ collapsed:: true
 				- https://fintechprofessor.com/2018/03/22/asdoc-options-examples/
 - # DataSet
 	- ## Columnas (Variables)
+	  collapsed:: true
 		- Máximo y Mínimos de una Columna O Variable
 		  collapsed:: true
 			- Método Simple
@@ -365,6 +366,7 @@ collapsed:: true
 				  egen min_varname = min(varname)
 				  ```
 	- ## Filas
+	  collapsed:: true
 		- Obtener la primera fila
 		  collapsed:: true
 			- ``` stata
@@ -387,6 +389,7 @@ collapsed:: true
 			- ref
 			  collapsed:: true
 				- https://www.statalist.org/forums/forum/general-stata-discussion/general/1352714-identify-variables-with-a-particular-value
+	-
 - # Tablas
 	- Una Variable
 	  collapsed:: true
@@ -413,6 +416,7 @@ collapsed:: true
 				- ref
 					- https://stats.oarc.ucla.edu/stata/output/descriptive-statistics-using-the-summarize-command/
 	- Múltiples variables
+	  collapsed:: true
 		- Tabla de Contingencias
 		  collapsed:: true
 			- ``` stata
@@ -423,6 +427,7 @@ collapsed:: true
 			- Ref
 				- https://stats.oarc.ucla.edu/stata/modules/using-if-with-stata-commands/
 		- Tabla de Contingencia con estadísticos básicos
+		  collapsed:: true
 			- ```stata
 			  *Puedo usar 2 variables o tres 
 			  tabulate wgtcat foreign, summarize(mpg)
