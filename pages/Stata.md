@@ -347,16 +347,18 @@ collapsed:: true
 				- https://www.statalist.org/forums/forum/general-stata-discussion/general/1352714-identify-variables-with-a-particular-value
 - # Tablas
 	- Una Variable
-		- Tabla de principales estadísticos de una variable (Resumen)
-	- Tabla de Contingencias
 	  collapsed:: true
-		- ``` stata
-		  tabulate variable1 varaible1 if rep78 >=4 
-		  
-		  ```
-		- ![image.png](../assets/image_1643215012962_0.png)
-		- Ref
-			- https://stats.oarc.ucla.edu/stata/modules/using-if-with-stata-commands/
+		- Tabla de principales estadísticos de una variable (Resumen)
+	- Multiples variables
+		- Tabla de Contingencias
+		  collapsed:: true
+			- ``` stata
+			  tabulate variable1 varaible1 if rep78 >=4 
+			  
+			  ```
+			- ![image.png](../assets/image_1643215012962_0.png)
+			- Ref
+				- https://stats.oarc.ucla.edu/stata/modules/using-if-with-stata-commands/
 - ---
 - Extras
   collapsed:: true
