@@ -337,7 +337,7 @@ collapsed:: true
 	- ## Columnas (Variables)
 		- Máximo y Mínimos de una Columna O Variable
 			- Método Simple
-				- Realizamos una tabla resumen general  de la variable
+				- Realizamos una ((61f17a57-72de-42dd-8e85-0429a4db8db5)) general  de la variable
 			- Metodo que no me ha funcionado
 				- ```stata
 				  egen min_varname = min(varname)
@@ -355,6 +355,7 @@ collapsed:: true
 - # Tablas
 	- Una Variable
 		- Tabla Resumen
+		  id:: 61f17a57-72de-42dd-8e85-0429a4db8db5
 		  Tabla de principales estadísticos de una variable (Resumen)
 			- General
 			  collapsed:: true
