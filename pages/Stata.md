@@ -335,7 +335,8 @@ collapsed:: true
 				- https://fintechprofessor.com/2018/03/22/asdoc-options-examples/
 - # DataSet
 	- ## Columnas (Variables)
-		- Máximo y Minimos
+		- Máximo y Mínimos de una Columna O Variable
+			-
 		-
 	- ## Filas
 	  collapsed:: true
