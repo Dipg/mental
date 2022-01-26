@@ -53,7 +53,7 @@
 				- Siendo la empresas con menor activos fijos  LOA Corporación y la de mayor valor de activo fijo Heladerías Confrunat, Como se puede apreciar, aquella de mayor activo fijo es una empresa que vende productos que requieren una gran cantidad de los mismo.
 				- Procedemos a logaritmizar las variables que se usaran parar estimar la frontera de costos, permitiéndonos  esto una breve descripción de las relaciones entre las variables.
 				- ![image.png](../assets/image_1643168342536_0.png)
-				- Se puede observar en la grafica anterior, que existe en general una relación directa entre el capital y las ventas, echo que se esperaba, sin embargo  como se puede observar en el grafico, las ventas s
+				- Se puede observar en la grafica anterior, que existe en general una relación directa entre el capital y las ventas, echo que se esperaba, sin embargo  como se puede observar en el grafico,  el valor de netas no simpre
 			- # 1. Obtención de Datos
 				- Los datos se obtuvieron de superintendencia de compañías para el año 2017, las cuentas que se seleccionaron con sus respectivos códigos fueron ; Costos con el código 7991 ;
 			-
