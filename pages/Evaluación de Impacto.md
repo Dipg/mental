@@ -78,7 +78,7 @@ collapsed:: true
 		- Cuando creemos que solo las {{cloze características observadas son las que afectan la participación en el programa}}
 		- Cuando no se puede {{cloze asignar al tratamiento al azar, no se puede aleatorizar}}
 	- Como funciona
-		- Utilizo los valores del PSM para emparejar tratados con no tratados, reflejando la probabilidad
+		- Utilizo los valores del PSM para emparejar tratados con no tratados, cada participand reflejando la probabilidad
 		-
 - # LATE (Local average treatment effect)
   collapsed:: true
