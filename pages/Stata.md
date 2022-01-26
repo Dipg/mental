@@ -330,7 +330,6 @@ collapsed:: true
 		  ```
 		- https://www.statalist.org/forums/forum/general-stata-discussion/general/927982-stata-command-to-summarize-data-by-mode
 - # Exportar
-  collapsed:: true
 	- Tablas formato APA
 	  collapsed:: true
 		- A Word
