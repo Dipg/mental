@@ -22,7 +22,7 @@
   CLOCK: [2022-01-21 Fri 19:37:53]--[2022-01-21 Fri 19:38:54] =>  00:01:01
   :END:
 - TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[Jan 27th, 2022]]
-- TODO Carpeta de Economía Ecuatoriana [[Jan 25th, 2022]]
+- DONE Carpeta de Economía Ecuatoriana [[Jan 25th, 2022]]
 - TODO Trabjo Finanzas Públicas Sostenibilidad de la Deuda  [[Jan 28th, 2022]]
 - TODO Prueba Unidades 3 y 4 Informática [[[[Feb 2nd, 2022]]]]
 -
