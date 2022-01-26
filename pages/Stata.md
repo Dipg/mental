@@ -338,6 +338,7 @@ collapsed:: true
 	- ## Filas
 		- Obtener Filas Especificas
 			- ```stata
+			  list if variable == 5
 			  ```
 - ---
 - Extras
