@@ -50,7 +50,7 @@
 				- ![image.png](../assets/image_1643165569826_0.png){:height 282, :width 427}
 				- Una vez definido el conjunto de datos, se puede comenzar a obtener simples estadísticas exploratorias del mismo, en la tabla 1 se evidencia esto. Los datos para el sector manufacturero del bloque 2 generado  cuenta con un numero de 30 empresas. Mismas que en su conjunto tienen un promedio de Activos fijos de 208 mil dólares dólares
 				- ![image.png](../assets/image_1643165534065_0.png)
-				- Siendo la empresas con menor activos fijos
+				- Siendo la empresas con menor activos fijos Corporación la Favorita
 			- # 1. Obtención de Datos
 				- Los datos se obtuvieron de superintendencia de compañías para el año 2017, las cuentas que se seleccionaron con sus respectivos códigos fueron ; Costos con el código 7991 ;
 			-
