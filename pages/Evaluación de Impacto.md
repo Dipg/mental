@@ -75,7 +75,7 @@ collapsed:: true
 	- ¿Qué Hace ?
 	- ¿Cuándo se lo usa?
 		- Solo las características observadas son las que afectan la participación en el programa
-		- Cuando no se puede asignar al tratma
+		- Cuando no se puede asignar al tratamiento al azar
 - # LATE (Local average treatment effect)
 	- Sharp Regresión Disconyinuitu (Regresión Discontinua Nítida)
 		- Participación perfectamente definida por el umbral
