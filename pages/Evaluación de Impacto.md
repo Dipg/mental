@@ -81,7 +81,7 @@ collapsed:: true
 	  collapsed:: true
 		- Utilizo los valores del PSM para emparejar tratados con no tratados, cada participante es emparejado a un no participante en base  a un solo PSM, lo que  refleja la probabilidad de la participación condicional  en sus diversas características observadas X.
 		-
-	- Que es el baalnceo
+	- Que es el balanceo
 - # LATE (Local average treatment effect)
   collapsed:: true
 	- Sharp Regresión Disconyinuitu (Regresión Discontinua Nítida)
