@@ -405,6 +405,7 @@ collapsed:: true
 			  collapsed:: true
 				- https://statalist.org/forums/forum/general-stata-discussion/general/1381191-create-four-quartiles
 - # Tablas
+  collapsed:: true
 	- Una Variable
 	  collapsed:: true
 		- Tabla Resumen
