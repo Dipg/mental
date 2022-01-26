@@ -100,7 +100,6 @@
 				  ```
 		- # Analisisi Factorial
 			-
-	- # Columna
 	- # Columnas
 		- Transformar
 			- De Numero a Factor (Categórico)
