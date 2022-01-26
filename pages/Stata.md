@@ -335,7 +335,6 @@ collapsed:: true
 				- https://fintechprofessor.com/2018/03/22/asdoc-options-examples/
 - # DataSet
 	- ## Columnas (Variables)
-	  collapsed:: true
 		- Máximo y Mínimos de una Columna O Variable
 		  collapsed:: true
 			- Método Simple
@@ -356,9 +355,7 @@ collapsed:: true
 				- ```stata
 				  egen min_varname = min(varname)
 				  ```
-		-
 	- ## Filas
-	  collapsed:: true
 		- Obtener Filas Especificas
 			- ```stata
 			  list if variable == 5
