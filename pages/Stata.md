@@ -348,7 +348,7 @@ collapsed:: true
 - # Tablas
 	- Tabla de COntingencias
 		- ``` stata
-		  tabulate rep78 foreign if rep78 >=4 
+		  tabulate variable1 varaible1 if rep78 >=4 
 		  
 		  ```
 - ---
