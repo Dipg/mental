@@ -397,7 +397,8 @@ collapsed:: true
 			  xtile hsp_quartile=ingreso,n(4)
 			  ```
 			- ref
-				-
+			  collapsed:: true
+				- https://statalist.org/forums/forum/general-stata-discussion/general/1381191-create-four-quartiles
 - # Tablas
 	- Una Variable
 	  collapsed:: true
