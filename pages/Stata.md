@@ -336,7 +336,7 @@ collapsed:: true
 - # DataSet
 	- ## Columnas (Variables)
 		- Máximo y Mínimos de una Columna O Variable
-			-
+			- A par
 		-
 	- ## Filas
 	  collapsed:: true
