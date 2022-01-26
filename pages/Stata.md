@@ -357,7 +357,7 @@ collapsed:: true
 		- Tabla Resumen
 		  id:: 61f17a57-72de-42dd-8e85-0429a4db8db5
 		  Tabla de principales estadísticos de una variable (Resumen)
-			- General
+			- Tabla Resumen General
 			  collapsed:: true
 				- ```stata
 				  sum variable
