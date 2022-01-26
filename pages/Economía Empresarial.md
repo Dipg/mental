@@ -70,5 +70,5 @@
 			- # 3. Estimación de Frontera de Costos
 				- Escogemos la estimación de modelo de función de costos, para esta estimación se seleccionó una distribución de tipo half-normal para el termino de eficiencia.
 				- ![image.png](../assets/image_1643172949519_0.png)
-				- En primer momento podemos decir que se rechaza la hipótesis nula que valora la  ineficiencia interna, esto es existe una ineficiencia interna mayor que la ineficiencia externa.
+				- En primer momento podemos decir que se rechaza la hipótesis nula que valora la  ineficiencia interna, esto es, existe una ineficiencia interna mayor que la ineficiencia externa.
 -
