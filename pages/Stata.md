@@ -357,7 +357,9 @@ collapsed:: true
 				  ```
 	- ## Filas
 		- Obtener la primera fila
-			-
+			- ``` stata
+			  
+			  ```
 		- Obtener Filas Especificas 
 		  collapsed:: true
 			- ```stata
