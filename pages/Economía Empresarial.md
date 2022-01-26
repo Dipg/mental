@@ -58,7 +58,7 @@
 				- La relación muestra un comportamiento casi lineal, por lo cual con las empresas seleccionadas se podría mencionar que un nivel de activos fijos no genera un nivel de ventas  mayor, siendo esto ineficiente, echo que en un  principio, nuevamente, no se podría generalizar por el numero de empresas observadas, pero es un punto de partida.
 				- Por el lado de la varíale trabajo, se eligió como proxy los costos de sueldos y salarios, mismo que se establecen con intervención directa o indirecta en la producción.
 				- ![image.png](../assets/image_1643171333536_0.png)
-				- Es de interés mencionar  que existe una gran variación de los sueldos en los datos, ya que mientras  existen empresas que llegan al millón de dólares en estos costos de salarios, otras no superan los $ 1500, esto es
+				- Es de interés mencionar  que existe una gran variación de los sueldos en los datos, ya que mientras  existen empresas que llegan al millón de dólares en estos costos de salarios, otras no superan los $ 1500, esto es interesante puesto que el
 			- # 1. Obtención de Datos
 				- Los datos se obtuvieron de superintendencia de compañías para el año 2017, las cuentas que se seleccionaron con sus respectivos códigos fueron ; Costos con el código 7991 ;
 			-
