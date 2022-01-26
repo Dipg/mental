@@ -349,10 +349,13 @@ collapsed:: true
 	- Una Variable
 		- Tabla de principales estadísticos de una variable (Resumen)
 			- General
+			  collapsed:: true
 				- ```stata
 				  sum variable
 				  ```
 			- Mas especifico (incluye Cuantiles)
+				- ```stata
+				  ```
 	- Múltiples variables
 	  collapsed:: true
 		- Tabla de Contingencias
