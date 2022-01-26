@@ -367,6 +367,7 @@ collapsed:: true
 			  list in 6
 			  ```
 			- ref
+			  collapsed:: true
 				- https://stackoverflow.com/questions/17810731/conditional-if-and-programming-if-in-stata#:~:text=When%20you%20run%20a%20%22conditional%22%20if%20like%20sum,statement%20and%20decides%20whether%20the%20condition%20is%20satisfied.
 		- Obtener Filas Especificas 
 		  collapsed:: true
