@@ -342,6 +342,7 @@ collapsed:: true
 			  data[,c(3:5,10)] <- lapply(data[,c(3:5,10)] , factor)
 			  ```
 			- ref
+			  collapsed:: true
 				- https://stackoverflow.com/questions/34266186/what-does-argument-to-which-is-not-logical-mean-in-factominer-mca
 - ---
 - Extras
