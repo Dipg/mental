@@ -89,7 +89,6 @@ collapsed:: true
 		-
 	- Que es el balanceo
 - # LATE (Local average treatment effect)
-  collapsed:: true
 	- Sharp Regresión Disconyinuitu (Regresión Discontinua Nítida)
 		- Participación perfectamente definida por el umbral
 		- El $\tilde{Z}$ Determina participación
