@@ -356,7 +356,9 @@ collapsed:: true
 				  egen min_varname = min(varname)
 				  ```
 	- ## Filas
-		- Obtener Filas Especificas
+		- Optener a
+		- Obtener Filas Especificas 
+		  collapsed:: true
 			- ```stata
 			  list if variable == 5
 			  ```
