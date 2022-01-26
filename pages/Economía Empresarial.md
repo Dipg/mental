@@ -45,7 +45,6 @@
 					- Ventas: El total de ventas que se genero en dólares en el año
 					- Precio Laboral: Se tomo el sueldo junto con los salarios y demás remuneraciones
 					- Precio del Capital: Se tomo el total de Activos fijos
-				-
 				- # 2. Descripción de los datos
 				- La base de datos contaba inicialmente con un tota de 49829 empresas, misma de la cual se eliminaron aquellas empresas que no contaran con registro de las variables utilizadas para la estimación, quedando así un total 1202  observaciones,  de las cuales se filtro el sector manufacturero. Dentro de este sector se busco aquellas empresas que cuenten con un activo fijo similar, por lo cual se generaron 4 bloques de empresas según su valor de activo fijo, esto ya que en la industria manufacturera uno de los principales aspectos es su alta inversión en activos fijos necesarios para la generación de productos. Al realizar la división menciona se seleccionamos  aquellas empresas que consten con  el segundo 25% de empresas  según sus Activos fijos, esto ya que el primer bloque presenta empresas que tiene como activos fijos valores de  $30 o similares, haciendo poco valido este primer bloque. En las graficas 1 y 2 se puede observar el principal motivo de la generación de bloques, la gran diferenciación de activos fijos de las empresas.
 				- ![image.png](../assets/image_1643159885800_0.png){:height 360, :width 435}
@@ -65,6 +64,7 @@
 				- ![image.png](../assets/image_1643171777200_0.png)
 				- Como se observa en la tabla anterior, los costos pueden llegar a ser extremadamente altos  de hasta 12 millones de dólares. Sin embargo a diferencia de los Activos fijos, el costo total, muestra una relación  positiva con el numero de ingresos por ventas:
 				- ![image.png](../assets/image_1643172015732_0.png)
+			-
 			- # 1. Obtención de Datos
 				- Los datos se obtuvieron de superintendencia de compañías para el año 2017, las cuentas que se seleccionaron con sus respectivos códigos fueron ; Costos con el código 7991 ;
 			-
