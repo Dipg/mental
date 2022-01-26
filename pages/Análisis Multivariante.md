@@ -28,5 +28,8 @@
 		- Aplicación
 			- Análisis de Correspondencia Con datos de la ENEMDU, Nivel de Estudios y Tipo de trabajo al que pertenecen
 			-
+			  <!-- Place this tag where you want the button to render. -->
+			  <a class="github-button" href="https://github.com/diegopenaloza/Analisis-de-Correspondencia-Simple/subscription" data-icon="octicon-eye" data-size="large" data-show-count="true" aria-label="Watch diegopenaloza/Analisis-de-Correspondencia-Simple on GitHub">Watch</a>
 			- https://github.com/diegopenaloza/Analisis-de-Correspondencia-Simple/blob/main/Analisis%20de%20Correspondencia%20SImple.ipynb
+-
 -
