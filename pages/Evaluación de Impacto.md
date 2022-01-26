@@ -76,7 +76,7 @@ collapsed:: true
 		- ![image.png](../assets/image_1643224519836_0.png)
 	- Video
 		- Modelo
-		- https://www.youtube.com/watch?v=bG61UMDiIRc  A partir del minuot (30)
+		- https://www.youtube.com/watch?v=bG61UMDiIRc  A partir del minuto (30)
 - # PSM
 	- ¿Qué Hace ?
 	- ¿Cuándo se lo usa?
