@@ -15,5 +15,7 @@
 - Análisis de Correspondencia
 	- En [[R]]
 		- Análisis Simple
+		  collapsed:: true
 			- https://www.youtube.com/watch?v=1BUUF31aobo
+		-
 -
