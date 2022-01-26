@@ -72,7 +72,8 @@ collapsed:: true
 		- ((61a042e1-bf94-4e68-b0f7-cd2516f1f566))
 -
 - PSM
-	- ¿Que HAce ?
+	- ¿Qué Hace ?
+	- ¿Cuando se lo usa?
 	- Solo las características observadas son las que afectan la participación en el programa
 - # LATE (Local average treatment effect)
 	- Sharp Regresión Disconyinuitu (Regresión Discontinua Nítida)
