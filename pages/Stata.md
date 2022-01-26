@@ -6,8 +6,9 @@
   import delimited "\Trabajos\3. Endogenidad\Items\endogeneidad\broiler.csv"
   ```
 - #  [](#1.) Gráficas en Stata
-  collapsed:: true
+	-
 	- CAmbiar color de histograma
+	  collapsed:: true
 		- ```stata
 		  histogram proximity if proximity>0.65, bcolor(red) width(0.025) start(0) freq)
 		  ```
