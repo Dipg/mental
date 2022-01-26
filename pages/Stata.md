@@ -356,24 +356,23 @@ collapsed:: true
 	- Una Variable
 		- Tabla Resumen
 		  Tabla de principales estadísticos de una variable (Resumen)
-			-
-				- General
+			- General
+			  collapsed:: true
+				- ```stata
+				  sum variable
+				  ```
+				- ![image.png](../assets/image_1643215277305_0.png)
+				- ref
 				  collapsed:: true
-					- ```stata
-					  sum variable
-					  ```
-					- ![image.png](../assets/image_1643215277305_0.png)
-					- ref
-					  collapsed:: true
-						- https://stats.oarc.ucla.edu/stata/output/descriptive-statistics-using-the-summarize-command/
-				- Mas especifico (incluye Cuantiles)
-				  collapsed:: true
-					- ```stata
-					  summarize variable, detail
-					  ```
-					- ![image.png](../assets/image_1643215245032_0.png)
-					- ref
-						- https://stats.oarc.ucla.edu/stata/output/descriptive-statistics-using-the-summarize-command/
+					- https://stats.oarc.ucla.edu/stata/output/descriptive-statistics-using-the-summarize-command/
+			- Mas especifico (incluye Cuantiles)
+			  collapsed:: true
+				- ```stata
+				  summarize variable, detail
+				  ```
+				- ![image.png](../assets/image_1643215245032_0.png)
+				- ref
+					- https://stats.oarc.ucla.edu/stata/output/descriptive-statistics-using-the-summarize-command/
 	- Múltiples variables
 	  collapsed:: true
 		- Tabla de Contingencias
