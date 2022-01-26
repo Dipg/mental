@@ -366,8 +366,9 @@ collapsed:: true
 				- ref
 				  collapsed:: true
 					- https://stats.oarc.ucla.edu/stata/output/descriptive-statistics-using-the-summarize-command/
-			- Tabla Resumen Mas especific (incluye Cuantiles)
+			- Tabla Resumen Especifica
 			  collapsed:: true
+			   (incluye Cuantiles)
 				- ```stata
 				  summarize variable, detail
 				  ```
