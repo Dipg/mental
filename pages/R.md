@@ -1,6 +1,7 @@
 -
 - {{renderer :toc_cqtnwk}}
 	- # 1. Configuraciones
+	  collapsed:: true
 		- ## Instalar Paquetes
 			- ```r
 			  install.packages("tidyverse")
@@ -11,7 +12,9 @@
 			  version
 			  ```
 	- # 2. Graficas
+	  collapsed:: true
 		- ## Cambiar Imagen de tamaño en r
+		  collapsed:: true
 			- Cambiar plot de tamaño en r en Jupyter
 			- ```R
 			  options(repr.plot.width=22, repr.plot.height=15)
@@ -76,6 +79,7 @@
 			- ej
 				- ![image.png](../assets/image_1640162076013_0.png)
 	- # 4. Análisis Multivariado
+	  collapsed:: true
 		- ## Análisis Clústers
 		  collapsed:: true
 			- K-Means
