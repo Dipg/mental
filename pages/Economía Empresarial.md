@@ -45,7 +45,9 @@
 					- Ventas: El total de ventas que se genero en dólares en el año
 					- Precio Laboral: Se tomo el sueldo junto con los salarios y demás remuneraciones
 					- Precio del Capital: Se tomo el total de Activos fijos
-				- La base de datos contaba inicialmente con un tota de 49829 empresas, de la cual se filtro el sector manufacturero. Dentro de este sector se busco aquellas empresas que cuenten con un capital fijo similar, por lo cual se generaron 4 bloques de empresas según su valor de capital fijo, esto ya que en la industria manufacturera uno de los principales aspectos es su alta inversión en capital fijo necesaria para la generación de productos. Al realizar la división menciona encontramos  pasamos de un gran numero de empresas
+				- La base de datos contaba inicialmente con un tota de 49829 empresas, de la cual se filtro el sector manufacturero. Dentro de este sector se busco aquellas empresas que cuenten con un capital fijo similar, por lo cual se generaron 4 bloques de empresas según su valor de capital fijo, esto ya que en la industria manufacturera uno de los principales aspectos es su alta inversión en capital fijo necesaria para la generación de productos. Al realizar la división menciona encontramos  pasamos de un gran numero de empresas no homogeneas como en la ilustración 1
+				- ![image.png](../assets/image_1643159885800_0.png)
+				-
 			- # 1. Obtención de Datos
 				- Los datos se obtuvieron de superintendencia de compañías para el año 2017, las cuentas que se seleccionaron con sus respectivos códigos fueron ; Costos con el código 7991 ;
 			-
