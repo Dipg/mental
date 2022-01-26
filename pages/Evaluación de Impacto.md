@@ -72,6 +72,7 @@ collapsed:: true
 		- ((61a042e1-bf94-4e68-b0f7-cd2516f1f566))
 -
 - PSM
+	- ¿Que HAce ?
 	- Solo las características observadas son las que afectan la participación en el programa
 - # LATE (Local average treatment effect)
 	- Sharp Regresión Disconyinuitu (Regresión Discontinua Nítida)
@@ -100,4 +101,5 @@ collapsed:: true
 			- {{youtube https://www.youtube.com/watch?v=uT6Gtzg1dyw&t=4491s}}
 			- {{youtube-timestamp 20}} Definición de modelo de Control Sintético
 				- Los modelos de control sintéticos son aquellos que eligen de manea optima un conjunto de pesos o ponderaciones que, cuando se aplican a un grupo de unidades, producen un contrafactual estimado de manera óptima para la unidad tratada
+-
 -
