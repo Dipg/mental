@@ -18,7 +18,7 @@
 		  collapsed:: true
 			- https://www.youtube.com/watch?v=1BUUF31aobo
 		- Análisis de Correspondencia Múltiple
-			- https://stackoverflow.com/questions/5869853/multiple-correspondence-analysis-with-r ()
+			- https://stackoverflow.com/questions/5869853/multiple-correspondence-analysis-with-r (Super Simple)
 			- https://www.youtube.com/watch?v=BFwuHlHkm8E
 			- https://rpubs.com/gaston/MCA
 			- http://www.gastonsanchez.com/visually-enforced/how-to/[[Oct 13th, 2012]]/MCA-in-R/  (Es casi lo mismo que antes)
