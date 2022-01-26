@@ -420,7 +420,7 @@ collapsed:: true
 			  * Como yo la Uso 
 			  tabulate variablecategorica variablenumerica, summarize(variablenumerica)
 			  ```
-			-
+			- ![image.png](../assets/image_1643216388928_0.png)
 			- ref
 				- https://www.stata.com/manuals13/rtabulatesummarize.pdf
 - ---
