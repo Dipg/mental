@@ -353,7 +353,7 @@ collapsed:: true
 				  sum variable
 				  ```
 				- ![image.png](../assets/image_1643215277305_0.png)
-				-
+				- ref
 			- Mas especifico (incluye Cuantiles)
 			  collapsed:: true
 				- ```stata
