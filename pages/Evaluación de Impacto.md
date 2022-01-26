@@ -74,8 +74,10 @@ collapsed:: true
 - # PSM
 	- ¿Qué Hace ?
 	- ¿Cuándo se lo usa?
+	  collapsed:: true
 		- Cuando creemos que solo las {{cloze características observadas son las que afectan la participación en el programa}}
 		- Cuando no se puede {{cloze asignar al tratamiento al azar, no se puede aleatorizar}}
+	- ¿Cuando nos ayuda?
 - # LATE (Local average treatment effect)
   collapsed:: true
 	- Sharp Regresión Disconyinuitu (Regresión Discontinua Nítida)
