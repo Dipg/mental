@@ -7,9 +7,11 @@
   ```
 - #  [](#1.) Gráficas en Stata
 	- Box Plot (Grafico de Caja)
+	  collapsed:: true
 		- ```stata
 		  graph box variable
 		  ```
+		- ![image.png](../assets/image_1643216540569_0.png)
 	- CAmbiar color de histograma
 	  collapsed:: true
 		- ```stata
