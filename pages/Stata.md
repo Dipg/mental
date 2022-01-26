@@ -392,6 +392,9 @@ collapsed:: true
 	- Transformar
 		- Separar DataSet  en bloques iguales
 			- ```stata
+			  *Separamos en 4 bloques, de un numero igual de observaciones de la variable ingresos
+			  * Empezando la división desde el valor mas peuqeño al mayor 
+			  xtile hsp_quartile=ingreso,n(4)
 			  ```
 - # Tablas
 	- Una Variable
