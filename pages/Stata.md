@@ -396,6 +396,8 @@ collapsed:: true
 			  * Empezando la división desde el valor mas peuqeño al mayor 
 			  xtile hsp_quartile=ingreso,n(4)
 			  ```
+			- ref
+				-
 - # Tablas
 	- Una Variable
 	  collapsed:: true
