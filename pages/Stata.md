@@ -320,7 +320,7 @@ collapsed:: true
 		  
 		  ```
 		- https://www.statalist.org/forums/forum/general-stata-discussion/general/927982-stata-command-to-summarize-data-by-mode
-- # Exportar 
+- # Exportar
   collapsed:: true
 	- Tablas formato APA
 		- A Word
@@ -333,6 +333,7 @@ collapsed:: true
 			- ref
 			  collapsed:: true
 				- https://fintechprofessor.com/2018/03/22/asdoc-options-examples/
+- Columnas
 - ---
 - {{renderer :linkpreview,https://journals.sagepub.com/doi/pdf/10.1177/1536867X1701700313}}
 - {{renderer :linkpreview,https://www.stata.com/meeting/switzerland16/slides/bischof-switzerland16.pdf}}
