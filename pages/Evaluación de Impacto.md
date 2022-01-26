@@ -72,7 +72,6 @@ collapsed:: true
 		- ((61a042e1-bf94-4e68-b0f7-cd2516f1f566))
 - # DD
 	- Modelo
-	  collapsed:: true
 		- ![image.png](../assets/image_1643224519836_0.png)
 	- Video
 		- Modelo
