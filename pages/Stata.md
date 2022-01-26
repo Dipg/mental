@@ -337,6 +337,8 @@ collapsed:: true
 	- Transformar
 		- De Numero a Factor (Categórico)
 			- ```stata
+			  *Estmos cambiando a factor las columnas de 3 a 5 y la 10 , 
+			  *Se pueden poner el nombre de las columnas que se desea cambiar 
 			  data[,c(3:5,10)] <- lapply(data[,c(3:5,10)] , factor)
 			  ```
 - ---
