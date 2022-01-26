@@ -58,3 +58,4 @@
 				- Escogemos la estimación de modelo de función de costos, para esta estimación se seleccionó una distribución de tipo half-normal para el termino de eficiencia.
 				-
 				-
+-
