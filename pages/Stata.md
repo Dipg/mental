@@ -346,7 +346,9 @@ collapsed:: true
 			  collapsed:: true
 				- https://www.statalist.org/forums/forum/general-stata-discussion/general/1352714-identify-variables-with-a-particular-value
 - # Tablas
+	- Tabla de pr
 	- Tabla de Contingencias
+	  collapsed:: true
 		- ``` stata
 		  tabulate variable1 varaible1 if rep78 >=4 
 		  
