@@ -421,7 +421,7 @@ collapsed:: true
 			  tabulate variablecategorica variablenumerica, summarize(variablenumerica)
 			  ```
 			- ref
-				-
+				- https://www.stata.com/manuals13/rtabulatesummarize.pdf
 - ---
 - Extras
   collapsed:: true
