@@ -336,7 +336,10 @@ collapsed:: true
 - # DataSet
 	- ## Columnas (Variables)
 		- Máximo y Mínimos de una Columna O Variable
-			- A pari
+			- Metodo Simple
+			- Metodo que no me ha funcionado
+				- ```stata
+				  ```
 		-
 	- ## Filas
 	  collapsed:: true
