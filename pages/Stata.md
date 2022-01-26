@@ -354,25 +354,25 @@ collapsed:: true
 				- https://www.statalist.org/forums/forum/general-stata-discussion/general/1352714-identify-variables-with-a-particular-value
 - # Tablas
 	- Una Variable
-		-
-		- Tabla de principales estadísticos de una variable (Resumen)
-			- General
-			  collapsed:: true
-				- ```stata
-				  sum variable
-				  ```
-				- ![image.png](../assets/image_1643215277305_0.png)
-				- ref
+		- Tabla Resumen
+			- Tabla de principales estadísticos de una variable (Resumen)
+				- General
 				  collapsed:: true
-					- https://stats.oarc.ucla.edu/stata/output/descriptive-statistics-using-the-summarize-command/
-			- Mas especifico (incluye Cuantiles)
-			  collapsed:: true
-				- ```stata
-				  summarize variable, detail
-				  ```
-				- ![image.png](../assets/image_1643215245032_0.png)
-				- ref
-					- https://stats.oarc.ucla.edu/stata/output/descriptive-statistics-using-the-summarize-command/
+					- ```stata
+					  sum variable
+					  ```
+					- ![image.png](../assets/image_1643215277305_0.png)
+					- ref
+					  collapsed:: true
+						- https://stats.oarc.ucla.edu/stata/output/descriptive-statistics-using-the-summarize-command/
+				- Mas especifico (incluye Cuantiles)
+				  collapsed:: true
+					- ```stata
+					  summarize variable, detail
+					  ```
+					- ![image.png](../assets/image_1643215245032_0.png)
+					- ref
+						- https://stats.oarc.ucla.edu/stata/output/descriptive-statistics-using-the-summarize-command/
 	- Múltiples variables
 	  collapsed:: true
 		- Tabla de Contingencias
