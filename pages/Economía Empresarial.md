@@ -47,8 +47,8 @@
 					- Precio del Capital: Se tomo el total de Activos fijos
 			- # 1. Obtención de Datos
 				- Los datos se obtuvieron de superintendencia de compañías para el año 2017, las cuentas que se seleccionaron con sus respectivos códigos fueron ; Costos con el código 7991 ;
-			-
-			  #
+			- # Sector selecionado
+				-
 			- # 2. Descripción de los datos
 				-
 			- # 3. Estimación de Frontera de Costos
