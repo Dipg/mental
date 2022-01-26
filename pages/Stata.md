@@ -415,6 +415,7 @@ collapsed:: true
 				- https://stats.oarc.ucla.edu/stata/modules/using-if-with-stata-commands/
 		- Tabla de Contingencia con estadísticos básicos
 			- ```stata
+			  tabulate wgtcat foreign, summarize(mpg)
 			  ```
 - ---
 - Extras
