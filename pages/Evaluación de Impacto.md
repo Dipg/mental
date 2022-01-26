@@ -71,10 +71,10 @@ collapsed:: true
 		- ((61a0421f-d475-45fa-ab4a-aa6fdb71cc02))
 		- ((61a042e1-bf94-4e68-b0f7-cd2516f1f566))
 - # DD
+	-
+	- ![image.png](../assets/image_1643224519836_0.png)
 	- Video
-	  collapsed:: true
 		- Modelo
-			- ![image.png](../assets/image_1643224519836_0.png)
 		- https://www.youtube.com/watch?v=bG61UMDiIRc
 - # PSM
 	- ¿Qué Hace ?
