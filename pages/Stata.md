@@ -366,6 +366,8 @@ collapsed:: true
 			  *Encontramos la fila 6  de la base de datos
 			  list in 6
 			  ```
+			- ref
+			-
 		- Obtener Filas Especificas 
 		  collapsed:: true
 			- ```stata
