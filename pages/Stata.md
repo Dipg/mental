@@ -380,6 +380,7 @@ collapsed:: true
 				- https://www.statalist.org/forums/forum/general-stata-discussion/general/1352714-identify-variables-with-a-particular-value
 - # Tablas
 	- Una Variable
+	  collapsed:: true
 		- Tabla Resumen
 		  id:: 61f17a57-72de-42dd-8e85-0429a4db8db5
 		  Tabla de principales estadísticos de una variable (Resumen)
@@ -403,7 +404,6 @@ collapsed:: true
 				- ref
 					- https://stats.oarc.ucla.edu/stata/output/descriptive-statistics-using-the-summarize-command/
 	- Múltiples variables
-	  collapsed:: true
 		- Tabla de Contingencias
 		  collapsed:: true
 			- ``` stata
@@ -413,6 +413,7 @@ collapsed:: true
 			- ![image.png](../assets/image_1643215012962_0.png)
 			- Ref
 				- https://stats.oarc.ucla.edu/stata/modules/using-if-with-stata-commands/
+		- Tabla de Con
 - ---
 - Extras
   collapsed:: true
