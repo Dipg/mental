@@ -82,6 +82,6 @@
 				- ![image.png](../assets/image_1643237015967_0.png)
 				- Analizando los datos se encontró que son 60 las empresas que tienen una ineficiencia realmente alta comparada con el resto.
 				- ![image.png](../assets/image_1643237263391_0.png)
-				- Como se muestra en la tabla anterior, de eliminarse estas 60 empresas,  muestran valores mas homogéneos en su ineficiencia, esto se realizo con el fin de poder establecer una media coherente de ineficiencia en el bloque manufacturero seleccionado, obteniendo así una ineficiencia promedio de 1.799  de las empresas en el sector manufacturero que .
+				- Como se muestra en la tabla anterior, de eliminarse estas 60 empresas,  muestran valores mas homogéneos en su ineficiencia, esto se realizo con el fin de poder establecer una media coherente de ineficiencia en el bloque manufacturero seleccionado, obteniendo así una ineficiencia promedio de  1.799  de las empresas en el sector manufacturero que .
 			-
 -
