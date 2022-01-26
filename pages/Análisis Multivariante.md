@@ -26,6 +26,6 @@
 				- https://rpubs.com/gaston/MCA
 				- http://www.gastonsanchez.com/visually-enforced/how-to/[[Oct 13th, 2012]]/MCA-in-R/  (Es casi lo mismo que antes)
 		- Aplicación
-			- Analisisd eCorrespondencia
+			- Analisisd eCorrespondencia Con datos de la ENEMDU,
 			- https://github.com/diegopenaloza/Analisis-de-Correspondencia-Simple/blob/main/Analisis%20de%20Correspondencia%20SImple.ipynb
 -
