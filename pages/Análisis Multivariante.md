@@ -18,6 +18,7 @@
 		  collapsed:: true
 			- https://www.youtube.com/watch?v=1BUUF31aobo
 		- Análisis de Correspondencia Múltiple
+		  collapsed:: true
 			- https://stackoverflow.com/questions/5869853/multiple-correspondence-analysis-with-r (Super Simple)
 			- https://www.youtube.com/watch?v=BFwuHlHkm8E
 			- https://rpubs.com/gaston/MCA
