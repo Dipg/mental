@@ -341,6 +341,8 @@ collapsed:: true
 			  *Se pueden poner el nombre de las columnas que se desea cambiar 
 			  data[,c(3:5,10)] <- lapply(data[,c(3:5,10)] , factor)
 			  ```
+			- ref
+				- https://stackoverflow.com/questions/34266186/what-does-argument-to-which-is-not-logical-mean-in-factominer-mca
 - ---
 - Extras
   collapsed:: true
