@@ -357,7 +357,6 @@ collapsed:: true
 				  ```
 	- ## Filas
 		- Obtener la primera fila
-		  collapsed:: true
 			- ``` stata
 			  list in 1
 			  ```
