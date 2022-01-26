@@ -420,6 +420,8 @@ collapsed:: true
 			  * Como yo la Uso 
 			  tabulate variablecategorica variablenumerica, summarize(variablenumerica)
 			  ```
+			- ref
+				-
 - ---
 - Extras
   collapsed:: true
