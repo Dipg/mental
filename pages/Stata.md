@@ -359,6 +359,7 @@ collapsed:: true
 				  ```
 				- ![image.png](../assets/image_1643215245032_0.png)
 				- ref
+					-
 	- Múltiples variables
 	  collapsed:: true
 		- Tabla de Contingencias
