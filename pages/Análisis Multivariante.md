@@ -13,5 +13,5 @@
 	- Calculo de la probabilidad de error
 	- lambda da de Wilks
 - Análisis de Correspondencia
-	- Analisis SImple
+	- Análisis Simple
 		- https://www.youtube.com/watch?v=1BUUF31aobo
