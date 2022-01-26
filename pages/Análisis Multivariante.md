@@ -15,13 +15,16 @@
 - Análisis de Correspondencia
 	- En [[R]]
 		- Teoría
+		  collapsed:: true
 			- Análisis Simple
 			  collapsed:: true
 				- https://www.youtube.com/watch?v=1BUUF31aobo
-		- Análisis de Correspondencia Múltiple
-		  collapsed:: true
-			- https://stackoverflow.com/questions/5869853/multiple-correspondence-analysis-with-r (Super Simple)
-			- https://www.youtube.com/watch?v=BFwuHlHkm8E
-			- https://rpubs.com/gaston/MCA
-			- http://www.gastonsanchez.com/visually-enforced/how-to/[[Oct 13th, 2012]]/MCA-in-R/  (Es casi lo mismo que antes)
+			- Análisis de Correspondencia Múltiple
+			  collapsed:: true
+				- https://stackoverflow.com/questions/5869853/multiple-correspondence-analysis-with-r (Super Simple)
+				- https://www.youtube.com/watch?v=BFwuHlHkm8E
+				- https://rpubs.com/gaston/MCA
+				- http://www.gastonsanchez.com/visually-enforced/how-to/[[Oct 13th, 2012]]/MCA-in-R/  (Es casi lo mismo que antes)
+		- Aplicación
+			- https://github.com/diegopenaloza/Analisis-de-Correspondencia-Simple/blob/main/Analisis%20de%20Correspondencia%20SImple.ipynb
 -
