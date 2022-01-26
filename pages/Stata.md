@@ -336,9 +336,11 @@ collapsed:: true
 - # DataSet
 	- ## Columnas (Variables)
 		- Máximo y Mínimos de una Columna O Variable
-			- Metodo Simple
+			- Método Simple
+				-
 			- Metodo que no me ha funcionado
 				- ```stata
+				  egen min_varname = min(varname)
 				  ```
 		-
 	- ## Filas
