@@ -337,6 +337,7 @@ collapsed:: true
 	- Transformar
 		- De Numero a Factor (Categórico)
 			- ```stata
+			  data[,c(3:5,10)] <- lapply(data[,c(3:5,10)] , factor)
 			  ```
 - ---
 - Extras
