@@ -63,7 +63,7 @@
 				- Por ultimo revisamos la variable de mayor  relevancia en esta estimación, el costo, esta variable recoge los costos totales de producción de una empresa
 				- ![image.png](../assets/image_1643171777200_0.png)
 				- Como se observa en la tabla anterior, los costos pueden llegar a ser extremadamente altos  de hasta 12 millones de dólares. Sin embargo a diferencia de los Activos fijos, el costo total, muestra una relación  positiva con el numero de ingresos por ventas:
-				- ![image.png](../assets/image_1643172015732_0.png)
+				- ![image.png](../assets/image_1643172015732_0.png){:height 473, :width 656}
 			-
 			- # 1. Obtención de Datos
 				- Los datos se obtuvieron de superintendencia de compañías para el año 2017, las cuentas que se seleccionaron con sus respectivos códigos fueron ; Costos con el código 7991
