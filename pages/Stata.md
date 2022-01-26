@@ -389,7 +389,8 @@ collapsed:: true
 			- ref
 			  collapsed:: true
 				- https://www.statalist.org/forums/forum/general-stata-discussion/general/1352714-identify-variables-with-a-particular-value
-	-
+	- Transformar
+		- Separar Data
 - # Tablas
 	- Una Variable
 	  collapsed:: true
