@@ -354,6 +354,8 @@ collapsed:: true
 				  ```
 				- ![image.png](../assets/image_1643215277305_0.png)
 				- ref
+				  collapsed:: true
+					- https://stats.oarc.ucla.edu/stata/output/descriptive-statistics-using-the-summarize-command/
 			- Mas especifico (incluye Cuantiles)
 			  collapsed:: true
 				- ```stata
