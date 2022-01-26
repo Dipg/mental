@@ -19,4 +19,5 @@
 			- https://www.youtube.com/watch?v=1BUUF31aobo
 		- Análisis de Correspondencia Múltiple
 			- https://www.youtube.com/watch?v=BFwuHlHkm8E
+			- https://rpubs.com/gaston/MCA
 -
