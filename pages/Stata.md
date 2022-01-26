@@ -6,7 +6,9 @@
   import delimited "\Trabajos\3. Endogenidad\Items\endogeneidad\broiler.csv"
   ```
 - #  [](#1.) Gráficas en Stata
-	- Box Plot ()
+	- Box Plot (Grafico de Caja)
+		- ```stata
+		  ```
 	- CAmbiar color de histograma
 	  collapsed:: true
 		- ```stata
