@@ -65,11 +65,13 @@ collapsed:: true
 	  collapsed:: true
 		- ((61a041f0-9b95-40e3-879c-63d092a1e89d))
 			- ((61a042b6-83bf-4378-bced-ee3099dbe3d6))
-# Unidad 4 ![​📝 ](619fa0c5-d175-43cc-9167-74b765901e22)
-collapsed:: true
+- # Unidad 4 ![​📝 ](619fa0c5-d175-43cc-9167-74b765901e22)
+  collapsed:: true
 	- Ejercicios
 		- ((61a0421f-d475-45fa-ab4a-aa6fdb71cc02))
 		- ((61a042e1-bf94-4e68-b0f7-cd2516f1f566))
+-
+-
 - # LATE (Local average treatment effect)
 	- Sharp Regresión Disconyinuitu (Regresión Discontinua Nítida)
 		- Participación perfectamente definida por el umbral
