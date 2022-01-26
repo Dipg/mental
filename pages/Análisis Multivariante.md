@@ -20,5 +20,5 @@
 		- Análisis de Correspondencia Múltiple
 			- https://www.youtube.com/watch?v=BFwuHlHkm8E
 			- https://rpubs.com/gaston/MCA
-			-
+			- http://www.gastonsanchez.com/visually-enforced/how-to/2012/10/13/MCA-in-R/  ()
 -
