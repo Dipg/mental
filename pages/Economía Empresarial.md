@@ -80,6 +80,6 @@
 				- La tabla anterior denota que existe una ineficiencia máxima de 51.475, valor que pertenece a la empresa PRODAL Procesadora de Alimentos. por otro lado la empresa que muestra menos ineficiencia es  DECOMUEBLES, con una ineficiencia baja de 1.081.
 				- Sin embargo la ineficiencia se presenta algunos valores atípicos
 				- ![image.png](../assets/image_1643237015967_0.png)
-				- Analizando los datos sen encontró que son 60 las empresas que tienen una ineficiea realmente alta comparada
+				- Analizando los datos sen encontró que son 60 las empresas que tienen una ineficiencaia realmente alta comparada
 			-
 -
