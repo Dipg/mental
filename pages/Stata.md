@@ -337,7 +337,7 @@ collapsed:: true
 	- ## Columnas
 	- ## Filas
 		- Obtener Filas Especificas
-			-
+			- list if myvar == 5
 - ---
 - Extras
   collapsed:: true
