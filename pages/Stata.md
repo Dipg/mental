@@ -12,7 +12,7 @@
 		  ```
 		- ![image.png](../assets/image_1643216540569_0.png)
 		- ref
-			-
+			- https://www.statology.org/box-plots-stata/
 	- CAmbiar color de histograma
 	  collapsed:: true
 		- ```stata
@@ -437,3 +437,4 @@ collapsed:: true
   collapsed:: true
 	- {{renderer :linkpreview,https://journals.sagepub.com/doi/pdf/10.1177/1536867X1701700313}}
 	- {{renderer :linkpreview,https://www.stata.com/meeting/switzerland16/slides/bischof-switzerland16.pdf}}
+-
