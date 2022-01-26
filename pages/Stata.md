@@ -351,6 +351,8 @@ collapsed:: true
 		  tabulate variable1 varaible1 if rep78 >=4 
 		  
 		  ```
+		- ![image.png](../assets/image_1643215012962_0.png)
+		-
 - ---
 - Extras
   collapsed:: true
