@@ -26,6 +26,7 @@
 				- https://rpubs.com/gaston/MCA
 				- http://www.gastonsanchez.com/visually-enforced/how-to/[[Oct 13th, 2012]]/MCA-in-R/  (Es casi lo mismo que antes)
 		- Aplicación
-			- Analisisde Correspondencia Con datos de la ENEMDU, Nivel de Estudios y Tipo de trabajo al que pertenecen
+			- Análisis de Correspondencia Con datos de la ENEMDU, Nivel de Estudios y Tipo de trabajo al que pertenecen
+			-
 			- https://github.com/diegopenaloza/Analisis-de-Correspondencia-Simple/blob/main/Analisis%20de%20Correspondencia%20SImple.ipynb
 -
