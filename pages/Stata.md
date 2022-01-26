@@ -321,10 +321,13 @@ collapsed:: true
 		  ```
 		- https://www.statalist.org/forums/forum/general-stata-discussion/general/927982-stata-command-to-summarize-data-by-mode
 - # Exportar
-	- Tablas
+	- Tablas formato
 		- A Word
 			- ```stata
-			  asdoc sum, save(summary.doc)
+			  * Si quiero exportar una tabla cualquiera y remplazar las previas 
+			  asdoc sum ingreso, replace
+			  * Si quiero dar el nombre a mi documento
+			  asdoc sum ingreso, save(summary.doc)
 			  ```
 			- ref
 			  collapsed:: true
