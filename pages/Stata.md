@@ -359,7 +359,7 @@ collapsed:: true
 				  ```
 				- ![image.png](../assets/image_1643215245032_0.png)
 				- ref
-					-
+					- https://stats.oarc.ucla.edu/stata/output/descriptive-statistics-using-the-summarize-command/
 	- Múltiples variables
 	  collapsed:: true
 		- Tabla de Contingencias
