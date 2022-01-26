@@ -347,9 +347,10 @@ collapsed:: true
 				- https://www.statalist.org/forums/forum/general-stata-discussion/general/1352714-identify-variables-with-a-particular-value
 - # Tablas
 	- Una Variable
-	  collapsed:: true
 		- Tabla de principales estadísticos de una variable (Resumen)
-	- Multiples variables
+			-
+	- Múltiples variables
+	  collapsed:: true
 		- Tabla de Contingencias
 		  collapsed:: true
 			- ``` stata
