@@ -55,7 +55,7 @@
 				- ![image.png](../assets/image_1643168342536_0.png)
 				- Tratando de diferenciar y dar relevancia al bloque de empresas seleccionadas, comparamos el total de ingresos por ventas de todo el sector, en el que se puede observar en la grafica anterior  existe en general una relación directa entre el activo y las ventas, echo que se esperaba, sin embargo  como se puede observar en el grafico,  el valor de netas no siempre incrementa con mayores activos fijos, lo que nos podría dar leve indicio de que empresas en el mismo sector por mas activos fijos tengan, no se genera mayor valor de venta,, es preciso recordar que se esta usando los ingresos generados por ventas, tratando de excluir así ingresos de otra índole, como los financieros. Sin embargo en la siguiente grafica observamos la misma relación, pero en esta ocasión con los datos seccionados.
 				- ![image.png](../assets/image_1643169427172_0.png)
-				- La relación muestra un comportamiento casi lineal, por lo cual con las empresas selecionadas se podria mencionar que
+				- La relación muestra un comportamiento casi lineal, por lo cual con las empresas selecionadas se podria mencionar que un nivel de activos fijos genera
 			- # 1. Obtención de Datos
 				- Los datos se obtuvieron de superintendencia de compañías para el año 2017, las cuentas que se seleccionaron con sus respectivos códigos fueron ; Costos con el código 7991 ;
 			-
