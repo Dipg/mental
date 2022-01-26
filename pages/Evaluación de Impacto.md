@@ -78,6 +78,7 @@ collapsed:: true
 		- No todos los individuos participan y no todos los individuos que no participan participan.
 		- El $\tilde{Z}$ Determina elegibilidad
 - # Control Sintético
+  collapsed:: true
 	- Video principal
 		- https://www.youtube.com/watch?v=uT6Gtzg1dyw&t=315s
 		- Do principal
