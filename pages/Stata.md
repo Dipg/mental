@@ -334,7 +334,8 @@ collapsed:: true
 			  collapsed:: true
 				- https://fintechprofessor.com/2018/03/22/asdoc-options-examples/
 - # Columnas
-	- Trans
+	- Transformar
+		-
 - ---
 - Extras
   collapsed:: true
