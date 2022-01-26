@@ -74,8 +74,8 @@ collapsed:: true
 - PSM
 	- ¿Qué Hace ?
 	- ¿Cuándo se lo usa?
-	  collapsed:: true
 		- Solo las características observadas son las que afectan la participación en el programa
+		- Cuando no se puede asignar al tratma
 - # LATE (Local average treatment effect)
 	- Sharp Regresión Disconyinuitu (Regresión Discontinua Nítida)
 		- Participación perfectamente definida por el umbral
