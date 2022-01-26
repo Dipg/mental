@@ -321,7 +321,7 @@ collapsed:: true
 		  ```
 		- https://www.statalist.org/forums/forum/general-stata-discussion/general/927982-stata-command-to-summarize-data-by-mode
 - # Exportar
-	- Tablas formato
+	- Tablas formato APA
 		- A Word
 			- ```stata
 			  * Si quiero exportar una tabla cualquiera y remplazar las previas 
