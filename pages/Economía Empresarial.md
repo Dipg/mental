@@ -77,6 +77,6 @@
 				- ![image.png](../assets/image_1643236224353_0.png)
 				- Como se puede aprecias un gran numero de empresas  muestra una ineficiencia, o mayor costo , de no gran tamaño, sin embargo existe una parte de estas que presenta ineficiencia de gran valor.
 				- ![image.png](../assets/image_1643236372624_0.png)
-				- La tabla anterior denota que existe una inefici
+				- La tabla anterior denota que existe una ineficiencia maxima de 51.475
 			-
 -
