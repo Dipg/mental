@@ -75,7 +75,7 @@ collapsed:: true
 	- ¿Qué Hace ?
 	- ¿Cuándo se lo usa?
 		- Cuando creemos que solo las {{cloze características observadas son las que afectan la participación en el programa}}
-		- Cuando no se puede asignar al tratamiento al azar, no se puede aleatorizar
+		- Cuando no se puede {{cloze asignar al tratamiento al azar, no se puede aleatorizar}}
 - # LATE (Local average treatment effect)
 	- Sharp Regresión Disconyinuitu (Regresión Discontinua Nítida)
 		- Participación perfectamente definida por el umbral
