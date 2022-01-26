@@ -338,7 +338,6 @@ collapsed:: true
 		- Máximo y Mínimos de una Columna O Variable
 			- Método Simple
 				- Realizamos una ((61f17930-6e8f-4bbb-9883-cbff25fea066)) de la variable y depuse  extraemos el mínimo `r(min)` y el maximo `r(max)`
-				  collapsed:: true
 					- ```stata
 					  *Para ver el minimo o maximo 
 					  di r(min)
@@ -346,7 +345,9 @@ collapsed:: true
 					  *Listamos una variable con el condicional del Minimo buscado
 					  list if Activo_fi ==r(min)
 					  ```
+					-
 			- Metodo que no me ha funcionado
+			  collapsed:: true
 				- ```stata
 				  egen min_varname = min(varname)
 				  ```
