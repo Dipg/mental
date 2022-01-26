@@ -415,7 +415,9 @@ collapsed:: true
 				- https://stats.oarc.ucla.edu/stata/modules/using-if-with-stata-commands/
 		- Tabla de Contingencia con estadísticos básicos
 			- ```stata
-			  tabulate variablecategorica variablenumerica, summarize(mpg)
+			  *Puedo usar 2 variables o tres 
+			  
+			  tabulate variablecategorica variablenumerica, summarize(variablenumerica)
 			  ```
 - ---
 - Extras
