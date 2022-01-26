@@ -356,7 +356,7 @@ collapsed:: true
 				  egen min_varname = min(varname)
 				  ```
 	- ## Filas
-		- Obtener
+		- Obtener la
 		- Obtener Filas Especificas 
 		  collapsed:: true
 			- ```stata
