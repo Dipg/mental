@@ -335,9 +335,13 @@ collapsed:: true
 				- https://fintechprofessor.com/2018/03/22/asdoc-options-examples/
 - # DataSet
 	- ## Columnas (Variables)
+	  collapsed:: true
 		- Máximo y Mínimos de una Columna O Variable
+		  collapsed:: true
 			- Método Simple
+			  collapsed:: true
 				- Realizamos una ((61f17930-6e8f-4bbb-9883-cbff25fea066)) de la variable y depuse  extraemos el mínimo `r(min)` y el maximo `r(max)`
+				  collapsed:: true
 					- ```stata
 					  *Para ver el minimo o maximo 
 					  di r(min)
