@@ -1,4 +1,6 @@
--
+- Revisar
+  collapsed:: true
+	- https://thedatahall.com/reporting-summary-statistics-in-stata-using-outreg2/#:~:text=With%20the%20summarize%20command%2C%20which%20is%20typically%20used,parenthesis%20of%20the%20sum%20%28%29%20option%20used%20above%3A
 - Importar un archivo csv
 - ```Stata
   import delimited "\Trabajos\3. Endogenidad\Items\endogeneidad\broiler.csv"
