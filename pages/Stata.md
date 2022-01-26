@@ -336,7 +336,8 @@ collapsed:: true
 - # Columnas
 	- Transformar
 		- De Numero a Factor (Categórico)
-			-
+			- ```stata
+			  ```
 - ---
 - Extras
   collapsed:: true
