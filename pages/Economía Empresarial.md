@@ -66,9 +66,7 @@
 				- ![image.png](../assets/image_1643172015732_0.png)
 			-
 			- # 1. Obtención de Datos
-				- Los datos se obtuvieron de superintendencia de compañías para el año 2017, las cuentas que se seleccionaron con sus respectivos códigos fueron ; Costos con el código 7991 ;
-			-
-				-
+				- Los datos se obtuvieron de superintendencia de compañías para el año 2017, las cuentas que se seleccionaron con sus respectivos códigos fueron ; Costos con el código 7991
 			- # 3. Estimación de Frontera de Costos
 				- Escogemos la estimación de modelo de función de costos, para esta estimación se seleccionó una distribución de tipo half-normal para el termino de eficiencia.
 				-
