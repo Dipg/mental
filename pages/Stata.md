@@ -334,8 +334,10 @@ collapsed:: true
 			  collapsed:: true
 				- https://fintechprofessor.com/2018/03/22/asdoc-options-examples/
 - # DataSet
+  collapsed:: true
 	- ## Columnas
 	- ## Filas
+	  collapsed:: true
 		- Obtener Filas Especificas
 			- ```stata
 			  list if variable == 5
