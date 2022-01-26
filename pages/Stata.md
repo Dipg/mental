@@ -350,6 +350,7 @@ collapsed:: true
 		- Tabla de principales estadísticos de una variable (Resumen)
 			- General
 				- ```stata
+				  sum variable
 				  ```
 			- Mas especifico (incluye Cuantiles)
 	- Múltiples variables
