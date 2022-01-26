@@ -8,6 +8,7 @@
 - #  [](#1.) Gráficas en Stata
 	- Box Plot (Grafico de Caja)
 		- ```stata
+		  graph box variable
 		  ```
 	- CAmbiar color de histograma
 	  collapsed:: true
