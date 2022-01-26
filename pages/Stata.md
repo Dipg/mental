@@ -355,7 +355,6 @@ collapsed:: true
 - # Tablas
 	- Una Variable
 		- Tabla Resumen
-		  collapsed:: true
 		  Tabla de principales estadísticos de una variable (Resumen)
 			-
 				- General
