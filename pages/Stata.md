@@ -349,11 +349,13 @@ collapsed:: true
 	- Una Variable
 		- Tabla de principales estadísticos de una variable (Resumen)
 			- General
-			  collapsed:: true
 				- ```stata
 				  sum variable
 				  ```
+				- ![image.png](../assets/image_1643215277305_0.png)
+				-
 			- Mas especifico (incluye Cuantiles)
+			  collapsed:: true
 				- ```stata
 				  summarize variable, detail
 				  ```
