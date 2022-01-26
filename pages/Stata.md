@@ -357,11 +357,15 @@ collapsed:: true
 				  ```
 	- ## Filas
 		- Obtener la primera fila
+		  collapsed:: true
 			- ``` stata
 			  list in 1
 			  ```
 		- Obtener cualquier fila según su  posición
+		  collapsed:: true
 			- ```stata
+			  *Encontramos la fila 6  de la base de datos
+			  list in 6
 			  ```
 		- Obtener Filas Especificas 
 		  collapsed:: true
