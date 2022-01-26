@@ -100,4 +100,4 @@
 				  ```
 		- # Analisisi Factorial
 			-
-	- Columnas
+	- # Columnas
