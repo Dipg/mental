@@ -416,7 +416,8 @@ collapsed:: true
 		- Tabla de Contingencia con estadísticos básicos
 			- ```stata
 			  *Puedo usar 2 variables o tres 
-			  
+			  tabulate wgtcat foreign, summarize(mpg)
+			  * Como yo la Uso 
 			  tabulate variablecategorica variablenumerica, summarize(variablenumerica)
 			  ```
 - ---
