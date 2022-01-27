@@ -499,9 +499,10 @@
 - El déficit fiscal se ha vuelto un problema estructural en el ecuador desde el año 2010
 - La deuda es una variable acumulativa (de stock) #yellow
 - El déficit es una variable de flujo
--
+- [[Ciclo Presupuestario]]
 -
 - Videos
+  collapsed:: true
 	- DONE 29 de Mayo (Introducción incidencia economica)
 	  collapsed:: true
 		- https://drive.google.com/drive/u/1/folders/1HLDI-ohR65Evt3BmWr_TSQhJw0sdXEjS
