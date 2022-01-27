@@ -75,7 +75,7 @@
 			- Ajustes para solucionar desvíos
 		- 6. Clausura y Liquidación
 			- Se da cuando se termina el año fiscal
-			- Al terminar el año fiscal cada institución
+			- Al terminar el año fiscal cada institución  cierra su presupuesto
 - 1. Planes y metas
 	- 2. Revisión de indicadores y estimación de ingresos
 		- 3. Aprobación
