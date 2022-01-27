@@ -79,9 +79,6 @@
 			- ¿Qué es la Liquidación Presupuestaria?
 				- Realizada la clausura se hace un informe económico de los resultados de la ejecución presupuestaria, este ejercicio se conoce como Liquidación Presupuestaria.
 				- Si no gasto el presupuesto establecido, este sobrante regresa a las arcas fiscales, no se acumula , incluso se te puede dar un valor menor por no haber ejecutado el presupuesto, o se me da la misma asignación presupuestaria.
-- 1. Planes y metas
-	- 2. Revisión de indicadores y estimación de ingresos
-		- 3. Aprobación
 - La asignación presupuestaria se entrega mensualmente en base a los fondos con los que cuente el estado, no se asigna el presupuesto si no hay dinero
 - # Archivos
 	- {{query documentos}}
