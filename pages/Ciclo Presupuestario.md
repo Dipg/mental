@@ -16,7 +16,7 @@
 								- El clasificador presupuestario
 									- De acuerdo a su naturaleza
 										- ![image.png](../assets/image_1643252797797_0.png)
-									- De acuerdo a su
+									- De acuerdo a su clasificación Económica
 								- **Clasificador presupuestario para el Ecuador**
 									- ![image.png](../assets/image_1643253021390_0.png)
 			- ¿Qué pasa si una obra no entra dentro de esta programación?
