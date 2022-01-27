@@ -62,7 +62,7 @@
 				- Presupuesto Codificado
 					- Es el primer presupuesto modificado , luego que la asamblea ya lo allá aprobado
 				- Presupuesto Comprometido
-					- Es el presupuesto en el cual  el gobierno atraves de documetnos se compromete a pagar ciertos rubros
+					- Es el presupuesto en el cual  el gobierno atraves de documetnos se compromete a pagar ciertos rubros, Compromisos a traves de contratos de pagos futuros de unaobra a realizar
 		- 5. Evaluación y Seguimiento
 		- 6. Clausura y Liquidación
 - 1. Planes y metas
