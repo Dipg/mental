@@ -45,7 +45,7 @@
 			- Es cuando yo incorporo las proyecciones económicas dentro de las asignaciones presupuestarias, es decir se asigna un  presupuesto según cual sea la proyección
 			- Se asigna un presupuesto en base a indicadores macroeconómicos
 		- 3. Aprobación
-			- A nivel Gubernamental la e
+			- A nivel Gubernamental la encargada de aprobar el presupueto público es:
 				- Aprueba la asamblea nacional(Entre octubre y noviembre)
 					- ¿Que pasa si no se aprueba?
 						- Entra por el ministerio de la ley
