@@ -57,11 +57,11 @@
 					- ![image.png](../assets/image_1643255833085_0.png)
 		- 4. Ejecución
 			- Lo importante de esta etapa es que distingo distintos tipos de presupuestos , el mimos presupuesto que se va modificando durante el año fiscal, estos presupuesto son
-				- Presupuesto inicial
+				- [](#1.) Presupuesto inicial
 					- Que es el valor aprobado por la Asamblea
-				- Presupuesto Codificado
+				- [](#2.)Presupuesto Codificado
 					- Es el primer presupuesto modificado , luego que la asamblea ya lo allá aprobado
-				- Presupuesto Comprometido
+				- [](#3.) Presupuesto Comprometido
 					- Es el presupuesto en el cual  el gobierno a través de documentos se compromete a pagar ciertos rubros, Compromisos a través de contratos de pagos futuros de una obra a realizar
 				- Presupuesto Devengado
 					- Es el presupuesto una vez ya se a realizado el pago, como cuando el gobierno contrata la construcción e una via y ya paga el 40% de aquello
