@@ -29,7 +29,7 @@
 											- 8- De Capital
 											- 9- De Aplicación del financiamiento
 										- **Clasificador presupuestario para el Ecuador**
-											- Es importante aprenderse los codigos de primer y segundo nivel, los de primer nive
+											- Es importante aprenderse los códigos de primer y segundo nivel, los de primer nivel son de la clasificación económica y los de segundo nivel son los de clasificación de su naturaleza
 											- ![image.png](../assets/image_1643253021390_0.png)
 			- ¿Qué pasa si una obra no entra dentro de esta programación?
 				- No se puede designar presupuesto si una obra no cosnta dentro de los objeticos o metas del P.N.D
@@ -40,5 +40,3 @@
 		- 4. Ejecución
 		- 5. Evaluación y Seguimiento
 		- 6. Clausura y Liquidación
--
--
