@@ -18,6 +18,7 @@
 										- ![image.png](../assets/image_1643252797797_0.png)
 									- De Acuerdo a su clasificación económica
 										- # Es importante aprenderse los códigos
+										- Forma de los codigod
 										- Ingresos
 											- 1 - Corrientes
 											- 2 - De capital
