@@ -17,18 +17,18 @@
 									- De acuerdo a su naturaleza
 										- ![image.png](../assets/image_1643252797797_0.png)
 									- De Acuerdo a su clasificación económica
-								- **Clasificador presupuestario para el Ecuador**
-									- ¿Cual es la clasificación Económica de los ingresos y gastos?
 										- Ingresos
 											- Corrientes
 											- De capital
 											- De Fianciamiento
-										- Gastos
-											- Corrinetes
-											- De Producción
-											- De Inversión
-											- De Capital
-											- De Aplicación del financiamiento
+										- ¿Cual es la clasificación Económica de los ingresos y gastos?
+											- Gastos
+												- Corrinetes
+												- De Producción
+												- De Inversión
+												- De Capital
+												- De Aplicación del financiamiento
+								- **Clasificador presupuestario para el Ecuador**
 									- ![image.png](../assets/image_1643253021390_0.png)
 			- ¿Qué pasa si una obra no entra dentro de esta programación?
 				- No se puede designar presupuesto si una obra no cosnta dentro de los objeticos o metas del P.N.D
