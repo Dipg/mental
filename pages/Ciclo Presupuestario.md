@@ -22,7 +22,7 @@
 											- ![image.png](../assets/image_1643254334970_0.png)
 											- ![image.png](../assets/image_1643254474006_0.png)
 											- Clasificador presupuestario #documento
-												- {{renderer :localpdfinline, }d}
+												- <object data="G:/Mi unidad/Autosync/Logmy/NewLog/assets/sd" type="application/pdf" width="100%" height="800px"></object>
 										- Ingresos
 											- 1 - Corrientes
 											- 2 - De capital
