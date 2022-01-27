@@ -234,6 +234,7 @@
 # Unidad 2 ![📑](../assets/UNIDAD_2._1637746281546_0.pdf)
 # Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
 - # Unidad 4 ![📑](../assets/Unidad_4_1637751172084_0.pdf) ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf)
+  collapsed:: true
 	- 1. Introducción
 	- collapsed:: true
 	  2. Incidencia tributaria
@@ -498,6 +499,7 @@
 - El déficit fiscal se ha vuelto un problema estructural en el ecuador desde el año 2010
 - La deuda es una variable acumulativa (de stock) #yellow
 - El déficit es una variable de flujo
+-
 -
 - Videos
 	- DONE 29 de Mayo (Introducción incidencia economica)
