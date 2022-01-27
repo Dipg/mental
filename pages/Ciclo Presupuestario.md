@@ -45,8 +45,9 @@
 			- Es cuando yo incorporo las proyecciones económicas dentro de las asignaciones presupuestarias, es decir se asigna un  presupuesto según cual sea la proyección
 			- Se asigna un presupuesto en base a indicadores macroeconómicos
 		- 3. Aprobación
+			-
 		- 4. Ejecución
 		- 5. Evaluación y Seguimiento
 		- 6. Clausura y Liquidación
 - # Archivos
-	- {{query documentos}}
+	- {{query documen
