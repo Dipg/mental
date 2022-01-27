@@ -22,7 +22,8 @@
 											- De Fianciamiento
 										- Gastos
 											- Corrinetes
-											- Producción
+											- Producción, inversión y capital
+											- De Apli
 									-
 								- **Clasificador presupuestario para el Ecuador**
 			- ¿Qué pasa si una obra no entra dentro de esta programación?
