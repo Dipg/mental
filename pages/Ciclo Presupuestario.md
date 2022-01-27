@@ -50,7 +50,7 @@
 					- ¿Que pasa si no se aprueba?
 						- Entra por el ministerio de la ley
 				- ¿Qué puede modificar la asamblea de esta propuesta de presupuesto?
-					- Puede modificar a que se designa dicho presupuesto
+					- Puede modificar a que se designa dicho presupuesto ()
 					- No puede modificar el Monto del presupuesto (No puede alteral el rubro global )
 		- 4. Ejecución
 		- 5. Evaluación y Seguimiento
