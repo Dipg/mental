@@ -4,5 +4,5 @@
 	- 3. Aprobación
 	- 4. Ejecución
 	- 5. Evaluación y Seguimiento
-	- 7. Clausura
+	- 6. Clausura y Liquidación
 -
