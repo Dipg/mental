@@ -69,7 +69,7 @@
 				- [](#5.) Presupuesto Pagado
 					- Una vez se a cumplido con el pago del 100% de servicio requerido a proveedores de vienes o servicios adquiridos
 		- 5. Evaluación y Seguimiento
-		- Es una etapa en la que se realiza evaluación y seguimiento
+		- Es una etapa en la que se realiza evaluación y seguimiento  de resultados
 		- 6. Clausura y Liquidación
 - 1. Planes y metas
 	- 2. Revisión de indicadores y estimación de ingresos
