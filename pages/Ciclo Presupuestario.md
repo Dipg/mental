@@ -51,6 +51,7 @@
 		- 6. Clausura y Liquidación
 -
 - Planes y metas
-	- Revisiónde indicadores y estimación de ingresos
+	- Revisión de indicadores y estimación de ingresos
+		- Aporbación
 - # Archivos
 	- {{query documentos}}
