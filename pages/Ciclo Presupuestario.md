@@ -61,6 +61,7 @@
 					- Que es el valor aprobado por la Asamblea
 				- Presupuesto Codificado
 					- Es el primer presupuesto modificado , luego que la asamblea ya lo allá aprobado
+				- PResupuesto COmprometido
 		- 5. Evaluación y Seguimiento
 		- 6. Clausura y Liquidación
 - 1. Planes y metas
