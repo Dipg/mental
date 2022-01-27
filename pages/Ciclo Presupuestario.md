@@ -62,7 +62,7 @@
 				- Presupuesto Codificado
 					- Es el primer presupuesto modificado , luego que la asamblea ya lo allá aprobado
 				- Presupuesto Comprometido
-					- E
+					- Es el presupuesto en el cual atraves de documetnos
 		- 5. Evaluación y Seguimiento
 		- 6. Clausura y Liquidación
 - 1. Planes y metas
