@@ -52,6 +52,6 @@
 -
 - Planes y metas
 	- Revisión de indicadores y estimación de ingresos
-		- Aporbación
+		- Aprobación
 - # Archivos
 	- {{query documentos}}
