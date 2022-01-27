@@ -5,6 +5,8 @@
 	- 4. Ejecución
 	- Evaluación
 	- Segumiento
+	- Clausura
+	- Liquidación
 	-
 	-
 	- 5. 
