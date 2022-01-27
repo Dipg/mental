@@ -22,7 +22,7 @@
 											- ![image.png](../assets/image_1643254334970_0.png)
 											- ![image.png](../assets/image_1643254474006_0.png)
 											- Clasificador presupuestario #documento
-												- <object data="G:/Otros ordenadoresMi Ordenador\Habilidades\Universidad\Fianzas Públicas\Documentos\clasificador_presupuestario.pdf" type="application/pdf" width="100%" height="800px"></object>
+												- <object data="G:/Otros ordenadores/Mi OrdenadorHabilidades\Universidad\Fianzas Públicas\Documentos\clasificador_presupuestario.pdf" type="application/pdf" width="100%" height="800px"></object>
 										- Ingresos
 											- 1 - Corrientes
 											- 2 - De capital
