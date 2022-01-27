@@ -21,13 +21,13 @@
 											- Corrientes
 											- De capital
 											- De Fianciamiento
+										- Gastos
+											- Corrinetes
+											- De Producción
+											- De Inversión
+											- De Capital
+											- De Aplicación del financiamiento
 										- ¿Cual es la clasificación Económica de los ingresos y gastos?
-											- Gastos
-												- Corrinetes
-												- De Producción
-												- De Inversión
-												- De Capital
-												- De Aplicación del financiamiento
 								- **Clasificador presupuestario para el Ecuador**
 									- ![image.png](../assets/image_1643253021390_0.png)
 			- ¿Qué pasa si una obra no entra dentro de esta programación?
