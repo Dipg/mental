@@ -8,7 +8,8 @@
 					- Es la etapa en la que  se especifican los objetivos y metas señalados en la planificación del Estado e Institucional en el P.N.D ([[Plan Nacional de Desarrollo]]). Aquí las entidades definen los programas, proyectos y actividades a incorporar en el presupuesto
 				- En especifico
 					- Se elaboran los
-						- **Catalogos**
+						- **Catálogos**
+							-
 						- **Clasificadores**
 						-
 			- ¿Qué pasa si una obra no entra dentro de esta programación?
