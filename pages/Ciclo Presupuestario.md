@@ -57,7 +57,7 @@
 					- ![image.png](../assets/image_1643255833085_0.png)
 		- 4. Ejecución
 			- Lo importante de esta etapa es que distingo distintos tipos de presupuestos , el mimos presupuesto que se va modificando durante el año fiscal, estos presupuesto son
-				- Estos presupuestos cosntan en las proformas presupuestarias .
+				- Estos presupuestos constan en las proformas presupuestarias .
 				- [](#1.) Presupuesto inicial
 					- Que es el valor aprobado por la Asamblea
 				- [](#2.)Presupuesto Codificado
