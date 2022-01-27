@@ -17,6 +17,7 @@
 									- De acuerdo a su naturaleza
 										- ![image.png](../assets/image_1643252797797_0.png)
 									- De Acuerdo a su clasificación económica
+										- #
 										- Ingresos
 											- 1 - Corrientes
 											- 2 - De capital
