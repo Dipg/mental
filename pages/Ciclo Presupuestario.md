@@ -9,6 +9,7 @@
 				- En especifico
 					- Se elaboran los
 						- **Catalogos**
+						- **cLASIFICADORES
 			- ¿Qué pasa si una obra no entra dentro de esta programación?
 				- No se puede designar presupuesto si una obra no cosnta dentro de los objeticos o metas del P.N.D
 			- ¿ Cual es el objetivo de la programación?
