@@ -1,7 +1,7 @@
 - ¿Cuales son las etapas del ciclo presupuestario?
 	- Las etapas del ciclo presupuestario son 6, que se realizan en el siguiente orden
 		- 1. Programación
-		  En donde se especi
+		  En donde se especifican los ob
 		- 2. Formulación
 		- 3. Aprobación
 		- 4. Ejecución
