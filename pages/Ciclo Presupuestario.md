@@ -41,7 +41,7 @@
 			- ¿ Cual es el objetivo de la programación?
 				- Es medir la capacidad real de ejecución de las entidades, y la capacidad de cubrir el gasto de inversión, con la finalidad de optimizar el desempeño de la inversión pública
 		- 2.Formulación
-			-
+			- Es cuando yo incorporo las estimaciones económicas
 		- 3. Aprobación
 		- 4. Ejecución
 		- 5. Evaluación y Seguimiento
