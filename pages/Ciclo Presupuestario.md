@@ -14,6 +14,7 @@
 							- Listado de uso institucional que especifica la gestión que se va a realizar tanto de donde proviene y hacia donde irán esos recursos .
 							- Uno de los clasificadores mas importantes es
 								- El clasificador presupuestario
+									-
 								- **Clasificador presupuestario para el Ecuador**
 			- ¿Qué pasa si una obra no entra dentro de esta programación?
 				- No se puede designar presupuesto si una obra no cosnta dentro de los objeticos o metas del P.N.D
