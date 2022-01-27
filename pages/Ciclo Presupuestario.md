@@ -51,7 +51,7 @@
 						- Entra por el ministerio de la ley
 				- ¿Qué puede modificar la asamblea de esta propuesta de presupuesto?
 					- Puede modificar a que se designa dicho presupuesto
-					-
+					- No puede modificar el Monto del presupuesto
 		- 4. Ejecución
 		- 5. Evaluación y Seguimiento
 		- 6. Clausura y Liquidación
