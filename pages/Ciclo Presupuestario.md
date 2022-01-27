@@ -22,6 +22,7 @@
 											- ![image.png](../assets/image_1643254334970_0.png)
 											- ![image.png](../assets/image_1643254474006_0.png)
 											- Clasificador presupuestario #documento
+											-
 										- Ingresos
 											- 1 - Corrientes
 											- 2 - De capital
