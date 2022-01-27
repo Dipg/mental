@@ -81,7 +81,7 @@
 				- Si no gasto el presupuesto establecido, este sobrante regresa a las arcas fiscales, no se acumula , incluso se te puede dar un valor menor por no haber ejecutado el presupuesto, o se me da la misma asignación presupuestaria.
 - # Cuenta única del tesoro nacional
 	- Es la cuenta donde se acumulan todos los ahorros, y los recursos de asignación que tiene el estado, esta cuenta esta en el banco central,
-	- Todos los ingresos del presupuesto general del estado se
+	- Todos los ingresos del presupuesto general del estado se gestiona a través de la cuenta unica del tesoro nacional y de alli se distri
 - La asignación presupuestaria se entrega mensualmente en base a los fondos con los que cuente el estado, no se asigna el presupuesto si no hay dinero
 - # Archivos
 	- {{query documentos}}
