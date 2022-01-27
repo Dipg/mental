@@ -72,7 +72,7 @@
 			- Es una etapa en la que se realiza evaluación y seguimiento  de resultados físicos y financieros obtendios y los efectos que estos han producido
 			- Grado de Cumplimiento de las metas y objetivos
 			- Grado de eficiencia
-			- Ajustes para solucionar desvios
+			- Ajustes para solucionar desvíos
 		- 6. Clausura y Liquidación
 - 1. Planes y metas
 	- 2. Revisión de indicadores y estimación de ingresos
