@@ -24,9 +24,9 @@
 										- Gastos
 											- 5- Corrientes
 											- 6 -De Producción
-											- De Inversión
-											- De Capital
-											- De Aplicación del financiamiento
+											- 7 -De Inversión
+											- 8- De Capital
+											- 9- De Aplicación del financiamiento
 										- **Clasificador presupuestario para el Ecuador**
 											- ![image.png](../assets/image_1643253021390_0.png)
 			- ¿Qué pasa si una obra no entra dentro de esta programación?
