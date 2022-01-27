@@ -80,7 +80,7 @@
 				- Realizada la clausura se hace un informe económico de los resultados de la ejecución presupuestaria, este ejercicio se conoce como Liquidación Presupuestaria.
 				- Si no gasto el presupuesto establecido, este sobrante regresa a las arcas fiscales, no se acumula , incluso se te puede dar un valor menor por no haber ejecutado el presupuesto, o se me da la misma asignación presupuestaria.
 - # Cuenta única del tesoro nacional
-	- Es la cuenta donde se acumulan todos los ahorros,
+	- Es la cuenta donde se acumulan todos los ahorros, y los recursos de asignación que tiene el etado
 - La asignación presupuestaria se entrega mensualmente en base a los fondos con los que cuente el estado, no se asigna el presupuesto si no hay dinero
 - # Archivos
 	- {{query documentos}}
