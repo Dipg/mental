@@ -16,7 +16,7 @@
 								- El clasificador presupuestario
 									- De acuerdo a su naturaleza
 										- ![image.png](../assets/image_1643252797797_0.png)
-									-
+									- De Acuerdo a su clasificación económica
 								- **Clasificador presupuestario para el Ecuador**
 									- ¿Cual es la clasificación Económica de los ingresos y gastos?
 										- Ingresos
