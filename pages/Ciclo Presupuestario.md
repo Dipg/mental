@@ -15,8 +15,18 @@
 							- Uno de los clasificadores mas importantes es
 								- El clasificador presupuestario
 									- De acuerdo a su naturaleza
-										- ![image.png](../assets/image_1643252797797_0.png)
-									- De acuerdo a su clasificación Económica
+									- ![image.png](../assets/image_1643252797797_0.png)
+									- ¿Cual es la clasificación Económica de los ingresos y gastos?
+										- Ingresos
+											- Corrientes
+											- De capital
+											- De Fianciamiento
+										- Gastos
+											- Corrinetes
+											- De Producción
+											- De Inversión
+											- De Capital
+											- De Aplicación del financiamiento
 								- **Clasificador presupuestario para el Ecuador**
 									- ![image.png](../assets/image_1643253021390_0.png)
 			- ¿Qué pasa si una obra no entra dentro de esta programación?
