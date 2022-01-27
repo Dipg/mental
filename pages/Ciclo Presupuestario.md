@@ -4,7 +4,7 @@
 	- Las etapas del ciclo presupuestario son 6, que se realizan en el siguiente orden
 		- 1. Programación
 			- En donde se especifican los objetivos y metas señalados en la planificación del Estado e Institucional en el P.N.D ([[Plan Nacional de Desarrollo]]). Aquí las entidades definen los programas, proyectos y actividades a incorporar en el presupuesto
-			- No se puede designar presupuesto si una obra no cosnta dentro de los objeticos o metas del P.N:
+			- No se puede designar presupuesto si una obra no cosnta dentro de los objeticos o metas del P.N.D
 		- 2.Formulación
 		- 3. Aprobación
 		- 4. Ejecución
