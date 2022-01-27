@@ -12,7 +12,7 @@
 							- Lisado de instituciones , programas y proyectos
 						- **Clasificadores**
 							- Listado de uso institucional que especifica la gestión que se va a realizar tanto de donde proviene y hacia donde irán esos recursos .
-							-
+							- Clasificador presupuestario parr el Ecuador
 			- ¿Qué pasa si una obra no entra dentro de esta programación?
 				- No se puede designar presupuesto si una obra no cosnta dentro de los objeticos o metas del P.N.D
 			- ¿ Cual es el objetivo de la programación?
