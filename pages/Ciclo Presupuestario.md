@@ -1,2 +1,1 @@
-- ¿Cuales son las etapas del ciclo presupuestario?
-	-
+- ¿Cuales son las etapas del ciclo presupuestario?1. Programación
