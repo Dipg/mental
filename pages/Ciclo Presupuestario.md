@@ -20,7 +20,9 @@
 											- Corrientes
 											- De capital
 											- De Fianciamiento
-										- De gastos
+										- Gastos
+											- Corrinetes
+											-
 									-
 								- **Clasificador presupuestario para el Ecuador**
 			- ¿Qué pasa si una obra no entra dentro de esta programación?
