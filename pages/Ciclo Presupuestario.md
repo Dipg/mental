@@ -14,7 +14,8 @@
 							- Listado de uso institucional que especifica la gestión que se va a realizar tanto de donde proviene y hacia donde irán esos recursos .
 							- Uno de los clasificadores mas importantes es
 								- El clasificador presupuestario
-									-
+									- De acuerdo a su naturaleza
+									- De tipo Economico
 									- ![image.png](../assets/image_1643252797797_0.png)
 									- ¿Cual es la clasificación Económica de los ingresos y gastos?
 										- Ingresos
