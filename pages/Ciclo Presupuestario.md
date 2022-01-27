@@ -2,7 +2,7 @@
 	- Las etapas del ciclo presupuestario son 6, que se realizan en el siguiente orden
 		- 1. Programación
 			- En donde se especifican los objetivos y metas señalados en la planificación del Estado e Institucional. Aquí las entidades definen los programas, proyectos y actividades a incorporar en el presupuesto
-		- 2. Formulación
+		- Formulación
 		- 3. Aprobación
 		- 4. Ejecución
 		- 5. Evaluación y Seguimiento
