@@ -66,7 +66,7 @@
 				- Presupuesto Devengado
 					- Es el presupuesto una vez ya se a realizado el pago, como cuando el gobierno contrata la construcción e una via y ya paga el 40% de aquello
 				- Presupuesto Pagado
-					-
+					- Una vez se a cumplido con el pago del 100% de servicio requerido
 		- 5. Evaluación y Seguimiento
 		- 6. Clausura y Liquidación
 - 1. Planes y metas
