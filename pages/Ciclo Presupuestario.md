@@ -82,6 +82,6 @@
 - 1. Planes y metas
 	- 2. Revisión de indicadores y estimación de ingresos
 		- 3. Aprobación
-- La asignación presupuestaria se entrega mensualmente en base a los fondos con los que cuente el estado, no se as
+- La asignación presupuestaria se entrega mensualmente en base a los fondos con los que cuente el estado, no se asigna el presupuesto si no hay dinero
 - # Archivos
 	- {{query documentos}}
