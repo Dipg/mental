@@ -46,4 +46,4 @@
 		- 5. Evaluación y Seguimiento
 		- 6. Clausura y Liquidación
 - # Documentos
-	- {{query  (and (documentos)    (not [[Ciclo Presupuestario]]) )  }}
+	- {{query documentos}}
