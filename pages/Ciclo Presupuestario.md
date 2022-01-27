@@ -22,7 +22,7 @@
 											- 2 - De capital
 											- 3 - De Fianciamiento
 										- Gastos
-											- Corrinetes
+											- 5- Corrientes
 											- De Producción
 											- De Inversión
 											- De Capital
