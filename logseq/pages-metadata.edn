@@ -1,6 +1,6 @@
 [{:block/name "",
-  :block/created-at 1643173121935,
-  :block/updated-at 1643173121935}
+  :block/created-at 1643243021321,
+  :block/updated-at 1643243021321}
  {:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -33,11 +33,11 @@
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
  {:block/name "../assets/chapter_1_y_2_es_1643006775158_0.pdf",
-  :block/created-at 1643173121933,
-  :block/updated-at 1643173121933}
+  :block/created-at 1643243021320,
+  :block/updated-at 1643243021320}
  {:block/name "../assets/chapter_3ç_es_1643006765502_0.pdf",
-  :block/created-at 1643173121932,
-  :block/updated-at 1643173121932}
+  :block/created-at 1643243021320,
+  :block/updated-at 1643243021320}
  {:block/name
   "../assets/dialnet-teoriaprospectiva-65981_(1)_1637533445262_0.pdf",
   :block/created-at 1638961917544,
@@ -215,17 +215,17 @@
   :block/created-at 1640183914955,
   :block/updated-at 1640183914955}
  {:block/name "[[feb 2nd, 2022",
-  :block/created-at 1643173121933,
-  :block/updated-at 1643173121933}
+  :block/created-at 1643243021320,
+  :block/updated-at 1643243021320}
  {:block/name "[[jan 24th, 2022",
-  :block/created-at 1643173121934,
-  :block/updated-at 1643173121934}
+  :block/created-at 1643243021321,
+  :block/updated-at 1643243021321}
  {:block/name "a",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
  {:block/name "análisis multivariante",
   :block/created-at 1642172083936,
-  :block/updated-at 1642172083936}
+  :block/updated-at 1643213151211}
  {:block/name "aprender",
   :block/created-at 1642950922907,
   :block/updated-at 1642950922907}
@@ -266,8 +266,8 @@
   :block/created-at 1642172083943,
   :block/updated-at 1642801989296}
  {:block/name "comida",
-  :block/created-at 1643173121932,
-  :block/updated-at 1643173121932}
+  :block/created-at 1643243021320,
+  :block/updated-at 1643243021320}
  {:block/name "comments",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -363,7 +363,7 @@
   :block/updated-at 1642172083942}
  {:block/name "economía empresarial",
   :block/created-at 1638961917544,
-  :block/updated-at 1643173076714}
+  :block/updated-at 1643237548860}
  {:block/name "economía experimental",
   :block/created-at 1642172083941,
   :block/updated-at 1642172083941}
@@ -389,14 +389,14 @@
   :block/created-at 1642172083936,
   :block/updated-at 1642975066895}
  {:block/name "english (conflict 2022-01-23-17-01-23)",
-  :block/created-at 1643173121933,
-  :block/updated-at 1643173121933}
+  :block/created-at 1643243021320,
+  :block/updated-at 1643243021320}
  {:block/name "estructura de datos",
   :block/created-at 1642950922906,
   :block/updated-at 1642950922906}
  {:block/name "evaluación de impacto",
   :block/created-at 1642172083944,
-  :block/updated-at 1642557970223}
+  :block/updated-at 1643227636186}
  {:block/name
   "evaluación del impacto de la crisis financiera del año 2008 en los países desarrollados",
   :block/created-at 1642172083943,
@@ -405,8 +405,8 @@
   :block/created-at 1643061595035,
   :block/updated-at 1643061621629}
  {:block/name "examenes",
-  :block/created-at 1643173121935,
-  :block/updated-at 1643173121935}
+  :block/created-at 1643243021321,
+  :block/updated-at 1643243021321}
  {:block/name "excel",
   :block/created-at 1642172083943,
   :block/updated-at 1642172083943}
@@ -431,8 +431,8 @@
   :block/created-at 1643061761600,
   :block/updated-at 1643063034376}
  {:block/name "factores de producción",
-  :block/created-at 1643173121935,
-  :block/updated-at 1643173121935}
+  :block/created-at 1643243021321,
+  :block/updated-at 1643243021321}
  {:block/name "favorites",
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
@@ -496,8 +496,8 @@
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
  {:block/name "hls__chapter_1_y_2_es_1643006775158_0",
-  :block/created-at 1643173121932,
-  :block/updated-at 1643173121932}
+  :block/created-at 1643243021320,
+  :block/updated-at 1643243021320}
  {:block/name
   "hls__dialnet-teoriaprospectiva-65981_(1)_1637533445262_0",
   :block/created-at 1642172083937,
@@ -631,7 +631,7 @@
   :block/updated-at 1643167870817}
  {:block/name "jan 26th, 2022",
   :block/created-at 1643155200000,
-  :block/updated-at 1643155200000}
+  :block/updated-at 1643208058155}
  {:block/name "jan 27th, 2022",
   :block/created-at 1643241600000,
   :block/updated-at 1643241600000}
@@ -814,7 +814,7 @@
   :block/updated-at 1642172083936}
  {:block/name "r",
   :block/created-at 1642172083935,
-  :block/updated-at 1642172083935}
+  :block/updated-at 1643214845100}
  {:block/name "racionalidad",
   :block/created-at 1642172083941,
   :block/updated-at 1642172083941}
@@ -856,7 +856,7 @@
   :block/updated-at 1638961917542}
  {:block/name "stata",
   :block/created-at 1641992433040,
-  :block/updated-at 1641992433040}
+  :block/updated-at 1643216855680}
  {:block/name "sueños",
   :block/created-at 1642457015620,
   :block/updated-at 1642457015620}
@@ -889,10 +889,10 @@
   :block/updated-at 1641992433040}
  {:block/name "trabajos u",
   :block/created-at 1642178166048,
-  :block/updated-at 1643150421045}
+  :block/updated-at 1643234333943}
  {:block/name "tue, 18-01-2022",
-  :block/created-at 1643173121932,
-  :block/updated-at 1643173121932}
+  :block/created-at 1643243021319,
+  :block/updated-at 1643243021319}
  {:block/name "urgente",
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
