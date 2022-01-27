@@ -52,6 +52,7 @@
 				- ¿Qué puede modificar la asamblea de esta propuesta de presupuesto?
 					- Puede modificar a que se designa dicho presupuesto (Si puede alterar los rubros internos )
 					- No puede modificar el Monto del presupuesto (No puede alteral el rubro global )
+			-
 		- 4. Ejecución
 		- 5. Evaluación y Seguimiento
 		- 6. Clausura y Liquidación
