@@ -27,9 +27,8 @@
 											- De Inversión
 											- De Capital
 											- De Aplicación del financiamiento
-										- ¿Cual es la clasificación Económica de los ingresos y gastos?
-								- **Clasificador presupuestario para el Ecuador**
-									- ![image.png](../assets/image_1643253021390_0.png)
+										- **Clasificador presupuestario para el Ecuador**
+											- ![image.png](../assets/image_1643253021390_0.png)
 			- ¿Qué pasa si una obra no entra dentro de esta programación?
 				- No se puede designar presupuesto si una obra no cosnta dentro de los objeticos o metas del P.N.D
 			- ¿ Cual es el objetivo de la programación?
