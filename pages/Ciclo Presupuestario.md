@@ -3,6 +3,8 @@
 	- 2. Formulación
 	- 3. Aprobación
 	- 4. Ejecución
+	- Evaluación
+	- Segumiento
 	-
 	-
 	- 5. 
