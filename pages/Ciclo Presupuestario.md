@@ -15,7 +15,9 @@
 							- Uno de los clasificadores mas importantes es
 								- El clasificador presupuestario
 									- ![image.png](../assets/image_1643252797797_0.png)
-									- ¿Cual es la clasificación Económica de los ingresos y gastos
+									- ¿Cual es la clasificación Económica de los ingresos y gastos?
+										- Ingresos
+											-
 									-
 								- **Clasificador presupuestario para el Ecuador**
 			- ¿Qué pasa si una obra no entra dentro de esta programación?
