@@ -82,6 +82,7 @@
 - # Cuenta única del tesoro nacional
 	- Es la cuenta donde se acumulan todos los ahorros, y los recursos de asignación que tiene el estado, esta cuenta esta en el banco central,
 	- Todos los ingresos del presupuesto general del estado se gestiona a través de la cuenta única del tesoro nacional y de allí se distribuye a los distintos gasto que tiene el Estado
+- # PResupues
 - La asignación presupuestaria se entrega mensualmente en base a los fondos con los que cuente el estado, no se asigna el presupuesto si no hay dinero
 - # Archivos
 	- {{query documentos}}
