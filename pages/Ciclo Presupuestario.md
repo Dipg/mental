@@ -49,7 +49,7 @@
 				- La asamblea nacional(Entre octubre y noviembre)
 					- ¿Que pasa si no se aprueba?
 						- Entra por el ministerio de la ley
-				-
+				- ¿Que puede mod
 		- 4. Ejecución
 		- 5. Evaluación y Seguimiento
 		- 6. Clausura y Liquidación
