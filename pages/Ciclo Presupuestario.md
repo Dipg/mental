@@ -41,11 +41,11 @@
 				- No se puede designar presupuesto si una obra no cosnta dentro de los objeticos o metas del P.N.D
 			- ¿ Cual es el objetivo de la programación?
 				- Es medir la capacidad real de ejecución de las entidades, y la capacidad de cubrir el gasto de inversión, con la finalidad de optimizar el desempeño de la inversión pública
-		- 2.Formulación
+		- 🧪 2.Formulación
 			- En esta Etapa el ministerio de finanzas CONSOLIDA la Proforma Presupuestaria
 			- Es cuando yo incorporo las proyecciones económicas dentro de las asignaciones presupuestarias, es decir se asigna un  presupuesto según cual sea la proyección
 			- Se asigna un presupuesto en base a indicadores macroeconómicos
-		- 3. Aprobación
+		- ✅ 3. Aprobación
 			- A nivel Gubernamental la encargada de aprobar el presupueto público es:
 				- La asamblea nacional(Entre octubre y noviembre)
 					- ¿Que pasa si no se aprueba?
@@ -56,7 +56,7 @@
 			- De que mas depende la aprovación del presupuesto
 				- Del tiempo en el que se encuentre el gobierno de turno
 					- ![image.png](../assets/image_1643255833085_0.png)
-		- 4. Ejecución
+		- 👷🏽 4. Ejecución
 			- Lo importante de esta etapa es que distingo distintos tipos de presupuestos , el mimos presupuesto que se va modificando durante el año fiscal, estos presupuesto son
 				- Estos presupuestos constan en las proformas presupuestarias .
 				- [](#1.) Presupuesto inicial
@@ -69,12 +69,12 @@
 					- Es el presupuesto una vez ya se a realizado el pago, como cuando el gobierno contrata la construcción e una via y ya paga el 40% de aquello
 				- [](#5.) Presupuesto Pagado
 					- Una vez se a cumplido con el pago del 100% de servicio requerido a proveedores de vienes o servicios adquiridos
-		- 5. Evaluación y Seguimiento
+		- 🔍 5. Evaluación y Seguimiento
 			- Es una etapa en la que se realiza evaluación y seguimiento  de resultados físicos y financieros obtendios y los efectos que estos han producido
 			- Grado de Cumplimiento de las metas y objetivos
 			- Grado de eficiencia
 			- Ajustes para solucionar desvíos
-		- 6. Clausura y Liquidación
+		- 🔒 6. Clausura y Liquidación
 			- Se da cuando se termina el año fiscal
 			- Al terminar el año fiscal (31 de diciembre) cada institución  cierra su presupuesto y ve cuanto a ejecutado y cuanto no
 			- ¿Qué es la Liquidación Presupuestaria?
