@@ -65,6 +65,7 @@
 					- Es el presupuesto en el cual  el gobierno a través de documentos se compromete a pagar ciertos rubros, Compromisos a través de contratos de pagos futuros de una obra a realizar
 				- Presupuesto Devengado
 					- Es el presupuesto una vez ya se a realizado el pago, como cuando el gobierno contrata la construcción e una via y ya paga el 40% de aquello
+				- Presupuesto Pagado
 		- 5. Evaluación y Seguimiento
 		- 6. Clausura y Liquidación
 - 1. Planes y metas
