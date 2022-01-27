@@ -85,7 +85,7 @@
 - # Presupuestos Públicos
 	- Del total del Presupuesto del Estado
 	- 21% de ingresos Permanentes
-	- 10% Inr
+	- 10% Ingresos No permanentes
 - La asignación presupuestaria se entrega mensualmente en base a los fondos con los que cuente el estado, no se asigna el presupuesto si no hay dinero
 - # Archivos
 	- {{query documentos}}
