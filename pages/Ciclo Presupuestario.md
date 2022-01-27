@@ -41,7 +41,7 @@
 			- ¿ Cual es el objetivo de la programación?
 				- Es medir la capacidad real de ejecución de las entidades, y la capacidad de cubrir el gasto de inversión, con la finalidad de optimizar el desempeño de la inversión pública
 		- 2.Formulación
-			- En esta Etapa el ministerio de finanzas
+			- En esta Etapa el ministerio de finanzas CONSOLIDA la Proforma Presupuestaria
 			- Es cuando yo incorporo las proyecciones económicas dentro de las asignaciones presupuestarias, es decir se asigna un  presupuesto según cual sea la proyección
 			- Se asigna un presupuesto en base a indicadores macroeconómicos
 		- 3. Aprobación
