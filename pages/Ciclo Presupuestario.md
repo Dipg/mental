@@ -3,8 +3,6 @@
 	- 2. Formulación
 	- 3. Aprobación
 	- 4. Ejecución
-	- 5. Evaluación
-	- 6. Seguimiento
+	- 5. Evaluación y Seguimiento
 	- 7. Clausura
-	- 8. Liquidación
 -
