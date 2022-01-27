@@ -49,7 +49,8 @@
 				- La asamblea nacional(Entre octubre y noviembre)
 					- ¿Que pasa si no se aprueba?
 						- Entra por el ministerio de la ley
-				- ¿Que puede modificar la asamblea de esta porpuesta de presupuesto?
+				- ¿Qué puede modificar la asamblea de esta propuesta de presupuesto?
+					- Puede modificar
 		- 4. Ejecución
 		- 5. Evaluación y Seguimiento
 		- 6. Clausura y Liquidación
