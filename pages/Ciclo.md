@@ -44,7 +44,7 @@
 			- En esta Etapa el ministerio de finanzas CONSOLIDA la Proforma Presupuestaria
 			- Es cuando yo incorporo las proyecciones económicas dentro de las asignaciones presupuestarias, es decir se asigna un  presupuesto según cual sea la proyección
 			- Se asigna un presupuesto en base a indicadores macroeconómicos
-		- 3. Aprobación
+		- Aprobación
 			- A nivel Gubernamental la encargada de aprobar el presupueto público es:
 				- La asamblea nacional(Entre octubre y noviembre)
 					- ¿Que pasa si no se aprueba?
@@ -55,7 +55,7 @@
 			- De que mas depende la aprovación del presupuesto
 				- Del tiempo en el que se encuentre el gobierno de turno
 					- ![image.png](../assets/image_1643255833085_0.png)
-		- 4. Ejecución
+		- Ejecución
 			- Lo importante de esta etapa es que distingo distintos tipos de presupuestos , el mimos presupuesto que se va modificando durante el año fiscal, estos presupuesto son
 				- Estos presupuestos constan en las proformas presupuestarias .
 				- [](#1.) Presupuesto inicial
@@ -68,7 +68,7 @@
 					- Es el presupuesto una vez ya se a realizado el pago, como cuando el gobierno contrata la construcción e una via y ya paga el 40% de aquello
 				- [](#5.) Presupuesto Pagado
 					- Una vez se a cumplido con el pago del 100% de servicio requerido a proveedores de vienes o servicios adquiridos
-		- 5. Evaluación y Seguimiento
+		- Evaluación y Seguimiento
 			- Es una etapa en la que se realiza evaluación y seguimiento  de resultados físicos y financieros obtendios y los efectos que estos han producido
 			- Grado de Cumplimiento de las metas y objetivos
 			- Grado de eficiencia
