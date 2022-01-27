@@ -45,7 +45,7 @@
 			- En esta Etapa el ministerio de finanzas CONSOLIDA la Proforma Presupuestaria
 			- Es cuando yo incorporo las proyecciones económicas dentro de las asignaciones presupuestarias, es decir se asigna un  presupuesto según cual sea la proyección
 			- Se asigna un presupuesto en base a indicadores macroeconómicos
-		- 3. Aprobación
+		- ✅ 3. Aprobación
 			- A nivel Gubernamental la encargada de aprobar el presupueto público es:
 				- La asamblea nacional(Entre octubre y noviembre)
 					- ¿Que pasa si no se aprueba?
