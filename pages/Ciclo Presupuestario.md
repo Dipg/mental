@@ -23,7 +23,8 @@
 										- Gastos
 											- Corrinetes
 											- De Producción
-											- De Inversión y capital
+											- De Inversión
+											- De Capital
 											- De Aplicación del financiamiento
 								- **Clasificador presupuestario para el Ecuador**
 									- ![image.png](../assets/image_1643253021390_0.png)
