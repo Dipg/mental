@@ -11,7 +11,7 @@
 						- **Catálogos**
 							- Lisado de instituciones , programas y proyectos
 						- **Clasificadores**
-							- Listado de uso institucional
+							- Listado de uso institucional que especifica la gesti
 			- ¿Qué pasa si una obra no entra dentro de esta programación?
 				- No se puede designar presupuesto si una obra no cosnta dentro de los objeticos o metas del P.N.D
 			- ¿ Cual es el objetivo de la programación?
