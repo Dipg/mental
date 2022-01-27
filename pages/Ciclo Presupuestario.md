@@ -1,6 +1,6 @@
-- ¿Qué es?
+- # ¿Qué es?
 	- Es el que se debe cumplir para armar un presupuesto
-- ¿Cuales son las etapas del ciclo presupuestario?
+- # ¿Cuales son las etapas del ciclo presupuestario?
 	- Son 6,  en el orden:
 		- 1. Programación
 			- ¿Que se realiza en la etapa de programación?
