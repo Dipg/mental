@@ -64,7 +64,7 @@
 				- Presupuesto Comprometido
 					- Es el presupuesto en el cual  el gobierno a través de documentos se compromete a pagar ciertos rubros, Compromisos a través de contratos de pagos futuros de una obra a realizar
 				- Presupuesto Devengado
-				-
+					- e
 		- 5. Evaluación y Seguimiento
 		- 6. Clausura y Liquidación
 - 1. Planes y metas
