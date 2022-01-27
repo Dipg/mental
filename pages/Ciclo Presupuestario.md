@@ -1,1 +1,1 @@
-- Es un conunto de etapas
+- Es un conjunto de etapas
