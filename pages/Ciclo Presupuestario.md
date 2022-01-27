@@ -74,7 +74,7 @@
 			- Grado de Cumplimiento de las metas y objetivos
 			- Grado de eficiencia
 			- Ajustes para solucionar desvíos
-		- 6. Clausura y Liquidación
+		- 🔒 6. Clausura y Liquidación
 			- Se da cuando se termina el año fiscal
 			- Al terminar el año fiscal (31 de diciembre) cada institución  cierra su presupuesto y ve cuanto a ejecutado y cuanto no
 			- ¿Qué es la Liquidación Presupuestaria?
