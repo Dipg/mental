@@ -76,7 +76,7 @@
 		- 6. Clausura y Liquidación
 			- Se da cuando se termina el año fiscal
 			- Al terminar el año fiscal (31 de diciembre) cada institución  cierra su presupuesto y ve cuanto a ejecutado y cuanto no
-			-
+			- Realizada la clausura se hace un informe económico de los resultados
 - 1. Planes y metas
 	- 2. Revisión de indicadores y estimación de ingresos
 		- 3. Aprobación
