@@ -74,6 +74,7 @@
 			- Grado de eficiencia
 			- Ajustes para solucionar desvíos
 		- 6. Clausura y Liquidación
+			-
 - 1. Planes y metas
 	- 2. Revisión de indicadores y estimación de ingresos
 		- 3. Aprobación
