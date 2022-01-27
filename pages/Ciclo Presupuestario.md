@@ -78,7 +78,7 @@
 			- Al terminar el año fiscal (31 de diciembre) cada institución  cierra su presupuesto y ve cuanto a ejecutado y cuanto no
 			- ¿Qué es la Liquidación Presupuestaria?
 				- Realizada la clausura se hace un informe económico de los resultados de la ejecución presupuestaria, este ejercicio se conoce como Liquidación Presupuestaria.
-				- Si no gasto el presupuesto establecido, este sobrante regresas
+				- Si no gasto el presupuesto establecido, este sobrante regresa a las arcas fiscales
 - 1. Planes y metas
 	- 2. Revisión de indicadores y estimación de ingresos
 		- 3. Aprobación
