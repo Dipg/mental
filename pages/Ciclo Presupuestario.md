@@ -56,7 +56,7 @@
 				- Del tiempo en el que se encuentre el gobierno de turno
 					- ![image.png](../assets/image_1643255833085_0.png)
 		- 4. Ejecución
-			- Lo importante de esta etapa es que distingo distintos tipos de presupuestos , el mimos presupuesto que se va modificando durante el año fiscal
+			- Lo importante de esta etapa es que distingo distintos tipos de presupuestos , el mimos presupuesto que se va modificando durante el año fiscal: estos
 		- 5. Evaluación y Seguimiento
 		- 6. Clausura y Liquidación
 - 1. Planes y metas
