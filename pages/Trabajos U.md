@@ -11,7 +11,7 @@
 - DONE 🧪 Opta I [[Jan 24th, 2022]]
 - TODO 🧪 Escritura [[Jan 27th, 2022]]
 - #urgente
-- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Jan 25th, 2022]]
+- TODO Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Jan 27]]
 - TODO Trabajo Final de escritura [[Jan 28th, 2022]]
 - DONE [#C] Aplicación análisis de correspondencia  [[Jan 25th, 2022]]
   :LOGBOOK:
