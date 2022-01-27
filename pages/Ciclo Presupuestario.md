@@ -2,8 +2,8 @@
 	- Es el que se debe cumplir para armar un presupuesto
 - # ¿Cuales son las etapas del ciclo presupuestario?
 	- Son 6,  en el orden:
-		- id:: 61f22443-235c-4127-9c40-81146ce8ce00
-		  1.  Programación
+		- 🧑🏽‍💻 1. Programación
+		  id:: 61f22443-235c-4127-9c40-81146ce8ce00
 			- ¿Que se realiza en la etapa de programación?
 				- En general
 					- Es la etapa en la que  se especifican los objetivos y metas señalados en la planificación del Estado e Institucional en el P.N.D ([[Plan Nacional de Desarrollo]]). Aquí las entidades definen los programas, proyectos y actividades a incorporar en el presupuesto
