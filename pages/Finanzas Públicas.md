@@ -171,26 +171,20 @@
 	  collapsed:: true
 		- Tributación Uniforme
 			- Precio del Impuesto
-			-
-			  $$1/N$$
+			- $$1/N$$
 			- Deuda Tributaria,  parte de multiplicar el gasto per cápita $$\frac{G}{N}$$ por el Precio en impuestos $$1/N$$
-			-
-			  $$\frac{G}{N ^{ 2}}$$
+			- $$\frac{G}{N ^{ 2}}$$
 			- Mayor es el efecto renta,  los ricos usan mas bienes públicos
 			-
 		- Tributación Proporcional
 		  collapsed:: true
 			- Todos pagan el mismo porcentaje de la renta
-			-
-			  $$Renta \,Total : N\overline Y$$
-			-
-			  $$Ingreso \, Total \, del \, Estado : tN \overline Y$$
+			- $$Renta \,Total : N\overline Y$$
+			- $$Ingreso \, Total \, del \, Estado : tN \overline Y$$
 			- Se supone que el ingreso es igual al gasto
-			-
-			  $$Tipo \, impositivo: \frac{G}{N \overline Y}$$
+			- $$Tipo \, impositivo: \frac{G}{N \overline Y}$$
 			- Multiplicamos el tipo impositivo antes encontrado que se representa con $t$ por la renta que tienen esos individuos $$Y_i$$
-			-
-			  $$Deuda\,  tributaria: \, t Y_i=\frac{GY_i}{N \overline Y}$$
+			- $$Deuda\,  tributaria: \, t Y_i=\frac{GY_i}{N \overline Y}$$
 			- Efecto sustitución es mayor al efecto renta
 		- Tributación Progresiva
 		  collapsed:: true
