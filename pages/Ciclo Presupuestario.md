@@ -3,10 +3,10 @@
 	- 2. Formulación
 	- 3. Aprobación
 	- 4. Ejecución
-	- Evaluación
-	- Segumiento
-	- Clausura
-	- Liquidación
+	- 5. Evaluación
+	- 6. Segumiento
+	- 7. Clausura
+	- 8. Liquidación
 	-
 	-
 	- 5. 
