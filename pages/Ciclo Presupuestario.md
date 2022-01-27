@@ -56,6 +56,7 @@
 				- Del tiempo en el que se encuentre el gobierno de turno
 					- ![image.png](../assets/image_1643255833085_0.png)
 		- 4. Ejecución
+			-
 		- 5. Evaluación y Seguimiento
 		- 6. Clausura y Liquidación
 - 1. Planes y metas
