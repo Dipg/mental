@@ -12,15 +12,40 @@
 						- **Catálogos**
 							- Lisado de instituciones , programas y proyectos
 						- **Clasificadores**
+							- Listado de uso institucional que especifica la gestión que se va a realizar tanto de donde proviene y hacia donde irán esos recursos .
+							- Uno de los clasificadores mas importantes es
+								- El clasificador presupuestario
+									- De acuerdo a su naturaleza
+										- ![image.png](../assets/image_1643252797797_0.png)
+									- De Acuerdo a su clasificación económica
+										- # Es importante aprenderse los códigos
+										- Forma de los códigos, cada uno cuenta con 6 digitos
+											- ![image.png](../assets/image_1643254334970_0.png)
+											- ![image.png](../assets/image_1643254474006_0.png)
+											- Clasificador presupuestario #documento
+												- <object data="G:/Otros ordenadores/Mi Ordenador/Habilidades/Universidad/Fianzas Públicas/Documentos/clasificador_presupuestario.pdf" type="application/pdf" width="100%" height="800px"></object>
+										- Ingresos
+											- 1 - Corrientes
+											- 2 - De capital
+											- 3 - De Fianciamiento
+										- Gastos
+											- 5- Corrientes
+											- 6 -De Producción
+											- 7 -De Inversión
+											- 8- De Capital
+											- 9- De Aplicación del financiamiento
+										- **Clasificador presupuestario para el Ecuador**
+											- Es importante aprenderse los códigos de primer y segundo nivel, los de primer nivel son de la clasificación económica y los de segundo nivel son los de clasificación de su naturaleza
+											- ![image.png](../assets/image_1643253021390_0.png)
 			- ¿Qué pasa si una obra no entra dentro de esta programación?
 				- No se puede designar presupuesto si una obra no cosnta dentro de los objeticos o metas del P.N.D
 			- ¿ Cual es el objetivo de la programación?
 				- Es medir la capacidad real de ejecución de las entidades, y la capacidad de cubrir el gasto de inversión, con la finalidad de optimizar el desempeño de la inversión pública
-		- 🧪 2.Formulación
+		- 2.Formulación
 			- En esta Etapa el ministerio de finanzas CONSOLIDA la Proforma Presupuestaria
 			- Es cuando yo incorporo las proyecciones económicas dentro de las asignaciones presupuestarias, es decir se asigna un  presupuesto según cual sea la proyección
 			- Se asigna un presupuesto en base a indicadores macroeconómicos
-		- ✅ 3. Aprobación
+		- 3. Aprobación
 			- A nivel Gubernamental la encargada de aprobar el presupueto público es:
 				- La asamblea nacional(Entre octubre y noviembre)
 					- ¿Que pasa si no se aprueba?
@@ -31,7 +56,7 @@
 			- De que mas depende la aprovación del presupuesto
 				- Del tiempo en el que se encuentre el gobierno de turno
 					- ![image.png](../assets/image_1643255833085_0.png)
-		- 👷🏽 4. Ejecución
+		- 4. Ejecución
 			- Lo importante de esta etapa es que distingo distintos tipos de presupuestos , el mimos presupuesto que se va modificando durante el año fiscal, estos presupuesto son
 				- Estos presupuestos constan en las proformas presupuestarias .
 				- [](#1.) Presupuesto inicial
@@ -44,12 +69,12 @@
 					- Es el presupuesto una vez ya se a realizado el pago, como cuando el gobierno contrata la construcción e una via y ya paga el 40% de aquello
 				- [](#5.) Presupuesto Pagado
 					- Una vez se a cumplido con el pago del 100% de servicio requerido a proveedores de vienes o servicios adquiridos
-		- 🔍 5. Evaluación y Seguimiento
+		- 5. Evaluación y Seguimiento
 			- Es una etapa en la que se realiza evaluación y seguimiento  de resultados físicos y financieros obtendios y los efectos que estos han producido
 			- Grado de Cumplimiento de las metas y objetivos
 			- Grado de eficiencia
 			- Ajustes para solucionar desvíos
-		- 🔒 6. Clausura y Liquidación
+		- 6. Clausura y Liquidación
 			- Se da cuando se termina el año fiscal
 			- Al terminar el año fiscal (31 de diciembre) cada institución  cierra su presupuesto y ve cuanto a ejecutado y cuanto no
 			- ¿Qué es la Liquidación Presupuestaria?
