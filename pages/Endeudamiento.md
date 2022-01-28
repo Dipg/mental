@@ -71,6 +71,7 @@
 				- Si el deficit fiscal no es estacionario
 				- ¿Qué pasa cuando existe sostenibilidad débil?
 					- Implica problemas en el futuro
-					- Efectos negativos sobre el crec
+					- Efectos negativos sobre el crecimiento economico
+					-
 -
 - La deuda se incluye dentro del sector público no financiero SPNF
