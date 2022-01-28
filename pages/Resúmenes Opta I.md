@@ -2,3 +2,5 @@
 - ![The impact of oil and natural gas facilitieson rural residential property values:a spatial hedonic analysis](../assets/Boxal_et_al-2005-The-impact-of-oil_1641817366109_0.pdf)  (pag 22)
 -
 - ![Boxal_et_al-2005-The-impact-of-oil (1) es.pdf](../assets/Boxal_et_al-2005-The-impact-of-oil_(1)_es_1643385077321_0.pdf)
+-
+-
