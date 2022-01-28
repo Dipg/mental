@@ -8,3 +8,7 @@
   ls-type:: annotation
   hl-page:: 4
   id:: 61f41e3a-9dd9-4db1-b8b8-fb99ca6a3a1d
+- utilizamos modelos de dependencia espacial para evaluar con precisión las compras transfronterizas entre Kansas y cada una de las cinco regiones fronterizas. Los modelos de dependencia espacial, a veces denominados "autocorrelación espacial", aún no han sido ampliamenteaplicada a los problemas de las finanzas públicas regionales.6
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 61f41e6b-095c-4f4f-bd5a-74766bf503dc
