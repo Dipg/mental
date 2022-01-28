@@ -80,6 +80,6 @@
 				- Cuando el deficit fiscal , o las variables de deuda como tal tiene ordenes de cointegración mayores que uno
 		- Restricción presupuestaria intertemporal
 			- ![image.png](../assets/image_1643372539884_0.png)
-		-
+		- Revisión tecnica de sostenibilidad e la ded
 -
 - La deuda se incluye dentro del sector público no financiero SPNF
