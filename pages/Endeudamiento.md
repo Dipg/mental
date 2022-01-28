@@ -26,5 +26,6 @@
 		- Contrae siempre el ahorro privado, ya que el nivel de endeudamiento esta cubierto con este ahorro privado de la poblacón
 		- El ahorro privado se  optine mediante
 			- PIB - Impuestos pagados - consumo
-		-
+		- # Equivalencia Ricardiana
+			-
 -
