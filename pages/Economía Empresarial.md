@@ -54,7 +54,7 @@
 				- Procedemos a logaritmizar las variables que se usaran parar estimar la frontera de costos, permitiéndonos  esto una breve descripción de las relaciones entre las variables.
 				- ![image.png](../assets/image_1643168342536_0.png){:height 474, :width 654}
 				- Tratando de diferenciar y dar relevancia al bloque de empresas seleccionadas, comparamos el total de ingresos por ventas de todo el sector, en el que se puede observar en la grafica anterior  existe en general una relación directa entre el activo y las ventas, echo que se esperaba, sin embargo  como se puede observar en el grafico,  el valor de netas no siempre incrementa con mayores activos fijos, lo que nos podría dar leve indicio de que empresas en el mismo sector por mas activos fijos tengan, no se genera mayor valor de venta,, es preciso recordar que se esta usando los ingresos generados por ventas, tratando de excluir así ingresos de otra índole, como los financieros. Sin embargo en la siguiente grafica observamos la misma relación, pero en esta ocasión con los datos seccionados.
-				- ![image.png](../assets/image_1643169427172_0.png)
+				- ![image.png](../assets/image_1643169427172_0.png){:height 487, :width 654}
 				- La relación muestra un comportamiento casi lineal, por lo cual con las empresas seleccionadas se podría mencionar que un nivel de activos fijos no genera un nivel de ventas  mayor, siendo esto ineficiente, echo que en un  principio, nuevamente, no se podría generalizar por el numero de empresas observadas, pero es un punto de partida.
 				- Por el lado de la varíale trabajo, se eligió como proxy los costos de sueldos y salarios, mismo que se establecen con intervención directa o indirecta en la producción.
 				- ![image.png](../assets/image_1643171333536_0.png)
