@@ -20,4 +20,4 @@
 		- Exixste menos estock de capital privado, pero el stock de captal total auemntara
 		- ¿Qué efectos provocaría el nivel de endeudamiento según este modelo?
 			- Efecto de expulsión
-				- Alteración del tipo de interés (Se generan mayores tipos de interés en la economía,
+				- Alteración del tipo de interés (Se generan mayores tipos de interés en la economía, aumentando asi el precio del crédito
