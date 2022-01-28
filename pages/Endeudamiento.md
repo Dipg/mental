@@ -66,7 +66,7 @@
 				- Cuando existe estacionariedad del deficit fiscal, con esto existiría la condición fuerte de deuda
 				- ¿Qué pasa cuando se da esta sostenibilidad fuerte ?
 					- No existiría problemas en el futuro
-					- No existe la necesisda dde
+					- No existe la necesisda dde formular reformas fiscales de caracter estructural
 			- Condición leve (Existe insostenibilidad de endeudamiento)
 				- Si el deficit fiscal no es estacionario
 -
