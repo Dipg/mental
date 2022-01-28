@@ -45,4 +45,4 @@
 			- ![image.png](../assets/image_1643370447142_0.png)
 			- e = Elasticidad del trabajo ante los cambios  en el salario
 			- w = nivel de salarios
-			-
+			- L= Numero de Horas trabajadas
