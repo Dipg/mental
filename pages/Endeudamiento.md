@@ -38,6 +38,6 @@
 		- Cuando se paga mas de lo que se debe en un impuesto
 		- Caundo se aplican muchos impuestos, la emisión de deuda se haga en pagos pequeños a lo largo del tiempo
 		- Con el fin de hacer frente a los intereses resultantes de la deuda
-		- ¿Uqe gerna el exceso de Gravamen ?
-			- Distorsiona la oferta de trabao
+		- ¿Que genera na el exceso de Gravamen ?
+			- Distorsiona la oferta de trabajo
 -
