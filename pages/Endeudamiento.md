@@ -18,4 +18,4 @@
 		- Totalmente en contra del nivel de endeudamiento de un país
 		- No importa si un proyecto es financiado mediante impuestos, o mediante un prestamos. SE DETRAEN RECURSOS DEL SECTOR PRIVADO
 		- Exixste menos estock de capital privado, pero el stock de captal total auemntara
-		-
+		- ¿Que efectos proboca
