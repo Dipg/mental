@@ -57,7 +57,7 @@
 				- ![image.png](../assets/image_1643169427172_0.png){:height 487, :width 654}
 				- La relación muestra un comportamiento casi lineal, por lo cual con las empresas seleccionadas se podría mencionar que un nivel de activos fijos no genera un nivel de ventas  mayor, siendo esto ineficiente, echo que en un  principio, nuevamente, no se podría generalizar por el numero de empresas observadas, pero es un punto de partida.
 				- Por el lado de la varíale trabajo, se eligió como proxy los costos de sueldos y salarios, mismo que se establecen con intervención directa o indirecta en la producción.
-				- ![image.png](../assets/image_1643171333536_0.png)
+				- ![image.png](../assets/image_1643171333536_0.png){:height 76, :width 656}
 				- Es de interés mencionar  que existe una gran variación de los sueldos en los datos, ya que mientras  existen empresas que llegan al millón de dólares en estos costos de salarios, otras no superan los $ 1500.
 				- Por ultimo revisamos la variable de mayor  relevancia en esta estimación, el costo, esta variable recoge los costos totales de producción de una empresa
 				- ![image.png](../assets/image_1643171777200_0.png)
