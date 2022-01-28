@@ -86,7 +86,7 @@
 - Indicadores de Sostenibilidad Fiscal
 	- Indicador de Blancheard (Indicador de patrimonio brecha ) (brecha de recaudación tributaria )
 		- No indica cual es el nivel de carga tributaria  que necesitamos para dar sostenibilidad a nuestra finanzas
-		- Si es negativo existe
+		- Si es negativo existe  insostenibilidad de la deuda
 - La deuda se incluye dentro del sector público no financiero SPNF
 - Servicio de deuda , cuanto anualmente destino a pagar deuda
 - EL valor presente de la deuda actual , cuanto yo actualmente tengo de deuda
