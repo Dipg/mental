@@ -7,5 +7,5 @@
 		- Esta  se basa en que la [[Deuda Interna]] no genera ningún tipo de carga  tributaria  para la siguiente generación porque todas las generaciones tienen la misma capacidad de consumo
 		- No genera deuda acumulativa para la población
 		- ¿Cuándo menciona Lerner que la combinación de deuda y gasto beneficiaria a la generación siguiente?
-			- Cuando los rendimiento marginales de inversiñon son mayores que el coste a
+			- Cuando los rendimiento marginales de inversiñon son mayores que el coste marginal de los fondos obtenidos en el extrangero
 -
