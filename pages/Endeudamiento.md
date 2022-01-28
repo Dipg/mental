@@ -63,7 +63,7 @@
 	- ¿Cómo se analiza el tema de sostenibilidad?
 		- Quintos (1995) menciona 2 condiciones del nivel de endeudamiento
 			- Condición fuerte de endeudamiento  (existe sostenibilidad fiscal )
-				- cUA
+				- Cuando existe estacionariedad del deficit fiscal
 			- Condición leve
 -
 - La deuda se incluye dentro del sector público no financiero SPNF
