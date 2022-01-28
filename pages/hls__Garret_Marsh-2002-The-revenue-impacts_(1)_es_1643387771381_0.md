@@ -28,3 +28,7 @@
   ls-type:: annotation
   hl-page:: 17
   id:: 61f42246-2713-4240-8597-412542cb5c96
+- no  parece  haber  una  ganancia  o  pérdida  significativa  de  dólares  de  lotería  entre Kansas y Colorado y Missour
+  ls-type:: annotation
+  hl-page:: 17
+  id:: 61f42273-dbed-4bc4-8c23-1fcb20d2b63e
