@@ -75,6 +75,6 @@
 					- Haciendo necesarias ciertas reformas fiscales , para incrementar el saldo presupuestario
 						- Mas impuestos
 						- Menos gasto publico en salud y educación
-						-
+						- Venta de activos fijos del estado
 -
 - La deuda se incluye dentro del sector público no financiero SPNF
