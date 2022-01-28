@@ -73,6 +73,6 @@
 					- Implica problemas en el futuro
 					- Efectos negativos sobre el crecimiento económico
 					- Haciendo necesarias ciertas reformas fiscales , para incrementar el saldo presupuestario
-						-
+						- Mas impuestos
 -
 - La deuda se incluye dentro del sector público no financiero SPNF
