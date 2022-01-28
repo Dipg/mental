@@ -72,6 +72,6 @@
 				- ¿Qué pasa cuando existe sostenibilidad débil?
 					- Implica problemas en el futuro
 					- Efectos negativos sobre el crecimiento economico
-					-
+					- Haciendo necesarias ciertas reformas fiscales
 -
 - La deuda se incluye dentro del sector público no financiero SPNF
