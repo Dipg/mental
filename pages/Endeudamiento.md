@@ -17,4 +17,4 @@
 	- Modelo Neoclásico
 		- Totalmente en contra del nivel de endeudamiento de un país
 		- No importa si un proyecto es financiado mediante impuestos, o mediante un prestamos. SE DETRAEN RECURSOS DEL SECTOR PRIVADO
-		- Exixste
+		- Exixste menos estock de capital privado
