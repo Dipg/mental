@@ -1,3 +1,3 @@
 - Principales efectos de elevados niveles de deuda
 	- Inflación
-		- Cuando hay deficit a unica fuente que se
+		- Cuando hay déficit a única fuente que se tiene en cuenta son los impuestos
