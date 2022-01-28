@@ -78,6 +78,6 @@
 						- Venta de activos fijos del estado
 			- ¿Cual es otra forma de probar un nivel débil de sostenibilidad e la deuda ?
 				- Cuando el deficit fiscal , o las variables de deuda como tal tiene ordenes de cointegración mayores que uno
-		-
+		- Restricci
 -
 - La deuda se incluye dentro del sector público no financiero SPNF
