@@ -62,7 +62,7 @@
 		- Afectando por ende a la Demanda de la actividad económica
 	- ¿Cómo se analiza el tema de sostenibilidad?
 		- Quintos (1995) menciona 2 condiciones del nivel de endeudamiento
-			- Condición fuerte de endeudamiento  (existe sostenibilidad fiscal )
+			- Condición fuerte de endeudamiento  (existe sostenibilidad fiscal , soste)
 				- Cuando existe estacionariedad del deficit fiscal
 			- Condición leve
 -
