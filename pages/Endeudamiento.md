@@ -30,5 +30,5 @@
 			- La deuda publica es equivalente a impuestos de suma fija si no redistribuye recursos entre generaciones si no se distribuye  entre generaciones
 			-
 	- Principio de Beneficio
-		- Todos los sectores sociales que son beneficiaros de la deuda publica , son los uqee deben àgar el nivel de endeudamiento
+		- Todos los sectores sociales que son beneficiaros de la deuda publica , son los que deben pàgar el nivel de endeudamiento
 -
