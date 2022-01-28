@@ -24,3 +24,4 @@
 	- Modelo ricardiano
 		- Siempre las generaciones siguientes pagan el nivel de adeudamiento actual
 		- Contrae siempre el ahorro privado
+-
