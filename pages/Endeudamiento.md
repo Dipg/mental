@@ -13,4 +13,4 @@
 			-
 	- Modelo de generaciones Solapadas
 		- Proponen que el endeudamiento se pasa de una generación a otra
-		- Compara cuanto pagasmo de impuestos
+		- Compara cuanto pagasmo de impuestos , con las transferencias que recibimos del estado , como edu
