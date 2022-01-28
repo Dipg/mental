@@ -46,3 +46,4 @@
 			- e = Elasticidad del trabajo ante los cambios  en el salario
 			- w = nivel de salarios
 			- L= Numero de Horas trabajadas  o de trabajo
+			- t= tipo impositivo al cuadrado
