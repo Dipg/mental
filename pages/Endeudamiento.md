@@ -5,4 +5,5 @@
 - ¿Cuales son las posturas ante el manejo de la deuda?
 	- Postura de Lerner
 		- Esta  se basa en que la [[#red]]==deuda interna== no genera ningún tipo de[[#red]]== carga  tributaria== para la siguiente generación porque todas las generaciones tienen la misma capacidad de consumo
+		- No genera deuda acumulativa para la población
 -
