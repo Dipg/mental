@@ -6,4 +6,5 @@
 	- Postura de Lerner
 		- Esta  se basa en que la [[Deuda Interna]] no genera ningún tipo de carga  tributaria  para la siguiente generación porque todas las generaciones tienen la misma capacidad de consumo
 		- No genera deuda acumulativa para la población
+		- ¿
 -
