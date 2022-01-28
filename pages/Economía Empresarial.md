@@ -2,8 +2,7 @@
   id:: 61ee2013-ba01-4b4c-ba53-dc30f15e62e5
   collapsed:: true
 	- La frontera de producción parte de la siguiente expresión
-		-
-		  $$
+		- $$
 		  \ln \left(q_{i}\right)=\beta_{0}+\sum_{j=1}^{k} \beta_{j} \ln \left(z_{j i}\right)+\left(v_{i}\right)-u_{i}
 		  $$
 		- Donde:
@@ -16,8 +15,7 @@
 		- Expresión Matematica
 			- La frontera de costo parte de la siguiente expresión
 			  id:: 61ee1ef1-069d-4085-a8d8-5d61c255b089
-			-
-			  $$
+			- $$
 			  \ln \left(c_{i}\right)=\beta_{0}+\beta_{q} \ln \left(q_{i}\right)+\sum_{j=1}^{k} \beta_{j} \ln \left(p_{j i}\right) \text { 㐲 } v_{i}+u_{i}
 			  $$
 			- Donde
@@ -26,8 +24,7 @@
 				- $ln(p_{ji})$ : Es el logaritmo del precio de los insumos Capital, Trabajo, etc, medido en dólares a diferencia de la estimación de la ((61ee2013-ba01-4b4c-ba53-dc30f15e62e5))
 		- Estimación
 			- Interpretación de resultados
-				-
-				  $$
+				- $$
 				  \lambda=\sigma_{u} / \sigma_{v}
 				  $$
 				- Si $\lambda$ es mayor a uno , esto quiere decir que la desviación estándar debido a la ineficiencia es mayor que la desviación estándar debido a un componente idiosincrático o aleatorio, es decir la ineficiencia se debe mas a términos internos de la empresa
@@ -49,7 +46,7 @@
 					- Precio del Capital: Se tomo el total de Activos fijos
 				- # 2. Descripción de los datos
 				- La base de datos contaba inicialmente con un tota de 49829 empresas, misma de la cual se eliminaron aquellas empresas que no contaran con registro de las variables utilizadas para la estimación, quedando así un total 1202  observaciones,  de las cuales se filtro el sector manufacturero. Dentro de este sector se busco aquellas empresas que cuenten con un activo fijo similar, por lo cual se generaron 4 bloques de empresas según su valor de activo fijo, esto ya que en la industria manufacturera uno de los principales aspectos es su alta inversión en activos fijos necesarios para la generación de productos. Al realizar la división menciona se seleccionamos  aquellas empresas que consten con  el segundo 25% de empresas  según sus Activos fijos, esto ya que el primer bloque presenta empresas que tiene como activos fijos valores de  $30 o similares, haciendo poco valido este primer bloque. En las graficas 1 y 2 se puede observar el principal motivo de la generación de bloques, la gran diferenciación de activos fijos de las empresas.
-				- ![image.png](../assets/image_1643159885800_0.png){:height 360, :width 435}
+				- ![image.png](../assets/image_1643159885800_0.png){:height 330, :width 435}
 				- ![image.png](../assets/image_1643165569826_0.png){:height 282, :width 427}
 				- Una vez definido el conjunto de datos, se puede comenzar a obtener simples estadísticas exploratorias del mismo, en la tabla 1 se evidencia esto. Los datos para el sector manufacturero del bloque 2 generado  cuenta con un numero de 30 empresas. Mismas que en su conjunto tienen un promedio de Activos fijos de 208 mil dólares dólares
 				- ![image.png](../assets/image_1643165534065_0.png)
