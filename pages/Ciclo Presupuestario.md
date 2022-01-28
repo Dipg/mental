@@ -93,6 +93,8 @@
 	- Cuan eficientes son los goiern
 	- Las cedulas presupuestarias
 		- Incluye a detalla ingresos y gastos
+	- Cualitativo
+	-
 -
 - # Archivos
 	- {{query documento}}
