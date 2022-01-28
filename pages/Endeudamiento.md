@@ -1,2 +1,2 @@
-- Principales efectos de elevados
-	- Inflaciín
+- Principales efectos de elevados niveles de deuda
+	- Inflación
