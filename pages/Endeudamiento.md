@@ -39,5 +39,5 @@
 		- Caundo se aplican muchos impuestos, la emisión de deuda se haga en pagos pequeños a lo largo del tiempo
 		- Con el fin de hacer frente a los intereses resultantes de la deuda
 		- ¿Uqe gerna el exceso de Gravamen ?
-			- Distoriona la
+			- Distorsiona la oferta de trabao
 -
