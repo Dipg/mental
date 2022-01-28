@@ -1,0 +1,1 @@
+- ![sdf](G:/Mi unidad/Autosync/Logmy/NewLog/assets/sdf)
