@@ -41,6 +41,6 @@
 		- ¿Qué genera el exceso de Gravamen ?
 			- Distorsiona la oferta de trabajo
 			-
-		- ¿Como calculamos el exceso de Gravamen
+		- ¿Como calculamos el exceso de Gravamen?
 			- ![image.png](../assets/image_1643370447142_0.png)
 -
