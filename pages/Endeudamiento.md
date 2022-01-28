@@ -13,4 +13,4 @@
 			-
 	- Modelo de generaciones Solapadas
 		- Proponen que el endeudamiento se pasa de una generación a otra
-		- Compara canto
+		- Compara cuanto pagasmo de impuestos
