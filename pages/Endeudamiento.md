@@ -53,3 +53,4 @@
 		- Cuando el desempleo es muy bajo, el endeudamiento puede causar inflación.
 - Sostenibilidad fiscal del endeudamiento (Sostenibilidad de la deuda )
 	- Tenemos que cubrir una cierta cantidad de dinero con el propósito de servir la deuda
+	-
