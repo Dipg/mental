@@ -64,6 +64,7 @@
 		- Quintos (1995) menciona 2 condiciones del nivel de endeudamiento
 			- Condición fuerte de endeudamiento  (existe sostenibilidad fiscal , sostenibilidad del nivel de endeudamiento )
 				- Cuando existe estacionariedad del deficit fiscal, con esto existiría la condición fuerte de deuda
+				- ¿Que pasa cuando se da est
 			- Condición leve (Existe insostenibilidad de endeudamiento)
 				- Si el deficit fiscal no es estacionario
 -
