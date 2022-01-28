@@ -49,4 +49,4 @@
 			- t= tipo impositivo al cuadrado
 		- Eficiente en Sentido de trabajo pero menos eficiente en sentido de capital
 	- Keinesina
-		-
+		- Cuando el desempleo es ^{ }ado
