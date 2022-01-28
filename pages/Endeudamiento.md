@@ -65,6 +65,7 @@
 			- Condición fuerte de endeudamiento  (existe sostenibilidad fiscal , sostenibilidad del nivel de endeudamiento )
 				- Cuando existe estacionariedad del deficit fiscal, con esto existiría la condición fuerte de deuda
 				- ¿Qué pasa cuando se da esta sostenibilidad fuerte ?
+					-
 			- Condición leve (Existe insostenibilidad de endeudamiento)
 				- Si el deficit fiscal no es estacionario
 -
