@@ -89,7 +89,10 @@
 	- 10% Ingresos No permanentes
 - La asignación presupuestaria se entrega mensualmente en base a los fondos con los que cuente el estado, no se asigna el presupuesto si no hay dinero
 -
--
+- Indicadores presupuestarios
+	- Cuan eficientes son los goiern
+	- Las cedlas presupuestarias
+		-
 -
 - # Archivos
 	- {{query documento}}
