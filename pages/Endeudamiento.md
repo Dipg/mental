@@ -27,5 +27,5 @@
 		- El ahorro privado se  optine mediante
 			- PIB - Impuestos pagados - consumo
 		- # Equivalencia Ricardiana
-			- La deuda publica es equivalente a impuestos de suma fija si no redistribuye recursos entre generaciones
+			- La deuda publica es equivalente a impuestos de suma fija si no redistribuye recursos entre generaciones si no se distribuye  entre generaciones
 -
