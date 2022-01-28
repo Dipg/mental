@@ -8,3 +8,7 @@
   ls-type:: annotation
   hl-page:: 19
   id:: 61f4152e-8459-4e96-b15a-03bbc43fa5ea
+- Guiados  por  diversas  especificaciones  en  la  literatura  hedónica  espacial  (por  ejemplo, Bell  y  Bockstael,  2000)  se  examinaron  varias  especificaciones  de  la  matriz  de  ponderación. Se eligió como matriz de ponderación espacial una matriz de las distancias inversas entre propiedades (1/dij) en un radio de 4 km, en la que los elementos diagonales contienen valores cero:
+  ls-type:: annotation
+  hl-page:: 21
+  id:: 61f415cb-9c2d-404e-aaf6-f972a7436fe6
