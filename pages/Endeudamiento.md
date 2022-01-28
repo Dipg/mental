@@ -84,7 +84,7 @@
 			- ![image.png](../assets/image_1643372974829_0.png)
 		- test de c
 - Indicadores de Sostenibilidad Fiscal
-	- Indicador de Blancher
+	- Indicador de Blancheard
 - La deuda se incluye dentro del sector público no financiero SPNF
 - Servicio de deuda , cuanto anualmente destino a pagar deuda
 - EL valor presente de la deuda actual , cuanto yo actualmente tengo de deuda
