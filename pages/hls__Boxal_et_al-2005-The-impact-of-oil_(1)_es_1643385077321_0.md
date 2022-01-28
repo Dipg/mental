@@ -1,1 +1,1 @@
-- <object data="G:/Mi unidad/Autosync/Logmy/NewLog/assets/ds" type="application/pdf" width="100%" height="800px"></object>
+- <object data="G:\Otros ordenadores\Mi Ordenador\Habilidades\Universidad\Opta I\Papers\Boxal_et_al-2005-The-impact-of-oil (1).pdf" width="100%" height="800px"></object>
