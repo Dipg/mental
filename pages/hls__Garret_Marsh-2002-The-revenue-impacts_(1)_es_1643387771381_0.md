@@ -36,3 +36,7 @@
   ls-type:: annotation
   hl-page:: 19
   id:: 61f422c2-fe34-46f6-b5fc-b868b62b4431
+- Los condados internos tienen unas ventas per cápita de 56,79 dólares. En relación con  estos  condados  internos,  los  condados  fronterizos
+  ls-type:: annotation
+  hl-page:: 17
+  id:: 61f42319-0614-4785-a118-77431fb4e0f1
