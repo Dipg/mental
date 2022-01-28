@@ -76,7 +76,7 @@
 						- Mas impuestos
 						- Menos gasto publico en salud y educación
 						- Venta de activos fijos del estado
-			- ¿Cual es otra froma de probar un nivel dei
+			- ¿Cual es otra forma de probar un nivel débil de sosteneivilidad e la deuda ?
 		-
 -
 - La deuda se incluye dentro del sector público no financiero SPNF
