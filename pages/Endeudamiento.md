@@ -8,4 +8,5 @@
 		- No genera deuda acumulativa para la población
 		- ¿Cuándo menciona Lerner que la combinación de deuda y gasto beneficiaria a la generación siguiente?
 			- Cuando los rendimiento marginales de inversión son mayores que el coste marginal de los fondos obtenidos en el extranjero , esto es, si la inversión que yo obtengo por alguna obra que  hice con deuda externa es mayor que los costos, esto generara beneficios
+		- ¿Cuando Lerner se opondria
 -
