@@ -40,7 +40,6 @@
 		- Con el fin de hacer frente a los intereses resultantes de la deuda
 		- ¿Qué genera el exceso de Gravamen ?
 			- Distorsiona la oferta de trabajo
-			-
 		- ¿Cómo calculamos el exceso de Gravamen?
 			- ![image.png](../assets/image_1643370447142_0.png)
 			- e = Elasticidad del trabajo ante los cambios  en el salario
