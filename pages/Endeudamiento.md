@@ -34,4 +34,5 @@
 	- Equidad Intergeneracional
 		- El endeudamiento no es sostenible , si existe agotamiento de los recursos naturales
 		- Transferencia de generaciones ricas a las generaciones pobres
+	-
 -
