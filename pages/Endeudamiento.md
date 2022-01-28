@@ -4,3 +4,4 @@
 	- Riesgo sobre los activos tangibles del sector público
 - ¿Cuales son las posturas ante el manejo de la deuda?
 	- Postura de Lerner
+		-
