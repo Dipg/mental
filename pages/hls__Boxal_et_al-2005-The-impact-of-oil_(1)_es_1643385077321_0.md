@@ -16,3 +16,7 @@
   ls-type:: annotation
   hl-page:: 37
   id:: 61f418e7-f733-4086-9de1-f1636df67e0e
+- Se  comprobó  que  la presencia de pozos, especialmente de gas ácido, deprimía los valores de las propiedades
+  ls-type:: annotation
+  hl-page:: 38
+  id:: 61f41940-1cc0-4745-ad62-1a4bab5a7481
