@@ -57,4 +57,4 @@
 	- Cuando existen niveles insostenibles de deuda, esto → me genera inflación en el futuro
 	- ¿Qué pasa en una economía dolarizada?
 		- Si se percibe un estado insolvente , esto afectara ala capacidad para conseguir financiamiento y determinara eventuales ==problemas de liquidez== en algún momento del tiempo
-		-
+		- Generara Reortes en el gasto y auemntos de impuestos , para au
