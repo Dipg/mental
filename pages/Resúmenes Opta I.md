@@ -3,4 +3,4 @@
 -
 - ![Boxal_et_al-2005-The-impact-of-oil (1) es.pdf](../assets/Boxal_et_al-2005-The-impact-of-oil_(1)_es_1643385077321_0.pdf)
 -
--
+- ![Garret_Marsh-2002-The-revenue-impacts (1) es.pdf](../assets/Garret_Marsh-2002-The-revenue-impacts_(1)_es_1643387771381_0.pdf)
