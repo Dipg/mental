@@ -4,4 +4,4 @@
 	- Riesgo sobre los activos tangibles del sector público
 - ¿Cuales son las posturas ante el manejo de la deuda?
 	- Postura de Lerner
-		- Esta  se basa en que la [[#red]]==deuda interna== [[#red]]==no genera ningún tipo de carga  tributaria  para la [[#red]]==siguiente generación== porque todas las [[#red]]==generaciones== tienen la [[#red]]==misma capacidad de consumo==
+		- Esta  se basa en que la [[#red]]==deuda interna== no genera ningún tipo de carga para la siguiente generación por
