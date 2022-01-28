@@ -1,0 +1,1 @@
+- Se realiza entre instituciones del mismo país
