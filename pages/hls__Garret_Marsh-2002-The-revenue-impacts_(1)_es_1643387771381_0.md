@@ -20,3 +20,7 @@
   ls-type:: annotation
   hl-page:: 12
   id:: 61f4214b-5e2e-4ad6-b069-4d2f3784a01f
+- Estimamos   dos   especificaciones   del   modelo   ML   para   evaluar   y   corregir   la   correlación  espacial.
+  ls-type:: annotation
+  hl-page:: 15
+  id:: 61f42201-e8a8-4a4c-983d-114cfbba9d54
