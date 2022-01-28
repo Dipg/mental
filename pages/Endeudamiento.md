@@ -31,4 +31,6 @@
 			-
 	- Principio de Beneficio
 		- Todos los sectores sociales que son beneficiaros de la deuda publica , son los que deben pagar el nivel de endeudamiento
+	- Equidad Intergeneracional
+		-
 -
