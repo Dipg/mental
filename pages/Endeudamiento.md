@@ -69,6 +69,6 @@
 					- No existe la necesidad de formular reformas fiscales de carácter estructural
 			- Condición leve (Existe insostenibilidad de endeudamiento)
 				- Si el deficit fiscal no es estacionario
-				-
+				- ¿Qué pasa cuando existe sostenibilidad débil?
 -
 - La deuda se incluye dentro del sector público no financiero SPNF
