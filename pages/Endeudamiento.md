@@ -16,4 +16,4 @@
 		- Compara cuanto pagamos de impuestos , con las transferencias que recibimos del estado , como educación salud etc..
 	- Modelo Neoclásico
 		- Totalmente en contra del nivel de endeudamiento de un país
-		- No importa si es
+		- No importa si un poyecto es fianciado mediante impuestos, o mede
