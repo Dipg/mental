@@ -16,3 +16,7 @@
   ls-type:: annotation
   hl-page:: 9
   id:: 61f420d5-c439-4737-81a8-5d219d3841c8
+- matriz   de   pesos   espaciales   W está   especificada   para   capturar   el   decaimiento exponencial de la distancia
+  ls-type:: annotation
+  hl-page:: 12
+  id:: 61f4214b-5e2e-4ad6-b069-4d2f3784a01f
