@@ -54,4 +54,4 @@
 - Sostenibilidad fiscal del endeudamiento (Sostenibilidad de la deuda )
 	- Tenemos que cubrir una cierta cantidad de dinero con el propósito de servir la deuda
 	- Ese nivel de servicio de deuda se lo mide en el nivel presente y futuro de la inflación
-	- Cuando existen nivel
+	- Cuando existen niveles insostenibles de deuda
