@@ -43,4 +43,4 @@
 			-
 		- ¿Como calculamos el exceso de Gravamen?
 			- ![image.png](../assets/image_1643370447142_0.png)
-			- e =
+			- e = Elasticidad del trabajo ante los cambios
