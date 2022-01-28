@@ -32,3 +32,7 @@
   ls-type:: annotation
   hl-page:: 17
   id:: 61f42273-dbed-4bc4-8c23-1fcb20d2b63e
+- También  calculamos  el  impacto neto de la compra de lotería transfronteriza, que es simplemente la suma de las ganancias y pérdidas regionales. Este cálculo revela que Kansas perdió casi 10,5 millones de dólares en compras de lotería 1998transfronteriza.
+  ls-type:: annotation
+  hl-page:: 19
+  id:: 61f422c2-fe34-46f6-b5fc-b868b62b4431
