@@ -15,4 +15,4 @@
 		- Proponen que el endeudamiento se pasa de una generación a otra
 		- Compara cuanto pagamos de impuestos , con las transferencias que recibimos del estado , como educación salud etc..
 	- Modelo Neoclásico
-		- T
+		- Totalmente en contra del nivel de endeudamiento
