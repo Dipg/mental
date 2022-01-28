@@ -1,2 +1,2 @@
-- Principales efectos
+- Principales efectos de elevados
 	- Inflaciín
