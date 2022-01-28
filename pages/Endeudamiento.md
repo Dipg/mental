@@ -19,4 +19,5 @@
 		- No importa si un proyecto es financiado mediante impuestos, o mediante un prestamos. SE DETRAEN RECURSOS DEL SECTOR PRIVADO
 		- Exixste menos estock de capital privado, pero el stock de captal total auemntara
 		- ¿Qué efectos provocaría el nivel de endeudamiento según este modelo?
-			- e
+			- Efecto de expulsión
+				- Alteración del tipo de interes
