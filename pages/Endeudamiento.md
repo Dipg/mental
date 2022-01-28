@@ -36,5 +36,5 @@
 		- Transferencia de generaciones ricas a las generaciones pobres
 	- Exceso de Gradamen
 		- Caundo se aplican muchos impuestos, la emisión de deuda se haga en pagos pequeños a lo largo del tiempo
-		- Con el fin de hacer frente a
+		- Con el fin de hacer frente a los itereses resultantes de la deuda
 -
