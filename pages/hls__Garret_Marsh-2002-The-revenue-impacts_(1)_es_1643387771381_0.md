@@ -4,3 +4,7 @@
   ls-type:: annotation
   hl-page:: 4
   id:: 61f41e1e-b064-4a36-a3fd-01c9fbda0628
+- Con el estado de Kansas como piedra angular de nuestro análisis, estimamos las ganancias y pérdidas netas de ingresos de lotería entre Kansas y cada una de las cinco regiones fronterizas distintas: Nebraska, Oklahoma, Colorado, Missouri y Kansas City, Missouri.
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 61f41e3a-9dd9-4db1-b8b8-fb99ca6a3a1d
