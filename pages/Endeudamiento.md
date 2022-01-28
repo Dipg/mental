@@ -14,6 +14,7 @@
 	- Modelo de generaciones Solapadas
 		- Proponen que el endeudamiento se pasa de una generación a otra
 		- Compara cuanto pagamos de impuestos , con las transferencias que recibimos del estado , como educación salud etc..
+		- No solo s e
 	- Modelo Neoclásico
 		- Totalmente en contra del nivel de endeudamiento de un país
 		- No importa si un proyecto es financiado mediante impuestos, o mediante un prestamos. SE DETRAEN RECURSOS DEL SECTOR PRIVADO
