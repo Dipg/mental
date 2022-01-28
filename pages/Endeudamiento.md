@@ -89,7 +89,7 @@
 		- Si es negativo existe  insostenibilidad de la deuda, la recaudación como tributo es demasiado bajo para estabilizar la relación  deuda/PIB
 	- Indicador de brecha primaria
 		- Si esta brecha presenta Valore positivos, la Deuda no es sostenible ,
-		- si es negativo es sostenible
+		- Si es negativo es sostenible
 	- Indicador de Buiter
 		- Cuanto tiene el estado valorizado en patrimonio en relación al PIB
 		- Si es positivo no existe sostenibilidad fiscal
