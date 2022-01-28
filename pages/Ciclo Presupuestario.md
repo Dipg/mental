@@ -92,7 +92,7 @@
 - Indicadores presupuestarios
 	- Cuan eficientes son los goiern
 	- Las cedlas presupuestarias
-		-
+		- Incluye a detalla ingreos y gastos
 -
 - # Archivos
 	- {{query documento}}
