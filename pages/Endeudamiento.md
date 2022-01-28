@@ -14,7 +14,7 @@
 	- Modelo de generaciones Solapadas
 		- Proponen que el endeudamiento se pasa de una generación a otra
 		- Compara cuanto pagamos de impuestos , con las transferencias que recibimos del estado , como educación salud etc..
-		- No solo se traslada la deuda , ósea se toma en cuenta esta , sino también compara el nivel de beneficios con el nivel de impuesto pagados , a diferencia del modelo ricardiano, esa diferncia ase que pague o no
+		- No solo se traslada la deuda , ósea se toma en cuenta esta , sino también compara el nivel de beneficios con el nivel de impuesto pagados , a diferencia del modelo ricardiano, esa diferencia ase que pague o no
 	- Modelo Neoclásico
 		- Totalmente en contra del nivel de endeudamiento de un país
 		- No importa si un proyecto es financiado mediante impuestos, o mediante un prestamos. SE DETRAEN RECURSOS DEL SECTOR PRIVADO
