@@ -48,7 +48,7 @@
 			- L= Numero de Horas trabajadas  o de trabajo
 			- t= tipo impositivo al cuadrado
 		- Eficiente en Sentido de trabajo pero menos eficiente en sentido de capital
-	- Keinesina
+	- Keinesiana
 		- Cuando el desempleo es  elevado es necesario recurrir al déficit fiscal , ya que es un modo adecuado de estimular la demanda , esto se conoce como hacienda funcional.
 		- Cuando el desempleo es muy bajo, el endeudamiento puede causar inflación.
 -
