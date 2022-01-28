@@ -62,5 +62,7 @@
 		- Afectando por ende a la Demanda de la actividad económica
 	- ¿Cómo se analiza el tema de sostenibilidad?
 		- Quintos (1995)
+			- Condición fuerte
+			- Condición level
 -
 - La deuda se incluye dentro del sector público no financiero SPNF
