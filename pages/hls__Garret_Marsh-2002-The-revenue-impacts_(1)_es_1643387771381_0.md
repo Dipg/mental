@@ -12,3 +12,7 @@
   ls-type:: annotation
   hl-page:: 4
   id:: 61f41e6b-095c-4f4f-bd5a-74766bf503dc
+- Nuestra metodología general implica una regresión de las ventas de lotería per  cápita  en  el  condado  i sobre  un  vector  de  características  demográficas  del  condado  y  varias  variables  ficticias  fronteriza
+  ls-type:: annotation
+  hl-page:: 9
+  id:: 61f420d5-c439-4737-81a8-5d219d3841c8
