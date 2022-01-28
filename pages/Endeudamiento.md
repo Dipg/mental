@@ -65,5 +65,6 @@
 			- Condición fuerte de endeudamiento  (existe sostenibilidad fiscal , sostenibilidad del nivel de endeudamiento )
 				- Cuando existe estacionariedad del deficit fiscal
 			- Condición leve
+				-
 -
 - La deuda se incluye dentro del sector público no financiero SPNF
