@@ -52,4 +52,4 @@
 		- Cuando el desempleo es  elevado es necesario recurrir al déficit fiscal , ya que es un modo adecuado de estimular la demanda , esto se conoce como hacienda funcional.
 		- Cuando el desempleo es muy bajo, el endeudamiento puede causar inflación.
 - Sostenibilidad fiscal del endeudamiento (Sostenibilidad de la deuda )
-	- Tenemos que cubir una cierta cantidad de dinero
+	- Tenemos que cubir una cierta cantidad de dinero con el proposito de servir la deuda
