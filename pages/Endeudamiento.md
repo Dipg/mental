@@ -35,5 +35,5 @@
 		- El endeudamiento no es sostenible , si existe agotamiento de los recursos naturales
 		- Transferencia de generaciones ricas a las generaciones pobres
 	- Exceso de Gradamen
-		- Caundo se aplican muchos impuestos, la emision de deuda se haga en pagos peuqeños a lo largo del timepo
+		- Caundo se aplican muchos impuestos, la emisión de deuda se haga en pagos pequeños a lo largo del tiempo
 -
