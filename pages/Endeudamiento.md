@@ -1,0 +1,2 @@
+- Principales efectos
+	- Inflaci
