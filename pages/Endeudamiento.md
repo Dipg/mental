@@ -11,4 +11,5 @@
 		- ¿Cuándo Lerner se opondría a un nivel de endeudamiento de los países?
 			- Cuándo yo pague mas interés que los beneficios futuros que voy a tener
 			-
+	- Modelo de g
 -
