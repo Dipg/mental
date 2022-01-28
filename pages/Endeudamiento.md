@@ -4,4 +4,4 @@
 	- Riesgo sobre los activos tangibles del sector público
 - ¿Cuales son las posturas ante el manejo de la deuda?
 	- Postura de Lerner
-		- Esta  se basa en que la deuda interna no genera nin
+		- Esta  se basa en que la deuda interna no genera ningñun tipo de carga para la siguietne
