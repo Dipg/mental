@@ -22,4 +22,4 @@
 			- Efecto de expulsión
 				- Alteración del tipo de interés (Se generan mayores tipos de interés en la economía, aumentando así el precio del crédito , → Generando así menos inversión privada
 	- Modelo ricardiano
-	-
+		-
