@@ -2,4 +2,4 @@
 	- Inflación
 		- Cuando hay déficit a única fuente que se tiene en cuenta son los impuestos
 	- Riesgo sobre los activos tangibles del sector público
-- ¿
+- ¿Cuales son las posturas ante el manejo de la deuda?
