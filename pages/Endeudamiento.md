@@ -1,2 +1,2 @@
 - Principales efectos
-	- Inflaci
+	- Inflaciín
