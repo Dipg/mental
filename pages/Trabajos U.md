@@ -1,6 +1,6 @@
 - {{renderer :todomaster-VHJhYmFqb3MgVQ==}}
 - #inmediato
-- TODO  [#A] ((61edfb56-65bd-400b-b36f-3815b0c8f671))→ [[Economía Empresarial]] [[Jan 27th, 2022]]
+- DONE  [#A] ((61edfb56-65bd-400b-b36f-3815b0c8f671))→ [[Economía Empresarial]] [[Jan 27th, 2022]]
   :LOGBOOK:
   CLOCK: [2022-01-23 Sun 12:26:29]--[2022-01-24 Mon 16:13:21] =>  27:46:52
   :END:
