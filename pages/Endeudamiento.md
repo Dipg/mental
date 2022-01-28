@@ -60,6 +60,6 @@
 		- Determinara eventuales ==problemas de liquidez== en algún momento del tiempo
 		- Generara recortes  en el gasto y aumentos de impuestos , para aumentar el ingreso
 		- Afectando por ende a la Demanda de la actividad económica
-	- ¿Como se analiza el tema de sostenibilidad
+	- ¿Cómo se analiza el tema de sostenibilidad?
 -
 - La deuda se incluye dentro del sector público no financiero SPNF
