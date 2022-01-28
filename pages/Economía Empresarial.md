@@ -49,7 +49,7 @@
 				- ![image.png](../assets/image_1643159885800_0.png){:height 330, :width 435}
 				- ![image.png](../assets/image_1643165569826_0.png){:height 282, :width 427}
 				- Una vez definido el conjunto de datos, se puede comenzar a obtener simples estadísticas exploratorias del mismo, en la tabla 1 se evidencia esto. Los datos para el sector manufacturero del bloque 2 generado  cuenta con un numero de 30 empresas. Mismas que en su conjunto tienen un promedio de Activos fijos de 208 mil dólares dólares
-				- ![image.png](../assets/image_1643165534065_0.png)
+				- ![image.png](../assets/image_1643165534065_0.png){:height 74, :width 656}
 				- Siendo la empresas con menor activos fijos  LOA Corporación y la de mayor valor de activo fijo Heladerías Confrunat, Como se puede apreciar, aquella de mayor activo fijo es una empresa que vende productos que requieren una gran cantidad de los mismo.
 				- Procedemos a logaritmizar las variables que se usaran parar estimar la frontera de costos, permitiéndonos  esto una breve descripción de las relaciones entre las variables.
 				- ![image.png](../assets/image_1643168342536_0.png)
