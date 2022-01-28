@@ -24,3 +24,7 @@
   ls-type:: annotation
   hl-page:: 15
   id:: 61f42201-e8a8-4a4c-983d-114cfbba9d54
+- Los resultados del modelo de retardo de la variable dependiente espacial sugieren que Kansas experimenta una pérdida neta de ingresos de lotería hacia Kansas City y Nebraska   debido   a   las   compras   de   lotería   transfronterizas. 
+  ls-type:: annotation
+  hl-page:: 17
+  id:: 61f42246-2713-4240-8597-412542cb5c96
