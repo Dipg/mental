@@ -61,4 +61,4 @@
 		- Generara recortes  en el gasto y aumentos de impuestos , para aumentar el ingreso
 		- Afectando por ende a la Demanda de la actividad económica
 -
-- La deuda se incluye dentro del sector público no fianciero
+- La deuda se incluye dentro del sector público no financiero SPNF
