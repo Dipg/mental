@@ -56,4 +56,4 @@
 	- Ese nivel de servicio de deuda se lo mide en el nivel presente y futuro de la inflación
 	- Cuando existen niveles insostenibles de deuda, esto → me genera inflación en el futuro
 	- ¿Qué pasa en una economía dolarizada?
-		- S
+		- Si se percibe
