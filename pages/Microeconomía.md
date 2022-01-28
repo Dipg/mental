@@ -162,7 +162,7 @@
 				- {{youtube https://www.youtube.com/watch?v=3pg5arXw0Gs&list=PLgCZOCnHCZU7DGYnebO1-IobyhG1Wr3Cw&index=12}}
 		- ### Elasticidad precio cruzada de la demanda
 		  collapsed:: true
-			- Si se tienen una elasticidad precio cruzada de la demanda se tienen **bienes sustitutos**
+			- Si se tienen una elasticidad precio cruzada de la demanda positiva se tienen **bienes sustitutos**
 			  collapsed:: true
 				- Esto es, yo veo que el precio de un jabón de marca x sube el precio, esto incrementar el consumo de una jabón de la competencia de marca y
 			- Si la elasticidad precio cruzada es igual a cero , son **bienes independentes o sin relación**
