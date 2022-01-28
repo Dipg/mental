@@ -47,3 +47,4 @@
 			- w = nivel de salarios
 			- L= Numero de Horas trabajadas  o de trabajo
 			- t= tipo impositivo al cuadrado
+		- Eficiente en Sentido de trabajo pero menos eficietne
