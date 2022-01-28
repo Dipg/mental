@@ -33,4 +33,5 @@
 		- Todos los sectores sociales que son beneficiaros de la deuda publica , son los que deben pagar el nivel de endeudamiento
 	- Equidad Intergeneracional
 		- El endeudamiento no es sostenible , si existe agotamiento de los recursos naturales
+		-
 -
