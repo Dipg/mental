@@ -70,5 +70,7 @@
 			- Condición leve (Existe insostenibilidad de endeudamiento)
 				- Si el deficit fiscal no es estacionario
 				- ¿Qué pasa cuando existe sostenibilidad débil?
+					- Implica problemas en el futuro
+					-
 -
 - La deuda se incluye dentro del sector público no financiero SPNF
