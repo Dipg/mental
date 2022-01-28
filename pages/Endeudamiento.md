@@ -61,7 +61,7 @@
 		- Generara recortes  en el gasto y aumentos de impuestos , para aumentar el ingreso
 		- Afectando por ende a la Demanda de la actividad económica
 	- ¿Cómo se analiza el tema de sostenibilidad?
-		- Quintos (1995)
+		- Quintos (1995) meciona 2 condiciones del nivel de endedamiento
 			- Condición fuerte
 			- Condición leve
 -
