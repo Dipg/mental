@@ -12,3 +12,7 @@
   ls-type:: annotation
   hl-page:: 21
   id:: 61f415cb-9c2d-404e-aaf6-f972a7436fe6
+- los compradores de  inmuebles  descartan  las  propiedades  cercanas  a  pozos  de  petróleo  y  gas,  e  incluso  cuando se basan en variables que no tienen en cuenta específicamente los riesgos para la salud,  parece  que  descartan  en  mayor  medida  aquellas  que  presentan  un  riesgo  para  la  salud debido al gas ácido.
+  ls-type:: annotation
+  hl-page:: 37
+  id:: 61f418e7-f733-4086-9de1-f1636df67e0e
