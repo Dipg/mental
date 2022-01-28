@@ -12,4 +12,4 @@
 			- Cuándo yo pague mas interés que los beneficios futuros que voy a tener
 			-
 	- Modelo de generaciones Solapadas
-		-
+		- Prponen que el endeudamiento se pasa de una genreación a otra
