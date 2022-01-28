@@ -24,5 +24,6 @@
 	- Modelo ricardiano
 		- Siempre las generaciones siguientes pagan el nivel de adeudamiento actual
 		- Contrae siempre el ahorro privado, ya que el nivel de endeudamiento esta cubierto con este ahorro privado de la poblacón
-		- El ahorrro privado se
+		- El ahorrro privado se  optine mediante
+			- PIB -
 -
