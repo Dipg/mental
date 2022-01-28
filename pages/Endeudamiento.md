@@ -60,3 +60,5 @@
 		- Determinara eventuales ==problemas de liquidez== en algún momento del tiempo
 		- Generara recortes  en el gasto y aumentos de impuestos , para aumentar el ingreso
 		- Afectando por ende a la Demanda de la actividad económica
+-
+- La de
