@@ -3,7 +3,7 @@
 		- Cuando hay déficit la única fuente que se tiene en cuenta son los impuestos
 	- Riesgo sobre los activos tangibles del sector público
 - ¿Cuales son las posturas ante el manejo de la deuda?
-	- Postura de Lerner
+	- 1. Postura de Lerner
 		- Esta  se basa en que la [[Deuda Interna]] no genera ningún tipo de carga  tributaria  para la siguiente generación porque todas las generaciones tienen la misma capacidad de consumo
 		- No genera deuda acumulativa para la población
 		- ¿Cuándo menciona Lerner que la combinación de deuda y gasto beneficiaria a la generación siguiente?
@@ -11,7 +11,7 @@
 		- ¿Cuándo Lerner se opondría a un nivel de endeudamiento de los países?
 			- Cuándo yo pague mas interés que los beneficios futuros que voy a tener
 			-
-	- Modelo de generaciones Solapadas
+	- 2. Modelo de generaciones Solapadas
 		- Proponen que el endeudamiento se pasa de una generación a otra
 		- Compara cuanto pagamos de impuestos , con las transferencias que recibimos del estado , como educación salud etc..
 		- No solo se traslada la deuda , ósea se toma en cuenta esta , sino también compara el nivel de beneficios con el nivel de impuesto pagados , a diferencia del modelo ricardiano, esa diferencia ase que pague o no
