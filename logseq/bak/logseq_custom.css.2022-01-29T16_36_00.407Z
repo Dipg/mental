@@ -2,8 +2,8 @@
 
 
 
-blockquote::before{
-    display: none !important;
+blockquote ::before{
+    display: none
 }
 
 blockquote .is-paragraph{
