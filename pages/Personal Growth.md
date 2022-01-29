@@ -1,1 +1,1 @@
-- CIerra todo lo que
+- Cierra todo lo que empiezas con la fuerza con la que empiezas
