@@ -10,8 +10,6 @@ blockquote .is-paragraph:hover{
     box-shadow: 1px 1px 8px 1px #5050504b !important; 
 }
 blockquote .is-paragraph{
-    text-decoration: underline !important;
-
 margin-top: 20 !important;
     padding-top: 20px !important;
     padding-bottom: 20px !important;
