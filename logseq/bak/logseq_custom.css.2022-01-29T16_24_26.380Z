@@ -4,7 +4,7 @@
 
 blockquote{
 
-    background-color:red 
+    background-color:red
 }
 
 .table-wrapper {
