@@ -2,10 +2,7 @@
 
 
 
-blockquote{
-
-    background-color:
-}
+blockquote
 
 .table-wrapper {
     max-width: 800px !important;
