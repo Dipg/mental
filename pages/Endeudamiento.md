@@ -22,7 +22,7 @@
 		- ¿Qué efectos provocaría el nivel de endeudamiento según este modelo?
 			- Efecto de expulsión
 				- Alteración del tipo de interés (Se generan mayores tipos de interés en la economía, aumentando así el precio del crédito , → Generando así menos inversión privada
-	- 4. Modelo ricardiano
+	- 4. {{cloze Modelo ricardiano}}
 		- Siempre las generaciones siguientes pagan el nivel de adeudamiento actual
 		- Contrae siempre el ahorro privado, ya que el nivel de endeudamiento esta cubierto con este ahorro privado de la poblacón
 		- El ahorro privado se  optine mediante
@@ -30,7 +30,7 @@
 		- # Equivalencia Ricardiana
 			- La deuda publica es equivalente a impuestos de suma fija si no redistribuye recursos entre generaciones si no se distribuye  entre generaciones
 			-
-	- 5. Principio de Beneficio
+	- 5. {{cloze Principio de Beneficio}}
 		- Todos los sectores sociales que son beneficiaros de la deuda publica , son los que deben pagar el nivel de endeudamiento
 	- 6. Equidad Intergeneracional
 		- El endeudamiento no es sostenible , si existe agotamiento de los recursos naturales
