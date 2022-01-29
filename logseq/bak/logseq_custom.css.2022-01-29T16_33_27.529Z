@@ -10,7 +10,7 @@ blockquote .is-paragraph{
 /* font-weight: bold ; */
 
 font-family: "Roboto";
-box-shadow: 1px 1px 8px 1px #5050504b !important; 
+box-shadow: 1px 1px 8px 1px #ffffff4b !important; 
 }
 
 .table-wrapper {
