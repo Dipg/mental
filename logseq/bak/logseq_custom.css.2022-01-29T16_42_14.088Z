@@ -2,11 +2,8 @@
 
 
 
-blockquote:before {
-    content: ">";
-    margin-left: -16px;
-    top: 20px;
-    position: relative;
+blockquote::before{
+    content:""" !important ;
 }
 
 blockquote .is-paragraph:hover{
