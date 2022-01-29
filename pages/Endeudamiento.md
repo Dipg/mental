@@ -20,7 +20,7 @@
 		- No importa si {{cloze un proyecto es financiado mediante impuestos, o mediante un prestamos. }}SE DETRAEN  o Contraer {{cloze RECURSOS DEL SECTOR PRIVADO}}
 		- Exixste menos estock de capital privado, pero el stock de captal total auemntara
 		- ¿Qué efectos provocaría el nivel de endeudamiento según este modelo?
-			- Efecto de expulsión
+			- Hipótesis del Efecto de expulsión:
 				- Alteración del tipo de interés (Se generan mayores tipos de interés en la economía, aumentando así el precio del crédito , → Generando así menos inversión privada
 	- 4. {{cloze Modelo ricardiano}}
 		- Siempre las generaciones siguientes pagan el nivel de adeudamiento actual
