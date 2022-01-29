@@ -1,6 +1,6 @@
 [{:block/name "",
-  :block/created-at 1643382044198,
-  :block/updated-at 1643382044198}
+  :block/created-at 1643432434185,
+  :block/updated-at 1643432434185}
  {:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -29,15 +29,19 @@
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
  {:block/name
+  "../assets/boxal_et_al-2005-the-impact-of-oil_(1)_es_1643385077321_0.pdf",
+  :block/created-at 1643432434184,
+  :block/updated-at 1643432434184}
+ {:block/name
   "../assets/boxal_et_al-2005-the-impact-of-oil_1641817366109_0.pdf",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
  {:block/name "../assets/chapter_1_y_2_es_1643006775158_0.pdf",
-  :block/created-at 1643382044194,
-  :block/updated-at 1643382044194}
+  :block/created-at 1643432434184,
+  :block/updated-at 1643432434184}
  {:block/name "../assets/chapter_3ç_es_1643006765502_0.pdf",
-  :block/created-at 1643382044194,
-  :block/updated-at 1643382044194}
+  :block/created-at 1643432434184,
+  :block/updated-at 1643432434184}
  {:block/name
   "../assets/dialnet-teoriaprospectiva-65981_(1)_1637533445262_0.pdf",
   :block/created-at 1638961917544,
@@ -57,6 +61,10 @@
  {:block/name "../assets/experimental_teory_es_1639493823887_0.pdf",
   :block/created-at 1640183914952,
   :block/updated-at 1640183914952}
+ {:block/name
+  "../assets/garret_marsh-2002-the-revenue-impacts_(1)_es_1643387771381_0.pdf",
+  :block/created-at 1643432434184,
+  :block/updated-at 1643432434184}
  {:block/name
   "../assets/garret_marsh-2002-the-revenue-impacts_1641817357939_0.pdf",
   :block/created-at 1641992433040,
@@ -215,14 +223,14 @@
   :block/created-at 1640183914955,
   :block/updated-at 1640183914955}
  {:block/name "[[feb 2nd, 2022",
-  :block/created-at 1643382044197,
-  :block/updated-at 1643382044197}
+  :block/created-at 1643432434185,
+  :block/updated-at 1643432434185}
  {:block/name "[[jan 24th, 2022",
-  :block/created-at 1643382044198,
-  :block/updated-at 1643382044198}
+  :block/created-at 1643432434185,
+  :block/updated-at 1643432434185}
  {:block/name "_clasificadores_",
-  :block/created-at 1643382044194,
-  :block/updated-at 1643382044194}
+  :block/created-at 1643432434184,
+  :block/updated-at 1643432434184}
  {:block/name "a",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -275,8 +283,8 @@
   :block/created-at 1642172083943,
   :block/updated-at 1642801989296}
  {:block/name "comida",
-  :block/created-at 1643382044194,
-  :block/updated-at 1643382044194}
+  :block/created-at 1643432434184,
+  :block/updated-at 1643432434184}
  {:block/name "comments",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -338,8 +346,8 @@
   :block/created-at 1642172083936,
   :block/updated-at 1642774466133}
  {:block/name "documento",
-  :block/created-at 1643382044198,
-  :block/updated-at 1643382044198}
+  :block/created-at 1643432434185,
+  :block/updated-at 1643432434185}
  {:block/name "doing",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -407,8 +415,8 @@
   :block/created-at 1642172083936,
   :block/updated-at 1642975066895}
  {:block/name "english (conflict 2022-01-23-17-01-23)",
-  :block/created-at 1643382044194,
-  :block/updated-at 1643382044194}
+  :block/created-at 1643432434184,
+  :block/updated-at 1643432434184}
  {:block/name "estructura de datos",
   :block/created-at 1642950922906,
   :block/updated-at 1642950922906}
@@ -423,8 +431,8 @@
   :block/created-at 1643061595035,
   :block/updated-at 1643061621629}
  {:block/name "examenes",
-  :block/created-at 1643382044198,
-  :block/updated-at 1643382044198}
+  :block/created-at 1643432434185,
+  :block/updated-at 1643432434185}
  {:block/name "excel",
   :block/created-at 1642172083943,
   :block/updated-at 1642172083943}
@@ -449,8 +457,8 @@
   :block/created-at 1643061761600,
   :block/updated-at 1643063034376}
  {:block/name "factores de producción",
-  :block/created-at 1643382044198,
-  :block/updated-at 1643382044198}
+  :block/created-at 1643432434185,
+  :block/updated-at 1643432434185}
  {:block/name "favorites",
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
@@ -493,6 +501,9 @@
  {:block/name "fri, 21-01-2022",
   :block/created-at 1642723200000,
   :block/updated-at 1642875320015}
+ {:block/name "g_/mi unidad/autosync/logmy/newlog/assets/sdf",
+  :block/created-at 1643432434184,
+  :block/updated-at 1643432434184}
  {:block/name "gasto público",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -513,9 +524,13 @@
   "hls__azrieli_chambers_healy-combineddecisions_short_1639495103494_0",
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
+ {:block/name
+  "hls__boxal_et_al-2005-the-impact-of-oil_(1)_es_1643385077321_0",
+  :block/created-at 1643385163523,
+  :block/updated-at 1643385235423}
  {:block/name "hls__chapter_1_y_2_es_1643006775158_0",
-  :block/created-at 1643382044194,
-  :block/updated-at 1643382044194}
+  :block/created-at 1643432434184,
+  :block/updated-at 1643432434184}
  {:block/name
   "hls__dialnet-teoriaprospectiva-65981_(1)_1637533445262_0",
   :block/created-at 1642172083937,
@@ -527,6 +542,10 @@
  {:block/name "hls__experimental_teory_es_1639493823887_0",
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
+ {:block/name
+  "hls__garret_marsh-2002-the-revenue-impacts_(1)_es_1643387771381_0",
+  :block/created-at 1643387781450,
+  :block/updated-at 1643387849688}
  {:block/name "hls__handbook_on_impact_1637851091888_0",
   :block/created-at 1642172083941,
   :block/updated-at 1642172083941}
@@ -651,14 +670,14 @@
   :block/created-at 1643155200000,
   :block/updated-at 1643208058155}
  {:block/name "jan 27",
-  :block/created-at 1643382044195,
-  :block/updated-at 1643382044195}
+  :block/created-at 1643432434184,
+  :block/updated-at 1643432434184}
  {:block/name "jan 27th, 2022",
   :block/created-at 1643241600000,
   :block/updated-at 1643341985485}
  {:block/name "jan 28th, 2022",
   :block/created-at 1643328000000,
-  :block/updated-at 1643328000000}
+  :block/updated-at 1643411973756}
  {:block/name "jan 29th, 2022",
   :block/created-at 1643414400000,
   :block/updated-at 1643414400000}
@@ -724,7 +743,7 @@
   :block/updated-at 1638961917542}
  {:block/name "microeconomía",
   :block/created-at 1642172083941,
-  :block/updated-at 1642373983912}
+  :block/updated-at 1643397974048}
  {:block/name "modelo de inversión- qtobi en ecuador",
   :block/created-at 1642119189886,
   :block/updated-at 1642119884539}
@@ -807,8 +826,8 @@
   :block/created-at 1640183914954,
   :block/updated-at 1640183914954}
  {:block/name "plan nacional de desarrollo",
-  :block/created-at 1643382044198,
-  :block/updated-at 1643382044198}
+  :block/created-at 1643432434185,
+  :block/updated-at 1643432434185}
  {:block/name "plotly",
   :block/created-at 1642172083939,
   :block/updated-at 1642172083939}
@@ -859,7 +878,7 @@
   :block/updated-at 1641992433040}
  {:block/name "resúmenes opta i",
   :block/created-at 1642172083941,
-  :block/updated-at 1642172083941}
+  :block/updated-at 1643387771935}
  {:block/name "resúmenes opta iv",
   :block/created-at 1642172083941,
   :block/updated-at 1642172083941}
@@ -913,10 +932,10 @@
   :block/updated-at 1641992433040}
  {:block/name "trabajos u",
   :block/created-at 1642178166048,
-  :block/updated-at 1643342032960}
+  :block/updated-at 1643432117496}
  {:block/name "tue, 18-01-2022",
-  :block/created-at 1643382044193,
-  :block/updated-at 1643382044193}
+  :block/created-at 1643432434183,
+  :block/updated-at 1643432434183}
  {:block/name "urgente",
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
