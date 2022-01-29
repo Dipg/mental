@@ -16,7 +16,6 @@ blockquote:after {
     top: 20px;
     position: relative;
     font-size: 36px !important;
-    display: inline-block !important; 
 }
 /* blockquote .is-paragraph:hover{
     box-shadow: 1px 1px 8px 1px #5050504b !important; 
