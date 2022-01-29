@@ -23,10 +23,10 @@ blockquote:after {
     box-shadow: 1px 1px 8px 1px #5050504b !important; 
 } */
 
-/* blockquote{
-    margin-bottom: -10px !important;  
+blockquote{
+    margin-: -10px !important;  
   margin-bottom: -10px !important;  
-} */
+}
 
 
 blockquote .is-paragraph{
