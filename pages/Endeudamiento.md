@@ -28,7 +28,7 @@
 		- El ahorro privado se  optine mediante
 			- PIB - Impuestos pagados - consumo → Obtenemos cual seria el nivel de ingreso disponible ❓
 		- # Equivalencia Ricardiana
-			- La deuda publica es equivalente a impuestos de suma fija si no redistribuye recursos entre generaciones si no se distribuye  entre generaciones ❓   (Minuto 5:36 )
+			- La deuda publica es equivalente a impuestos de suma fija si no redistribuye recursos entre generaciones si no se distribuye  entre generaciones ❓   (Minuto 5:36 ((61f5c0c2-caff-4093-b70f-5bf4fb6565aa)) )
 			-
 	- 5. {{cloze Principio de Beneficio}}
 		- Todos los sectores sociales que son beneficiaros de la deuda publica , son los que deben pagar el nivel de endeudamiento
