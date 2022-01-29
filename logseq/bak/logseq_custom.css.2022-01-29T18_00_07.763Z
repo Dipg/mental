@@ -24,7 +24,7 @@ blockquote:after {
 } */
 
 blockquote{
-    padding-top: -20px !important; 
+    padd: -20px !important; 
   margin-bottom: -20px !important;  
 }
 
