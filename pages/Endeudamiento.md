@@ -35,10 +35,10 @@
 	- 6. {{cloze Equidad Intergeneracional}}
 		- El endeudamiento no es sostenible , si existe agotamiento de los recursos naturales
 		- Transferencia de generaciones ricas a las generaciones pobres
-	- 8. {{cloze Keinesiana}}
+	- 7. {{cloze Keinesiana}}
 		- Cuando el desempleo es  elevado es necesario recurrir al déficit fiscal , ya que es un modo adecuado de estimular la demanda , esto se conoce como hacienda funcional.
 		- Cuando el desempleo es muy bajo, el endeudamiento puede causar inflación.
-	- 7. {{cloze Exceso de Gradamen - Stiglits}}
+	- 8. {{cloze Exceso de Gradamen - Stiglits}}
 		- Cuando se paga mas de lo que se debe en un impuesto
 		- Caundo se aplican muchos impuestos, la emisión de deuda se haga en pagos pequeños a lo largo del tiempo
 		- Con el fin de hacer frente a los intereses resultantes de la deuda
