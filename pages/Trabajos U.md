@@ -1,13 +1,6 @@
 - {{renderer :todomaster-VHJhYmFqb3MgVQ==}}
 - #inmediato
-- DONE  [#A] ((61edfb56-65bd-400b-b36f-3815b0c8f671))→ [[Economía Empresarial]] [[Jan 27th, 2022]]
-  :LOGBOOK:
-  CLOCK: [2022-01-23 Sun 12:26:29]--[2022-01-24 Mon 16:13:21] =>  27:46:52
-  :END:
 - TODO Aplicación Machine learning [[Jan 29th, 2022]]
-- DONE  🧪 Opta IV [[Wed, 26-01-2022]] [[Jan 26th, 2022]]
-- DONE 🧪 Regulación [[[[Jan 24th, 2022]]] [[Jan 25th, 2022]]
-- DONE 🧪 Finanzas Públicas [[Jan 28th, 2022]]
 - #urgente
 - TODO [#B] Aplicación  Ecuaciones Estructurales  [[Jan 27th, 2022]]
   :LOGBOOK:
@@ -23,6 +16,13 @@
 - #Hacer
 - Completos
   collapsed:: true
+	- DONE  [#A] ((61edfb56-65bd-400b-b36f-3815b0c8f671))→ [[Economía Empresarial]] [[Jan 27th, 2022]]
+	  :LOGBOOK:
+	  CLOCK: [2022-01-23 Sun 12:26:29]--[2022-01-24 Mon 16:13:21] =>  27:46:52
+	  :END:
+	- DONE  🧪 Opta IV [[Wed, 26-01-2022]] [[Jan 26th, 2022]]
+	- DONE 🧪 Regulación [[[[Jan 24th, 2022]]] [[Jan 25th, 2022]]
+	- DONE 🧪 Finanzas Públicas [[Jan 28th, 2022]]
 	- DONE 🧪 Opta I [[Jan 24th, 2022]]
 	- DONE 🧪 Escritura [[Jan 27th, 2022]]
 	- DONE Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Jan 27]]
