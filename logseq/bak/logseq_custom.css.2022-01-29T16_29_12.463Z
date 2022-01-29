@@ -6,7 +6,7 @@ blockquote .is-paragraph{
 
 background-color:rgb(255, 255, 255) !important;
 color: rgb(0, 0, 0) !important;
-fontfamily: "Helvetica Neue";
+fontfa
 box-shadow: 1px 1px 8px 1px #ffffff4b !important; 
 }
 
