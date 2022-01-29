@@ -3,7 +3,7 @@
 		- Cuando hay déficit la única fuente que se tiene en cuenta son los impuestos
 	- Riesgo sobre los activos tangibles del sector público
 - ¿Cuales son las posturas ante el manejo de la deuda?
-	- 1. Postura de Lerner
+	- 1. Postura de Lerner :yellow
 		- Esta  se basa en que la [[Deuda Interna]] no genera ningún tipo de carga  tributaria  para la siguiente generación porque todas las generaciones tienen la misma capacidad de consumo
 		- No genera deuda acumulativa para la población
 		- ¿Cuándo menciona Lerner que la combinación de deuda y gasto beneficiaria a la generación siguiente?
