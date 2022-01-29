@@ -4,7 +4,7 @@
 
 blockquote{
 
-    background-color:rgb(110, 110, 110) !important;
+    background-color:red !important;
 
     box-shadow: 1px 1px 8px 1px #f3f3f34b !important; 
 }
