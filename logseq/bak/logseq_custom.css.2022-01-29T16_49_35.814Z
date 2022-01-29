@@ -12,7 +12,7 @@ blockquote:before {
 
 blockquote:after {
     content: " '' ";
-    /* margin-left: 30px !important; */
+    margin-left: 30px !important;
     top: 0px;
     position: relative;
     font-size: 36px !important;
@@ -22,7 +22,6 @@ blockquote:after {
     box-shadow: 1px 1px 8px 1px #5050504b !important; 
 } */
 blockquote .is-paragraph{
-    mar
     text-decoration: underline !important;
 display: inline-block !important;
 /* margin-top: 20 !important; */
