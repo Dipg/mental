@@ -3,7 +3,7 @@
 
 
 blockquote ::before{
-    display: none !important;
+    disp
 }
 
 blockquote .is-paragraph{
