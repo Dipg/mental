@@ -23,7 +23,7 @@ blockquote:after {
 } */
 blockquote .is-paragraph{
     margin: 10px !important;
-    /* text-decoration: underline !important; */
+    text-decoration: underline !important;
 display: inline-block !important;
 /* margin-top: 20 !important; */
     padding-top: -10px !important;
