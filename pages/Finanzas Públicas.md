@@ -496,7 +496,9 @@
 - [[Ciclo Presupuestario]]
 - [[Endeudamiento]]
 -
--
+- Video 17 de Enero
+	- https://mail.google.com/mail/u/0/?pli=1#search/bryan/FMfcgzGmtXFlVKgZSzQHzhFGHqnVPZTm?projector=1
+		-
 - Videos
   collapsed:: true
 	- DONE 29 de Mayo (Introducción incidencia economica)
