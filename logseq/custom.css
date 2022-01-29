@@ -5,7 +5,7 @@
 blockquote:before {
     content: " '' ";
     margin-left: 30px !important;
-    top: 20px;
+    top: 0px;
     position: relative;
     font-size: 36px !important;
 }
