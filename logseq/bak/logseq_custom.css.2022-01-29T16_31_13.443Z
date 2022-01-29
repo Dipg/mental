@@ -4,8 +4,8 @@
 
 blockquote .is-paragraph{
 
-/* background-color:rgb(255, 255, 255) !important; */
-/* color: rgb(0, 0, 0) !important; */
+background-color:rgb(255, 255, 255) !important;
+color: rgb(0, 0, 0) !important;
 font-style: bold !important;
 font-weight: bold ;
 
