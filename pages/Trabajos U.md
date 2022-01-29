@@ -6,7 +6,6 @@
   :LOGBOOK:
   CLOCK: [2022-01-21 Fri 19:37:53]--[2022-01-21 Fri 19:38:54] =>  00:01:01
   :END:
-- TODO [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[Jan 27th, 2022]]
 - TODO Prueba Unidades 3 y 4 Informática [[[[Feb 2nd, 2022]]]]
 - TODO Sistemas de información gerencial de Laurol [[Jan 31st, 2022]] Capitulo 5 del Silabo
 -
@@ -48,6 +47,7 @@
 	  DEADLINE: <2022-01-13 Thu>
 	-
 	- sda
+- DONE [[Resúmenes Opta I]] → [[Métodos Para el Análisis Regional]] [[Jan 27th, 2022]]
 -
 - 1 Regulación
 - 2 Informatica
