@@ -3,7 +3,7 @@
 
 
 blockquote:before {
-    content: " '' ";
+    content: " " ";
     margin-left: 30px !important;
     top: 20px;
     position: relative;
