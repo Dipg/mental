@@ -2,7 +2,7 @@
 
 
 
-blockquote::before{
+blockquote ::before{
     display: none !important;
 }
 
