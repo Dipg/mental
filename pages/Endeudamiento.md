@@ -32,10 +32,10 @@
 			-
 	- 5. {{cloze Principio de Beneficio}}
 		- Todos los sectores sociales que son beneficiaros de la deuda publica , son los que deben pagar el nivel de endeudamiento
-	- 6. Equidad Intergeneracional
+	- 6. {{cloze Equidad Intergeneracional}}
 		- El endeudamiento no es sostenible , si existe agotamiento de los recursos naturales
 		- Transferencia de generaciones ricas a las generaciones pobres
-	- 7. Exceso de Gradamen - Stiglits
+	- 7.{{cloze  Exceso de Gradamen - Stiglits}}
 		- Cuando se paga mas de lo que se debe en un impuesto
 		- Caundo se aplican muchos impuestos, la emisión de deuda se haga en pagos pequeños a lo largo del tiempo
 		- Con el fin de hacer frente a los intereses resultantes de la deuda
