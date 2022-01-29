@@ -24,7 +24,7 @@ blockquote:after {
 } */
 
 blockquote{
-    text-align: center !important;
+    text-align: center !
     margin-top: 10px !important; 
   margin-bottom: -20px !important;  
 }
