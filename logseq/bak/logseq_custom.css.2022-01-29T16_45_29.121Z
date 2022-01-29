@@ -17,7 +17,7 @@ blockquote .is-paragraph{
     text-decoration: underline !important;
 
 margin-top: 20 !important;
-    padding-top: [](#1.) 0px !important;
+    padding-top: 0px !important;
     padding-bottom: 20px !important;
 /* background-color:rgb(255, 255, 255) !important; */
 /* color: rgb(0, 0, 0) !important; */
