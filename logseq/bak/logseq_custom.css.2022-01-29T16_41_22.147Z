@@ -3,7 +3,7 @@
 
 
 blockquote::before{
-    content:""" !important ;
+    content:""";
 }
 
 blockquote .is-paragraph:hover{
