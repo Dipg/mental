@@ -25,8 +25,8 @@ blockquote:after {
 
 blockquote{
     text-align: center !important;
-    margin-top: 0px !important; 
-  margin-bottom: -20px !important;  
+    margin-top: 5px !important; 
+  margin-bottom: -25px !important;  
 }
 
 
