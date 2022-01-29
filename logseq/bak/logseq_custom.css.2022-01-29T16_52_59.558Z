@@ -22,7 +22,7 @@ blockquote:after {
     box-shadow: 1px 1px 8px 1px #5050504b !important; 
 } */
 blockquote .is-paragraph{
-    text-shadow: solid 1px #ff0303 !important;
+    text-shadow: #ff0303 !important;
     margin: 10px !important;
     /* text-decoration: underline !important; */
 display: inline-block !important;
