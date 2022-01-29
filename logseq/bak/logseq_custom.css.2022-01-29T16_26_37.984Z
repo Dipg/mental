@@ -4,10 +4,10 @@
 
 blockquote .is-paragraph{
 
-background-color:rgb(98, 96, 96) !important;
+    background-color:rgb(98, 96, 96) !important;
 color: #fff !important;
 
-box-shadow: 1px 1px 8px 1px #f3f3f34b !important; 
+    box-shadow: 1px 1px 8px 1px #f3f3f34b !important; 
 }
 
 .table-wrapper {
