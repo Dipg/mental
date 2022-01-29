@@ -7,9 +7,8 @@ blockquote .is-paragraph{
 /* background-color:rgb(255, 255, 255) !important; */
 /* color: rgb(0, 0, 0) !important; */
 font-style: bold !important;
-font-weight: bold ;
-
-font-family: "Helvetica Neue";
+font-weight: semi ;
+font-family: "Roboto";
 box-shadow: 1px 1px 8px 1px #ffffff4b !important; 
 }
 
