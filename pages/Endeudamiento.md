@@ -11,7 +11,7 @@
 		- ¿Cuándo Lerner se opondría a un nivel de endeudamiento de los países?
 			- Cuándo yo pague mas interés que los beneficios futuros que voy a tener
 			-
-	- 2. Modelo de generaciones Solapadas
+	- 2. Modelo de generaciones Solapadas 🟡
 		- Proponen que el endeudamiento se pasa de una generación a otra
 		- Compara cuanto pagamos de impuestos , con las transferencias que recibimos del estado , como educación salud etc..
 		- No solo se traslada la deuda , ósea se toma en cuenta esta , sino también compara el nivel de beneficios con el nivel de impuesto pagados , a diferencia del modelo ricardiano, esa diferencia ase que pague o no
