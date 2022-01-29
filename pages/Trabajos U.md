@@ -9,10 +9,7 @@
 - DONE 🧪 Regulación [[[[Jan 24th, 2022]]] [[Jan 25th, 2022]]
 - DONE 🧪 Finanzas Públicas [[Jan 28th, 2022]]
 - DONE 🧪 Opta I [[Jan 24th, 2022]]
-- DONE 🧪 Escritura [[Jan 27th, 2022]]
 - #urgente
-- DONE Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Jan 27]]
-- DONE Trabajo Final de escritura [[Jan 28th, 2022]]
 - TODO [#B] Aplicación  Ecuaciones Estructurales  [[Jan 27th, 2022]]
   :LOGBOOK:
   CLOCK: [2022-01-21 Fri 19:37:53]--[2022-01-21 Fri 19:38:54] =>  00:01:01
@@ -27,6 +24,9 @@
 - #Hacer
 - Completos
   collapsed:: true
+	- DONE 🧪 Escritura [[Jan 27th, 2022]]
+	- DONE Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Jan 27]]
+	- DONE Trabajo Final de escritura [[Jan 28th, 2022]]
 	- DONE [#C] Aplicación análisis de correspondencia  [[Jan 25th, 2022]]
 	  :LOGBOOK:
 	  CLOCK: [2022-01-21 Fri 19:37:52]--[2022-01-21 Fri 19:38:54] =>  00:01:02
