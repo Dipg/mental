@@ -2,7 +2,7 @@
 
 
 
-blockquote .is-paragraph{
+blockquote{
 
     background-color:rgb(98, 96, 96) !important;
 
