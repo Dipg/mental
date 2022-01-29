@@ -15,7 +15,7 @@
 		- Proponen que el endeudamiento se pasa de una generación a otra
 		- Compara cuanto pagamos de impuestos , con las transferencias que recibimos del estado , como educación salud etc..
 		- No solo se traslada la deuda , ósea se toma en cuenta esta , sino también compara el nivel de beneficios con el nivel de impuesto pagados , a diferencia del modelo ricardiano, esa diferencia ase que pague o no
-	- 3. {{cloze  Modelo Neoclásico}}
+	- 3. {{cloze  Modelo Neoclásico}} 🟡
 		- Totalmente en contra del nivel de endeudamiento de un país
 		- No importa si {{cloze un proyecto es financiado mediante impuestos, o mediante un prestamos. }}SE DETRAEN {{cloze RECURSOS DEL SECTOR PRIVADO}}
 		- Exixste menos estock de capital privado, pero el stock de captal total auemntara
