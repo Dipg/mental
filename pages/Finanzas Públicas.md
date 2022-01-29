@@ -496,11 +496,11 @@
 - [[Ciclo Presupuestario]]
 - [[Endeudamiento]]
 -
-- TODO Video 17 de Enero 
+- TODO Video 17 de Enero:
   id:: 61f5c0c2-caff-4093-b70f-5bf4fb6565aa
+	- Deuda desde el banco central [[Ejercicio Búsqueda de datos ]] [[Ejercicios Numéricos]]  Prte 1 del [[Endeudamiento]]
 	- https://mail.google.com/mail/u/0/?pli=1#search/bryan/FMfcgzGmtXFlVKgZSzQHzhFGHqnVPZTm?projector=1
 		-
-	- :  Deuda desde el banco central [[Ejercicio Búsqueda de datos ]] [[Ejercicios Numéricos]]  Prte 1 del [[Endeudamiento]]
 - Videos
   collapsed:: true
 	- DONE 29 de Mayo (Introducción incidencia economica)
