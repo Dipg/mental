@@ -8,7 +8,6 @@
 - DONE  🧪 Opta IV [[Wed, 26-01-2022]] [[Jan 26th, 2022]]
 - DONE 🧪 Regulación [[[[Jan 24th, 2022]]] [[Jan 25th, 2022]]
 - DONE 🧪 Finanzas Públicas [[Jan 28th, 2022]]
-- DONE 🧪 Opta I [[Jan 24th, 2022]]
 - #urgente
 - TODO [#B] Aplicación  Ecuaciones Estructurales  [[Jan 27th, 2022]]
   :LOGBOOK:
@@ -24,6 +23,7 @@
 - #Hacer
 - Completos
   collapsed:: true
+	- DONE 🧪 Opta I [[Jan 24th, 2022]]
 	- DONE 🧪 Escritura [[Jan 27th, 2022]]
 	- DONE Trabajo Empresarial Ston Aids y quiads → [[Economía Empresarial]] [[Jan 27]]
 	- DONE Trabajo Final de escritura [[Jan 28th, 2022]]
