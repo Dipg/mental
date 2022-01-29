@@ -15,14 +15,14 @@
 		- Proponen que el endeudamiento se pasa de una generación a otra
 		- Compara cuanto pagamos de impuestos , con las transferencias que recibimos del estado , como educación salud etc..
 		- No solo se traslada la deuda , ósea se toma en cuenta esta , sino también compara el nivel de beneficios con el nivel de impuesto pagados , a diferencia del modelo ricardiano, esa diferencia ase que pague o no
-	- Modelo Neoclásico
+	- 3. Modelo Neoclásico
 		- Totalmente en contra del nivel de endeudamiento de un país
 		- No importa si un proyecto es financiado mediante impuestos, o mediante un prestamos. SE DETRAEN RECURSOS DEL SECTOR PRIVADO
 		- Exixste menos estock de capital privado, pero el stock de captal total auemntara
 		- ¿Qué efectos provocaría el nivel de endeudamiento según este modelo?
 			- Efecto de expulsión
 				- Alteración del tipo de interés (Se generan mayores tipos de interés en la economía, aumentando así el precio del crédito , → Generando así menos inversión privada
-	- Modelo ricardiano
+	- 4. Modelo ricardiano
 		- Siempre las generaciones siguientes pagan el nivel de adeudamiento actual
 		- Contrae siempre el ahorro privado, ya que el nivel de endeudamiento esta cubierto con este ahorro privado de la poblacón
 		- El ahorro privado se  optine mediante
@@ -30,12 +30,12 @@
 		- # Equivalencia Ricardiana
 			- La deuda publica es equivalente a impuestos de suma fija si no redistribuye recursos entre generaciones si no se distribuye  entre generaciones
 			-
-	- Principio de Beneficio
+	- 5. Principio de Beneficio
 		- Todos los sectores sociales que son beneficiaros de la deuda publica , son los que deben pagar el nivel de endeudamiento
-	- Equidad Intergeneracional
+	- 6. Equidad Intergeneracional
 		- El endeudamiento no es sostenible , si existe agotamiento de los recursos naturales
 		- Transferencia de generaciones ricas a las generaciones pobres
-	- Exceso de Gradamen - Stiglits
+	- 7. Exceso de Gradamen - Stiglits
 		- Cuando se paga mas de lo que se debe en un impuesto
 		- Caundo se aplican muchos impuestos, la emisión de deuda se haga en pagos pequeños a lo largo del tiempo
 		- Con el fin de hacer frente a los intereses resultantes de la deuda
