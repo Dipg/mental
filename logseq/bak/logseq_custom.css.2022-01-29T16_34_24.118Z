@@ -9,7 +9,7 @@ blockquote .is-paragraph{
 /* font-style: bold !important; */
 /* font-weight: bold ; */
 font-size: 24px !important;
-text-align: center !important;
+ali
 font-family: "Roboto";
 box-shadow: 1px 1px 8px 1px #5050504b !important; 
 }
