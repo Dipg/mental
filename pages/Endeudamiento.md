@@ -1,4 +1,4 @@
-- # Principales efectos de elevados niveles de deuda #yellow
+- # Principales efectos de elevados niveles de deuda 🟡
 	- Inflación
 		- Cuando hay déficit la única fuente que se tiene en cuenta son los impuestos
 	- Riesgo sobre los activos tangibles del sector público
