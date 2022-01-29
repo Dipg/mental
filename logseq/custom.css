@@ -6,7 +6,7 @@ blockquote::before{
     display: none !important;
 }
 
-blockquote .is-paragraph::hover{
+blockquote .is-paragraph:hover{
 
     display: none !important;
 }
