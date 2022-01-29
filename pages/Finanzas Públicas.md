@@ -496,7 +496,7 @@
 - [[Ciclo Presupuestario]]
 - [[Endeudamiento]]
 -
-- Video 17 de Enero Deuda [[Endeudamiento]]
+- Video 17 de Enero Deuda desde el banco central [[Endeudamiento]]   []
 	- https://mail.google.com/mail/u/0/?pli=1#search/bryan/FMfcgzGmtXFlVKgZSzQHzhFGHqnVPZTm?projector=1
 		-
 - Videos
