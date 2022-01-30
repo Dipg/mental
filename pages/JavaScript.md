@@ -6,6 +6,7 @@
 			  ```
 		- Variables Globales
 			- ```Js
+			  var variableg
 			  ```
 - Crear bucle for en JavaScript con lista
 	- ```js
