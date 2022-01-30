@@ -6,7 +6,7 @@
 			  ```
 		- Variables Globales
 			- ```Js
-			  var variableg
+			  var variable_G= "Soy una variable Global "
 			  ```
 - Crear bucle for en JavaScript con lista
 	- ```js
