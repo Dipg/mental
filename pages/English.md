@@ -87,6 +87,7 @@
 		-
 	- Peter doesn't care
 		- A Peter no le importa
+	- Wait, Just him or both of us?
 	-
 	- # 2. WORDS
 	  collapsed:: true
