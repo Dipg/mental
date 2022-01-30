@@ -1,4 +1,4 @@
-- Lenguajes de
+- Lenguajes de Programación
 - [[Python]]
 - [[R]]
 - [[CSS]]
