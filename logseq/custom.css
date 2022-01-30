@@ -75,7 +75,7 @@
  .block-content-wrapper  { 
     text-indent: 30px;
  } */
-.inline a { 
+span> a { 
     text-indent: 60px !important;
     padding: left 360px !important;
     margin: left 360px !important;
