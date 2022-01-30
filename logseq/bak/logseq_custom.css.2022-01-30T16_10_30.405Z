@@ -1,33 +1,5 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
-
-
-#kef-wrap-toolbar {
-    background: #333;
-  }
-  
-  /* 这里是工具栏上按钮的样式 */
-  /* Here goes styles for toolbar buttons */
-  .kef-wrap-tb-item {
-  }
-  
-  /* 这里是工具栏上按钮在有鼠标悬浮时的样式 */
-  /* Here goes styles for toolbar buttons when hovered */
-  .kef-wrap-tb-item:hover {
-    filter: drop-shadow(0 0 3px #fff);
-  }
-  
-  /* 这里可以定义svg图标的样式 */
-  /* Here you can define styles for the svg icon */
-  .kef-wrap-tb-item img {
-    width: 20px;
-    height: 20px;
-  }
-
-
-
-
-
 .block-content>span >div>div h1{
 
     text-indent: 0px;
