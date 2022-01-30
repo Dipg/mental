@@ -1,1 +1,2 @@
 - _Una relación espuria se refiere a la apariencia en que existe una relación de causalidad entre variables cuando en realidad esta no existe._ - [Relación espuria - Qué es, definición y concepto | Economipedia](https://economipedia.com/definiciones/relacion-espuria.html)
+-
