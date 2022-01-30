@@ -86,7 +86,7 @@
 	- Look. I'm going to be straight with you
 		-
 	- Peter doesn't care
-		-
+		- A Peter no le importa
 	- # 2. WORDS
 	  collapsed:: true
 		- Research #card
