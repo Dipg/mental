@@ -2,9 +2,10 @@
 - #inmediato
 - TODO Aplicación Machine learning [[Jan 29th, 2022]]
 - #urgente
-- TODO [#B] Aplicación  [[Ecuaciones Estructurales]]  [[Jan 27th, 2022]]
+- DOING [#B] Aplicación  [[Ecuaciones Estructurales]]  [[Jan 27th, 2022]]
   :LOGBOOK:
   CLOCK: [2022-01-21 Fri 19:37:53]--[2022-01-21 Fri 19:38:54] =>  00:01:01
+  CLOCK: [2022-01-30 Sun 14:14:41]
   :END:
 - TODO Prueba Unidades 3 y 4 Informática [[[[Feb 2nd, 2022]]]]
 - TODO Sistemas de información gerencial de Laurol [[Jan 31st, 2022]] Capitulo 5 del Silabo
