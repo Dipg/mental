@@ -1,9 +1,9 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
-/* .block-content>span >div>div h1{
+.block-content>span >div>div h1{
 
     text-indent: 0px;
-} */
+}
 
 .page-properties{
     text-indent: 0px;
