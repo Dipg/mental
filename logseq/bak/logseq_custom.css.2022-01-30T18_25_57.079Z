@@ -72,7 +72,7 @@
     text-indent: 30px;
  }
 
- .block-content-wrapper  + .block-content-wrapper  { 
+ .block-content-wrapper  { 
     text-indent: 30px;
  }
 
