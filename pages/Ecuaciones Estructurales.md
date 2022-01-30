@@ -7,6 +7,6 @@ alias:: SEM
 - Se pueden estimar relaciones causales , pero no demuestra dicha causalidad.  adadadasdaasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd dsasd aasdasdasda sdasd
 - [[Diagramas Estructurales]]
 -
-- [[]](# wqw)
+- [[]](# wqw) afsf asfas fasf
 - [](#1.)
 -
