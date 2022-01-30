@@ -1,5 +1,5 @@
 - Variables
-	- Tipos dw VAriables
+	- Tipos de Variables
 	-
 - Crear bucle for en JavaScript con lista
 	- ```js
