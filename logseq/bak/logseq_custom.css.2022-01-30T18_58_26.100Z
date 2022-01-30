@@ -75,7 +75,7 @@
  .block-content-wrapper  { 
     text-indent: 30px;
  } */
-.flex-1:has(inline):has(page-reference)   { 
+.flex-1:has(inline):has(page-re)   { 
     text-indent: 30px !important;
  }
 
