@@ -1,7 +1,8 @@
 - Variables
 	- Tipos de Variables
 		- Variables Locales
-		- Variables
+			- Codee
+		- Variables Globales
 - Crear bucle for en JavaScript con lista
 	- ```js
 	  const cars = ["BMW", "Volvo", "Saab", "Ford", "Fiat", "Audi"];
