@@ -83,7 +83,8 @@
 		- Esto es desagradable
 	- i have never seen him so incensed
 		- Nunca lo he visto tan indignado
-	- look,
+	- Look. I'm going to be straight with you
+		-
 	- # 2. WORDS
 	  collapsed:: true
 		- Research #card
