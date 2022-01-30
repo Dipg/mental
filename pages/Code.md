@@ -22,7 +22,6 @@
 			- Node nos instala npm
 - [[Python]]
 - [[R]]
--
 - [[CSS]]
 - [[HTML]]
 - [[Svelte]]
