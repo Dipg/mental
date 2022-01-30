@@ -75,8 +75,8 @@
  .block-content-wrapper  { 
     text-indent: 30px;
  }
- .block-content-wrapper  { 
-    text-indent: 30px;
+ .block-content-wrapper .page-reference  { 
+    text-indent: 0px;
  }
 
  
