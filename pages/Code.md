@@ -21,6 +21,8 @@
 			- Es el motor donde corre javascript nos permite escribir en javascript
 			- Node nos instala npm
 - [[Python]]
+- [[R]]
+-
 - [[CSS]]
 - [[HTML]]
 - [[Svelte]]
