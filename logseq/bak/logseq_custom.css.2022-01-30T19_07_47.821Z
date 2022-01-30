@@ -75,7 +75,7 @@
  .block-content-wrapper  { 
     text-indent: 30px;
  } */
-:has(.inline)   { 
+.block-content:has(span)   { 
     text-indent: 30px !important;
  }
 
