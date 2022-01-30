@@ -77,7 +77,7 @@
  }
 
 
- .block-content-wrapper .fifteen { max-width: 15ex; outline: 1px solid red; }
+ p.fifteen { max-width: 15ex; outline: 1px solid red; }
 
 blockquote:before {
     content: " '' ";
