@@ -2,7 +2,7 @@
 - #inmediato
 - TODO Aplicación Machine learning [[Jan 29th, 2022]]
 - #urgente
-- TODO [#B] Aplicación  Ecuaciones Estructurales  [[Jan 27th, 2022]]
+- TODO [#B] Aplicación  [[Ecuaciones Estructurales]]  [[Jan 27th, 2022]]
   :LOGBOOK:
   CLOCK: [2022-01-21 Fri 19:37:53]--[2022-01-21 Fri 19:38:54] =>  00:01:01
   :END:
