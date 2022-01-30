@@ -75,7 +75,7 @@
  .block-content-wrapper  { 
     text-indent: 30px;
  }
- .block-content>span>div>div  .inline>span { 
+ .block-content>span  .inline>span { 
     text-indent: 0px !important;
  }
 
