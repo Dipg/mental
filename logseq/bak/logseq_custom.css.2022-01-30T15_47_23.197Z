@@ -1,6 +1,6 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
-.inline { 
+p { 
     text-indent: 30px;
  }
 
