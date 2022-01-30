@@ -2,7 +2,7 @@
 	- Tipos de Variables
 		- Variables Locales
 			- ```js
-			  let variable= "Soy una varibale local"
+			  let variable_L= "Soy una varibale local"
 			  ```
 		- Variables Globales
 			- ```Js
