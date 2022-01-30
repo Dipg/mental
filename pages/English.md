@@ -88,7 +88,7 @@
 	- Peter doesn't care
 		- A Peter no le importa
 	- Wait, Just him or both of us?
-	-
+		- Espera, solo él o los dos?
 	- # 2. WORDS
 	  collapsed:: true
 		- Research #card
