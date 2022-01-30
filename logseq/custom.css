@@ -76,8 +76,7 @@
     text-indent: 30px;
  }
 
-
- .block-content-wrapper { max-width: 20ex; outline: 1px solid red; }
+ 
 
 blockquote:before {
     content: " '' ";
