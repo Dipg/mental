@@ -2,8 +2,10 @@
 	- Tipos de Variables
 		- Variables Locales
 			- ```js
+			  let variable= "Soy una varibale local"
 			  ```
 		- Variables Globales
+		-
 - Crear bucle for en JavaScript con lista
 	- ```js
 	  const cars = ["BMW", "Volvo", "Saab", "Ford", "Fiat", "Audi"];
@@ -17,4 +19,4 @@
 	  ```
 	- Ref
 		- {{renderer :linkpreview,https://www.w3schools.com/js/tryit.asp?filename=tryjs_loop_for}}
-		  id:: 61c8a154-7f34-4c92-ad7b-feff53cffba4
+		  id:: 61c8a154-7f34-4c92-ad7b-feff53cf
