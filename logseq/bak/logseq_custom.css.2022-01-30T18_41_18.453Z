@@ -75,9 +75,6 @@
  .block-content-wrapper  { 
     text-indent: 30px;
  }
- .block-content-wrapper  { 
-    text-indent: 30px;
- }
 
  
 
