@@ -71,10 +71,10 @@
 .block-content-wrapper .inline { 
     text-indent: 30px;
  }
-/* 
+
  .block-content-wrapper  { 
     text-indent: 30px;
- } */
+ }
  .block-content>span>div>div>span> .page-reference { 
     text-indent: 0px !important;
  }
