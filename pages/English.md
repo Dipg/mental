@@ -79,7 +79,7 @@
 			- Cantidad de activos fijos tangibles
 		- Comida #flashcard
 			- Hola
-	- Thi is disp
+	- this is displeasing
 	- # 2. WORDS
 	  collapsed:: true
 		- Research #card
