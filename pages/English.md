@@ -89,7 +89,8 @@
 		- A Peter no le importa
 	- Wait, Just him or both of us?
 		- Espera, solo él o los dos?
-	- Any
+	- Any of you
+		- Cualquiera de ustedes
 	- # 2. WORDS
 	  collapsed:: true
 		- Research #card
