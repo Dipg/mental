@@ -1,8 +1,5 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
-. page-properties{
-
-}
 .block-content-wrapper .inline { 
     text-indent: 30px;
  }
