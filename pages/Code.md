@@ -24,4 +24,5 @@
 - [[CSS]]
 - [[HTML]]
 - [[Svelte]]
+- [[Stata]]
 -
