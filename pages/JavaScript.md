@@ -1,7 +1,8 @@
 - Variables
 	- Tipos de Variables
 		- Variables Locales
-			- Codee
+			- ```js
+			  ```
 		- Variables Globales
 - Crear bucle for en JavaScript con lista
 	- ```js
