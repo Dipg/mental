@@ -77,7 +77,7 @@
  }
 
 
- .block-content-wrapper { max-width: 20ex; outline: 1px solid red; }
+ .block-content-wrapper { max-width: 15ex; outline: 1px solid red; }
 
 blockquote:before {
     content: " '' ";
