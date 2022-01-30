@@ -23,3 +23,5 @@
 - [[Python]]
 - [[CSS]]
 - [[HTML]]
+- [[Svelte]]
+-
