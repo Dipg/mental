@@ -79,7 +79,8 @@
 			- Cantidad de activos fijos tangibles
 		- Comida #flashcard
 			- Hola
-	- this is displeasing
+	- This is displeasing
+		- Esto es desagradable
 	- # 2. WORDS
 	  collapsed:: true
 		- Research #card
