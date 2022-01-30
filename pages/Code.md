@@ -1,15 +1,15 @@
-- Como empezar con la programación
-  collapsed:: true
-	- Primero instalamos Node
-		- Node
-			- Es el motor donde corre javascript nos permite escribir en javascript
-			- Node nos instala npm
 - [[Python]]
 - [[R]]
 - [[CSS]]
 - [[HTML]]
 - [[Svelte]]
 - [[Stata]]
+- Como empezar con la programación
+  collapsed:: true
+	- Primero instalamos Node
+		- Node
+			- Es el motor donde corre javascript nos permite escribir en javascript
+			- Node nos instala npm
 - Hace que no distinga entre mayúsculas y minúsculas
   collapsed:: true
 	- ```Python
