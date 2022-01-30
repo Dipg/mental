@@ -5,7 +5,8 @@
 			  let variable= "Soy una varibale local"
 			  ```
 		- Variables Globales
-			-
+			- ```Js
+			  ```
 - Crear bucle for en JavaScript con lista
 	- ```js
 	  const cars = ["BMW", "Volvo", "Saab", "Ford", "Fiat", "Audi"];
