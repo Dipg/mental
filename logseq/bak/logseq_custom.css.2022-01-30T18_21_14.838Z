@@ -68,11 +68,7 @@
 .page-properties{
     text-indent: 0px;
 }
-.block-content-wrapper .inline { 
-    text-indent: 30px;
- }
-
- .block-content-wrapper .inline { 
+.block-content .inline { 
     text-indent: 30px;
  }
 
