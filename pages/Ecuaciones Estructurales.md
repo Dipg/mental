@@ -1,1 +1,1 @@
-- Que son los modelos de
+- Las ecuaciones estructurales o SEM
