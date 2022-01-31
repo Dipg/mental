@@ -18,7 +18,7 @@
 	  collapsed:: true
 		- ¿Qué es una política expansiva?
 		  collapsed:: true
-			- Una política con la finalidad de aumentar el gasto agregado, para aumentar la renta efectiva y así disminuir los niveles de paro.
+			- Es una Una política con la finalidad de aumentar el gasto agregado, para aumentar la renta efectiva y así disminuir los niveles de paro.
 			- Esta política expansiva  puede ser de cinco tipos o vías de aplicación.
 				- [](#1.) Reducción de los impuestos
 				  collapsed:: true
