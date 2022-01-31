@@ -80,7 +80,7 @@
 		- Comida #flashcard
 			- Hola
 	- we also may be totally fucked
-		-
+		- Tambien podríamos estar totalmente jodidos
 	- This is displeasing
 		- Esto es desagradable
 	- i have never seen him so incensed
