@@ -80,7 +80,7 @@
 		- Comida #flashcard
 			- Hola
 	- Don´t approach me
-	-
+		- No te acerques a mi
 	- i´m gonna go
 		- voy a ir
 	- i´ll let you know either way
