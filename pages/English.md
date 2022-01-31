@@ -79,6 +79,8 @@
 			- Cantidad de activos fijos tangibles
 		- Comida #flashcard
 			- Hola
+	- i´m gonna go
+		- voy a ir
 	- i´ll let you know either way
 		- Te lo haré saber de cualquier manera
 	- we also may be totally fucked
