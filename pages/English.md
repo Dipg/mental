@@ -79,6 +79,8 @@
 			- Cantidad de activos fijos tangibles
 		- Comida #flashcard
 			- Hola
+	- i put together a little secret weapon
+		-
 	- since we'er kind of playing from behind here
 		- ya que jugamos con desventaja
 		- ** ya que estamos jugando desde atrás aqui
