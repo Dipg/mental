@@ -1,3 +1,5 @@
+- Pagina para clasificar Papers
+	- https://www.scimagojr.com/journalrank.php?country=IL
 - [[Economía Experimental]] [[Economía Conductual]]
 	- [[Experimentos  en Linea - Influencia del Efecto Gratis en la adquisición de un seguro de medicina prepagada a través de Facebook.]]
 - [[Evaluación de Impacto]]
