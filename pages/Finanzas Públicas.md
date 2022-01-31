@@ -10,7 +10,7 @@
 					- Estabilizar la economía y el ciclo a través del saldo presupuestario.
 				- Objetivo A Largo plazo #red
 				  collapsed:: true
-					- Incremental el crecimiento del país mediante I+D, educación  y del ingreso incentivos al ahorro
+					- Incrementar el crecimiento del país mediante I+D, educación  y del ingreso incentivos al ahorro
 				- Objetivo  Simultaneo #red
 				  collapsed:: true
 					- Equidad y redistribución de la renta
