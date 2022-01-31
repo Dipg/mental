@@ -79,7 +79,8 @@
 			- Cantidad de activos fijos tangibles
 		- Comida #flashcard
 			- Hola
-	- responsable de cualquier daño
+	- liable for any damages
+		- responsable de cualquier daño
 	- you´re not showing up at all
 		- No apareces en abasoluto
 	- i put together a little secret weapon
