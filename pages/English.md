@@ -79,6 +79,8 @@
 			- Cantidad de activos fijos tangibles
 		- Comida #flashcard
 			- Hola
+	- since we'er kind of playing from behind here
+		-
 	- neither do i
 		- Yo tampoco
 	- seeded quite a few new companies
