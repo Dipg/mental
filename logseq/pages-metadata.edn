@@ -1,6 +1,6 @@
 [{:block/name "",
-  :block/created-at 1643575485642,
-  :block/updated-at 1643575485642}
+  :block/created-at 1643633676077,
+  :block/updated-at 1643633676077}
  {:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -30,18 +30,25 @@
   :block/updated-at 1638961917544}
  {:block/name
   "../assets/boxal_et_al-2005-the-impact-of-oil_(1)_es_1643385077321_0.pdf",
-  :block/created-at 1643575485640,
-  :block/updated-at 1643575485640}
+  :block/created-at 1643633676071,
+  :block/updated-at 1643633676071}
  {:block/name
   "../assets/boxal_et_al-2005-the-impact-of-oil_1641817366109_0.pdf",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
+ {:block/name
+  "../assets/capitulo_7_presupuesto_y_planificación_1643603734698_0.pdf",
+  :block/created-at 1643633676071,
+  :block/updated-at 1643633676071}
+ {:block/name "../assets/capítulo_6_deuda_1643603712506_0.pdf",
+  :block/created-at 1643633676076,
+  :block/updated-at 1643633676076}
  {:block/name "../assets/chapter_1_y_2_es_1643006775158_0.pdf",
-  :block/created-at 1643575485640,
-  :block/updated-at 1643575485640}
+  :block/created-at 1643633676072,
+  :block/updated-at 1643633676072}
  {:block/name "../assets/chapter_3ç_es_1643006765502_0.pdf",
-  :block/created-at 1643575485640,
-  :block/updated-at 1643575485640}
+  :block/created-at 1643633676071,
+  :block/updated-at 1643633676071}
  {:block/name
   "../assets/dialnet-teoriaprospectiva-65981_(1)_1637533445262_0.pdf",
   :block/created-at 1638961917544,
@@ -63,8 +70,8 @@
   :block/updated-at 1640183914952}
  {:block/name
   "../assets/garret_marsh-2002-the-revenue-impacts_(1)_es_1643387771381_0.pdf",
-  :block/created-at 1643575485640,
-  :block/updated-at 1643575485640}
+  :block/created-at 1643633676071,
+  :block/updated-at 1643633676071}
  {:block/name
   "../assets/garret_marsh-2002-the-revenue-impacts_1641817357939_0.pdf",
   :block/created-at 1641992433040,
@@ -223,20 +230,20 @@
   :block/created-at 1640183914955,
   :block/updated-at 1640183914955}
  {:block/name "[[feb 2nd, 2022",
-  :block/created-at 1643575485641,
-  :block/updated-at 1643575485641}
+  :block/created-at 1643633676075,
+  :block/updated-at 1643633676075}
  {:block/name "[[jan 24th, 2022",
-  :block/created-at 1643575485642,
-  :block/updated-at 1643575485642}
+  :block/created-at 1643633676077,
+  :block/updated-at 1643633676077}
  {:block/name "_clasificadores_",
-  :block/created-at 1643575485640,
-  :block/updated-at 1643575485640}
+  :block/created-at 1643633676072,
+  :block/updated-at 1643633676072}
  {:block/name "_red",
-  :block/created-at 1643575485640,
-  :block/updated-at 1643575485640}
+  :block/created-at 1643633676071,
+  :block/updated-at 1643633676071}
  {:block/name "_w",
-  :block/created-at 1643575485642,
-  :block/updated-at 1643575485642}
+  :block/created-at 1643633676077,
+  :block/updated-at 1643633676077}
  {:block/name "a",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -289,8 +296,8 @@
   :block/created-at 1642172083943,
   :block/updated-at 1643566178503}
  {:block/name "comida",
-  :block/created-at 1643575485640,
-  :block/updated-at 1643575485640}
+  :block/created-at 1643633676071,
+  :block/updated-at 1643633676071}
  {:block/name "comments",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -300,9 +307,12 @@
  {:block/name "coste hundido",
   :block/created-at 1642172083937,
   :block/updated-at 1642172083937}
+ {:block/name "crecimiento económico",
+  :block/created-at 1643633676077,
+  :block/updated-at 1643633676077}
  {:block/name "css",
   :block/created-at 1642172083942,
-  :block/updated-at 1643566255264}
+  :block/updated-at 1643589165247}
  {:block/name "daily briefing _ the economist",
   :block/created-at 1642172083943,
   :block/updated-at 1642172083943}
@@ -352,11 +362,11 @@
   :block/created-at 1642172083936,
   :block/updated-at 1642774466133}
  {:block/name "diagramas estructurales",
-  :block/created-at 1643575485641,
-  :block/updated-at 1643575485641}
+  :block/created-at 1643633676076,
+  :block/updated-at 1643633676076}
  {:block/name "documento",
-  :block/created-at 1643575485642,
-  :block/updated-at 1643575485642}
+  :block/created-at 1643633676077,
+  :block/updated-at 1643633676077}
  {:block/name "doing",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -415,11 +425,11 @@
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
  {:block/name "ejercicio búsqueda de datos ",
-  :block/created-at 1643575485642,
-  :block/updated-at 1643575485642}
+  :block/created-at 1643633676077,
+  :block/updated-at 1643633676077}
  {:block/name "ejercicios numéricos",
-  :block/created-at 1643575485642,
-  :block/updated-at 1643575485642}
+  :block/created-at 1643633676077,
+  :block/updated-at 1643633676077}
  {:block/name "elección racional",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -431,13 +441,13 @@
   :block/updated-at 1643501313232}
  {:block/name "english",
   :block/created-at 1642172083936,
-  :block/updated-at 1643575347188}
+  :block/updated-at 1643575853908}
  {:block/name "english (conflict 2022-01-23-17-01-23)",
-  :block/created-at 1643575485640,
-  :block/updated-at 1643575485640}
+  :block/created-at 1643633676073,
+  :block/updated-at 1643633676073}
  {:block/name "escala de liker",
-  :block/created-at 1643575485640,
-  :block/updated-at 1643575485640}
+  :block/created-at 1643633676071,
+  :block/updated-at 1643633676071}
  {:block/name "estructura de datos",
   :block/created-at 1642950922906,
   :block/updated-at 1642950922906}
@@ -452,8 +462,8 @@
   :block/created-at 1643061595035,
   :block/updated-at 1643061621629}
  {:block/name "examenes",
-  :block/created-at 1643575485642,
-  :block/updated-at 1643575485642}
+  :block/created-at 1643633676077,
+  :block/updated-at 1643633676077}
  {:block/name "excel",
   :block/created-at 1642172083943,
   :block/updated-at 1642172083943}
@@ -478,8 +488,8 @@
   :block/created-at 1643061761600,
   :block/updated-at 1643063034376}
  {:block/name "factores de producción",
-  :block/created-at 1643575485642,
-  :block/updated-at 1643575485642}
+  :block/created-at 1643633676077,
+  :block/updated-at 1643633676077}
  {:block/name "favorites",
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
@@ -515,7 +525,7 @@
   :block/updated-at 1641992433040}
  {:block/name "finanzas públicas",
   :block/created-at 1642172083942,
-  :block/updated-at 1643498523066}
+  :block/updated-at 1643603743520}
  {:block/name "flashcard",
   :block/created-at 1642980776760,
   :block/updated-at 1642980776760}
@@ -523,8 +533,11 @@
   :block/created-at 1642723200000,
   :block/updated-at 1642875320015}
  {:block/name "g_/mi unidad/autosync/logmy/newlog/assets/sdf",
-  :block/created-at 1643575485640,
-  :block/updated-at 1643575485640}
+  :block/created-at 1643633676071,
+  :block/updated-at 1643633676071}
+ {:block/name "gasto agregado",
+  :block/created-at 1643590663783,
+  :block/updated-at 1643590663783}
  {:block/name "gasto público",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -550,8 +563,8 @@
   :block/created-at 1643385163523,
   :block/updated-at 1643385235423}
  {:block/name "hls__chapter_1_y_2_es_1643006775158_0",
-  :block/created-at 1643575485640,
-  :block/updated-at 1643575485640}
+  :block/created-at 1643633676071,
+  :block/updated-at 1643633676071}
  {:block/name
   "hls__dialnet-teoriaprospectiva-65981_(1)_1637533445262_0",
   :block/created-at 1642172083937,
@@ -691,8 +704,8 @@
   :block/created-at 1643155200000,
   :block/updated-at 1643208058155}
  {:block/name "jan 27",
-  :block/created-at 1643575485641,
-  :block/updated-at 1643575485641}
+  :block/created-at 1643633676074,
+  :block/updated-at 1643633676074}
  {:block/name "jan 27th, 2022",
   :block/created-at 1643241600000,
   :block/updated-at 1643341985485}
@@ -759,6 +772,9 @@
  {:block/name "marketing",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
+ {:block/name "memoria",
+  :block/created-at 1643596707812,
+  :block/updated-at 1643596770807}
  {:block/name "mercado laboral",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
@@ -781,8 +797,8 @@
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
  {:block/name "modelos multivariados",
-  :block/created-at 1643575485642,
-  :block/updated-at 1643575485642}
+  :block/created-at 1643633676077,
+  :block/updated-at 1643633676077}
  {:block/name "musical",
   :block/created-at 1642172083941,
   :block/updated-at 1642172083941}
@@ -856,14 +872,17 @@
   :block/created-at 1640183914954,
   :block/updated-at 1640183914954}
  {:block/name "plan nacional de desarrollo",
-  :block/created-at 1643575485642,
-  :block/updated-at 1643575485642}
+  :block/created-at 1643633676077,
+  :block/updated-at 1643633676077}
  {:block/name "plotly",
   :block/created-at 1642172083939,
   :block/updated-at 1642172083939}
  {:block/name "pobreza",
   :block/created-at 1642172083940,
   :block/updated-at 1642172083940}
+ {:block/name "política",
+  :block/created-at 1643633676071,
+  :block/updated-at 1643633676071}
  {:block/name "probabilidad bayesiana",
   :block/created-at 1642172083937,
   :block/updated-at 1642172083937}
@@ -922,8 +941,8 @@
   :block/created-at 1642895339060,
   :block/updated-at 1642942662270}
  {:block/name "sem",
-  :block/created-at 1643575485640,
-  :block/updated-at 1643575485640}
+  :block/created-at 1643633676073,
+  :block/updated-at 1643633676073}
  {:block/name "series",
   :block/created-at 1643164699344,
   :block/updated-at 1643164740054}
@@ -970,8 +989,8 @@
   :block/created-at 1642178166048,
   :block/updated-at 1643570081803}
  {:block/name "tue, 18-01-2022",
-  :block/created-at 1643575485640,
-  :block/updated-at 1643575485640}
+  :block/created-at 1643633676070,
+  :block/updated-at 1643633676070}
  {:block/name "urgente",
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
@@ -982,20 +1001,20 @@
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
  {:block/name "variables continuas",
-  :block/created-at 1643575485642,
-  :block/updated-at 1643575485642}
+  :block/created-at 1643633676077,
+  :block/updated-at 1643633676077}
  {:block/name "variables dependiente",
-  :block/created-at 1643575485642,
-  :block/updated-at 1643575485642}
+  :block/created-at 1643633676077,
+  :block/updated-at 1643633676077}
  {:block/name "variables independiente",
-  :block/created-at 1643575485640,
-  :block/updated-at 1643575485640}
+  :block/created-at 1643633676071,
+  :block/updated-at 1643633676071}
  {:block/name "variables latentes",
   :block/created-at 1643560046279,
   :block/updated-at 1643560046279}
  {:block/name "variables mediadoras",
-  :block/created-at 1643575485641,
-  :block/updated-at 1643575485641}
+  :block/created-at 1643633676074,
+  :block/updated-at 1643633676074}
  {:block/name "ver",
   :block/created-at 1640183914955,
   :block/updated-at 1640183914955}
