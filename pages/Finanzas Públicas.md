@@ -487,6 +487,7 @@
 - El déficit es una variable de flujo
 - # Unidad 7
 - [[Ciclo Presupuestario]]
+- Unidad 6
 - [[Endeudamiento]]
 -
 - TODO Video 17 de Enero:
