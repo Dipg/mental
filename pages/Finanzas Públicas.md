@@ -219,11 +219,6 @@
 		- Es eficiente en el sentido de Pareto
 		- Problema
 			- Información oculta por parte de los consumidores
-	-
-	-
-	-
-	-
-	-
 	- Economía del sector Público
 # Unidad 2 ![📑](../assets/UNIDAD_2._1637746281546_0.pdf)
 # Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
