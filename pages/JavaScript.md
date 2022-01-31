@@ -24,5 +24,6 @@
 		  id:: 61c8a154-7f34-4c92-ad7b-feff53cffba4
 - Curso de JavaScript (Dalton)
 	- {{youtube https://www.youtube.com/watch?v=z95mZVUcJ-E&t=359s}}
+		-
 	- {{youtube-timestamp 1687}} Variables en Java Script
 	-
