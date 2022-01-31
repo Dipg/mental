@@ -5,10 +5,10 @@
 		- ¿Cuáles son los objetivos de la política fiscal?
 		  collapsed:: true
 			- Según el tiempo se dividen en 3:
-				- Objetivo A corto plazo #red
+				- Objetivo A corto plazo 🟢
 				  collapsed:: true
 					- Estabilizar la economía y el ciclo a través del saldo presupuestario.
-				- Objetivo A Largo plazo #red
+				- Objetivo A Largo plazo 🟢
 				  collapsed:: true
 					- Incrementar el crecimiento del país mediante I+D, educación  y del ingreso incentivos al ahorro
 				- Objetivo  Simultaneo 🟢
