@@ -80,7 +80,7 @@
 		- Comida #flashcard
 			- Hola
 	- i´ll let you know either way
-		- Te lo ha
+		- Te lo haré saber de cualquier manera
 	- we also may be totally fucked
 		- También podríamos estar totalmente jodidos
 	- This is displeasing
