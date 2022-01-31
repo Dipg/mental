@@ -80,7 +80,7 @@
 		- Comida #flashcard
 			- Hola
 	- neither do i
-		-
+		- Yo tampoco
 	- seeded quite a few new companies
 		- Sembro bastantes nuevas compañias
 	- Don´t approach me
