@@ -79,6 +79,8 @@
 			- Cantidad de activos fijos tangibles
 		- Comida #flashcard
 			- Hola
+	- we also may be totally fucked
+		-
 	- This is displeasing
 		- Esto es desagradable
 	- i have never seen him so incensed
