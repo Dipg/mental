@@ -14,6 +14,7 @@
 	- Ref
 		- {{renderer :linkpreview,https://www.w3schools.com/html/html_youtube.asp}}
 - Modificaciones de Texto
-	- Identación de primera line de un parrafo
+	- Identación de primera line de un párrafo
+	-
 -
 -
