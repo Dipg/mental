@@ -79,6 +79,8 @@
 			- Cantidad de activos fijos tangibles
 		- Comida #flashcard
 			- Hola
+	- i´ll let you know either way
+		- Te lo ha
 	- we also may be totally fucked
 		- También podríamos estar totalmente jodidos
 	- This is displeasing
