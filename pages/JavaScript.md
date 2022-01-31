@@ -26,5 +26,5 @@
 	- {{youtube https://www.youtube.com/watch?v=z95mZVUcJ-E&t=359s}}
 	- {{youtube-timestamp 1687}} Variables en Java Script
 	- Definir
-	-
+	- inicializar
 	-
