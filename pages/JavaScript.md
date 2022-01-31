@@ -26,7 +26,7 @@
 	- {{youtube https://www.youtube.com/watch?v=z95mZVUcJ-E&t=359s}}
 	- {{youtube-timestamp 1687}} Variables en Java Script
 	- Declarar (Dandole un nomnr)
-		- Si uso let¡ , es una variable globl
+		- Si uso  let , es una variable local
 		- si uso var es una varibale global
 	- Inicializar
 	-
