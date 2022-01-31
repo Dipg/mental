@@ -79,6 +79,8 @@
 			- Cantidad de activos fijos tangibles
 		- Comida #flashcard
 			- Hola
+	- seeded quite a few new vompanies
+		- Sembro
 	- Don´t approach me
 		- No te acerques a mi
 	- i´m gonna go
