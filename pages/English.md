@@ -81,7 +81,7 @@
 			- Hola
 	- since we'er kind of playing from behind here
 		- ya que jugamos con desventaja
-		- **
+		- ** ya que estamos jugando desde atrás aqui
 	- neither do i
 		- Yo tampoco
 	- seeded quite a few new companies
