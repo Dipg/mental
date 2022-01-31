@@ -32,9 +32,6 @@
 				- [](#4.) Incentivos fiscales
 				  collapsed:: true
 					- para estimular la demanda de los no residente (mayores exportaciones netas)
-				-
-			-
-			-
 	- Política Fiscal Contractiva #red
 	  collapsed:: true
 		- ¿ Que es una política fiscal Contractiva?
