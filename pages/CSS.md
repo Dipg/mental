@@ -14,5 +14,6 @@
 	- Ref
 		- {{renderer :linkpreview,https://www.w3schools.com/html/html_youtube.asp}}
 - Modificaciones de Texto
+	- Identear T
 -
 -
