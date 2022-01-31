@@ -11,7 +11,7 @@
 				- Objetivo A Largo plazo #red
 				  collapsed:: true
 					- Incrementar el crecimiento del país mediante I+D, educación  y del ingreso incentivos al ahorro
-				- Objetivo  Simultaneo #red
+				- Objetivo  Simultaneo 🟢
 				  collapsed:: true
 					- Equidad y redistribución de la renta
 	- Política Fiscal Expansiva #red
