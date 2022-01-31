@@ -16,6 +16,9 @@
 - Modificaciones de Texto
 	- Identación de primera line de un párrafo
 	- ```css
+	  p {
+	      text-indent: 50px;
+	  }
 	  ```
 -
 -
