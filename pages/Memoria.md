@@ -1,4 +1,4 @@
-- Leer cada titulo o sección y guardarla en
+- Leer cada titulo o sección y guardarla en una parte o
 -
 - Repasar Palacios de la memoria al reves
 - Repasar historias al reves
