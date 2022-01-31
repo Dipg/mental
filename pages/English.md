@@ -79,6 +79,8 @@
 			- Cantidad de activos fijos tangibles
 		- Comida #flashcard
 			- Hola
+	- you´re not showing up at all
+	-
 	- i put together a little secret weapon
 		- Amer un apequeña arma secreta
 	- since we'er kind of playing from behind here
