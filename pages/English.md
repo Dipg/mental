@@ -79,6 +79,8 @@
 			- Cantidad de activos fijos tangibles
 		- Comida #flashcard
 			- Hola
+	- neither do i
+		-
 	- seeded quite a few new companies
 		- Sembro bastantes nuevas compañias
 	- Don´t approach me
