@@ -1,4 +1,5 @@
-- Lenguajes de Programación+
+- Lenguajes de Programación
+- [[JavaScript]]
 - [[Python]]
 - [[R]]
 - [[CSS]]
