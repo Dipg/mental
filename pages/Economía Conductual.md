@@ -825,6 +825,7 @@
 	- Se elige una muestra de 200 sujetos
 - La función de ponderación incluye en la teoría prospectiva  los #Revisar
 	- Efectos contexto
+-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
