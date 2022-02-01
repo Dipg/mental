@@ -10,7 +10,7 @@
 	- TODO 3. Opta II
 - # Jueves
 	- TODO 8. Regulación
-- V
+- # Viernes
 - TODO 4. Opta III
 - TODO 5. Opta IV
 - TODO 6. Economía Ecuatoriana
