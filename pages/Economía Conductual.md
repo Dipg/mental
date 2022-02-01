@@ -823,9 +823,9 @@
 	- Exceso de seguridad
 - Analizar diferencias entre segmentos muestrales , regla de oro para elegir una muestra
 	- Se elige una muestra de 200 sujetos
-- La función de ponderación incluye en la teoría prospectiva  los #Revisar
+- La función de ponderación incluye en la teoría prospectiva  los  #Revisar  🧪
 	- Efectos contexto
-- Teoría Prospectiva
+- Teoría Prospectiva 🧪
 	- Efecto certeza
 		- Alterar una alternativa  segura a una posible
 - ---
