@@ -893,7 +893,8 @@
 	- Metodos contruir con controol
 		- Doble diferencias
 		- Metodos de aleatorizacion
-		- Propen
+		- Propension score PSP
+		-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
