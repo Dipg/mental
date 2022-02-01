@@ -821,7 +821,7 @@
 	- sesgo de autoservicio
 	- sesgo de proyección
 	- Exceso de seguridad
-- Analizar diferencias entre segmentos muestrales , regla de oro para elegir una muestra
+- Analizar diferencias entre segmentos muestrales , regla de oro para elegir una muestra 🧪
 	- Se elige una muestra de 200 sujetos
 - La función de ponderación incluye en la teoría prospectiva  los  #Revisar  🧪
 	- Efectos contexto
