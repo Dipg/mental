@@ -831,7 +831,7 @@
 	- Efecto certeza
 		- Alterar una alternativa  segura a una posible
 - La asignación aleatoria de un tratamiento simula
-	- El método de variable instrumentales  ala na
+	- El método de variable instrumentales  al analizar datos observacionales con econometría
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
