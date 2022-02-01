@@ -893,8 +893,9 @@
 	- Metodos contruir con controol
 		- Doble diferencias
 		- Metodos de aleatorizacion
-		- Propension score PSP
 		-
+		- Propension score PSP
+		- Diferencia simple
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
