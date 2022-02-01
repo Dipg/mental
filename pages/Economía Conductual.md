@@ -869,6 +869,7 @@
 - Ninguna de las anteriores (Disonancia Cognitiva)
 - De ganancias a perdidas
 	- ![image.png](../assets/image_1643722584974_0.png)
+	-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
