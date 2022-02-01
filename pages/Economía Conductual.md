@@ -831,7 +831,7 @@
 	- Efecto certeza
 		- Alterar una alternativa  segura a una posible
 - La asignación aleatoria de un tratamiento simula
-	-
+	- El método de variable instrumentales en economía
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
