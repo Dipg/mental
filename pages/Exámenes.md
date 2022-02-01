@@ -11,7 +11,7 @@
 - # Jueves
 	- TODO 8. Regulación
 - # Viernes
--
+- TODO 4. Informática
 - TODO 5. Opta IV
 - TODO 6. Economía Ecuatoriana
 - TODO 7. Informatica
