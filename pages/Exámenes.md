@@ -7,14 +7,14 @@
 - # Lunes
 	- DONE 2. Análisis Multivariante
 - # Martes
-	- TODO 2. Opta II
+	- TODO 3. Opta II
 - # Miércoles
-	- TODO 3. Informática
+	- TODO 4. Informática
 - # Jueves
-	- TODO 4. Regulación
+	- TODO 5. Regulación
 - # Viernes
-	- TODO 5. Opta I
-	- TODO 6. Opta IV
+	- TODO 6. Opta I
+	- TODO 7. Opta IV
 - # Lunes
 	- TODO 7. Eco. Empresarial
 	- TODO 8. Finanzas Públicas
