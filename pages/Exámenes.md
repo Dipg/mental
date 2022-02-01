@@ -9,9 +9,9 @@
 - # Martes
 	- TODO 2. Opta II
 - # Miércoles
-	- TODO 4. Informática
+	- TODO 3. Informática
 - # Jueves
-	- TODO 8. Regulación
+	- TODO 4. Regulación
 - # Viernes
 - TODO 5. Opta IV
 - TODO 6. Economía Ecuatoriana
