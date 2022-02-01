@@ -826,7 +826,8 @@
 - La función de ponderación incluye en la teoría prospectiva  los #Revisar
 	- Efectos contexto
 - Teoría Prospectiva
-	-
+	- Efecto certeza
+		-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
