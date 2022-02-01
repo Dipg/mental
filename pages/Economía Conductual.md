@@ -834,7 +834,8 @@
 	- El método de variable instrumentales  al analizar datos observacionales con econometría
 -
 - Que mide cada uno de los siguietne juegos
-	- Juego de COnfianza
+	- Juego de Confianza
+		-
 	- Juego del Dictador
 	- Juego de bienes públicos
 	- Juego del Ultimatim
