@@ -10,5 +10,5 @@
 - TODO 5. Opta IV
 - TODO 6. Economía Ecuatoriana
 - TODO 7. Informatica
-- TODO 8. Regulaci´´on
--
+- TODO 8. Regulacion
+- TODO 9.
