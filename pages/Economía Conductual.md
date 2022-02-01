@@ -874,7 +874,7 @@
 - Falla de autoregulación
 	- Ahorro
 - ![image.png](../assets/image_1643723685359_0.png)
--
+- Descontar el futuro
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
