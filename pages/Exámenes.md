@@ -8,7 +8,8 @@
 	- DONE 2. Análisis Multivariante
 - # Martes
 	- TODO 3. Opta II
--
+- # Miércoles
+- TODO 4. Informática
 - # Jueves
 	- TODO 8. Regulación
 - # Viernes
@@ -18,4 +19,3 @@
 - TODO 9. Eco. Empresarial
 - TODO 10. Finanzas Públicas
 -
-- TODO 4. Informática
