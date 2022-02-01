@@ -218,6 +218,7 @@
 			- Información oculta por parte de los consumidores
 	- Economía del sector Público
 # Unidad 2 ![📑](../assets/UNIDAD_2._1637746281546_0.pdf)
+	- DOINT
 # Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
 - # Unidad 4 ![📑](../assets/Unidad_4_1637751172084_0.pdf) ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf)
   collapsed:: true
