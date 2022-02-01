@@ -848,6 +848,7 @@
 -
 -
 - ![image.png](../assets/image_1643684947650_0.png)
+- True
 - ![image.png](../assets/image_1643685259038_0.png){:height 184, :width 469}
 - ![image.png](../assets/image_1643686033655_0.png)
 - b)
