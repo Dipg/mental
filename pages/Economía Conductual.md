@@ -835,9 +835,11 @@
 -
 - Que mide cada uno de los siguietne juegos
 	- Juego de Confianza
-		- Confianza /Reciprocida
+		- Confianza /Reciprocidad
 	- Juego del Dictador
+		- Altruismo
 	- Juego de bienes públicos
+		-
 	- Juego del Ultimatim
 - ---
 - [[Ideas]][[Marketing]]
