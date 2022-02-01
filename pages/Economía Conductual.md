@@ -823,6 +823,7 @@
 	- Exceso de seguridad
 - Analizar diferencias entre segmentos muestrales , regla de oro para elegir una muestra
 	- Se elige una muestra de 200 sujetos
+-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
