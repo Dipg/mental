@@ -896,6 +896,8 @@
 		- Propension score PSP
 		- Diferencia simple
 		-
+	- Que implica un experimento de labiratorioa
+	-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
