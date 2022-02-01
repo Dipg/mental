@@ -895,6 +895,7 @@
 		- Regresión discontinua
 		- Propension score PSP
 		- Diferencia simple
+		-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
