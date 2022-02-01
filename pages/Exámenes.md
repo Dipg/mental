@@ -3,8 +3,8 @@
 	  |  Análisis  | Regulación    |  Economía Empresarial    |  Opta IV  |  Finanzas Públicas  |
 	  | Opta 1  |  Opta II   |   Economía Ecuatoriana  |   |   |
 	- ![image.png](../assets/image_1643061761054_0.png)
-- TODO  1. Escritura
-- TODO 2. Análisis Multivariante
+- DONE  1. Escritura
+- DONE 2. Análisis Multivariante
 - TODO 3. Opta II
 - TODO 4. Opta III
 - TODO 5. Opta IV
