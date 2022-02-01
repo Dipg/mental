@@ -871,7 +871,8 @@
 	- ![image.png](../assets/image_1643722584974_0.png)
 	- ![image.png](../assets/image_1643722602025_0.png){:height 531, :width 599}
 - ![image.png](../assets/image_1643722849803_0.png)
-- F
+- Falla de autoregulación
+	-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
