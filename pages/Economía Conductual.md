@@ -839,8 +839,9 @@
 	- Juego del Dictador
 		- Altruismo
 	- Juego de bienes públicos
-		-
+		- Cooperación
 	- Juego del Ultimatim
+		-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
