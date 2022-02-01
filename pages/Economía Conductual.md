@@ -833,7 +833,8 @@
 - La asignación aleatoria de un tratamiento simula
 	- El método de variable instrumentales  al analizar datos observacionales con econometría
 -
--
+- Que mide cada uno de los siguietne juegos
+	-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
