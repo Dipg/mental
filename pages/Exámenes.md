@@ -14,6 +14,7 @@
 	- TODO 4. Regulación
 - # Viernes
 - TODO 5. Opta IV
+-
 - TODO 6. Economía Ecuatoriana
 - TODO 7. Informatica
 - TODO 9. Eco. Empresarial
