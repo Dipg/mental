@@ -898,7 +898,7 @@
 		-
 	- Que implica un experimento de labiratorioa
 	- ![image.png](../assets/image_1643730369123_0.png)
-- H
+- Heuristico y sesgo
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
