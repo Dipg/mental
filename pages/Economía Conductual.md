@@ -815,7 +815,7 @@
 		- [](#4.3) Control directo
 		- # [](#5.) Otras Consideraciones
 - Teoría de la utilidad trasnacional
-	-
+	- Refuta el supuesto de fungibilidad
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
