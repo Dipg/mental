@@ -835,7 +835,7 @@
 -
 - Que mide cada uno de los siguietne juegos
 	- Juego de Confianza
-		-
+		- COnfianza
 	- Juego del Dictador
 	- Juego de bienes públicos
 	- Juego del Ultimatim
