@@ -875,6 +875,11 @@
 	- Ahorro
 - ![image.png](../assets/image_1643723685359_0.png)
 - Descontar el futuro
+-
+-
+- ![image.png](../assets/image_1643723876794_0.png)
+-
+-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
