@@ -5,8 +5,9 @@
 	- ![image.png](../assets/image_1643061761054_0.png)
 - DONE  1. Escritura
 - # Lunes
-- DONE 2. Análisis Multivariante
-- TODO 3. Opta II
+	- DONE 2. Análisis Multivariante
+- # Martes
+	- TODO 3. Opta II
 - TODO 4. Opta III
 - TODO 5. Opta IV
 - TODO 6. Economía Ecuatoriana
