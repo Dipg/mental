@@ -821,7 +821,8 @@
 	- sesgo de autoservicio
 	- sesgo de proyección
 	- Exceso de seguridad
-- Analizar diferencias entre segmentos muestrales , regla
+- Analizar diferencias entre segmentos muestrales , regla de oro para elegir una muestra
+	-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
