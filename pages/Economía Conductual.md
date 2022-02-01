@@ -866,7 +866,7 @@
 - Heurística de disponibilidad
 -
 - ![image.png](../assets/image_1643722008019_0.png)
-- Nig
+- Ninguna de las anteriores (Disonancia Cognitiva)
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
