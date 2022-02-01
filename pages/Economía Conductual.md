@@ -842,6 +842,7 @@
 		- Cooperación
 	- Juego del Ultimatim
 		- Altruismo/Justicia
+	-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
