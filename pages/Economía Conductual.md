@@ -872,7 +872,7 @@
 	- ![image.png](../assets/image_1643722602025_0.png){:height 531, :width 599}
 - ![image.png](../assets/image_1643722849803_0.png)
 - Falla de autoregulación
-	-
+	- Ahorro
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
