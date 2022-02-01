@@ -830,7 +830,8 @@
 - Teoría Prospectiva 🧪
 	- Efecto certeza
 		- Alterar una alternativa  segura a una posible
-- La asignación aleatoria
+- La asignación aleatoria de un tratamiento simula
+	-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
