@@ -892,6 +892,8 @@
 			- Foto 1
 	- Metodos contruir con controol
 		- Doble diferencias
+		- Metodos de aleatorizacion
+		- Propen
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
