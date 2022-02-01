@@ -903,7 +903,7 @@
 - ![image.png](../assets/image_1643731067145_0.png)
 - https://behaviorandeconomics.com/diferencias-entre-sesgo-y-heuristico/
 -
--
+- Tipos de experimetnos y requerimientos de validez
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
