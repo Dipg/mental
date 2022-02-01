@@ -861,7 +861,7 @@
 - [[#green]]==c)==
 - ![image.png](../assets/image_1643721737249_0.png)
 -
--
+- Sobre estimación
 - ![image.png](../assets/image_1643721810879_0.png)
 -
 - ---
