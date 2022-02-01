@@ -7,7 +7,7 @@
 - # Lunes
 	- DONE 2. Análisis Multivariante
 - # Martes
-	- TODO 3. Opta II
+	- TODO 2. Opta II
 - # Miércoles
 	- TODO 4. Informática
 - # Jueves
