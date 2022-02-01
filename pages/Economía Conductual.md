@@ -886,7 +886,7 @@
 	- Que son las Heurísticas
 	- Que es el diseño factorial
 	- Valiz interna
--
+- ![148203158_2514046528902697_5755540386675823711_n.jpg](../assets/148203158_2514046528902697_5755540386675823711_n_1643730000513_0.jpg)
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
