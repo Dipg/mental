@@ -857,6 +857,7 @@
 -
 - ![image.png](../assets/image_1643718775220_0.png)
 - b
+- Demanda del experimentsdoa
 - ![image.png](../assets/image_1643719358278_0.png)
 - [[#green]]==c)==
 - ![image.png](../assets/image_1643721737249_0.png)
