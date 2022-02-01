@@ -827,7 +827,7 @@
 	- Efectos contexto
 - Teoría Prospectiva
 	- Efecto certeza
-		-
+		- Alterar una alternativa
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
