@@ -21,8 +21,3 @@
 	- TODO 9. Finanzas Públicas
 - # Martes
 - TODO 10. Economía Ecuatoriana
--
--
--
--
--
