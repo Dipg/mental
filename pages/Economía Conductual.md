@@ -827,7 +827,7 @@
 	- Se elige una muestra de 200 sujetos
 - La función de ponderación incluye en la teoría prospectiva  los  #Revisar  🧪
 	- Efectos contexto
-- Teoría Prospectiva () 🧪
+- Teoría Prospectiva (Efecto certeza) 🧪
 	- Efecto certeza
 		- Alterar una alternativa  segura a una posible
 - La asignación aleatoria de un tratamiento simula
