@@ -880,7 +880,7 @@
 - ![image.png](../assets/image_1643723876794_0.png)
 -
 - Curvas de indiferencia reversibles
--
+	-
 -
 - # Preguntas escritas
 -
