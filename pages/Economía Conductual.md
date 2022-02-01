@@ -882,7 +882,7 @@
 - Curvas de indiferencia reversibles
 -
 -
--
+- # Preguntas escritas
 -
 - ---
 - [[Ideas]][[Marketing]]
