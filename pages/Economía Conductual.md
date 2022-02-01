@@ -844,6 +844,10 @@
 		- Altruismo/Justicia
 	- Usar el lenguaje neutral puede apoyar al diseño experimental a
 		- Garantizar un correcto sistema de incentivos
+-
+-
+- ![image.png](../assets/image_1643684947650_0.png)
+-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
