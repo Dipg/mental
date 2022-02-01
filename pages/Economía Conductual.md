@@ -816,6 +816,7 @@
 		- # [](#5.) Otras Consideraciones
 - Teoría de la utilidad trasnacional
 	- Refuta el supuesto de fungibilidad
+-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
