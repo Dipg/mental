@@ -863,7 +863,7 @@
 -
 - Sobre estimación
 - ![image.png](../assets/image_1643721810879_0.png)
--
+- Heuristica de disponiilidad
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
