@@ -865,7 +865,8 @@
 - ![image.png](../assets/image_1643721810879_0.png)
 - Heurística de disponibilidad
 -
--
+- ![image.png](../assets/image_1643722008019_0.png)
+- Nig
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
