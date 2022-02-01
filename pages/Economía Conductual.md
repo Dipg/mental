@@ -892,8 +892,7 @@
 			- Foto 1
 	- Metodos contruir con controol
 		- Doble diferencias
-		- Metodos de aleatorizacion
-		-
+		- Regresión discontinua
 		- Propension score PSP
 		- Diferencia simple
 - ---
