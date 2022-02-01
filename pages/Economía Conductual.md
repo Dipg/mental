@@ -834,6 +834,8 @@
 	- El método de variable instrumentales  al analizar datos observacionales con econometría
 -
 - Que mide cada uno de los siguietne juegos
+	- Juego de COnfianza
+	- Juego del Dictador
 	-
 - ---
 - [[Ideas]][[Marketing]]
