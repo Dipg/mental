@@ -859,7 +859,7 @@
 - b
 - ![image.png](../assets/image_1643719358278_0.png)
 - [[#green]]==c)==
--
+- A
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
