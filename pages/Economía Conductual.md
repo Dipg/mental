@@ -846,8 +846,9 @@
 		- Garantizar un correcto sistema de incentivos
 -
 -
+-
 - ![image.png](../assets/image_1643684947650_0.png)
-- ![image.png](../assets/image_1643685259038_0.png)
+- ![image.png](../assets/image_1643685259038_0.png){:height 184, :width 469}
 - ![image.png](../assets/image_1643686033655_0.png)
 - b)
 - ![image.png](../assets/image_1643686351371_0.png){:height 244, :width 624}
