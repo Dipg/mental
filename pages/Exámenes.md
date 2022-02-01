@@ -5,7 +5,7 @@
 	- ![image.png](../assets/image_1643061761054_0.png)
 - # Jueves
 	- DONE  1. Escritura
-- # Lunes
+- # ~~Lunes
 	- DONE 2. Análisis Multivariante
 - # Martes
 	- TODO 3. Opta II
@@ -21,5 +21,6 @@
 	- TODO 9. Finanzas Públicas
 - # Martes
 - TODO 10. Economía Ecuatoriana
+-
 -
 -
