@@ -818,6 +818,8 @@
 	- Refuta el supuesto de fungibilidad
 - Sesgos de auto evaluación
 	- Falta de seguridad
+	- sesgo de autoservicio
+	- sesgo de proyección
 	-
 - ---
 - [[Ideas]][[Marketing]]
