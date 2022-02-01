@@ -843,7 +843,7 @@
 	- Juego del Ultimatim
 		- Altruismo/Justicia
 	- Usar el lenguaje neutral puede apoyar al diseño experimental a
-		-
+		- Garantizar un correcto sistema de incentivos
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
