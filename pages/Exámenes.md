@@ -5,4 +5,4 @@
 	- ![image.png](../assets/image_1643061761054_0.png)
 - TODO  1. Escritura
 - TODO 2. Análisis Multivariante
--
+- TOD
