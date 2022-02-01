@@ -883,7 +883,9 @@
 -
 - # Preguntas escritas
 	- Paradoja del falso positivo
-	- Que son las Heuristicsa
+	- Que son las Heurísticas
+		- Que es el diseño factorial
+		-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
