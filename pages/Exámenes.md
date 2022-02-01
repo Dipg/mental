@@ -9,7 +9,7 @@
 - # Martes
 	- TODO 3. Opta II
 - # Miércoles
-- TODO 4. Informática
+	- TODO 4. Informática
 - # Jueves
 	- TODO 8. Regulación
 - # Viernes
