@@ -820,7 +820,7 @@
 	- Falta de seguridad
 	- sesgo de autoservicio
 	- sesgo de proyección
-	-
+	- Exceso de seguridad
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
