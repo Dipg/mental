@@ -821,7 +821,7 @@
 	- sesgo de autoservicio
 	- sesgo de proyección
 	- Exceso de seguridad
--
+- Analizar diferencias entre segmentos muestrales , regla
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
