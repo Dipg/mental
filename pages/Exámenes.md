@@ -8,6 +8,7 @@
 	- DONE 2. Análisis Multivariante
 - # Martes
 	- TODO 3. Opta II
+-
 - TODO 4. Opta III
 - TODO 5. Opta IV
 - TODO 6. Economía Ecuatoriana
