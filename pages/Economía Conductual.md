@@ -864,7 +864,7 @@
 - Sobre estimación
 - ![image.png](../assets/image_1643721810879_0.png)
 - Heurística de disponibilidad
--
+- Consumo de agua
 - ![image.png](../assets/image_1643722008019_0.png)
 - Ninguna de las anteriores (Disonancia Cognitiva)
 - ---
