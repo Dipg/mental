@@ -867,6 +867,8 @@
 - Consumo de agua
 - ![image.png](../assets/image_1643722008019_0.png)
 - Ninguna de las anteriores (Disonancia Cognitiva)
+- De ganancias a perdidas
+-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
