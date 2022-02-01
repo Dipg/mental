@@ -8,7 +8,7 @@
   CLOCK: [2022-01-30 Sun 14:14:41]--[2022-01-31 Mon 15:09:30] =>  24:54:49
   :END:
 - TODO Prueba Unidades 3 y 4 Informática [[[[Feb 2nd, 2022]]]]
-- TODO Sistemas de información gerencial de Laurol [[Jan 31st, 2022]] Capitulo 5 del Silabo
+- DONE Sistemas de información gerencial de Laurol [[Jan 31st, 2022]] Capitulo 5 del Silabo
 -
 -
 -
