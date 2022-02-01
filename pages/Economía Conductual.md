@@ -906,6 +906,7 @@
 - Tipos de experimetnos y requerimientos de validez
 - ![image.png](../assets/image_1643731382397_0.png) ![image.png](../assets/image_1643731279903_0.png)
 -
+- ![148771393_3996081523735250_883934070874094701_n.jpg](../assets/148771393_3996081523735250_883934070874094701_n_1643731465184_0.jpg)
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
