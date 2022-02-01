@@ -883,7 +883,7 @@
 -
 - # Preguntas escritas
 	- Paradoja del falso positivo
-	- Que son las He
+	- Que son las Heuristicsa
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
