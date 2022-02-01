@@ -882,8 +882,8 @@
 - Curvas de indiferencia reversibles
 -
 - # Preguntas escritas
-- Paradoja del falso positivo
--
+	- Paradoja del falso positivo
+	- Que son las He
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
