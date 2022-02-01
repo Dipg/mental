@@ -815,7 +815,7 @@
 		- [](#4.3) Control directo
 		- # [](#5.) Otras Consideraciones
 - Paradoja del falso positivo
-	-
+	- Sesgo de frecuenica base
 - Teoría de la utilidad trasnacional 🧪
 	- Refuta el supuesto de fungibilidad
 - Sesgos de auto evaluación 🧪
