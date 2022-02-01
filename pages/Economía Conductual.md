@@ -885,6 +885,7 @@
 	- Paradoja del falso positivo
 	- Que son las Heurísticas
 	- Que es el diseño factorial
+	- Valiz interna
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
