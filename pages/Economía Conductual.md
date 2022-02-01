@@ -816,7 +816,9 @@
 		- # [](#5.) Otras Consideraciones
 - Teoría de la utilidad trasnacional
 	- Refuta el supuesto de fungibilidad
-- Sesgos de auto evalu
+- Sesgos de auto evaluación
+	- Falta de seguridad
+	-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
