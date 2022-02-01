@@ -8,8 +8,9 @@
 	- DONE 2. Análisis Multivariante
 - # Martes
 	- TODO 3. Opta II
-- # Juevres
-	- TODO 8. Regulacion
+- # Jueves
+	- TODO 8. Regulación
+- V
 - TODO 4. Opta III
 - TODO 5. Opta IV
 - TODO 6. Economía Ecuatoriana
