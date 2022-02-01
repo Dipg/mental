@@ -842,7 +842,8 @@
 		- Cooperación
 	- Juego del Ultimatim
 		- Altruismo/Justicia
-	-
+	- Usar el lenguaje neutral puede apoyar al diseño experimental a
+		-
 - ---
 - [[Ideas]][[Marketing]]
   collapsed:: true
