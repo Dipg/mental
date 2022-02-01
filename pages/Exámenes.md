@@ -16,9 +16,9 @@
 	- TODO 6. Opta I
 	- TODO 7. Opta IV
 - # Lunes
-	- TODO 7. Eco. Empresarial
-	- TODO 8. Finanzas Públicas
+	- TODO 8. Eco. Empresarial
+	- TODO 9. Finanzas Públicas
 - # Martes
-- TODO 9. Economía Ecuatoriana
+- TODO 10. Economía Ecuatoriana
 -
 -
