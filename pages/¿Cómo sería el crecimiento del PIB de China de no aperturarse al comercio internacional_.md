@@ -73,6 +73,8 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 		  ![image.png](../assets/image_1641181998649_0.png)
 		  Fuente : Banco Mundial
 		  Elaboración: Autores
+		-
+		-
 		- ## Ratio de Frecuencia
 		- ![image.png](../assets/image_1641183034949_0.png){:height 451, :width 619}
 	- # Discusión
