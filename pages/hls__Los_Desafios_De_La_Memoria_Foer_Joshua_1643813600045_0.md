@@ -13,3 +13,7 @@ file-path:: ../assets/Los_Desafios_De_La_Memoria_Foer_Joshua_1643813600045_0.pdf
   ls-type:: annotation
   hl-page:: 50
   id:: 61faa26b-34e7-46d7-aa86-c32e547220b5
+- :  utilizan  su  memoria para ver el mundo de manera distinta. 
+  ls-type:: annotation
+  hl-page:: 50
+  id:: 61faa2ab-5366-4a1d-87d4-579cecb175e7
