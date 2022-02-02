@@ -1,6 +1,6 @@
 [{:block/name "",
-  :block/created-at 1643736944256,
-  :block/updated-at 1643736944256}
+  :block/created-at 1643810597086,
+  :block/updated-at 1643810597086}
  {:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -30,25 +30,25 @@
   :block/updated-at 1638961917544}
  {:block/name
   "../assets/boxal_et_al-2005-the-impact-of-oil_(1)_es_1643385077321_0.pdf",
-  :block/created-at 1643736944254,
-  :block/updated-at 1643736944254}
+  :block/created-at 1643810597084,
+  :block/updated-at 1643810597085}
  {:block/name
   "../assets/boxal_et_al-2005-the-impact-of-oil_1641817366109_0.pdf",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
  {:block/name
   "../assets/capitulo_7_presupuesto_y_planificación_1643603734698_0.pdf",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597085,
+  :block/updated-at 1643810597085}
  {:block/name "../assets/capítulo_6_deuda_1643603712506_0.pdf",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597086,
+  :block/updated-at 1643810597086}
  {:block/name "../assets/chapter_1_y_2_es_1643006775158_0.pdf",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597085,
+  :block/updated-at 1643810597085}
  {:block/name "../assets/chapter_3ç_es_1643006765502_0.pdf",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597085,
+  :block/updated-at 1643810597085}
  {:block/name
   "../assets/dialnet-teoriaprospectiva-65981_(1)_1637533445262_0.pdf",
   :block/created-at 1638961917544,
@@ -70,8 +70,8 @@
   :block/updated-at 1640183914952}
  {:block/name
   "../assets/garret_marsh-2002-the-revenue-impacts_(1)_es_1643387771381_0.pdf",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597085,
+  :block/updated-at 1643810597085}
  {:block/name
   "../assets/garret_marsh-2002-the-revenue-impacts_1641817357939_0.pdf",
   :block/created-at 1641992433040,
@@ -144,6 +144,12 @@
  {:block/name "../assets/unidad_4_1637751172084_0.pdf",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
+ {:block/name "../assets/unidad_4_v2_1643754599695_0.pdf",
+  :block/created-at 1643810597086,
+  :block/updated-at 1643810597086}
+ {:block/name "../assets/unidad_5_1643754733902_0.pdf",
+  :block/created-at 1643810597085,
+  :block/updated-at 1643810597085}
  {:block/name "../assets/unidad_i_-_introducción_1637370795899_0.pdf",
   :block/created-at 1642172083943,
   :block/updated-at 1642172083943}
@@ -230,23 +236,23 @@
   :block/created-at 1640183914955,
   :block/updated-at 1640183914955}
  {:block/name "[[feb 2nd, 2022",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597086,
+  :block/updated-at 1643810597086}
  {:block/name "[[jan 24th, 2022",
-  :block/created-at 1643736944256,
-  :block/updated-at 1643736944256}
+  :block/created-at 1643810597086,
+  :block/updated-at 1643810597086}
  {:block/name "_clasificadores_",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597085,
+  :block/updated-at 1643810597085}
  {:block/name "_green",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597085,
+  :block/updated-at 1643810597085}
  {:block/name "_red",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597085,
+  :block/updated-at 1643810597085}
  {:block/name "_w",
-  :block/created-at 1643736944256,
-  :block/updated-at 1643736944256}
+  :block/created-at 1643810597086,
+  :block/updated-at 1643810597086}
  {:block/name "a",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -299,8 +305,8 @@
   :block/created-at 1642172083943,
   :block/updated-at 1643652324120}
  {:block/name "comida",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597085,
+  :block/updated-at 1643810597085}
  {:block/name "comments",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -311,8 +317,8 @@
   :block/created-at 1642172083937,
   :block/updated-at 1642172083937}
  {:block/name "crecimiento económico",
-  :block/created-at 1643736944256,
-  :block/updated-at 1643736944256}
+  :block/created-at 1643810597086,
+  :block/updated-at 1643810597086}
  {:block/name "css",
   :block/created-at 1642172083942,
   :block/updated-at 1643589165247}
@@ -365,11 +371,11 @@
   :block/created-at 1642172083936,
   :block/updated-at 1642774466133}
  {:block/name "diagramas estructurales",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597085,
+  :block/updated-at 1643810597085}
  {:block/name "documento",
-  :block/created-at 1643736944256,
-  :block/updated-at 1643736944256}
+  :block/created-at 1643810597086,
+  :block/updated-at 1643810597086}
  {:block/name "doing",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -392,8 +398,8 @@
   :block/created-at 1642950922910,
   :block/updated-at 1642950922910}
  {:block/name "draws/2022-01-31-17-30-46.excalidraw",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597085,
+  :block/updated-at 1643810597085}
  {:block/name "draws/piensa matricialmente.excalidraw",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -431,11 +437,11 @@
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
  {:block/name "ejercicio búsqueda de datos ",
-  :block/created-at 1643736944256,
-  :block/updated-at 1643736944256}
+  :block/created-at 1643810597086,
+  :block/updated-at 1643810597086}
  {:block/name "ejercicios numéricos",
-  :block/created-at 1643736944256,
-  :block/updated-at 1643736944256}
+  :block/created-at 1643810597086,
+  :block/updated-at 1643810597086}
  {:block/name "elección racional",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -449,11 +455,11 @@
   :block/created-at 1642172083936,
   :block/updated-at 1643666279916}
  {:block/name "english (conflict 2022-01-23-17-01-23)",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597085,
+  :block/updated-at 1643810597085}
  {:block/name "escala de liker",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597085,
+  :block/updated-at 1643810597085}
  {:block/name "estructura de datos",
   :block/created-at 1642950922906,
   :block/updated-at 1642950922906}
@@ -468,8 +474,8 @@
   :block/created-at 1643061595035,
   :block/updated-at 1643061621629}
  {:block/name "examenes",
-  :block/created-at 1643736944256,
-  :block/updated-at 1643736944256}
+  :block/created-at 1643810597086,
+  :block/updated-at 1643810597086}
  {:block/name "excel",
   :block/created-at 1642172083943,
   :block/updated-at 1642172083943}
@@ -494,8 +500,8 @@
   :block/created-at 1643061761600,
   :block/updated-at 1643729299361}
  {:block/name "factores de producción",
-  :block/created-at 1643736944256,
-  :block/updated-at 1643736944256}
+  :block/created-at 1643810597086,
+  :block/updated-at 1643810597086}
  {:block/name "favorites",
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
@@ -515,8 +521,8 @@
   :block/created-at 1645142400000,
   :block/updated-at 1645142400000}
  {:block/name "feb 1st, 2022",
-  :block/created-at 1643673600000,
-  :block/updated-at 1643673600000}
+  :block/created-at 1643757190230,
+  :block/updated-at 1643757190230}
  {:block/name "feb 2nd, 2022",
   :block/created-at 1643760000000,
   :block/updated-at 1643760000000}
@@ -531,7 +537,7 @@
   :block/updated-at 1641992433040}
  {:block/name "finanzas públicas",
   :block/created-at 1642172083942,
-  :block/updated-at 1643603743520}
+  :block/updated-at 1643754742801}
  {:block/name "flashcard",
   :block/created-at 1642980776760,
   :block/updated-at 1642980776760}
@@ -539,8 +545,8 @@
   :block/created-at 1642723200000,
   :block/updated-at 1642875320015}
  {:block/name "g_/mi unidad/autosync/logmy/newlog/assets/sdf",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597085,
+  :block/updated-at 1643810597085}
  {:block/name "gasto agregado",
   :block/created-at 1643590663783,
   :block/updated-at 1643590663783}
@@ -569,8 +575,8 @@
   :block/created-at 1643385163523,
   :block/updated-at 1643385235423}
  {:block/name "hls__chapter_1_y_2_es_1643006775158_0",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597085,
+  :block/updated-at 1643810597085}
  {:block/name
   "hls__dialnet-teoriaprospectiva-65981_(1)_1637533445262_0",
   :block/created-at 1642172083937,
@@ -710,8 +716,8 @@
   :block/created-at 1643155200000,
   :block/updated-at 1643208058155}
  {:block/name "jan 27",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597085,
+  :block/updated-at 1643810597085}
  {:block/name "jan 27th, 2022",
   :block/created-at 1643241600000,
   :block/updated-at 1643341985485}
@@ -803,8 +809,8 @@
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
  {:block/name "modelos multivariados",
-  :block/created-at 1643736944256,
-  :block/updated-at 1643736944256}
+  :block/created-at 1643810597086,
+  :block/updated-at 1643810597086}
  {:block/name "musical",
   :block/created-at 1642172083941,
   :block/updated-at 1642172083941}
@@ -878,8 +884,8 @@
   :block/created-at 1640183914954,
   :block/updated-at 1640183914954}
  {:block/name "plan nacional de desarrollo",
-  :block/created-at 1643736944256,
-  :block/updated-at 1643736944256}
+  :block/created-at 1643810597086,
+  :block/updated-at 1643810597086}
  {:block/name "plotly",
   :block/created-at 1642172083939,
   :block/updated-at 1642172083939}
@@ -887,8 +893,8 @@
   :block/created-at 1642172083940,
   :block/updated-at 1642172083940}
  {:block/name "política",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597085,
+  :block/updated-at 1643810597085}
  {:block/name "probabilidad bayesiana",
   :block/created-at 1642172083937,
   :block/updated-at 1642172083937}
@@ -929,8 +935,8 @@
   :block/created-at 1642172083942,
   :block/updated-at 1643120028875}
  {:block/name "relación espuria",
-  :block/created-at 1643736944254,
-  :block/updated-at 1643736944254}
+  :block/created-at 1643810597084,
+  :block/updated-at 1643810597084}
  {:block/name "repaso del día",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
@@ -947,8 +953,8 @@
   :block/created-at 1642895339060,
   :block/updated-at 1642942662270}
  {:block/name "sem",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597085,
+  :block/updated-at 1643810597085}
  {:block/name "series",
   :block/created-at 1643164699344,
   :block/updated-at 1643164740054}
@@ -995,8 +1001,8 @@
   :block/created-at 1642178166048,
   :block/updated-at 1643723020606}
  {:block/name "tue, 18-01-2022",
-  :block/created-at 1643736944254,
-  :block/updated-at 1643736944254}
+  :block/created-at 1643810597084,
+  :block/updated-at 1643810597084}
  {:block/name "urgente",
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
@@ -1007,20 +1013,20 @@
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
  {:block/name "variables continuas",
-  :block/created-at 1643736944256,
-  :block/updated-at 1643736944256}
+  :block/created-at 1643810597086,
+  :block/updated-at 1643810597086}
  {:block/name "variables dependiente",
-  :block/created-at 1643736944256,
-  :block/updated-at 1643736944256}
+  :block/created-at 1643810597086,
+  :block/updated-at 1643810597086}
  {:block/name "variables independiente",
-  :block/created-at 1643736944254,
-  :block/updated-at 1643736944254}
+  :block/created-at 1643810597084,
+  :block/updated-at 1643810597084}
  {:block/name "variables latentes",
-  :block/created-at 1643736944255,
-  :block/updated-at 1643736944255}
+  :block/created-at 1643810597085,
+  :block/updated-at 1643810597085}
  {:block/name "variables mediadoras",
-  :block/created-at 1643736944254,
-  :block/updated-at 1643736944254}
+  :block/created-at 1643810597084,
+  :block/updated-at 1643810597084}
  {:block/name "ver",
   :block/created-at 1640183914955,
   :block/updated-at 1640183914955}
@@ -1042,7 +1048,7 @@
  {:block/name
   "¿cómo sería el crecimiento del pib de china de no aperturarse al comercio internacional_",
   :block/created-at 1640911617256,
-  :block/updated-at 1641221016625}
+  :block/updated-at 1643762499177}
  {:block/name "óptimos de precios regulación",
   :block/created-at 1642172083935, 
   :block/updated-at 1642172083935}]
