@@ -5,3 +5,7 @@ file-path:: ../assets/Los_Desafios_De_La_Memoria_Foer_Joshua_1643813600045_0.pdf
   ls-type:: annotation
   hl-page:: 49
   id:: 61faa1b5-8a34-4897-9807-a4c0bab85728
+- técnica denominada chunking, o agrupamiento. 
+  ls-type:: annotation
+  hl-page:: 49
+  id:: 61faa1de-9c38-4043-b997-ffc6ae94fcd6
