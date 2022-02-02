@@ -74,7 +74,7 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 		  Fuente : Banco Mundial
 		  Elaboración: Autores
 		-
-		- PIB  /  Población  / Deuda /  OMC / IED /   Tasa de Cambio
+		- PIB  /  Población  / Deuda /  OMC / IED /   Tasa de Cambio / CO2
 		- ## Ratio de Frecuencia
 		- ![image.png](../assets/image_1641183034949_0.png){:height 451, :width 619}
 	- # Discusión
