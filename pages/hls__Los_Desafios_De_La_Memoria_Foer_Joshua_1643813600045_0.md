@@ -9,3 +9,7 @@ file-path:: ../assets/Los_Desafios_De_La_Memoria_Foer_Joshua_1643813600045_0.pdf
   ls-type:: annotation
   hl-page:: 49
   id:: 61faa1de-9c38-4043-b997-ffc6ae94fcd6
+- o  que  ya  sabemos determina lo que somos capaces de aprender. 
+  ls-type:: annotation
+  hl-page:: 50
+  id:: 61faa26b-34e7-46d7-aa86-c32e547220b5
