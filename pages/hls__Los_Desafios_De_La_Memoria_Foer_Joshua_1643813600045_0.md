@@ -17,3 +17,7 @@ file-path:: ../assets/Los_Desafios_De_La_Memoria_Foer_Joshua_1643813600045_0.pdf
   ls-type:: annotation
   hl-page:: 50
   id:: 61faa2ab-5366-4a1d-87d4-579cecb175e7
+- La monotonía hace que el tiempo desaparezca; la novedad lo despliega.
+  ls-type:: annotation
+  hl-page:: 61
+  id:: 61faa351-318e-4e36-a019-d925f5564740
