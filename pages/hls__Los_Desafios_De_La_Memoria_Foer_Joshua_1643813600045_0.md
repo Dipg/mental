@@ -21,3 +21,7 @@ file-path:: ../assets/Los_Desafios_De_La_Memoria_Foer_Joshua_1643813600045_0.pdf
   ls-type:: annotation
   hl-page:: 61
   id:: 61faa351-318e-4e36-a019-d925f5564740
+- «palacio de la memoria
+  ls-type:: annotation
+  hl-page:: 76
+  id:: 61faa595-7956-43f8-825d-69b9ecde3f15
