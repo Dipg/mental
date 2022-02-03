@@ -1,7 +1,8 @@
 - Década del 90 al 200 tiene la deuda mas alta
 - Siempre se interpreta como relación deuda PIB, no se puede interpretar solo la deuda en millones
 - ¿Cómo obtener el promedio de la tasa de interés pagado anualmente por deuda ?
-	- ![image.png](../assets/image_1643911033399_0.png)
+	-
+	- ![image.png](../assets/image_1643911033399_0.png){:height 303, :width 749}
 - # Principales efectos de elevados niveles de deuda 🟡
 	- Inflación
 		- Cuando hay déficit la única fuente que se tiene en cuenta son los impuestos
