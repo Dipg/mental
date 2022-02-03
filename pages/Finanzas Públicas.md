@@ -507,114 +507,116 @@
 	  id:: 61fc4844-90a6-4cea-b368-ccc0dea295c8
 -
 - # Videos Pasados
-- Videos
-  collapsed:: true
-	- DONE 29 de Mayo (Introducción incidencia economica)
+	- Videos
 	  collapsed:: true
-		- https://drive.google.com/drive/u/1/folders/1HLDI-ohR65Evt3BmWr_TSQhJw0sdXEjS
-		- Propiedades deseables de los impuestos
+		- DONE 29 de Mayo (Introducción incidencia economica)
 		  collapsed:: true
-			- Generalidad
-			- Progresividad
-			- Eficiencia
-			- Simplicidad
-			- Administrativa
-			- Irretroactividad, (No puedo cobrar un impuesto nuevo como de años anteriores)
-			- equidad transparencia
-			- Suficiencia recaudatoria
-		- Tabla de impuestos a la renta 2019
-		  collapsed:: true
-			- ![image.png](../assets/image_1642563170371_0.png)
-		- Tabla de Impuesto a la renta 2007
-		  collapsed:: true
-			- ![image.png](../assets/image_1642563187670_0.png)
-		- Carga directa - El total pagada por productores y por consumidores
-			- [[draws/2022-01-18-22-36-24.excalidraw]]
-		- Calcular las cargar (Carga total tributaria) (Calcular la carga total tributaria)
-			- ![image.png](../assets/image_1642564498414_0.png)
-				- ![image.png](../assets/image_1642564520244_0.png)
-		- Mientras mas inelastica la curva de demanda pagan mas los consumidores o productores
-		- ![image.png](../assets/image_1642564736704_0.png)
-		- La incidencia hacia atrás es cuando la incidencia económica recae sobre los productores del bien gravado
-		- La incidencia hacia Adelante. Cuando la incidencia recae hacia los consumidores : invierten consumen produucen arriesgan trabajan
-		- Traslación total:
+			- https://drive.google.com/drive/u/1/folders/1HLDI-ohR65Evt3BmWr_TSQhJw0sdXEjS
+			- Propiedades deseables de los impuestos
+			  collapsed:: true
+				- Generalidad
+				- Progresividad
+				- Eficiencia
+				- Simplicidad
+				- Administrativa
+				- Irretroactividad, (No puedo cobrar un impuesto nuevo como de años anteriores)
+				- equidad transparencia
+				- Suficiencia recaudatoria
+			- Tabla de impuestos a la renta 2019
+			  collapsed:: true
+				- ![image.png](../assets/image_1642563170371_0.png)
+			- Tabla de Impuesto a la renta 2007
+			  collapsed:: true
+				- ![image.png](../assets/image_1642563187670_0.png)
+			- Carga directa - El total pagada por productores y por consumidores
+				- [[draws/2022-01-18-22-36-24.excalidraw]]
+			- Calcular las cargar (Carga total tributaria) (Calcular la carga total tributaria)
+				- ![image.png](../assets/image_1642564498414_0.png)
+					- ![image.png](../assets/image_1642564520244_0.png)
+			- Mientras mas inelastica la curva de demanda pagan mas los consumidores o productores
+			- ![image.png](../assets/image_1642564736704_0.png)
+			- La incidencia hacia atrás es cuando la incidencia económica recae sobre los productores del bien gravado
+			- La incidencia hacia Adelante. Cuando la incidencia recae hacia los consumidores : invierten consumen produucen arriesgan trabajan
+			- Traslación total:
+				-
+				-
+				- Todo el impuesto recae sobre los productores o todo el impuesto recae sobre los consumidores
+			- Traslación parcial:
+			- Cuándo los dos agentes económicos soportan la carga tributaria
 			-
-			-
-			- Todo el impuesto recae sobre los productores o todo el impuesto recae sobre los consumidores
-		- Traslación parcial:
-		- Cuándo los dos agentes económicos soportan la carga tributaria
+		- DONE 2 de junio
+		  collapsed:: true
+			- Paga mas impuesto el lado del mercado mas inelástico
+			- El mercado inmobiliario es mas  inelástico en los oferentes, y mas elástico en los demandantes por lo que un impuesto inmobiliario recae en los oferentes o curva de oferta
+			- Pago de impuestos en el tiempo
+			  collapsed:: true
+				- Lado de la demanda-Precio (movimiento de traslación impositiva de delante hacia atrás)
+				  collapsed:: true
+					- En el cortísimo plazo toda la incidencia económica del impuesto recae sobre los consumidores, la función de demanda es completamente inelástica, no varia la producción, no existe perdida de eficiencia o carga excesiva
+					- Se comienza a repartir los impuestos entre productor y consumidor, se genera perdida de eficiencia y carga excesiva
+					- En el largo plazo la incidencia recae en los oferente y un poco en los cosumidores , la perdida de eficiencia o carga excesiva es aun mayot
+			- Reglas de la incidencia tributaria
+			  collapsed:: true
+				- Primera
+				  collapsed:: true
+					- No importa el lado del mercado sobre el cual el impuesto es colocado
+				- Segunda ´
+				  collapsed:: true
+					- El lado inelástico soporta los impuestos, el lado elástico los evita
+				- Tercera
+				  collapsed:: true
+					- La incidencia tributaria es acerca de los precios no de las cantidades, ya que generalmente la incidencia no se aplica sobre cantidades sino sobre precios
+				-
+			- Ecuación fundamental de la incidencia económica de un impuesto
+				- ![image.png](../assets/image_1642729657942_0.png)
+		- DONE # 5 de junio
+		  collapsed:: true
+			- Que es la presión fiscal = Total de impuestos recaudados / PIB o tambien recaudación fiscal /PIB
+			- ¿Cuales son los factores macroeconómicos de la presión fiscal  ( son 4 )?
+			  collapsed:: true
+				- Tamaño economico del pais,
+				  collapsed:: true
+					- bajo nivel de crecimiento genera baja presion fiscal
+				- nivel de ingresos per cápita
+				- ,Especialización productiva
+				- la política comercial adoptada
+			- ¿Cuales son los factores instituciones de la presión fiscal  ?
+			  collapsed:: true
+				- (eficiencia y corrupción)
+				- Si existe una alta corrupción los paises tiene  baja presion fiscal
+			- ¿Cuales son los factores sociales de la presión fiscal?
+			  collapsed:: true
+				- Educación
+				- Urbanidad
+				- Natalidad
+				- Grado de desarollo del sistema fianciero
+				- Política de tipo de cambio adoptada
+			- ¿Cómo es la presión fisca  en américa  latina?
+			  collapsed:: true
+				- La presión fiscal en america  latina es baja
+				- A que se debe ?
+					- Se debe muchas veces a al ineficiencia en la recaudación fiscal
+			- ¿Cuales on otros determinantes que afectan la presión fiscal ?
+			  collapsed:: true
+				- El endudamiento público , el cual afecta negativamente sobre la presión fiscal
+				- La especialización productiva afecta de manera positiva
+				- En america latina , se afecta por cambios reformar tributarias presión constante
+				- Posibles varaibles instrumentales que solucionen la endogenidad , division religiosa y etnica
+			- Es importante mejorar los niveles de recaudación tributaria, ya que esto permite disminuir la desigualdad
+		- DONE 9 de junio
+		  collapsed:: true
+			- https://rr2---sn-cvb7ln7e.c.drive.google.com/videoplayback?expire=1642443619&ei=I3vlYdeNLY2Vhwbxl57ABw&ip=200.55.237.84&cp=QVRJVEVfUlZPSlhPOjBHWnN1Z1A1bVF4NDQzaW9rRUUzQ1VPa2FLOFBqYjRxNjB2YWU4NnZ1VFE&id=a68aa67db386e54d&itag=18&source=webdrive&requiressl=yes&mh=s-&mm=32&mn=sn-cvb7ln7e&ms=su&mv=m&mvi=2&pl=24&ttl=transient&susc=dr&driveid=1nAkeP3Y4ks4fNKdXklKxwLRNh19sXgGt&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=4995.520&lmt=1591801982429661&mt=1642428745&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIgJqP4kvSJgjYjHUDQs9f6n0POZz0IWL_pxCU3IArPV94CIQCPfPYn2ZlBAcu-C5yRdSfQ5uiWIH5OfukdqeQsJ6RqVA==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwQwIgPsvdXa1hAKY96c7nIgKWuBRdTZM17EmPD_7g8u4gNZUCH0O_pDKFksrbIl1XVdjqjL8Pnigvu1F52wjfFPkO5_0=&cpn=Wu-ApAJgXYT89p3n&c=WEB_EMBEDDED_PLAYER&cver=1.20220112.01.00
+			- Si un pais grande importa este puede afectar al precio interncaionañ
+			- Aranncel En una economia pequeña
+			  collapsed:: true
+				- ![image.png](../assets/image_1642765751592_0.png)
+				- Un arancel es pagado totalmente por los consumidores
 		-
-	- DONE 2 de junio
-	  collapsed:: true
-		- Paga mas impuesto el lado del mercado mas inelástico
-		- El mercado inmobiliario es mas  inelástico en los oferentes, y mas elástico en los demandantes por lo que un impuesto inmobiliario recae en los oferentes o curva de oferta
-		- Pago de impuestos en el tiempo
-		  collapsed:: true
-			- Lado de la demanda-Precio (movimiento de traslación impositiva de delante hacia atrás)
-			  collapsed:: true
-				- En el cortísimo plazo toda la incidencia económica del impuesto recae sobre los consumidores, la función de demanda es completamente inelástica, no varia la producción, no existe perdida de eficiencia o carga excesiva
-				- Se comienza a repartir los impuestos entre productor y consumidor, se genera perdida de eficiencia y carga excesiva
-				- En el largo plazo la incidencia recae en los oferente y un poco en los cosumidores , la perdida de eficiencia o carga excesiva es aun mayot
-		- Reglas de la incidencia tributaria
-		  collapsed:: true
-			- Primera
-			  collapsed:: true
-				- No importa el lado del mercado sobre el cual el impuesto es colocado
-			- Segunda ´
-			  collapsed:: true
-				- El lado inelástico soporta los impuestos, el lado elástico los evita
-			- Tercera
-			  collapsed:: true
-				- La incidencia tributaria es acerca de los precios no de las cantidades, ya que generalmente la incidencia no se aplica sobre cantidades sino sobre precios
-			-
-		- Ecuación fundamental de la incidencia económica de un impuesto
-			- ![image.png](../assets/image_1642729657942_0.png)
-	- DONE # 5 de junio
-	  collapsed:: true
-		- Que es la presión fiscal = Total de impuestos recaudados / PIB o tambien recaudación fiscal /PIB
-		- ¿Cuales son los factores macroeconómicos de la presión fiscal  ( son 4 )?
-		  collapsed:: true
-			- Tamaño economico del pais,
-			  collapsed:: true
-				- bajo nivel de crecimiento genera baja presion fiscal
-			- nivel de ingresos per cápita
-			- ,Especialización productiva
-			- la política comercial adoptada
-		- ¿Cuales son los factores instituciones de la presión fiscal  ?
-		  collapsed:: true
-			- (eficiencia y corrupción)
-			- Si existe una alta corrupción los paises tiene  baja presion fiscal
-		- ¿Cuales son los factores sociales de la presión fiscal?
-		  collapsed:: true
-			- Educación
-			- Urbanidad
-			- Natalidad
-			- Grado de desarollo del sistema fianciero
-			- Política de tipo de cambio adoptada
-		- ¿Cómo es la presión fisca  en américa  latina?
-		  collapsed:: true
-			- La presión fiscal en america  latina es baja
-			- A que se debe ?
-				- Se debe muchas veces a al ineficiencia en la recaudación fiscal
-		- ¿Cuales on otros determinantes que afectan la presión fiscal ?
-		  collapsed:: true
-			- El endudamiento público , el cual afecta negativamente sobre la presión fiscal
-			- La especialización productiva afecta de manera positiva
-			- En america latina , se afecta por cambios reformar tributarias presión constante
-			- Posibles varaibles instrumentales que solucionen la endogenidad , division religiosa y etnica
-		- Es importante mejorar los niveles de recaudación tributaria, ya que esto permite disminuir la desigualdad
-	- DONE 9 de junio
-	  collapsed:: true
-		- https://rr2---sn-cvb7ln7e.c.drive.google.com/videoplayback?expire=1642443619&ei=I3vlYdeNLY2Vhwbxl57ABw&ip=200.55.237.84&cp=QVRJVEVfUlZPSlhPOjBHWnN1Z1A1bVF4NDQzaW9rRUUzQ1VPa2FLOFBqYjRxNjB2YWU4NnZ1VFE&id=a68aa67db386e54d&itag=18&source=webdrive&requiressl=yes&mh=s-&mm=32&mn=sn-cvb7ln7e&ms=su&mv=m&mvi=2&pl=24&ttl=transient&susc=dr&driveid=1nAkeP3Y4ks4fNKdXklKxwLRNh19sXgGt&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=4995.520&lmt=1591801982429661&mt=1642428745&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIgJqP4kvSJgjYjHUDQs9f6n0POZz0IWL_pxCU3IArPV94CIQCPfPYn2ZlBAcu-C5yRdSfQ5uiWIH5OfukdqeQsJ6RqVA==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwQwIgPsvdXa1hAKY96c7nIgKWuBRdTZM17EmPD_7g8u4gNZUCH0O_pDKFksrbIl1XVdjqjL8Pnigvu1F52wjfFPkO5_0=&cpn=Wu-ApAJgXYT89p3n&c=WEB_EMBEDDED_PLAYER&cver=1.20220112.01.00
-		- Si un pais grande importa este puede afectar al precio interncaionañ
-		- Aranncel En una economia pequeña
-		  collapsed:: true
-			- ![image.png](../assets/image_1642765751592_0.png)
-			- Un arancel es pagado totalmente por los consumidores
-	-
-	- Efecto cascada y ley de plusvalia y Grandeç
-		- https://rr4---sn-cvb7ln7z.c.drive.google.com/videoplayback?expire=1642443088&ei=EHnlYajrH5-H_9EPtf6R-AY&ip=200.55.237.84&cp=QVRJVEVfUlBWSVhPOjBHWnNvbk81bVF4NDQzY3ZqRUUzQ1VPa3VSN1BqYjRxNjBwaGQ4NnZ1VFE&id=b63295126ccc436e&itag=22&source=webdrive&requiressl=yes&mh=6G&mm=32&mn=sn-cvb7ln7z&ms=su&mv=u&mvi=4&pl=24&ttl=transient&susc=dr&driveid=12lNBE0cQ0ASDhJPkIoPn485KxxRvijoi&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=3081.009&lmt=1595368462407088&mt=1642428058&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRgIhAPO6Uskm6Nx55EJxLj78S2WHOlpcy5clzgCzV6AUM3ZvAiEArTj_PTHRL0D1YWjeFzpoH1QN9B5jxXwZWQz3HzC6iG4=&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhALgvqL4HGyL3Wlj2TMaXVaanZSXeUek1qxq0ZB_Osa8FAiEAqmkSLKG9ypFFKDxMPAUgkBjwGgOcbwnf-arK07HtAas=&cpn=mpuB8Gzpo_W0AalM&c=WEB_EMBEDDED_PLAYER&cver=1.20220112.01.00
-	-
+		- Efecto cascada y ley de plusvalia y Grandeç
+			- https://rr4---sn-cvb7ln7z.c.drive.google.com/videoplayback?expire=1642443088&ei=EHnlYajrH5-H_9EPtf6R-AY&ip=200.55.237.84&cp=QVRJVEVfUlBWSVhPOjBHWnNvbk81bVF4NDQzY3ZqRUUzQ1VPa3VSN1BqYjRxNjBwaGQ4NnZ1VFE&id=b63295126ccc436e&itag=22&source=webdrive&requiressl=yes&mh=6G&mm=32&mn=sn-cvb7ln7z&ms=su&mv=u&mvi=4&pl=24&ttl=transient&susc=dr&driveid=12lNBE0cQ0ASDhJPkIoPn485KxxRvijoi&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=3081.009&lmt=1595368462407088&mt=1642428058&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRgIhAPO6Uskm6Nx55EJxLj78S2WHOlpcy5clzgCzV6AUM3ZvAiEArTj_PTHRL0D1YWjeFzpoH1QN9B5jxXwZWQz3HzC6iG4=&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhALgvqL4HGyL3Wlj2TMaXVaanZSXeUek1qxq0ZB_Osa8FAiEAqmkSLKG9ypFFKDxMPAUgkBjwGgOcbwnf-arK07HtAas=&cpn=mpuB8Gzpo_W0AalM&c=WEB_EMBEDDED_PLAYER&cver=1.20220112.01.00
+		-
+-
+-
 - Impuestos indirectos
   collapsed:: true
 	- Impuesto al consumo
