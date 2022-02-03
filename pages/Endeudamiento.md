@@ -19,7 +19,7 @@
 - Deuda
 	- Deuda Agregada
 		- Deuda  Agregada del Sector Pública Total
-		- Deuda  Agregada del Sector No financiero (SNF)
+		- Deuda  Agregada  del Sector No financiero (SNF)
 	- Deuda Consolidad
 - # Principales efectos de elevados niveles de deuda 🟡
 	- Inflación
