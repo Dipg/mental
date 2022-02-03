@@ -18,7 +18,8 @@
 	- El nivel de deuda agregada y consolidada es el mismo cuando analizamos el endeudamiento externo
 - Deuda
 	- Deuda Agregada
-		-
+		- Deuda Pública Total
+		- Deuda del Sec
 	- Deuda Consolidad
 - # Principales efectos de elevados niveles de deuda 🟡
 	- Inflación
