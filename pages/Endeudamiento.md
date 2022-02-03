@@ -1,5 +1,6 @@
 - Década del 90 al 200 tiene la deuda mas alta
 - Siempre se interpreta como relación deuda PIB, no se puede interpretar solo la deuda en millones
+-
 - # Principales efectos de elevados niveles de deuda 🟡
 	- Inflación
 		- Cuando hay déficit la única fuente que se tiene en cuenta son los impuestos
