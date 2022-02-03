@@ -1,6 +1,6 @@
 - Videos
 - 2022
-- Deuda
+- Deuda Parte 2 - Hasta Generaciones Solapadas
 - Década del 90 al 200 tiene la deuda mas alta
 - Siempre se interpreta como relación deuda PIB, no se puede interpretar solo la deuda en millones
 - ¿Cómo obtener el promedio de la tasa de interés pagado anualmente por deuda ? ((61f5c0c2-caff-4093-b70f-5bf4fb6565aa))
