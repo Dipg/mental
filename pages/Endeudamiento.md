@@ -2,7 +2,7 @@
 - Siempre se interpreta como relación deuda PIB, no se puede interpretar solo la deuda en millones
 - ¿Cómo obtener el promedio de la tasa de interés pagado anualmente por deuda ?
 	- Pasos Completos para acceder a la base de datos
-		- Accedemos a el ministerio de Fianzas  → [Ministerio de Fianzas](https://www.finanzas.gob.ec/)
+		- Accedemos a el ministerio de Fianzas  → [Ministerio de Fianzas🔗](https://www.finanzas.gob.ec/)
 		- ![image.png](../assets/image_1643911306487_0.png){:height 300, :width 499}
 		-
 	- Pagina directa De la Siguiente Pagina https://contenido.bce.fin.ec/documentos/Administracion/bi_menuDeudaPublica.html
