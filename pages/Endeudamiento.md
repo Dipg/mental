@@ -14,8 +14,6 @@
 	- Pagina directa De la Siguiente Pagina https://contenido.bce.fin.ec/documentos/Administracion/bi_menuDeudaPublica.html
 	- Se toman los datos de diciembre del total de interés pagado y se divide por el Saldo Inicial
 	- ![image.png](../assets/image_1643911112755_0.png)
-- ¿Cuándo es igual la deuda agregada y la deuda consolidada?
-	- El nivel de deuda agregada y consolidada es el mismo cuando analizamos el endeudamiento externo
 - Deuda
 	- Deuda Agregada
 		- Deuda  Agregada del Sector Pública Total
@@ -43,6 +41,8 @@
 			- Deuda Externa
 			- Deuda Interna
 			- Otros Pasivos
+	- ¿Cuándo es igual la deuda agregada y la deuda consolidada?
+		- El nivel de deuda agregada y consolidada es el mismo cuando analizamos el endeudamiento externo
 	- Grafico
 		- ![image.png](../assets/image_1643923002172_0.png){:height 455, :width 981}
 - # Principales efectos de elevados niveles de deuda 🟡
