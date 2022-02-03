@@ -617,7 +617,7 @@
 		-
 -
 -
-- Activos Financieros y Pasivos Fianciero s
+- Activos Financieros y Pasivos Fiancieros ((61f5c0c2-caff-4093-b70f-5bf4fb6565aa))
 - Impuestos indirectos
   collapsed:: true
 	- Impuesto al consumo
