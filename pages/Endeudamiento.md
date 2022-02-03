@@ -25,6 +25,9 @@
 			- Deuda Externa
 			- Deuda Interna
 		- Deuda Pública Agregada del presupuesto General del Estado
+			- Deuda Externa
+			- Deuda Interna
+			-
 	- Deuda Consolidad
 - # Principales efectos de elevados niveles de deuda 🟡
 	- Inflación
