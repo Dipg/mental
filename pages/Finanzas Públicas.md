@@ -501,7 +501,8 @@
 	- Deuda desde el banco central [[Ejercicio Búsqueda de datos ]] [[Ejercicios Numéricos]]  Prte 1 del [[Endeudamiento]]
 	- https://mail.google.com/mail/u/0/?pli=1#search/bryan/FMfcgzGmtXFlVKgZSzQHzhFGHqnVPZTm?projector=1
 		-
-- TODO Video
+- TODO Video 10 de Enero
+	-
 - Videos
   collapsed:: true
 	- DONE 29 de Mayo (Introducción incidencia economica)
