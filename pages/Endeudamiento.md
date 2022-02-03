@@ -17,6 +17,18 @@
 - ¿Cuándo es igual la deuda agregada y la deuda consolidada?
 	- El nivel de deuda agregada y consolidada es el mismo cuando analizamos el endeudamiento externo
 - Deuda
+	- Deuda  Agregada del Sector Pública Total
+		- Deuda Externa
+		- Deuda Interna
+		- Otros Pasivos
+	- Deuda  Pública Agregada  del Sector Público No financiero (SNF)
+		- Deuda Externa
+		- Deuda Interna
+		- Otros Pasivos
+	- Deuda Pública Agregada del presupuesto General del Estado
+		- Deuda Externa
+		- Deuda Interna
+		- Otros Pasivos
 	- Deuda Agregada
 		- Deuda  Agregada del Sector Pública Total
 			- Deuda Externa
