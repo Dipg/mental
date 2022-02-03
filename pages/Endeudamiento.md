@@ -2,7 +2,7 @@
 	- 2022
 		- Deuda Parte 2 - Hasta Generaciones Solapadas  [🔗](https://mail.google.com/mail/u/1/#search/bryan/FMfcgzGmtXFlVKgZSzQHzhFGHqnVPZTm)
 - Datos Sobre la Deuda en Ecuador
-	- La epoca en la que Ecuador sufrió el mayor nivel de deuda ese el año 199
+	- La época en la que Ecuador sufrió el mayor nivel de deuda ese el año 1999 he inicios de los 2000
 - Siempre se interpreta como relación deuda PIB, no se puede interpretar solo la deuda en millones
 - ¿Cómo obtener el promedio de la tasa de interés pagado anualmente por deuda ? ((61f5c0c2-caff-4093-b70f-5bf4fb6565aa))
 	- Pasos Completos para acceder a la base de datos
