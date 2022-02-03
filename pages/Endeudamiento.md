@@ -1,4 +1,4 @@
-- Decada del 90 al 200
+- Década del 90 al 200 tine
 - # Principales efectos de elevados niveles de deuda 🟡
 	- Inflación
 		- Cuando hay déficit la única fuente que se tiene en cuenta son los impuestos
