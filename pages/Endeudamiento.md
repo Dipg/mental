@@ -2,6 +2,7 @@
 	- 2022
 		- Deuda Parte 2 - Hasta Generaciones Solapadas  [🔗](https://mail.google.com/mail/u/1/#search/bryan/FMfcgzGmtXFlVKgZSzQHzhFGHqnVPZTm)
 - Datos Sobre la Deuda en Ecuador
+	- La
 - Siempre se interpreta como relación deuda PIB, no se puede interpretar solo la deuda en millones
 - ¿Cómo obtener el promedio de la tasa de interés pagado anualmente por deuda ? ((61f5c0c2-caff-4093-b70f-5bf4fb6565aa))
 	- Pasos Completos para acceder a la base de datos
