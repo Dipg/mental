@@ -31,6 +31,18 @@
 			- Deuda Interna
 			- Otros Pasivos
 	- Deuda Consolidad
+		- Deuda  Agregada del Sector Pública Total
+			- Deuda Externa
+			- Deuda Interna
+			- Otros Pasivos
+		- Deuda  Pública Agregada  del Sector Público No financiero (SNF)
+			- Deuda Externa
+			- Deuda Interna
+			- Otros Pasivos
+		- Deuda Pública Agregada del presupuesto General del Estado
+			- Deuda Externa
+			- Deuda Interna
+			- Otros Pasivos
 - # Principales efectos de elevados niveles de deuda 🟡
 	- Inflación
 		- Cuando hay déficit la única fuente que se tiene en cuenta son los impuestos
