@@ -14,8 +14,8 @@
 	- Pagina directa De la Siguiente Pagina https://contenido.bce.fin.ec/documentos/Administracion/bi_menuDeudaPublica.html
 	- Se toman los datos de diciembre del total de interés pagado y se divide por el Saldo Inicial
 	- ![image.png](../assets/image_1643911112755_0.png)
-- ¿Cuando son iguales
-- El nivel de deuda agregada y consolidada es el mismo cuando analizamos el endeudamiento externo
+- ¿Cuándo es igual la deuda externa y la deuda interna?
+	- El nivel de deuda agregada y consolidada es el mismo cuando analizamos el endeudamiento externo
 - # Principales efectos de elevados niveles de deuda 🟡
 	- Inflación
 		- Cuando hay déficit la única fuente que se tiene en cuenta son los impuestos
