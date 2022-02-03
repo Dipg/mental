@@ -147,3 +147,17 @@
 - La deuda se incluye dentro del sector público no financiero SPNF
 - Servicio de deuda , cuanto anualmente destino a pagar deuda
 - EL valor presente de la deuda actual , cuanto yo actualmente tengo de deuda
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
