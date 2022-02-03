@@ -217,7 +217,8 @@
 		- Problema
 			- Información oculta por parte de los consumidores
 	- Economía del sector Público
-# Unidad 2 ![📑](../assets/UNIDAD_2._1637746281546_0.pdf)
+- # Unidad 2 ![📑](../assets/UNIDAD_2._1637746281546_0.pdf)
+	- Videos
 	- DONE Capitulo 2
 	  :LOGBOOK:
 	  CLOCK: [2022-02-01 Tue 14:39:02]--[2022-02-01 Tue 14:39:03] =>  00:00:01
