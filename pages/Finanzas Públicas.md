@@ -218,10 +218,10 @@
 			- Información oculta por parte de los consumidores
 	- Economía del sector Público
 # Unidad 2 ![📑](../assets/UNIDAD_2._1637746281546_0.pdf)
-	- DOING Capitulo 2
+	- DONE Capitulo 2
 	  :LOGBOOK:
 	  CLOCK: [2022-02-01 Tue 14:39:02]--[2022-02-01 Tue 14:39:03] =>  00:00:01
-	  CLOCK: [2022-02-01 Tue 14:39:04]
+	  CLOCK: [2022-02-01 Tue 14:39:04]--[2022-02-03 Thu 17:05:34] =>  50:26:30
 	  :END:
 # Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
 - # Unidad 4 ![📑](../assets/Unidad_4_1637751172084_0.pdf) ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf) ![📑 V2 ](../assets/Unidad_4_v2_1643754599695_0.pdf)
