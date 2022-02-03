@@ -220,7 +220,7 @@
 - # Unidad 2 ![📑](../assets/UNIDAD_2._1637746281546_0.pdf)
 	- Videos
 	- Antiguos
-	-
+	- 8 De abril
 	- DONE Capitulo 2
 	  :LOGBOOK:
 	  CLOCK: [2022-02-01 Tue 14:39:02]--[2022-02-01 Tue 14:39:03] =>  00:00:01
