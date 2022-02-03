@@ -44,7 +44,7 @@
 			- Deuda Interna
 			- Otros Pasivos
 	- Grafico
-		-
+		- ![image.png](../assets/image_1643923002172_0.png)
 - # Principales efectos de elevados niveles de deuda 🟡
 	- Inflación
 		- Cuando hay déficit la única fuente que se tiene en cuenta son los impuestos
