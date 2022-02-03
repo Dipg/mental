@@ -14,7 +14,7 @@
 	- Pagina directa De la Siguiente Pagina https://contenido.bce.fin.ec/documentos/Administracion/bi_menuDeudaPublica.html
 	- Se toman los datos de diciembre del total de interés pagado y se divide por el Saldo Inicial
 	- ![image.png](../assets/image_1643911112755_0.png)
-- Deuda
+- Deuda ()
 	- Deuda Agregada
 		- Deuda  Agregada del Sector Pública Total
 			- Deuda Externa
