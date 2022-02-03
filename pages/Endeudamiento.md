@@ -1,7 +1,7 @@
 - Década del 90 al 200 tiene la deuda mas alta
 - Siempre se interpreta como relación deuda PIB, no se puede interpretar solo la deuda en millones
 - ¿Cómo obtener el promedio de la tasa de interés pagado anualmente por deuda ?
-	- Se toman los datos de diciembre del total de interes pagado y se divide por el Saldo Inical
+	- Se toman los datos de diciembre del total de interés pagado y se divide por el Saldo Inicial
 	- ![image.png](../assets/image_1643911112755_0.png)
 - # Principales efectos de elevados niveles de deuda 🟡
 	- Inflación
