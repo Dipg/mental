@@ -4,6 +4,8 @@
 	- Pasos Completos para acceder a la base de datos
 		- Accedemos a  Banco Central de Ecuador  → [Banco Central 🔗](https://www.bce.fin.ec/)
 		- ![image.png](../assets/image_1643911306487_0.png){:height 300, :width 499}
+		- Accedemos al Sector Externo
+		- ![image.png](../assets/image_1643911467883_0.png)
 		-
 		-
 	- Pagina directa De la Siguiente Pagina https://contenido.bce.fin.ec/documentos/Administracion/bi_menuDeudaPublica.html
