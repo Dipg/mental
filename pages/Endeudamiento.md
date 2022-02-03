@@ -18,7 +18,8 @@
 	- El nivel de deuda agregada y consolidada es el mismo cuando analizamos el endeudamiento externo
 - Deuda
 	- Deuda Agregada
-	-
+		-
+	- Deuda Consolidad
 - # Principales efectos de elevados niveles de deuda 🟡
 	- Inflación
 		- Cuando hay déficit la única fuente que se tiene en cuenta son los impuestos
