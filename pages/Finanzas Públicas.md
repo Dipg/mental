@@ -229,7 +229,7 @@
 	- Efecto Olivera- Tanzi
 		- Analiza cual es el efecto que tiene la inflación, sobre la recaudación impositiva real
 		- Es un circulo vicioso
-		- El aumento del deficit fiscal provoca ➡️ un alza en la inflación, la que a su ➡️ vez reduce el valor d ela recaudación tributaria ➡️  Lo que as su vez aumenta el deficit fiscal  y se repite el ciclo 🔁
+		- El aumento del deficit fiscal provoca ➡️ un alza en la inflación, la que a su ➡️ vez reduce el valor de la recaudación tributaria ➡️  Lo que as su vez aumenta el deficit fiscal  y se repite el ciclo 🔁
 # Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
 - # Unidad 4 ![📑](../assets/Unidad_4_1637751172084_0.pdf) ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf) ![📑 V2 ](../assets/Unidad_4_v2_1643754599695_0.pdf)
   collapsed:: true
