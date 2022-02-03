@@ -1,5 +1,5 @@
 - Composiciones
-	- ¿ Q
+	- ¿ Que es una composición en After Effecs?
 	- https://www.youtube.com/watch?v=jwuEAtEpUIU
 - Mascaras ⭐ ⭐ ⭐ ⭐ ⭐
 	- https://www.youtube.com/watch?v=QJM3w0e-lTc
