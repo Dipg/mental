@@ -8,7 +8,7 @@
 		- ![image.png](../assets/image_1643911467883_0.png)
 		- Accedemos a la deuda Externa Pública
 		- ![image.png](../assets/image_1643911603015_0.png)
-		-
+		- Listo :)
 		-
 		-
 	- Pagina directa De la Siguiente Pagina https://contenido.bce.fin.ec/documentos/Administracion/bi_menuDeudaPublica.html
