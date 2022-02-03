@@ -496,7 +496,7 @@
 - # Unidad 7 ![📑](../assets/CAPITULO_7_Presupuesto_Y_Planificación_1643603734698_0.pdf)
 	- [[Ciclo Presupuestario]]
 -
-- # Video 20222
+- # Video 2022
 - TODO Video 17 de Enero:
   id:: 61f5c0c2-caff-4093-b70f-5bf4fb6565aa
 	- Deuda desde el banco central [[Ejercicio Búsqueda de datos ]] [[Ejercicios Numéricos]]  Prte 1 del [[Endeudamiento]]
