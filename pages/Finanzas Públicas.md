@@ -502,7 +502,7 @@
 	- https://mail.google.com/mail/u/0/?pli=1#search/bryan/FMfcgzGmtXFlVKgZSzQHzhFGHqnVPZTm?projector=1
 		-
 - TODO Video 10 de Enero
-	- Datos del Ministerio de Fianzas  → VIDEO
+	- Datos del Ministerio de Fianzas  → VIDEO 🔗
 - Videos
   collapsed:: true
 	- DONE 29 de Mayo (Introducción incidencia economica)
