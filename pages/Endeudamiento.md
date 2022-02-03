@@ -6,6 +6,8 @@
 		- ![image.png](../assets/image_1643911306487_0.png){:height 300, :width 499}
 		- Accedemos al Sector Externo
 		- ![image.png](../assets/image_1643911467883_0.png)
+		- Accedemos a la deuda Externa Pública
+		- ![image.png](../assets/image_1643911559772_0.png)
 		-
 		-
 		-
