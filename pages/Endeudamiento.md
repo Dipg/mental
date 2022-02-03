@@ -2,7 +2,7 @@
 - Siempre se interpreta como relación deuda PIB, no se puede interpretar solo la deuda en millones
 - ¿Cómo obtener el promedio de la tasa de interés pagado anualmente por deuda ?
 	- Pasos Completos para acceder a la base de datos
-		- Accedemos a  Banco Central de Ecuador  → [Banco Central 🔗](https://www.bce.fin.ec/)
+		- Accedemos a  Banco Central de Ecuador  → [Banco Central 🔗](https://www.bce.fin.ec/)  #WebsFP
 		- ![image.png](../assets/image_1643911306487_0.png){:height 300, :width 499}
 		- Accedemos al Sector Externo
 		- ![image.png](../assets/image_1643911467883_0.png){:height 319, :width 512}
