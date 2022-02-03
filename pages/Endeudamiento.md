@@ -16,7 +16,9 @@
 	- ![image.png](../assets/image_1643911112755_0.png)
 - ¿Cuándo es igual la deuda agregada y la deuda consolidada?
 	- El nivel de deuda agregada y consolidada es el mismo cuando analizamos el endeudamiento externo
-- DE
+- Deuda
+	- Deuda Agregada
+	-
 - # Principales efectos de elevados niveles de deuda 🟡
 	- Inflación
 		- Cuando hay déficit la única fuente que se tiene en cuenta son los impuestos
