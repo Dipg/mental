@@ -18,7 +18,7 @@
 	- El nivel de deuda agregada y consolidada es el mismo cuando analizamos el endeudamiento externo
 - Deuda
 	- Deuda Agregada
-		- Deuda Pública Total
+		- Deuda  Agregada del Sector Pública Total
 		- Deuda del Sector No financiero (SNF)
 	- Deuda Consolidad
 - # Principales efectos de elevados niveles de deuda 🟡
