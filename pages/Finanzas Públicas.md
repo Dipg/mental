@@ -219,8 +219,8 @@
 	- Economía del sector Público
 - # Unidad 2 ![📑](../assets/UNIDAD_2._1637746281546_0.pdf)
 	- Videos
-	- Antiguos
-	- Parte 2-  [8 De abril_](https://drive.google.com/drive/u/1/folders/1HLDI-ohR65Evt3BmWr_TSQhJw0sdXEjS)
+		- Antiguos
+			- Parte 2-  [8 De abril_Unidad_2_ingreoss](https://drive.google.com/drive/u/1/folders/1HLDI-ohR65Evt3BmWr_TSQhJw0sdXEjS)
 	- DONE Capitulo 2
 	  :LOGBOOK:
 	  CLOCK: [2022-02-01 Tue 14:39:02]--[2022-02-01 Tue 14:39:03] =>  00:00:01
@@ -641,5 +641,4 @@
 		- Esto es debido a que por cada unidad consumida se va a pagar el precio con impuesto.
 		- [[draws/2021-12-14-07-12-42.excalidraw]]
 		- [[Excel]]
--
 -
