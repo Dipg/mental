@@ -47,7 +47,7 @@
 		- ![image.png](../assets/image_1643923002172_0.png){:height 455, :width 981}
 - # Principales efectos de elevados niveles de deuda 🟡
 	- Inflación
-		- Cuando hay déficit la única fuente que se tiene en cuenta son los impuestos, esto genera problemas como se pu
+		- Cuando hay déficit la única fuente que se tiene en cuenta son los impuestos, esto genera problemas, lo que se llamo el
 	- Riesgo sobre los activos tangibles del sector público
 - # ¿Cuales son las posturas ante el manejo de la deuda?
 	- ## 1. {{cloze Postura de Lerner }}🟡
