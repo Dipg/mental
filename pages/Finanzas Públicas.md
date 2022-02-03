@@ -488,13 +488,14 @@
 			- La incidencia tributaria sobre el ciclo de vida analiza mi evolución de ingresos con respecto a mi edad  y al final se observa que existe un gran sesgo hacia los estratos mas bajos de la distribución de ingresos e impacta mucho la evolución de la temporalidad en la cual una persona se encuentre para fijar ese nivel de ingresos acumulados
 	- [[Ley de plusvalía 2016 (Derogada)]]
 - # Unidad 5 ![📑](../assets/Unidad_5_1643754733902_0.pdf)
-- El déficit fiscal se ha vuelto un problema estructural en el ecuador desde el año 2010
-- La deuda es una variable acumulativa (de stock) #yellow
-- El déficit es una variable de flujo
+	- El déficit fiscal se ha vuelto un problema estructural en el ecuador desde el año 2010
+	- La deuda es una variable acumulativa (de stock) #yellow
+	- El déficit es una variable de flujo
 - # Unidad 6 ![📑](../assets/CAPÍTULO_6_deuda_1643603712506_0.pdf)
 	- [[Endeudamiento]]
 - # Unidad 7 ![📑](../assets/CAPITULO_7_Presupuesto_Y_Planificación_1643603734698_0.pdf)
 	- [[Ciclo Presupuestario]]
+-
 -
 - TODO Video 17 de Enero:
   id:: 61f5c0c2-caff-4093-b70f-5bf4fb6565aa
