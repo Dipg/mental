@@ -502,7 +502,7 @@
 	- Deuda desde el banco central [[Ejercicio Búsqueda de datos ]] [[Ejercicios Numéricos]]  Prte 1 del [[Endeudamiento]]
 	- https://mail.google.com/mail/u/0/?pli=1#search/bryan/FMfcgzGmtXFlVKgZSzQHzhFGHqnVPZTm?projector=1
 		-
-- DONE Video 10 de Enero  Re
+- DONE Video 10 de Enero  Repasos: 1
 	- Datos del Ministerio de Fianzas  → [VIDEO 🔗](https://mail.google.com/mail/u/1/#search/bryan/FMfcgzGmtXBKPjSmwxthkgGBJlBFbbCQ)
 	  id:: 61fc4844-90a6-4cea-b368-ccc0dea295c8
 -
