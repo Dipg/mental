@@ -5,9 +5,9 @@
 		- Accedemos a  Banco Central de Ecuador  → [Banco Central 🔗](https://www.bce.fin.ec/)
 		- ![image.png](../assets/image_1643911306487_0.png){:height 300, :width 499}
 		- Accedemos al Sector Externo
-		- ![image.png](../assets/image_1643911467883_0.png)
+		- ![image.png](../assets/image_1643911467883_0.png){:height 319, :width 512}
 		- Accedemos a la deuda Externa Pública
-		- ![image.png](../assets/image_1643911603015_0.png)
+		- ![image.png](../assets/image_1643911603015_0.png){:height 485, :width 528}
 		- Listo :)
 		-
 		-
