@@ -5,6 +5,7 @@
 		- Accedemos a  Banco Central de Ecuador  → [Banco Central 🔗](https://www.bce.fin.ec/)
 		- ![image.png](../assets/image_1643911306487_0.png){:height 300, :width 499}
 		-
+		-
 	- Pagina directa De la Siguiente Pagina https://contenido.bce.fin.ec/documentos/Administracion/bi_menuDeudaPublica.html
 	- Se toman los datos de diciembre del total de interés pagado y se divide por el Saldo Inicial
 	- ![image.png](../assets/image_1643911112755_0.png)
