@@ -19,8 +19,10 @@
 - Deuda
 	- Deuda Agregada
 		- Deuda  Agregada del Sector Pública Total
-		-
+			- Deuda Interna
+			- Deuda Externa
 		- Deuda  Pública Agregada  del Sector Público No financiero (SNF)
+		-
 		- Deuda Pública Agregada del presupuesto General del Estado
 	- Deuda Consolidad
 - # Principales efectos de elevados niveles de deuda 🟡
