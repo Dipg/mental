@@ -3,7 +3,7 @@
 	- En el Eje x la varaible estandarizadad
 	- y en Y el promedio de la variable x de los vecinos
 		- ![image.png](../assets/image_1643995724940_0.png)
-		-
+		- Por lo que los cuadrante s I y IV son
 - ![image.png](../assets/image_1643026136968_0.png)
 - ((61ee9699-92a9-4d6a-8a30-8425ea32dd3f))
 - ![image.png](../assets/image_1643024507969_0.png)
