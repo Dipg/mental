@@ -1,2 +1,2 @@
 - ![image.png](../assets/image_1643943817529_0.png)
-- En el U6 te dice como exportar en vertical o cuadrado
+- En el U6 te dice como exportar en vertical o cuadrado , utilizando la edicion ya realizada
