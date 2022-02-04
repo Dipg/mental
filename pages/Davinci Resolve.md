@@ -3,5 +3,5 @@
 - Como cortara, Básicamente lo mejor
 -
 -
-- Letra ``i punto de entrada
+- Letra `i` punto de entrada
 -
