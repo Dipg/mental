@@ -3,4 +3,5 @@
 - Como cortara, Básicamente lo mejor
 -
 -
-- L
+- Letra ``i punto de entrada
+-
