@@ -7,7 +7,9 @@
 		- Los cuadrante  II y IV muestran Autocorrelación espacial negativo
 		- La pendiente de ajueste lineal es positiva
 		- En el test de Moran La Ho es que no existe Auto Correlación Espacia con un I de moran cercano a cerol y la H1 es que existe Autocorrelación espacial
-		- ## Esperanza del I de Moran
+		- ## Esperanza del I de Moran $E(I)$
+			- ![image.png](../assets/image_1643996705761_0.png)
+			  id:: 61fd661f-abec-4228-8166-9bcf1f908ef8
 - ![image.png](../assets/image_1643026136968_0.png)
 - ((61ee9699-92a9-4d6a-8a30-8425ea32dd3f))
 - ![image.png](../assets/image_1643024507969_0.png)
