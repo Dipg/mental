@@ -1,3 +1,3 @@
 - ![image.png](../assets/image_1643943817529_0.png)
 - En el U6 te dice como exportar en vertical o cuadrado , utilizando la edición ya realizada
-- Como cortara
+- Como cortara, Básicamente lo mejor
