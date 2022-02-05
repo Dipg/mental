@@ -42,7 +42,7 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 	-
 		- La gráfica 2 muestra los resultados tras aplicar el modelo de control sintético
 		- Grafica 2  Resultado modelo de control sintético
-		  ![image.png](../assets/image_1641179403079_0.png){:height 305, :width 420}
+		  ![image.png](../assets/image_1641179403079_0.png){:height 323, :width 635}
 		  Fuente: Banco Central
 		  Elaboración Autores
 		- Ponderación
