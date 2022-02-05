@@ -1,0 +1,2 @@
+- Ampliar Pantalla
+	-
