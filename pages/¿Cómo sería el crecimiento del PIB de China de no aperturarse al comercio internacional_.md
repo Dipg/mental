@@ -30,7 +30,7 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 		- Sin embargo a finales de la década de los 70s se comenzó con lo que se conoce como la Reforma Económica China o también llamado "socialismo con características chinas ",  el cual buscaba encaminar nuevamente a china a un mayor crecimiento económico y de su sociedad en conjunto, sin embargo debido a problemas de índole social, dicho programa se logro estabilizar y ejecutar de manera global a partir del año 1992 ((61fdf424-1405-4e4d-81ab-6832c7f3c844))
 		- Esta política económica propuesta en China, dista de las aplicadas en otros país en la región asiática de esos años, ya que la misma se plantea como una economía de mercado socialista que se compara con economías en Europa Oriental ((61fdf3c9-1953-47cd-82e0-98fd88eb8c71)). Es debido a esta característica única del modelo económico chino se busca analizar el efecto de no aplicarse esta política dentro del China.
 	- # Datos
-		- Los datos fueron obtenidos del Banco Mundial.
+		- Los datos fueron obtenidos del Banco Mundial. La variable principal a considerar es el PIB
 	- # Análisis Descriptivo
 		- País a Analizado China
 		- Países con un crecimiento Superior
