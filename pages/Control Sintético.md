@@ -1,2 +1,2 @@
 - ![image.png](../assets/image_1644030245973_0.png)
-- En resumen una combianción de
+- En resumen una combinación de  las entidades no afectadas
