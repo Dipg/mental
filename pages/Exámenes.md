@@ -12,9 +12,9 @@
 - # Miércoles
 	- DONE 4. Informática
 - # Jueves
-	- TODO 5. Regulación
+	- DONE 5. Regulación
 - # Viernes
-	- TODO 6. Opta I
+	- DONE 6. Opta I
 	- TODO 7. Opta IV
 - # Lunes
 	- TODO 8. Eco. Empresarial
