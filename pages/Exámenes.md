@@ -8,9 +8,9 @@
 - # ~~Lunes~~
 	- DONE 2. Análisis Multivariante
 - # Martes
-	- TODO 3. Opta II
+	- DONE 3. Opta II
 - # Miércoles
-	- TODO 4. Informática
+	- DONE 4. Informática
 - # Jueves
 	- TODO 5. Regulación
 - # Viernes
