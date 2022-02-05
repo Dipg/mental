@@ -31,7 +31,7 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 		- Esta política económica propuesta en China, dista de las aplicadas en otros país en la región asiática de esos años, ya que la misma se plantea como una economía de mercado socialista que se compara con economías en Europa Oriental ((61fdf3c9-1953-47cd-82e0-98fd88eb8c71)). Es debido a esta característica única del modelo económico chino se busca analizar el efecto de no aplicarse esta política dentro del China.
 	- # Datos
 		- Los datos fueron obtenidos del Banco Mundial, los mismo datan de la fecha de 1970 a 2019, esto debido a lo ya  mencionado  acerca del perdido de aplicación de la política económica China. La variable principal a considerar es el PIB, sin embargo se consideraran variables como la Población, Tasa de Cambio, Esperanza de vida e inversión extranjera directa , cada una de estas variables representa uno de los pilares de las políticas implantadas en china , como la dotación de trabajo, el consumo y la inversión  y las exportaciones ((61fdfc23-c976-4d9b-ba01-c8bd78f02313))
-	- # Análisis Descriptivo
+	- # Resultados
 		- País a Analizado China
 		- Países con un crecimiento Superior
 		  collapsed:: true
