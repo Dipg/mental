@@ -27,7 +27,7 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 		- Método de control sintético Abadie, A. (2020).
 	- # Estimación
 		- Al año 2022 China se presenta como la segunda economía mas poderosa del planeta  [[#green]]==Referencia== , sin embargo esto no siempre fue así. tan solo en los años 70s la economía China era inferior a la de países como Japón,  y  Corea del Sur , presentándose la economía china como de gran ineficiencia.
-		- Sin embargo a finales de la década de los 70s se comenzó con lo que se conoce como la Reforma económica china o también llamado "socialismo con características chinas ",  el cual buscaba encaminar nuevamente a china a un mayor crecimiento económico y de su sociedad en conjunto, sin embargo debido a problemas de índole social, dicho programa se logro estabilizar y ejecutar de manera global a partir del año 1992
+		- Sin embargo a finales de la década de los 70s se comenzó con lo que se conoce como la Reforma económica china o también llamado "socialismo con características chinas ",  el cual buscaba encaminar nuevamente a china a un mayor crecimiento económico y de su sociedad en conjunto, sin embargo debido a problemas de índole social, dicho programa se logro estabilizar y ejecutar de manera global a partir del año 1992 ((61fdf424-1405-4e4d-81ab-6832c7f3c844))
 	- # Análisis Descriptivo
 		- País a Analizado China
 		- Países con un crecimiento Superior
@@ -94,6 +94,7 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 	- preuba[^1]
 	-
 	- (Ruspoli,2012)
+	  id:: 61fdf424-1405-4e4d-81ab-6832c7f3c844
 		- Ruspoli, Carlo Emanuele (29 de mayo de 2012). Orientalia: Antropología, Cultura, Religión, Historia y Leyendas de Oriente (en inglés). Palibrio. ISBN 978-1-4633-1784-3. Consultado el 24 de mayo de 2020.
 		  id:: 61fdf3c9-5ffd-4402-8f62-7b829c81b1d4
 	- # Anexos
