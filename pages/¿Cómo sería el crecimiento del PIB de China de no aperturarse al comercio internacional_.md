@@ -27,7 +27,7 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 		- Método de control sintético Abadie, A. (2020).
 	- # Estimación
 		- Al año 2022 China se presenta como la segunda economía mas poderosa del planeta  [[#green]]==Referencia== , sin embargo esto no siempre fue así. tan solo en los años 70s la economía China era inferior a la de países como Japón,  y  Corea del Sur , presentándose la economía china como de gran ineficiencia.
-		- SIn e
+		- Sin em
 	- # Análisis Descriptivo
 		- País a Analizado China
 		- Países con un crecimiento Superior
