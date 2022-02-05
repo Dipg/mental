@@ -100,7 +100,7 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 	  id:: 61fdf3c9-1953-47cd-82e0-98fd88eb8c71
 		- Isabel, A. (2012). El proceso de apertura de la economía china a la inversión extranjera. Revista de Economía Mundial, 30, 209–231. https://doi.org/https://dialnet.unirioja.es/servlet/dcart?info=link&codigo=3913403&orden=349995
 		- ‌
-	- (Ruspoli,2012)
+	- (Ruspoli, 2012)
 	  id:: 61fdf424-1405-4e4d-81ab-6832c7f3c844
 		- Ruspoli, Carlo Emanuele (29 de mayo de 2012). Orientalia: Antropología, Cultura, Religión, Historia y Leyendas de Oriente (en inglés). Palibrio. ISBN 978-1-4633-1784-3. Consultado el 24 de mayo de 2020.
 		  id:: 61fdf3c9-5ffd-4402-8f62-7b829c81b1d4
