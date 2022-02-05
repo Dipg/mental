@@ -33,12 +33,6 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 	- # Datos
 		- Los datos fueron obtenidos del Banco Mundial, los mismo datan de la fecha de 1970 a 2019, esto debido a lo ya  mencionado  acerca del perdido de aplicación de la política económica China. La variable principal a considerar es el PIB, sin embargo se consideraran variables como la Población, Tasa de Cambio, Esperanza de vida e inversión extranjera directa , cada una de estas variables representa uno de los pilares de las políticas implantadas en china , como la dotación de trabajo, el consumo y la inversión  y las exportaciones ((61fdfc23-c976-4d9b-ba01-c8bd78f02313))
 	- # Resultados
-		- País a Analizado China
-		- Países con un crecimiento Superior
-		  collapsed:: true
-			- Francia
-			- Italia
-		- background-color:: #787f97
 		- En la grafica 1 se puede evidenciar la comparación entre el promedio de países seleccionados para comparar  frente al crecimiento de  de la economía China, como se puede evidenciar, las tendencias son muy similares hasta el año de 1995, momento en el cual se nota el comienzo de una gran diferencia.
 		- Grafica 1 PIB China vs Resto de Países 
 		  id:: 61d2617c-e05c-4552-87d0-79c682f00cae
