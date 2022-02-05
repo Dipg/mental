@@ -30,7 +30,7 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 		- Sin embargo a finales de la década de los 70s se comenzó con lo que se conoce como la Reforma Económica China o también llamado "socialismo con características chinas ",  el cual buscaba encaminar nuevamente a china a un mayor crecimiento económico y de su sociedad en conjunto, sin embargo debido a problemas de índole social, dicho programa se logro estabilizar y ejecutar de manera global a partir del año 1992 ((61fdf424-1405-4e4d-81ab-6832c7f3c844))
 		- Esta política económica propuesta en China, dista de las aplicadas en otros país en la región asiática de esos años, ya que la misma se plantea como una economía de mercado socialista que se compara con economías en Europa Oriental ((61fdf3c9-1953-47cd-82e0-98fd88eb8c71)). Es debido a esta característica única del modelo económico chino se busca analizar el efecto de no aplicarse esta política dentro del China.
 	- # Datos
-		- Los datos fueron obtenidos del Banco Mundial, los mismo datan de la fecha de 1970 a 2019, esto debido a lo ya  mencionado  acerca del perdido de aplicación de la política económica China. La variable principal a considerar es el PIB, sin embargo se consideraran variables como la Población, Tasa de Cambio, Esperanza de vida e inversión extranjera directa , cada una de estas variables representa uno de los pilares de las políticas implantadas en china , como la dotación de trabajo, el consumo y la inversión  y las exportaciones
+		- Los datos fueron obtenidos del Banco Mundial, los mismo datan de la fecha de 1970 a 2019, esto debido a lo ya  mencionado  acerca del perdido de aplicación de la política económica China. La variable principal a considerar es el PIB, sin embargo se consideraran variables como la Población, Tasa de Cambio, Esperanza de vida e inversión extranjera directa , cada una de estas variables representa uno de los pilares de las políticas implantadas en china , como la dotación de trabajo, el consumo y la inversión  y las exportaciones ((61fdfc23-c976-4d9b-ba01-c8bd78f02313))
 	- # Análisis Descriptivo
 		- País a Analizado China
 		- Países con un crecimiento Superior
@@ -105,6 +105,7 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 		- Ruspoli, Carlo Emanuele (29 de mayo de 2012). Orientalia: Antropología, Cultura, Religión, Historia y Leyendas de Oriente (en inglés). Palibrio. ISBN 978-1-4633-1784-3. Consultado el 24 de mayo de 2020.
 		  id:: 61fdf3c9-5ffd-4402-8f62-7b829c81b1d4
 	- (Quiroga, 2009)
+	  id:: 61fdfc23-c976-4d9b-ba01-c8bd78f02313
 		- Gloria Claudio Quiroga. (2022). China: 30 años de crecimiento económico. Anuario Jurídico Y Económico Escurialense, 42, 463–480. https://doi.org/https://dialnet.unirioja.es/descarga/articulo/2916327.pdf
 		- ‌
 	- ---
