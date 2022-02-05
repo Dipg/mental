@@ -93,7 +93,7 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 	- https://www.youtube.com/watch?v=uT6Gtzg1dyw
 	- preuba[^1]
 	-
-	- Ruspoli
-	- Ruspoli, Carlo Emanuele (29 de mayo de 2012). Orientalia: Antropología, Cultura, Religión, Historia y Leyendas de Oriente (en inglés). Palibrio. ISBN 978-1-4633-1784-3. Consultado el 24 de mayo de 2020.
+	- (Ruspoli,2012)
+		- Ruspoli, Carlo Emanuele (29 de mayo de 2012). Orientalia: Antropología, Cultura, Religión, Historia y Leyendas de Oriente (en inglés). Palibrio. ISBN 978-1-4633-1784-3. Consultado el 24 de mayo de 2020.
 	- # Anexos
 -
