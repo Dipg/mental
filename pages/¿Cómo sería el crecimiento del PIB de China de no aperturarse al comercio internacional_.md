@@ -92,7 +92,8 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 	- https://mundoeducacao.uol.com.br/geografia/tigres-asiaticos.htm
 	- Método de Control Sintético
 	- https://www.youtube.com/watch?v=uT6Gtzg1dyw
-	- preuba[^1]
+	-
+	- ---
 	- (Salvador, 2012)
 		- Isabel, A. (2012). El proceso de apertura de la economía china a la inversión extranjera. Revista de Economía Mundial, 30, 209–231. https://doi.org/https://dialnet.unirioja.es/servlet/dcart?info=link&codigo=3913403&orden=349995
 		- ‌
