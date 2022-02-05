@@ -42,16 +42,7 @@ title:: ¿Cómo sería el crecimiento del PIB de China de no aperturarse al come
 		  background-color:: #787f97
 			- India
 			- Sudafrica
-			- Corea el Sur
-			- Mexico
-			- Brasil
-			- Rusia
-			- España
-			- Canada
-			- Australia
-			- Países Con un crecimiento Inferior
-			  collapsed:: true
-				- Sudafrica
+			- Corea el S
 				- Indonesia
 		- En la grafica 1 se puede evidenciar la comparación entre el promedio de países seleccionados para comparar  frente al crecimiento de  de la economía China, como se puede evidenciar, las tendencias son muy similares hasta el año de 1995, momento en el cual se nota el comienzo de una gran diferencia.
 		- Grafica 1 PIB China vs Resto de Países 
