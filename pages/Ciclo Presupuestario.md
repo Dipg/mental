@@ -106,6 +106,7 @@
 	- Cualitativo
 		- Si cumple o no cumple
 	- Cuantitativos
+		- Se expresan en porcentajes
 -
 - # Archivos
 	- {{query documento}}
