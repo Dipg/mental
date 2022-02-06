@@ -1,6 +1,6 @@
 - # Videos
 	- 2022
-		- VideoClase2020Deuda/Introducción/ Introducción- Deuda Agregada y consolidada → Video ()
+		- VideoClase2020Deuda/Introducción/ Introducción- Deuda Agregada y consolidada → Video (Cap 6 Deficit -Fianciamien)
 		- VideoClase2022- Deuda/Manejo de la Deuda/ Datos de Deuda del Bancoo central-Modelo de Generaciones Solapadas-   [🔗](https://mail.google.com/mail/u/1/#search/bryan/FMfcgzGmtXFlVKgZSzQHzhFGHqnVPZTm)
 		- VideoClase2022-Deuda/Manejo de la Deuda/ Modelo Neoclásico- Indicador de Buiter
 - Datos Sobre la Deuda en Ecuador
