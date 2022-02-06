@@ -99,7 +99,7 @@
 	- f) Esfuerzos administrativos
 	- g) Cumplimiento de metas
 - # Los GAD además reciben ingresos por explotación de recursos
-- Indicadores presupuestarios
+- # Indicadores presupuestarios
 	- Cuan eficientes son los goiern
 	- Las cedulas presupuestarias
 		- Incluye a detalla ingresos y gastos
