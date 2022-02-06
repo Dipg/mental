@@ -1,5 +1,5 @@
 - #inbox
-	- Eliminar
+	- Eliminar un caracter en especifico de
 - Crear dataframe en Pandas
   collapsed:: true
 	- collapsed:: true
