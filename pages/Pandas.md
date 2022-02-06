@@ -48,7 +48,7 @@
 			- https://www.geeksforgeeks.org/pandas-remove-special-characters-from-column-names/
 	- Importar datos del banco mundial
 		- ![image.png](../assets/image_1644124897311_0.png){:height 289, :width 563}
-		- ![image.png](../assets/image_1644124879932_0.png)
+		- ![image.png](../assets/image_1644124948120_0.png) ![image.png](../assets/image_1644124879932_0.png)
 		- ```Python
 		  # Instalr la libreir a de abajo
 		  # !pip install --quiet wbgapi 
@@ -62,6 +62,8 @@
 		                        ['DEU','FRA','ESP','GBR','USA'],
 		                        time=range(2000,2016,5))
 		  ```
+		- ref
+			-
 - Crear dataframe en Pandas
   collapsed:: true
 	- collapsed:: true
