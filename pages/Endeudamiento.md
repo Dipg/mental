@@ -160,7 +160,7 @@
 -
 - Servicio de Deuda
 	- ¿Qué es servicio de deuda?
-		- El Servicio de deuda es cuanto yo destino
+		- El Servicio de deuda es cuanto anualmente de mi presupuesto destino a pagar la deuda
 -
 -
 -
