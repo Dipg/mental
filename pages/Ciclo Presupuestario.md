@@ -104,6 +104,7 @@
 	- Las cedulas presupuestarias
 		- Incluye a detalla ingresos y gastos
 	- Cualitativo
+		- Si cumple o no cumple
 	- Cuantitativos
 -
 - # Archivos
