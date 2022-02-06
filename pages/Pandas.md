@@ -46,6 +46,7 @@
 		  ```
 		- ref
 			- https://www.geeksforgeeks.org/pandas-remove-special-characters-from-column-names/
+	-
 - Crear dataframe en Pandas
   collapsed:: true
 	- collapsed:: true
