@@ -11,6 +11,7 @@
 		- ref
 			- https://towardsdatascience.com/combine-two-string-columns-pandas-fde0287485d9
 	- Unir mas de dos dataframes por una columna pandas
+		- ![image.png](../assets/image_1644124569853_0.png)
 		- ```python
 		  import pandas as pd
 		  from functools import reduce
