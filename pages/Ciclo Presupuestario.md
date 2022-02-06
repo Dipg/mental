@@ -108,6 +108,7 @@
 	- Cuantitativos
 		- Se expresan en porcentajes
 		- Indicador de Eficiencia
+			- ![image.png](../assets/image_1644158332345_0.png)
 -
 - # Archivos
 	- {{query documento}}
