@@ -108,7 +108,7 @@
 	- Cuantitativos
 		- Se expresan en porcentajes
 		- Indicador de Eficiencia
-			-
+			- Lo optimo es cercano a la unidad
 			- ![image.png](../assets/image_1644158332345_0.png)
 -
 - # Archivos
