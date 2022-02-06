@@ -27,7 +27,7 @@
 		- ```python
 		  df.sort_values(['Peak', 'Weeks'], ascending=[True, False], inplace=True)
 		  ```
-		- **Es Importante saber que el nombre de la columna que vaya primero es el que primero se ordenara , por ejemplo si pongo ciudad , primero se ordena por la ciudad , y
+		- **Es Importante saber que el nombre de la columna que vaya primero es el que primero se ordenara , por ejemplo si pongo ciudad , primero se ordena por la ciudad , y si despues pongo fecha , se ordena en cada ciudad por fecha
 		- ref
 			- https://stackoverflow.com/questions/13636592/how-to-sort-a-pandas-dataframe-according-to-multiple-criteria
 - Crear dataframe en Pandas
