@@ -50,7 +50,12 @@
 		- ![image.png](../assets/image_1644124897311_0.png){:height 289, :width 563}
 		- ![image.png](../assets/image_1644124879932_0.png)
 		- ```Python
-		  !pip install --quiet wbgapi 
+		  # Instalr la libreir a de abajo
+		  # !pip install --quiet wbgapi 
+		  
+		  import pandas as pd
+		  import matplotlib.pyplot as plt
+		  import wbgapi as wb
 		  ```
 - Crear dataframe en Pandas
   collapsed:: true
