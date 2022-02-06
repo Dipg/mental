@@ -11,6 +11,15 @@
 		- ref
 			- https://towardsdatascience.com/combine-two-string-columns-pandas-fde0287485d9
 	- Unir mas de dos dataframes por una columna pandas
+		- ```python
+		  import pandas as pd
+		  from functools import reduce
+		  
+		  # compile the list of dataframes you want to merge
+		  data_frames = [df1, df2, df3]
+		  df_merged = reduce(lambda  left,right: pd.merge(left,right,on=['key_col'],
+		                                              how='outer'), data_frames)
+		  ```
 		- ref
 			- https://www.codegrepper.com/code-examples/python/merge+more+than+2+dataframes+in+pandas
 - Crear dataframe en Pandas
