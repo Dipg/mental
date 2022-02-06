@@ -500,7 +500,8 @@
 	- En el Corto Plazo  → Empieza a reacer sobre los productores y disminuye sobre los consumidores
 	- En el largo plazo → Se traslada en mayor medida a los productores y se reducen en los consumidores
 	- Movimiento de trsalacion impositiva de delante hacia atras
-- Gruber (2007)
+	- Reglas de Incidencia tributaria Gruber (2007)
+	-
 - # Unidad 5 ![📑](../assets/Unidad_5_1643754733902_0.pdf)
 	- Cuando se aplica un impuesto a bines de consumo que no son basico se produce un exceso de gradamen , aplicamos un impuesto mas de la utilidad que se le puede dar
 	- Efecto
