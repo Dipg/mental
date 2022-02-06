@@ -152,7 +152,7 @@
 - EL valor presente de la deuda actual , cuanto yo actualmente tengo de deuda
 -
 - Si ela variable es estacionaria es estacioonaria
-- Si tomamos la diferencia
+- Si tomamos la diferencia ya no es sostenible
 -
 -
 -
