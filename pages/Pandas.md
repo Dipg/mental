@@ -63,7 +63,7 @@
 		                        time=range(2000,2016,5))
 		  ```
 		- ref
-			-
+			- https://deepnote.com/@carlos-mendez/PYTHON-Access-World-Bank-data-with-Python-fVexISvfTxO42ZUgyfinzA
 - Crear dataframe en Pandas
   collapsed:: true
 	- collapsed:: true
