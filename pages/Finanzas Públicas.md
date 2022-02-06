@@ -497,7 +497,7 @@
 			- La incidencia tributaria sobre el ciclo de vida analiza mi evolución de ingresos con respecto a mi edad  y al final se observa que existe un gran sesgo hacia los estratos mas bajos de la distribución de ingresos e impacta mucho la evolución de la temporalidad en la cual una persona se encuentre para fijar ese nivel de ingresos acumulados
 	- [[Ley de plusvalía 2016 (Derogada)]]
 - # Unidad 5 ![📑](../assets/Unidad_5_1643754733902_0.pdf)
-	- Cuando se aplica un impuesto a bines de consumo que no son basico se produce un efecto gradamen
+	- Cuando se aplica un impuesto a bines de consumo que no son basico se produce un exceso de gradamen
 	- El déficit fiscal se ha vuelto un problema estructural en el ecuador desde el año 2010
 	- La deuda es una variable acumulativa (de stock) #yellow
 	- El déficit es una variable de flujo
