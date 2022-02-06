@@ -8,7 +8,7 @@
 		  df['colE'] = df.colB.str.cat(df.colD) 
 		  ```
 		- ref
-			-
+			- https://towardsdatascience.com/combine-two-string-columns-pandas-fde0287485d9
 - Crear dataframe en Pandas
   collapsed:: true
 	- collapsed:: true
