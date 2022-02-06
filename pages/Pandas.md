@@ -11,7 +11,8 @@
 		- ref
 			- https://towardsdatascience.com/combine-two-string-columns-pandas-fde0287485d9
 	- Unir mas de dos dataframes por una columna pandas
-		-
+		- ref
+			- https://www.codegrepper.com/code-examples/python/merge+more+than+2+dataframes+in+pandas
 - Crear dataframe en Pandas
   collapsed:: true
 	- collapsed:: true
