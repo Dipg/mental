@@ -1,5 +1,7 @@
 - #inbox
 	- Eliminar un carácter en especifico de todos los valores de una columna pandas
+		- ref
+			-
 - Crear dataframe en Pandas
   collapsed:: true
 	- collapsed:: true
