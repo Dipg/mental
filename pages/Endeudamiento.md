@@ -156,7 +156,7 @@
 - Si tomamos la diferencia y sale sosttenible igualment no es valido  ya no es sostenible, la diferencia cion genera un orden de integración 1
 - Solo en cointegración Se toma en primeras diferencias  y existiera sostenibilidad fiscal
 - # Indicadores de sostenibilidad ya definidos
--
+	- ![image.png](../assets/image_1644170295406_0.png){:height 402, :width 655}
 -
 -
 -
