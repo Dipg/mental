@@ -40,6 +40,8 @@
 			- https://pandas.pydata.org/docs/dev/user_guide/merging.html
 	- Remplazar un caracter especifico en todas las columnas pandas
 		-
+		- codee
+		- ref
 - Crear dataframe en Pandas
   collapsed:: true
 	- collapsed:: true
