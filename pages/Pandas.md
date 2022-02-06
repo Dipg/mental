@@ -3,7 +3,8 @@
 		- ![image.png](../assets/image_1644124390416_0.png)
 		- ref
 			- https://www.codegrepper.com/code-examples/python/pandas+strip+and+drop+characters+from+column
-	- Concatenar combinar dos columnas
+	- Concatenar combinar dos columnas pandas en una sola columna
+		- df['colE'] = df.colB.str.cat(df.colD)
 - Crear dataframe en Pandas
   collapsed:: true
 	- collapsed:: true
