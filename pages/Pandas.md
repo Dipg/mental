@@ -10,7 +10,8 @@
 		  ```
 		- ref
 			- https://towardsdatascience.com/combine-two-string-columns-pandas-fde0287485d9
-	- Uni
+	- Unir mas de dos dataframes por una columna pandas
+		-
 - Crear dataframe en Pandas
   collapsed:: true
 	- collapsed:: true
