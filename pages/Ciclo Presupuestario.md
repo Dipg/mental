@@ -90,9 +90,9 @@
 - La asignación presupuestaria se entrega mensualmente en base a los fondos con los que cuente el estado, no se asigna el presupuesto si no hay dinero
 -
 - # Como se asigna el presupuesto según cada territorio
-	- a) Tanaño Poblacional
+	- a) Tamaño Poblacional
 	- b) Densidad Poblacional
-	-
+	- c)
 - Indicadores presupuestarios
 	- Cuan eficientes son los goiern
 	- Las cedulas presupuestarias
