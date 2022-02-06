@@ -57,6 +57,11 @@
 		  import matplotlib.pyplot as plt
 		  import wbgapi as wb
 		  ```
+		- ```python
+		  ren = wb.data.DataFrame('EG.ELC.RNEW.ZS',
+		                        ['DEU','FRA','ESP','GBR','USA'],
+		                        time=range(2000,2016,5))
+		  ```
 - Crear dataframe en Pandas
   collapsed:: true
 	- collapsed:: true
