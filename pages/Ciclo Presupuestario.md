@@ -93,7 +93,7 @@
 	- a) Tamaño Poblacional
 	- b) Densidad Poblacional
 	- c) Necesidades básicas insatisfechas
-	- d) Logros en el emjoramiento de los niveles de vida
+	- d) Logros en el mejoramiento de los niveles de vida
 - Indicadores presupuestarios
 	- Cuan eficientes son los goiern
 	- Las cedulas presupuestarias
