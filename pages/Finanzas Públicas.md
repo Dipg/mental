@@ -657,8 +657,10 @@
 		- [[draws/2021-12-14-07-12-42.excalidraw]]
 		- [[Excel]]
 -
-- Copletos
-- ![image.png](../assets/image_1644180322283_0.png)
+- Copletos #kanban
+	- ![image.png](../assets/image_1644180322283_0.png){:hei
+	- ght 260, :width 257}
+-
 -
 -
 -
