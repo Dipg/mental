@@ -166,6 +166,7 @@
 	- ¿Qué es el valor presente de la deuda ?
 		- El valor presente de la deuda es el valor actual de la deuda, cual es mi deuda actual y eso dividido para mis ingresos , es el porcentaje.
 - 178% somos sostenible ara el banco munidl
+- Calcular el VP de la deuda ingreso
 -
 -
 -
