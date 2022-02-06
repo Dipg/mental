@@ -501,7 +501,7 @@
 	- En el largo plazo → Se traslada en mayor medida a los productores y se reducen en los consumidores
 	- Movimiento de trsalacion impositiva de delante hacia atras
 	- Reglas de Incidencia tributaria Gruber (2007)
-		- Primera regla-
+		- Primera regla →
 - # Unidad 5 ![📑](../assets/Unidad_5_1643754733902_0.pdf)
 	- Cuando se aplica un impuesto a bines de consumo que no son basico se produce un exceso de gradamen , aplicamos un impuesto mas de la utilidad que se le puede dar
 	- Efecto
