@@ -157,7 +157,7 @@
 - Solo en cointegración Se toma en primeras diferencias  y existiera sostenibilidad fiscal
 - # Indicadores de sostenibilidad ya definidos
 	- ![image.png](../assets/image_1644170295406_0.png){:height 402, :width 655}
--
+- min 44
 - Servicio de Deuda
 	- ¿Qué es servicio de deuda?
 		- El Servicio de deuda es cuanto anualmente de mi presupuesto destino a pagar la deuda
@@ -166,7 +166,7 @@
 	- ¿Qué es el valor presente de la deuda ?
 		- El valor presente de la deuda es el valor actual de la deuda, cual es mi deuda actual y eso dividido para mis ingresos , es el porcentaje.
 - 178% somos sostenible ara el banco munidl
-- Calcular el VP de la deuda ingreso
+- Calcular el VP de la deuda/ ingreso
 -
 -
 -
