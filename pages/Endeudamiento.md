@@ -154,7 +154,7 @@
 - Si ela variable es estacionaria es estacioonaria
 - SI la variable no es estacionaria , por lo que los ingresos no son suficiente para solventar el nivel de endeudamiento
 - Si tomamos la diferencia y sale sosttenible igualment no es valido  ya no es sostenible, la diferencia cion genera un orden de integración 1
--
+- Solo en cointegración
 -
 -
 -
