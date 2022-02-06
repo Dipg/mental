@@ -92,7 +92,7 @@
 - # Como se asigna el presupuesto según cada territorio
 	- a) Tamaño Poblacional
 	- b) Densidad Poblacional
-	- c)
+	- c) Necesidades básicas insatisfechas
 - Indicadores presupuestarios
 	- Cuan eficientes son los goiern
 	- Las cedulas presupuestarias
