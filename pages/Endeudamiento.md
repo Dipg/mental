@@ -1,7 +1,7 @@
 - # Videos
 	- 2022
 		- Deuda Parte 2 - Hasta Generaciones Solapadas  [🔗](https://mail.google.com/mail/u/1/#search/bryan/FMfcgzGmtXFlVKgZSzQHzhFGHqnVPZTm)
-		- Video
+		- VideoClase- Deuda
 - Datos Sobre la Deuda en Ecuador
 	- La época en la que Ecuador sufrió el mayor nivel de deuda ese el año 1999 he inicios de los 2000
 - Siempre se interpreta como relación deuda PIB, no se puede interpretar solo la deuda en millones
