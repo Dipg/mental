@@ -151,6 +151,7 @@
 - Servicio de deuda , cuanto anualmente destino a pagar deuda
 - EL valor presente de la deuda actual , cuanto yo actualmente tengo de deuda
 -
+- Si ela variable es estacionaria
 -
 -
 -
