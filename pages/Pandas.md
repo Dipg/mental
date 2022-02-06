@@ -32,6 +32,7 @@
 		- ref
 			- https://stackoverflow.com/questions/13636592/how-to-sort-a-pandas-dataframe-according-to-multiple-criteria
 	- Unir dos dataframes por una columna pandas
+		- ![image.png](../assets/image_1644124780406_0.png)
 		- ```python
 		  result = pd.merge(left, right, on="key")
 		  ```
