@@ -25,7 +25,7 @@
 			- https://www.codegrepper.com/code-examples/python/merge+more+than+2+dataframes+in+pandas
 	- Ordenar un dataframe por mas de una columna (Ordenar un dataframe por dos columnas )
 		- ```python
-		  df.sort_values(['Peak', 'Weeks'], ascending=[True, False], inplace=True)
+		  df.sort_values(['Ciudad', 'Fecha'], ascending=[True, False], inplace=True)
 		  ```
 		- **Es Importante saber que el nombre de la columna que vaya primero es el que primero se ordenara , por ejemplo si pongo ciudad , primero se ordena por la ciudad , y si despues pongo fecha , se ordena en cada ciudad por fecha
 		- ref
