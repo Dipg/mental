@@ -38,6 +38,7 @@
 		  ```
 		- ref
 			- https://pandas.pydata.org/docs/dev/user_guide/merging.html
+	-
 - Crear dataframe en Pandas
   collapsed:: true
 	- collapsed:: true
