@@ -50,6 +50,7 @@
 		- ![image.png](../assets/image_1644124897311_0.png){:height 289, :width 563}
 		- ![image.png](../assets/image_1644124879932_0.png)
 		- ```Python
+		  !pip install --quiet wbgapi 
 		  ```
 - Crear dataframe en Pandas
   collapsed:: true
