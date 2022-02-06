@@ -507,6 +507,8 @@
 	- El déficit es una variable de flujo
 	- # Principios que cumple el IVA
 		- Neutralidad
+		- Neutralidad Internacional
+		- Universalida
 		-
 - # Unidad 6 ![📑](../assets/CAPÍTULO_6_deuda_1643603712506_0.pdf) 🎞️
 	- [[Endeudamiento]]
