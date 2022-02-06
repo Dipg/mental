@@ -31,6 +31,9 @@
 		- **Es Importante saber que el nombre de la columna que vaya primero es el que primero se ordenara , por ejemplo si pongo ciudad , primero se ordena por la ciudad , y si despues pongo fecha , se ordena en cada ciudad por fecha
 		- ref
 			- https://stackoverflow.com/questions/13636592/how-to-sort-a-pandas-dataframe-according-to-multiple-criteria
+	- Unir dos dataframes por una columna pandas
+		- ```python
+		  ```
 - Crear dataframe en Pandas
   collapsed:: true
 	- collapsed:: true
