@@ -23,7 +23,7 @@
 		  ```
 		- ref
 			- https://www.codegrepper.com/code-examples/python/merge+more+than+2+dataframes+in+pandas
-	- Ordenar un dataframe
+	- Ordenar un dataframe por mas de una columna (Ordenar )
 - Crear dataframe en Pandas
   collapsed:: true
 	- collapsed:: true
