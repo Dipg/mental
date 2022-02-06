@@ -1,7 +1,8 @@
 - #inbox
 	- Eliminar un carácter en especifico de todos los valores de una columna pandas
+		- ![image.png](../assets/image_1644124390416_0.png)
 		- ref
-			-
+			- https://www.codegrepper.com/code-examples/python/pandas+strip+and+drop+characters+from+column
 - Crear dataframe en Pandas
   collapsed:: true
 	- collapsed:: true
