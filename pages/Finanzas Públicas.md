@@ -657,7 +657,7 @@
 		- [[draws/2021-12-14-07-12-42.excalidraw]]
 		- [[Excel]]
 -
-- Cp
+- Copletos
 - ![image.png](../assets/image_1644180322283_0.png)
 -
 -
