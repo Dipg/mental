@@ -95,7 +95,7 @@
 	- c) Necesidades básicas insatisfechas
 	- d) Logros en el mejoramiento de los niveles de vida
 	- c) Capacidad fiscal
-	-
+		- Generación efectiva de ingrsos propios
 - Indicadores presupuestarios
 	- Cuan eficientes son los goiern
 	- Las cedulas presupuestarias
