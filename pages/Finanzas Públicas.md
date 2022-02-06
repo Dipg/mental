@@ -498,6 +498,7 @@
 	- [[Ley de plusvalía 2016 (Derogada)]]
 	- En el corto plazo → Toda la incidencia economica del impuesto recae sobre los consumidores
 	- En el Corto Plazo  → Empieza a reacer sobre los productores y disminuye sobre los consumidores
+	-
 	- Movimiento de trsalacion impositiva de delante hacia atras
 - # Unidad 5 ![📑](../assets/Unidad_5_1643754733902_0.pdf)
 	- Cuando se aplica un impuesto a bines de consumo que no son basico se produce un exceso de gradamen , aplicamos un impuesto mas de la utilidad que se le puede dar
