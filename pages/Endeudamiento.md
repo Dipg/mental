@@ -168,7 +168,7 @@
 - 178% somos sostenible ara el banco munidl
 - Calcular el VP de la deuda/ ingreso
 -
--
+- [[Feb 6th, 2022]] Banace Primario
 -
 -
 -
