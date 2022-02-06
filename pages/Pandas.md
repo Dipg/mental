@@ -27,7 +27,8 @@
 		- ```python
 		  df.sort_values(['Peak', 'Weeks'], ascending=[True, False], inplace=True)
 		  ```
-		-
+		- ref
+			-
 - Crear dataframe en Pandas
   collapsed:: true
 	- collapsed:: true
