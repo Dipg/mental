@@ -506,6 +506,7 @@
 	- La deuda es una variable acumulativa (de stock) #yellow
 	- El déficit es una variable de flujo
 	- # Principios que cumple el IVA
+		- Neutralidad
 		-
 - # Unidad 6 ![📑](../assets/CAPÍTULO_6_deuda_1643603712506_0.pdf) 🎞️
 	- [[Endeudamiento]]
