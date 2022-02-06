@@ -2,7 +2,7 @@
 	- 2022
 		- VideoClase2020Deuda/Introducción/ Introducción- Deuda Agregada y consolidada → [Video (Cap 6 Deficit -Financiamiento)](https://drive.google.com/drive/u/1/folders/1HLDI-ohR65Evt3BmWr_TSQhJw0sdXEjS)
 		- VideoClase2022- Deuda/Manejo de la Deuda/ Datos de Deuda del Bancoo central-Modelo de Generaciones Solapadas-   [🔗](https://mail.google.com/mail/u/1/#search/bryan/FMfcgzGmtXFlVKgZSzQHzhFGHqnVPZTm)
-		- VideoClase2022-Deuda/Manejo de la Deuda/ Modelo Neoclásico- Indicador de Buiter → Video (Gmail - Clase 17)
+		- VideoClase2022-Deuda/Manejo de la Deuda/ Modelo Neoclásico- Indicador de Buiter → [Video (Gmail - Clase 17)](https://mail.google.com/mail/u/1/#search/bryan/FMfcgzGmtXFlVKgZSzQHzhFGHqnVPZTm?projector=1)
 - Datos Sobre la Deuda en Ecuador
 	- La época en la que Ecuador sufrió el mayor nivel de deuda ese el año 1999 he inicios de los 2000
 - Siempre se interpreta como relación deuda PIB, no se puede interpretar solo la deuda en millones
