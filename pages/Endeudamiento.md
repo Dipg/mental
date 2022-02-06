@@ -164,7 +164,7 @@
 -
 - Valor presente de la Deuda
 	- ¿Qué es el valor presente de la deuda ?
-		- El valor presente de la deuda es el valor
+		- El valor presente de la deuda es el valor actual
 -
 -
 -
