@@ -39,12 +39,13 @@
 		- ref
 			- https://pandas.pydata.org/docs/dev/user_guide/merging.html
 	- Remplazar un caracter especifico en todas las columnas pandas
-		-
+		- ![image.png](../assets/image_1644124824319_0.png)
 		- ```python
 		  # remove special character
 		  df.columns=df.columns.str.replace('[#,@,&]','')
 		  ```
 		- ref
+			- https://www.geeksforgeeks.org/pandas-remove-special-characters-from-column-names/
 - Crear dataframe en Pandas
   collapsed:: true
 	- collapsed:: true
