@@ -27,8 +27,9 @@
 		- ```python
 		  df.sort_values(['Peak', 'Weeks'], ascending=[True, False], inplace=True)
 		  ```
+		- **Es Importante saber que
 		- ref
-			-
+			- https://stackoverflow.com/questions/13636592/how-to-sort-a-pandas-dataframe-according-to-multiple-criteria
 - Crear dataframe en Pandas
   collapsed:: true
 	- collapsed:: true
