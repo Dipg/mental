@@ -89,7 +89,7 @@
 	- 10% Ingresos No permanentes
 - La asignación presupuestaria se entrega mensualmente en base a los fondos con los que cuente el estado, no se asigna el presupuesto si no hay dinero
 -
-- # Como se asigna el presupuesto según cada territorio
+- # Como se asigna el presupuesto según cada territorio (7 características)
 	- a) Tamaño Poblacional
 	- b) Densidad Poblacional
 	- c) Necesidades básicas insatisfechas
