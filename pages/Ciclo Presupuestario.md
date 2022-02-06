@@ -107,7 +107,7 @@
 		- Si cumple o no cumple
 	- Cuantitativos
 		- Se expresan en porcentajes
-		- Indicador de Eficienca
+		- Indicador de Eficiencia
 -
 - # Archivos
 	- {{query documento}}
