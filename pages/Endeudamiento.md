@@ -152,7 +152,7 @@
 - EL valor presente de la deuda actual , cuanto yo actualmente tengo de deuda
 -
 - Si ela variable es estacionaria es estacioonaria
-- SI la variable no es estacionaria , por lo que los ingresos no son suficiente para solventar el ni
+- SI la variable no es estacionaria , por lo que los ingresos no son suficiente para solventar el nivel de endeudamiento
 - Si tomamos la diferencia ya no es sostenible
 -
 -
