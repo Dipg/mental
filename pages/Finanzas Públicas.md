@@ -505,6 +505,8 @@
 		- Segunda regla → El lado del mercado con mayor inelasticiadad soporta mas los impuestos , el lado mas elastico los evita
 		- Tercera → La incidencia tributaria es acerca de los precios, no de las cantidades
 			- Ya que en su gran mayoría se aplica esta incidencia en los precios mas no en las cantidades
+	- Presión fiscal
+		-
 - # Unidad 5 ![📑](../assets/Unidad_5_1643754733902_0.pdf)
 	- Cuando se aplica un impuesto a bines de consumo que no son basico se produce un exceso de gradamen , aplicamos un impuesto mas de la utilidad que se le puede dar
 	- Efecto
