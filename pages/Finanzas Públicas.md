@@ -507,8 +507,9 @@
 			- Ya que en su gran mayoría se aplica esta incidencia en los precios mas no en las cantidades
 	- # Presión fiscal
 		- Recaudaciñon Fiscal /PIB
-		- Factores MAcroecnoómicos
-		-
+		- Factores Macroeconómicos
+		- Factores Institucionales
+		- Factores Sociales
 - # Unidad 5 ![📑](../assets/Unidad_5_1643754733902_0.pdf)
 	- Cuando se aplica un impuesto a bines de consumo que no son basico se produce un exceso de gradamen , aplicamos un impuesto mas de la utilidad que se le puede dar
 	- Efecto
