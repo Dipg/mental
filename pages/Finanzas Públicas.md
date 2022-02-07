@@ -679,7 +679,7 @@
 - Copletos #kanban
 	- ![image.png](../assets/image_1644180322283_0.png){:height 260, :width 257}
 	- ![image.png](../assets/image_1644200157668_0.png)
-	- Unidad 4
+	- Unidad 4 Incidencia tributaria Parte 4/4
 	- ![image.png](../assets/image_1644200790919_0.png)
 	- Unidad 3 - Gasto publico Parte 3/4
 	- ![image.png](../assets/image_1644201985168_0.png){:height 269, :width 262}
