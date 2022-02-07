@@ -234,7 +234,7 @@
 				- Subiendo el tipo impositivo medio
 				- ¿Pero que ecos hacen dudar de esta logica de incrementar los impuestos?
 					- 1 Los impuestos como desestabilizadores directos
-						- El aumento del impuesot ➡️produce descenso de la renta disponible ➡️ a sus  vez de la producción ➡️ redu
+						- El aumento del impuesot ➡️produce descenso de la renta disponible ➡️ a sus  vez de la producción ➡️ reduciendo la base imponible sobre la que se aplica el impuesto
 			-
 			- Endeudarse
 	- Efecto Olivera- Tanzi
