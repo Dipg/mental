@@ -696,6 +696,6 @@
 	- ![image.png](../assets/image_1644200790919_0.png)
 	- Unidad 3 - Gasto publico Parte 3/4
 	- ![image.png](../assets/image_1644201985168_0.png){:height 269, :width 262}
--
+	- ![image.png](../assets/image_1644207290270_0.png)
 -
 -
