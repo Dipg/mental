@@ -232,6 +232,7 @@
 			- Se opta por aumentar los  impuestos que se puede dar por dos modos
 				- Aumentando el numero de Ciudaddanos que tributan
 				- Subiendo el tipo impositivo medio
+				-
 			-
 			- Endeudarse
 	- Efecto Olivera- Tanzi
