@@ -232,7 +232,8 @@
 			- Se opta por aumentar los  impuestos que se puede dar por dos modos
 				- Aumentando el numero de Ciudaddanos que tributan
 				- Subiendo el tipo impositivo medio
-				- ¿Pero que echos
+				- ¿Pero que ecos hacen dudar de esta logica de incrementar los impuestos?
+				-
 			-
 			- Endeudarse
 	- Efecto Olivera- Tanzi
