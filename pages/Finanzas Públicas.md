@@ -508,7 +508,7 @@
 	- # Presión fiscal
 		- Recaudaciñon Fiscal /PIB
 		- Factores Macroeconómicos
-			-
+			- Bajos niveles de presion fiscal si no existe crecito
 		- Factores Institucionales (Eficiencia y corrupción )
 			- Corrupción baja presión fiscal
 		- Factores Sociales
