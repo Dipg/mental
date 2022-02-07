@@ -228,7 +228,7 @@
 	  :END:
 	- # Curva de Lafer
 		- Se plante hasta cuando puede el gobierno aumentar su nivel de recaudación
-		- ¿Cuando el go
+		- ¿Cuando el gbierno
 	- Efecto Olivera- Tanzi
 	  id:: 61fc51b8-4f8d-48f6-8165-6aa1e0c1c16d
 		- Analiza cual es el efecto que tiene la inflación, sobre la recaudación impositiva real
@@ -685,4 +685,7 @@
 	- Unidad 4 Incidencia tributaria Parte 4/4
 	- ![image.png](../assets/image_1644200790919_0.png)
 	- Unidad 3 - Gasto publico Parte 3/4
-	- ![image.png](../assets/image_1644201985168_0.png){:height 269, :w
+	- ![image.png](../assets/image_1644201985168_0.png){:height 269, :width 262}
+-
+-
+-
