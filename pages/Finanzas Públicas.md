@@ -229,9 +229,9 @@
 	- # Curva de Lafer
 		- Se plante hasta cuando puede el gobierno aumentar su nivel de recaudación
 		- ¿Cuándo el gobierno de un país decide aumentar su capacidad de recaudación que puede hacer ?
-			-
-			- Aumentando el numero de Ciudaddanos que tributan
-			- Subiendo el tipo impositivo medio
+			- Se opta `por aumentar los  impuestos
+				- Aumentando el numero de Ciudaddanos que tributan
+				- Subiendo el tipo impositivo medio
 			- Endeudarse
 	- Efecto Olivera- Tanzi
 	  id:: 61fc51b8-4f8d-48f6-8165-6aa1e0c1c16d
