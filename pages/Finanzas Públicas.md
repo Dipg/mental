@@ -500,7 +500,7 @@
 	- En el Corto Plazo  → Empieza a reacer sobre los productores y disminuye sobre los consumidores
 	- En el largo plazo → Se traslada en mayor medida a los productores y se reducen en los consumidores
 	- Movimiento de trsalacion impositiva de delante hacia atras
-	- Reglas de Incidencia tributaria Gruber (2007)
+	- # Reglas de Incidencia tributaria Gruber (2007)
 		- Primera regla → El lado del mercado es irrelevante
 		- Segunda regla → El lado del mercado con mayor inelasticiadad soporta mas los impuestos , el lado mas elastico los evita
 		- Tercera → La incidencia tributaria es acerca de los precios, no de las cantidades
