@@ -235,7 +235,7 @@
 				- ¿Pero que ecos hacen dudar de esta logica de incrementar los impuestos?
 					- 1. Los impuestos como desestabilizadores directos
 						- El aumento del impuesot ➡️produce descenso de la renta disponible ➡️ a sus  vez de la producción ➡️ reduciendo la base imponible sobre la que se aplica el impuesto
-					- 2. Como estabilizadoes
+					- 2. Como estabilizadores automáticos
 			-
 			- Endeudarse
 	- Efecto Olivera- Tanzi
@@ -695,6 +695,5 @@
 	- ![image.png](../assets/image_1644200790919_0.png)
 	- Unidad 3 - Gasto publico Parte 3/4
 	- ![image.png](../assets/image_1644201985168_0.png){:height 269, :width 262}
--
 -
 -
