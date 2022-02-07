@@ -510,6 +510,7 @@
 		- Factores Macroeconómicos
 		- Factores Institucionales
 		- Factores Sociales
+		- ![image.png](../assets/image_1644200709360_0.png)
 - # Unidad 5 ![📑](../assets/Unidad_5_1643754733902_0.pdf)
 	- Cuando se aplica un impuesto a bines de consumo que no son basico se produce un exceso de gradamen , aplicamos un impuesto mas de la utilidad que se le puede dar
 	- Efecto
