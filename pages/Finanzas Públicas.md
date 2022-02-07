@@ -233,7 +233,7 @@
 				- Aumentando el numero de Ciudaddanos que tributan
 				- Subiendo el tipo impositivo medio
 				- ¿Pero que ecos hacen dudar de esta logica de incrementar los impuestos?
-					- 1
+					- 1 Los impuestos como desestabilizadores directos
 			-
 			- Endeudarse
 	- Efecto Olivera- Tanzi
