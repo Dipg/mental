@@ -1,0 +1,71 @@
+file:: [Unidad_III_-_Principios_de_diseño_experimental_(Parte_1)_1640726025438_0.pdf](../assets/Unidad_III_-_Principios_de_diseño_experimental_(Parte_1)_1640726025438_0.pdf)
+file-path:: ../assets/Unidad_III_-_Principios_de_diseño_experimental_(Parte_1)_1640726025438_0.pdf
+
+- Smith(2014)señalaquehayalgunosaspectosbásicosquecualquierindividuo“nuevo”eneláreadebeconocer
+  ls-type:: annotation
+  hl-page:: 7
+  id:: 61cbb8f5-80f0-4180-9da9-fdac4316f5b6
+- Tienenporobjetivoextraerleccionesgeneralessobrelaevidenciadisponibleenlosdatos.Ejm:
+  ls-type:: annotation
+  hl-page:: 20
+  id:: 61cbbfba-6638-4f18-adc4-6b70b62219ad
+- [:span]
+  ls-type:: annotation
+  hl-page:: 33
+  id:: 61cce115-7e78-439e-b1af-c5e63cef579e
+  hl-type:: area
+  hl-stamp:: 1640816915711
+- [:span]
+  ls-type:: annotation
+  hl-page:: 34
+  id:: 61cce14d-7116-45b8-970c-a9e057620c96
+  hl-type:: area
+  hl-stamp:: 1640816971435
+- [:span]
+  ls-type:: annotation
+  hl-page:: 35
+  id:: 61cce2a4-e43d-4576-9095-ab886e5227b0
+  hl-type:: area
+  hl-stamp:: 1640817312786
+- Dadoqueestadiferenciaesdependientedesieltratamientobeneficiaalosindividuosono=efectoselección.
+  ls-type:: annotation
+  hl-page:: 37
+  id:: 61ccf20a-23d8-4f59-a956-342536e291d0
+- Estoresultadeselecciónendógena.Ejm:Seleccióndeindividuosconciertascaracterísticasparapilotodeunprograma.
+  ls-type:: annotation
+  hl-page:: 38
+  id:: 61ccf2a7-9fe7-4dac-8804-8fcc1948bb2a
+- [:span]
+  ls-type:: annotation
+  hl-page:: 41
+  id:: 61ccf79a-93b6-4c3e-881f-4bf1289cab04
+  hl-type:: area
+  hl-stamp:: 1640822680640
+- [:span]
+  ls-type:: annotation
+  hl-page:: 43
+  id:: 61ccf90c-59fb-416b-840a-348c1cdec41f
+  hl-type:: area
+  hl-stamp:: 1640823051684
+- Aleatorización rompe la correlación entre las causas desconocidas del resultado y la variación debido a T.
+  hl-page:: 47
+  ls-type:: annotation
+  id:: 61cd00e6-1dff-4d98-ab5a-73d80471cdd6
+- [:span]
+  ls-type:: annotation
+  hl-page:: 48
+  id:: 61cd022e-3f6d-4d59-9d8f-470f8aec30c8
+  hl-type:: area
+  hl-stamp:: 1640825389074
+- [:span]
+  ls-type:: annotation
+  hl-page:: 51
+  id:: 61cd2c5d-0b02-472b-b4f9-93f6ac807e85
+  hl-type:: area
+  hl-stamp:: 1640836187880
+- [:span]
+  ls-type:: annotation
+  hl-page:: 52
+  id:: 61cd2cbe-1f1a-4e83-9200-869d1a8b35cd
+  hl-type:: area
+  hl-stamp:: 1640836285368

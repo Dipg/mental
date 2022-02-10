@@ -1,0 +1,6 @@
+- Composiciones
+	- ¿ Que es una composición en After Effecs?
+		- https://helpx.adobe.com/es/after-effects/using/composition-basics.html#:~:text=Las%20composiciones%20de%20After%20Effects,a%20cualquier%20tipo%20de%20formato.
+	- https://www.youtube.com/watch?v=jwuEAtEpUIU
+- Mascaras ⭐ ⭐ ⭐ ⭐ ⭐
+	- https://www.youtube.com/watch?v=QJM3w0e-lTc

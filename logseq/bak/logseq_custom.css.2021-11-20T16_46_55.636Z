@@ -1,0 +1,11 @@
+.block-ref>div>span>span>span>div>.tag{
+	display: none !important;
+}
+.tag[data-ref*="lección"]{
+	content:  url(https://cdn-icons.flaticon.com/png/512/3674/premium/3674450.png?token=exp=1634942682~hmac=3ce78da4b7d338eb86c8f64042313a28) ;
+		transform: scale(2);
+		display:inline !important ;
+		width: 30px;
+	margin-left:10px !important;
+	margin-right:10px !important;
+	}

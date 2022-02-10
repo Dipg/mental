@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "9efb9ff7cc0ade5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b71f5773a6fbe53",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/Stata.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff9ee685c8ec409d",
+    "type": "split",
+    "children": [
+      {
+        "id": "821be3e2f8c827f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7345be9bbb6b0081",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5220d755b2ca2863",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b3464e86c0daa3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f28ff9170f04051",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc8a3ec03d839460",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/Stata.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2b71f5773a6fbe53",
+  "lastOpenFiles": [
+    "pages/Stata.md",
+    "pages/R.md",
+    "pages/Excel.md",
+    "pages/Finanzas Públicas.md",
+    "pages/Economía.md",
+    "pages/Economía Conductual.md",
+    "pages/Econometría.md",
+    "pages/coste hundido.md",
+    "pages/contents.md",
+    "pages/Code.md"
+  ]
+}

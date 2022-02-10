@@ -1,0 +1,3 @@
+- [[Economía Conductual]]
+	- [Ali Fenwick, Ph.D.](https://uk.linkedin.com/in/afenwick)
+-

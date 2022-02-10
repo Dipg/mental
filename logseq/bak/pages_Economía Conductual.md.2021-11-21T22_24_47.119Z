@@ -1,0 +1,348 @@
+- # Unidad 1  #yellow
+  collapsed:: true
+  Fundamentos de la economía experimental y del comportamiento (ECC)
+	- ## 1. 1 Economía como disciplina Experimental #red ((61993a92-3c67-4e6d-a4de-3637d9faee8c))
+	- ## 1. 2 Principios de la Economía Experimental #red
+	- ## 1.3 Economía del Comportamiento
+	  collapsed:: true
+		- ¿ Que es a Economía del comportamiento?
+		  collapsed:: true
+			- Es una rama de la [[Economía]] que se basa en **uso** de la **evidencia** de la economía clasica , la [[Psicología]] y otras ciencias sociales , para **crear escenarios de estudio**  de la toma de decisiones, no basadas en la optimización del modelo clasico
+		- ¿Qué estudia la Economía del comportamiento?
+		  collapsed:: true
+			- Se encarga por ende del estudio de tendencias cognitivas, emociones humanas y sociales  en busca de una mejor comprensión de la toma de decisiones económicas
+		- ¿ Que busca la Economía del comportamiento?
+		  collapsed:: true
+			- Busca ampliar la racionalidad
+			- Busca entender el comportamiento humano y sus consecuencias
+		- ¿ Cual es el interés de los [[biólogos]] y [[psicólogos]] en la economía del comportamiento?
+		  collapsed:: true
+			- Debido al enfoque de calculo y maximización lógica en mecanismos biológicos esto es el campo de la [[Neureconomía]]
+		- ¿  Cual es la relación entre Economía del comportamiento  y el modelo económico estándar?
+		  collapsed:: true
+			- La base de la relación
+			  collapsed:: true
+				- La economía del comportamiento  trata de probar el [[modelo económico estándar]] en humanos, pudiendo así refinarlo con lo que verdaderamente se observa en el mundo real
+			- Herramientos
+			  collapsed:: true
+				- Ciencias Sociales Varias
+				  collapsed:: true
+					- [[Psicología]]
+				- Experimentos de laboratorio
+				- Herramientas empiricas
+				  collapsed:: true
+					- Encuestas
+					- Estudios de caso
+					- Métodos estadístico
+			- Camerer (2004) señala que la economía conductual aumenta el poder explicativo de la economía al darle a esta una base [[Psicología]] mas realista, además de extender  la [[Elección Racional]] y los [[Modelos de Equilibrio]] (Camerer,2006).
+		- ¿Por que es un campo respetable dentro de la economía?
+		  collapsed:: true
+			- Debido al éxito al explicar anomalías del modelo estándar y el desarrollo teórico que a tenido, se a convertido en un campo respetable
+		- Historia y evolución de la teoría del comportamiento
+		  collapsed:: true
+			- Bernoulli (1738)
+			  collapsed:: true
+				- Explica la aversión al riesgo en función a utilidad marginal decreciente del dinero.
+			- Adam Smith (1759)
+			  collapsed:: true
+				- Teoría de los sentimientos morales: rolde las emociones en la toma de decisiones.
+			- Bentham ( 1789)
+			  collapsed:: true
+				- Aborda el concepto de utilidad con base en el sentimiento de bienestar del  los sujetos.
+			- Post-Guerra ( 1940-...)
+			  collapsed:: true
+				- Aplicación de econometría y procesos computacionales
+				- Friedman: La complejidad del comportamiento no requiere atención, pero si sus generalidades, la teoría económica no se planteaba la precisión de sus supuestos.
+			- Simon(1955)
+			  collapsed:: true
+				- Plantea lo que se conoce como [[Racionalidad Limitada]]
+			- Decadas ('50s-'60s)
+			  collapsed:: true
+				- Se evidencia mediante estudios las anomalías a la hora de tomar decisiones
+				-
+			-
+			  ---
+			- Daniel Kahneman y Amos Tverskey (' 70s)
+			  collapsed:: true
+				- Nace la  Economía del Comportamiento con la obra:
+					- Prospect theory: An analysis of decision under risk’
+			-
+			  ---
+			-
+		- Metodología de la Economía del comportamiento 
+		  collapsed:: true
+			- Teoría
+			  collapsed:: true
+				- Identificar teorías adecuadas , supuestos, axiomas
+			- Evidencia
+			  collapsed:: true
+				- Estudio de campo
+				  collapsed:: true
+					- Experimento
+					- Encuestas
+					- Estudios de caso
+					-
+				- ¿ Por que no presenta problemas de validez?
+				  collapsed:: true
+					- Debido a que representa la realidad como es
+				- ¿ Por que presenta problema de validez conceptual ?
+				  collapsed:: true
+					- Por el cuestionamiento ¿ Mide lo que se pretende?
+				- ¿Qué son los factores confusores ?
+				  collapsed:: true
+					- Debido a efectos en el resultado que no se pueden aislar
+			- Conciliación
+				- Disposición a unir conocimientos e información de diversas disciplinas para crear un marco de entendimiento
+		- Diferencias entre Economía Experimental y Economía del Comportamiento
+		- |**Economía del Comportamiento** | **Economía experimental**| 
+		  | Teorías para explicar el comportamiento en entornos económicos | Enfoque Metodológico|
+		  |Interdisciplinario| Kit de herramientas|
+		  |No descarta supuestos clásicos| Comprueba o refuta la economía clásica|
+		- > No existe una relación necesaria entre economía conductual y la experimental
+		-
+		-
+- # Unidad 2  #yellow
+	- ## Ampliación de la Racionalidad  #yellow
+	  collapsed:: true
+		- ¿ Cuales son las características de los procesos involucrados en la toma de decisiones?
+		  collapsed:: true
+			- Preferencias
+			  collapsed:: true
+				- Escalas definida sobre un conjunto de bienes, basadas en valores y actitudes con los posibles resultados
+			- Creencias
+			  collapsed:: true
+				- Son la probabilidad que damos a la ocurrencia de cada resultado, en base a la información que disponemos de que se de ese resultado.
+			- [[Racionalidad]]
+				-
+		- ¿Cuáles son los supuestos del [[modelo económico estándar]] ?
+			- {{embed ((61986c0a-c73c-4efc-8d25-a4989c91fe8c))}}
+			- De acuerdo con los axiomas y supuestos descritos , somos:
+			  collapsed:: true
+				- Racionales
+		- ## 1. Sesgo cognitivo #yellow
+		  id:: 61985334-f1bd-466f-a97e-9543d114a293
+		  collapsed:: true
+			- ¿ Donde se presentan los sesgos cognitivos?
+			  collapsed:: true
+				- Antes de revisar los sesgos , debemos plantearnos cuales son los criterios que se postulan en la racionalidad y que se ven influenciados por estos segos
+				- {{embed ((61993171-c97f-46cb-a0bf-b2d27fbff677))}}
+				  id:: 61997b0e-18bf-42f5-9a86-efda43a5b885
+			- ¿ Que es un sesgo cognitivo?
+			  collapsed:: true
+				- Es una interpretación errónea sistemática de la información disponible  a la hora de procesar pensamientos, hacer juicios de valor y ==tomar decisiones==
+			- Efectos #red
+			  collapsed:: true
+				- Efecto dotación
+				  collapsed:: true
+					- Este efecto nos causa que tendemos a valorar más un objeto que poseemos frente a otro que todavía no es nuestro.  Nos cuesta mas despegarnos de las cosas con las que hemos creado un vinculo emocional asociado a la de propiedad.
+					- Esto quiere decir que damos utilidad a algo dependiendo de la posesión de aquello.
+					- Factor [[Psicología]] principal: aversión al riesgo
+					- Importancia dentro de la economía: La propiedad y los intercambios son ejes de la economía
+				- Efecto Marco
+				  collapsed:: true
+					- Es un  [[sesgo cognitivo]]  en el cual las personas tienden a evitar los riegos , si las opciones se plantean en función de la ganancia, pero suelen ser mas arriesgadas , si el problema se plantea en forma que implique perdida.
+					- Ejemplo:
+					- Se plantea en forma de ganancia
+					- ![image.png](../assets/image_1637497689911_0.png)
+					- En esta ocasión se eligió en su mayoría la primera opción
+					- Ahora se presenta en forma de perdida
+					- ![image.png](../assets/image_1637497709827_0.png)
+					- En esta ocasión se escogió la segunda opción
+					- Viola el supuesto ((619971f6-62bf-47ca-a1cf-eb0f11796938))
+				- Efecto Anclaje
+				  collapsed:: true
+					- Es un  [[sesgo cognitivo]] debido al anclaje ya ajuste que provoca darle un mayor peso a la primera noticia, argumento o evidencia que se tiene sobre algo a la hora de tomar una decisión, de esta forma ajustando la respuesta del individuo hasta tener una respuesta final, usando esta primera impresión como ancla de su respuesta. Sesgando la respuesta final entorno a este ajuste o ancla inicial.
+					-
+					  id:: 619a437e-524a-4307-af41-bd6334f6012b
+					  link:: https://bit.ly/3nDh9BH
+				- Efecto gratis
+				  collapsed:: true
+					- Le damos un mayor valor a las cosas cuando se las anuncia como "Gratis"
+			- Falacias #yellow
+			  id:: 61984d8e-6a49-43b5-9976-544cefe9b6f3
+			  collapsed:: true
+				- Son un tipo de sesgo cognitivo que distorsionan ((61984d1e-b1e3-4ffb-909b-c5efe8e02089))  el como captamos la realidad
+				- Falacia del [[coste hundido]] #yellow
+				  collapsed:: true
+					- Es un ((61985334-f1bd-466f-a97e-9543d114a293)) que consiste en darle valor y esfuerzo a una inversión irrecuperable, algo que nunca va a volver, con la única razón de mantener a flote un programa, proyecto una decisión , por la expectativa de recuperar lo entregado (dinero, tiempo, etc.) y por el temor que nos inspira asumir la pérdida  de lo entregado.
+					-
+					-
+		- ## 2. Heurísticas, Sesgos y actualización Bayesiana  #yellow
+		  collapsed:: true
+			- ¿ Que son los heurísticos?
+			  collapsed:: true
+				- Los heurísticos son reglas generales y poco definidas que funcionan como “atajos” mentales para resolver problemas que paso a paso serían en extremo complejos. [🔗](https://www.divulgaciondinamica.es/blog/3-heuristicos-clave-la-toma-decisiones/)
+			- Heurística de disponibilidad
+			  collapsed:: true
+				- Este sesgo nos genera que demos mayor probabilidad a un evento que es de fácil recordad. Esto pude generar que estimemos con mayor probabilidad la ocurrencia de eventos raros debido a que es lo primero que recordamos, pudiendo deberse esto a la publicidad que hayamos visto de ese evento
+				- En pocas palabras nuestra mente utiliza ejemplos inmediatos, los que primero se te vienen a la cabezas , para calcular las probabilidades de algo que este pasando.
+				- Por ejemplo si quiero una gaseosa; en lo primero que pienso es Cocacola, como la que mayor probabilidad de bienestar o satisfacción me puede dar ante esa necesidad
+			- Heurística de representatividad
+			  collapsed:: true
+				- Se basa en tomar decisiones a través de juicios en los que encasillamos la situación en un  categoría u otro según se parezca o sea representativa de esa categoría debido a las características que posee.
+				- Danos la probabilidad de ocurrencia de B con respecto al grado de relación o similaridad que guarde con A, sin tomar en cuenta las ocurrencias por separado de B
+				- Ejemplo:
+					- Si un producto es caro , solemos encasillarlo como producto de buena calidad, y de la misma forma si algo es de buena calidad solemos encasillarlo como algo caro
+				-
+				  link:: [🔗](https://www.divulgaciondinamica.es/blog/3-heuristicos-clave-la-toma-decisiones/)
+			- Sesgo de Frecuencia Base
+			  collapsed:: true
+				- Solemos dar mas peso a la información de un caso en particular de un evento que al información  del mismo evento, ósea la información base o  general.
+				- De este modo daremos la probabilidad de un evento en base a un caso en particular que a la  probabilidad general o base de ese evento
+				- Consecuencias: Sobreestimación de eventos
+				- Ejemplo:[[Paradoja del Falso Positivo]]
+				-
+				  link:: [🔗](https://psicologiaymente.com/inteligencia/falacia-frecuencia-base)
+			- La ley de los pequeño números
+			  collapsed:: true
+				- Sujetos tienden a pensar que una pequeña muestra es representativa de la sociedad
+				- Se cree que una muestra se distribuye de la misma forma que la población, por lo tanto es valido e igual  inferir resultados de una muestra de 7, 70 o 7000 observaciones de una muestra hacia la población, debido a que a cada muestra se le aplica principios de poblaciones infinitas sin distinció.
+				- Se piensa que se han planteado variables independientes e idénticamente distribuidas.
+				- Ejemplo:
+				  collapsed:: true
+					- 9 de cada 10 especialistas lo recomiendan
+				- ¿Cuál es la falacia y efecto que se enmarca en esta ley?
+				  collapsed:: true
+					- 🌱 Falacia del apostador
+					  collapsed:: true
+					  id:: 619a6bc3-3a6c-4c2a-a6b2-146c60a526ea
+						- Creer que un evento esta  ***Negativamente*** correlacionado con el primero
+						  id:: 619a6bc3-9342-44a7-b7a8-9f4a32f86373
+					- 🌱 Efecto de la Mano caliente #red
+					  collapsed:: true
+						- Creer que un evento esta  ***Positivamente*** correlacionado con el primero
+						- Se calcula que por un buen resultado en un evento inicial se incrementa en gran medida la probabilidad de éxito de un resultado futuro
+						- Se da cuando se tiene incertidumbre en como es la distribución de los resultados
+						- Ejemplo:
+							- La sobreestimación de tendencias en los [[Mercados Financieros]], en el corto plazo, ((619a6bc3-3a6c-4c2a-a6b2-146c60a526ea)) en el largo plazo efecto de la mano caliente
+				- 🌱 ¿Cuándo no se cumple esta ley?
+				  collapsed:: true
+					- En eventos no independientes : eventos de permutación aleatoria
+					- Eventos aleatorios: Sesgos de parte de administrador
+					- Probabilidades cambiantes. Puede favorecer a un jugador
+			- Sesgos de auto evaluación
+				- 🌱 Exceso de seguridad
+				  collapsed:: true
+					- Sobreestimación
+					  collapsed:: true
+						- Sobre valoración de habilidades
+					- Sobreposicionamieto
+					  collapsed:: true
+						- Sobre estimación de capacidades en base a un punto de referencia
+						- Ejemplo:
+						  collapsed:: true
+							- La mayoría de conductores se creen mejor que el promedio
+					- Sobreprecisión
+					  collapsed:: true
+						- Excesiva seguridad sobre la precisión de nuestras creencias
+						- Ejm:
+						  collapsed:: true
+							- Sobre estimación de la precisión en inversores
+				- 🌱 Falta de seguridad
+				  collapsed:: true
+					- Subestimación de confianza tanto en tareas difíciles con bajan probabilidad de exito, como en tareas fáciles, con alta probabilidad de éxito
+					- Eso debido a la falta de información de sus habilidades y su probabilidad de éxito, estimadolas así de forma regresiva las propias  habilidades y mucho mas regresivas la de los otros
+				- 🌱 Sesgo de autoservicio
+				  collapsed:: true
+					- Conjunto de diferentes sesgos de creencias, en los cuales el individuo se atribuye el éxito a habilidades y destrezas propias y atribuye el fracaso a factores externos.
+					- Tendencia a modelar crecías y juicios con el objetivo  de mejorar una opinión propia
+					- Este error es una función positiva de la utilidad
+				- 🪴 Sesgo de Poyección
+				  collapsed:: true
+					- Se basa en creer que nuestra utilidad futura dependerá de los mismos factores de los que depende hoy, esto quiere decir que nuestras preferencias futuras serán las mismas o muy cercanas a las actuales
+					- Estudios concluyen que aproximadamente los consumidores predicen los gustos futuros  aproximadamente entre los actuales y los futuros
+					- Ejm:
+						- Luego del almuerzo 42% elige snacks
+						- Media tarde 78% los elije
+					- Función Matemática
+					  collapsed:: true
+						- ((619a8033-e651-4106-ad3b-3bcf7b6778ee))
+						- Por lo que la utilidad futura que espera el individuo es:
+						- ((619a8015-f3e8-4072-894b-f7c829583f36))
+						- Donde:
+							- ((619a804d-769f-4ce9-8003-66266bf83c79))
+		- ## 3 Causas de la irracionalidad  #yellow
+		  collapsed:: true
+			- Baumeister(2001) ha identificado 5 causas del comportamiento irracional o también conocidas como comportamientos contraproducentes
+			- Angustia emocional
+			  collapsed:: true
+				- ¿Cual es la posición del [[modelo económico estándar]] frente a las emociones?
+				  collapsed:: true
+					- Recordemos que la posición de los economistas es no tener en cuenta las emociones para sus análisis, ya que estas tienden a nublar el buen juicio, dando así decisiones "irracionales" o lo que se conoce conductas contra producentes
+				- ¿Cuál es la posición de la economía conductual frente a las emociones?
+				  collapsed:: true
+					- Dependiendo de la situación las emociones **Mejoran** o empeoran la toma de decisiones.
+					- Ejem
+						- ¿Cómo afecta de mala manera las emociones en nuestra toma de decisiones?
+						  collapsed:: true
+							- La ira en la toma de decisiones, genera estrés sobre al decisión a aceptar, o aumenta su nivel de exposición al riesgo, hechos que se eliminan si se hacer reflexionar al individuo sobre este echo.
+						- ¿Como afecta de buena manera las emociones en la toma de decisiones?
+						  collapsed:: true
+							- Cuando una emoción nos genera compromiso para llevar a cabo ciertas actividades, en circunstancias en las que un estado racional no lo haría
+							- 🌱 [[Efecto reputación]]
+								- El mismo que sirve para mantener nuestro interés a largo plazo
+				- Memoria
+				  collapsed:: true
+					- Aquellas emociones tanto positivas como negativas no suelen permanecer mucho tiempo en un individuo hasta que este recupere su estado "neutro"
+					- Sin embargo solemos creer que estas emociones se quedaran con nosotros mucho mas tiempo del que realmente es, es decir sobreestimamos el tiempo en el que sentiremos las emociones, [[sesgo de durabilidad]].
+					- 🌱 Implicaciones
+						- Para Políticas de felicidad (bienestar subjetivo )
+				- 🌱 Disonancia cognitiva
+				  collapsed:: true
+					- Es el conflicto mental que se da cuando nuestras creencias entran en conflicto con nuestras actitudes o con otras creencias que tenemos generándonos así incomodidad.
+					- También se puede dar cuando nos rehusamos a cambiar nuestras creencias frente a evidencia que las contradice
+					- Esta incomodidad se resuelve con acciones irracionales
+			- 🌱 Autoestima amenazada
+			  collapsed:: true
+				- Si la Autoestima se ve amenazada, esto puede afectar a  al proceso de toma de decisiones
+				- La baja auto estima puede provocar comportamiento contraproducente, irracional, por ejemplo los desordenes alimenticios o el abuso del alcohol
+				- Sin embargo la auto estima alta también puede generar comportamiento contraproducente, como el abuso de las drogas.
+			- 🌱 Falla de autorregulación
+			  collapsed:: true
+				- ¿Qué es la autorregulación?
+				  collapsed:: true
+					- Se da Auto regulación cuando se reflexiona sobre ventajas y desventajas antes de tomar una decisión, con la autorregulación somos capaces de diferenciar el costo a corto y a largo plazo, así como sus beneficios los que genera decisiones Inter temporales.
+					- Auto regulación implica retraso de la gratificación
+				- ¿Cómo se relaciona con la disonancia cognitiva?
+				  collapsed:: true
+					- reduce la autorregulación
+				- Las fallas de auto regulación provocan que exista sesgo hacia el presente
+				- ¿Cuáles son las personalidades que se distinguen de la autorregulación?
+				  collapsed:: true
+					- Personalidad de largo plazo
+					  collapsed:: true
+						- Paciente- Maximiza la utilidad a través del tiempi
+					- Personalidad de corto plazo
+					  collapsed:: true
+						- Impulsivo- Maximiza la experiencia inmediata
+			- 🌱 Fatiga de decisión
+			  collapsed:: true
+				- Existe un costo psicológico de tomar decisiones
+				- La toma de decisión puede llegar a ser compleja, esto puede llevar a tomar malas decisiones, pues se a reducido nuestra capacidad de toma de decisiones optimas
+				- Esta es una de las razones por las que las personas son criaturas de hábitos, debido a que esto evita la necesidad de gastar recursos escasos al tomar decisiones.
+			- 🌱 Rechazo y pertenencia
+			  collapsed:: true
+				- El sentido de pertenencia es innato
+				- Es más fuerte que el deseo de autoestima
+				- El rechazo genera decisiones menos eficientes, comportamiento agresivo y menos cooperativo.
+				- Ejm: 
+				  collapsed:: true
+					- crear el sentido de pertenencia en mujeres ayuda a incrementar permanencia y representación
+	- ## Teoría Prospectiva ![�](../assets/Dialnet-TeoriaProspectiva-65981_(1)_1637533445262_0.pdf)
+	-
+- Doumentos
+	- Unidad 1
+	  collapsed:: true
+		- ![Unidad I - Introducción.pdf](../assets/Unidad_I_-_Introducción_1637370795899_0.pdf)  #yellow
+	- Unidad 2
+		- ![Unidad II - Ampliando la racionalidad.pdf](../assets/Unidad_II_-_Ampliando_la_racionalidad_1637442442873_0.pdf) #green
+		- ![Unidad II - Teoría Prospectiva.pdf](../assets/Unidad_II_-_Teoría_Prospectiva_1637442418807_0.pdf)
+		- ![Unidad II - Preferencias sociales.pdf](../assets/Unidad_II_-_Preferencias_sociales_1637442525025_0.pdf)
+-
+-
+-
+  ---
+- [[Ideas]][[Marketing]]
+  collapsed:: true
+	- Pagina de interés para conocer todos los sesgos y heurísticas  https://bit.ly/2Z93Dwh
+	- Pagina de propuesta de forma de pensar matricial [🔗](https://www.esan.edu.pe/apuntes-empresariales/2021/08/la-heuristica-de-representatividad-y-los-errores-que-cometemos-en-las-decisiones-economicas/)

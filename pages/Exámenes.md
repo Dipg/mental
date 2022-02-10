@@ -1,0 +1,23 @@
+- # Finales
+	- |Lunes [[Jan 31st, 2022]] | Martes [[Feb 1st, 2022]] |  Miércoles [[Feb 2nd, 2022]] |  Jueves [[Feb 3rd, 2022]] |  Viernes [[Feb 4th, 2022]] |
+	  |  Análisis  | Regulación    |  Economía Empresarial    |  Opta IV  |  Finanzas Públicas  |
+	  | Opta 1  |  Opta II   |   Economía Ecuatoriana  |   |   |
+	- ![image.png](../assets/image_1643061761054_0.png)
+- # ~~Jueves~~
+	- DONE  1. Escritura
+- # ~~Lunes~~
+	- DONE 2. Análisis Multivariante
+- # Martes
+	- DONE 3. Opta II
+- # Miércoles
+	- DONE 4. Informática
+- # Jueves
+	- DONE 5. Regulación
+- # Viernes
+	- DONE 6. Opta I
+	- TODO 7. Opta IV
+- # Lunes
+	- TODO 8. Eco. Empresarial
+	- TODO 9. Finanzas Públicas
+- # Martes
+- TODO 10. Economía Ecuatoriana

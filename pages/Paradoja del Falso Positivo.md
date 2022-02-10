@@ -1,0 +1,1 @@
+- La paradoja del falso positivo se basa en que la probabilidad de que se de un caso en particular siendo la probabilidad de este caso extremadamente baja , sea tomada en consideración con mayor relevancia frente a la posibilidad de que no sede este caso que es mucho mayor

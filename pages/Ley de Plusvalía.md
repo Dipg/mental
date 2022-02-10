@@ -1,0 +1,2 @@
+- No aplica para viviendas sociales
+- No aplicaba a casas que se comprar a antes  ¡del 2007

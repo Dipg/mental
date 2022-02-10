@@ -1,0 +1,38 @@
+- Indice de Moran
+	- ![image.png](../assets/image_1643995238351_0.png)
+	- En el Eje x la varaible estandarizadad
+	- y en Y el promedio de la variable x de los vecinos
+		- ![image.png](../assets/image_1643995724940_0.png)
+		- Por lo que los cuadrante s I y III , contienen o muestran un comportamiento de los suje sde autocorelación espacial positiva
+		- Los cuadrante  II y IV muestran Autocorrelación espacial negativo
+		- La pendiente de ajueste lineal es positiva
+		- En el test de Moran La Ho es que no existe Auto Correlación Espacia con un I de moran cercano a cerol y la H1 es que existe Autocorrelación espacial
+		- ## [[#green]]==Esperanza del I de Moran== $E(I)$
+			- ![image.png](../assets/image_1643996705761_0.png)
+			  id:: 61fd661f-abec-4228-8166-9bcf1f908ef8
+- ![image.png](../assets/image_1643026136968_0.png)
+- ((61ee9699-92a9-4d6a-8a30-8425ea32dd3f))
+- ![image.png](../assets/image_1643024507969_0.png)
+- Matriz de Contigüidad de primer orden
+- ![image.png](../assets/image_1643024517228_0.png){:height 226, :width 348}
+- Normalizamos la matriz
+- ![image.png](../assets/image_1643024762613_0.png){:height 155, :width 292}
+- que es arte de la ecuacion
+	- ![image.png](../assets/image_1643025655844_0.png)
+	- ((61ee9510-a304-45dd-b7d4-65b4f4449bc1))
+	- ![image.png](../assets/image_1643024791727_0.png)
+-
+- Rezago espacial
+- ((61ee9a4e-918d-42ed-802d-27d16dcc4bad))
+- ((61ee9a52-1560-4a57-b5ad-55db2fb6f01c))
+-
+-
+- ![chapter 3ç es.pdf](../assets/chapter_3ç_es_1643006765502_0.pdf)
+- ![chapter 1 y 2 es.pdf](../assets/chapter_1_y_2_es_1643006775158_0.pdf)
+- <object data="G:/Mi unidad/Autosync/Logmy/NewLog/assets/Regional.pdf" type="application/pdf" width="100%" height="800px"></object>
+	-
+	- ![image.png](../assets/image_1643033708580_0.png)
+	- ![image.png](../assets/image_1643033907137_0.png)
+- <object data="G:/Mi unidad/Autosync/Logmy/NewLog/assets/Regional.pdf " type="application/pdf" width="100%" height="800px"></object>
+- ![image.png](../assets/image_1643034292857_0.png)
+- ![image.png](../assets/image_1643034559395_0.png)

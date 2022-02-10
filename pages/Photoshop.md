@@ -1,0 +1,2 @@
+- # ShortCuts
+	- `ctr+t`  :  Redimensionar  imágenes ya incluidas

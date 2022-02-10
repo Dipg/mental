@@ -1,0 +1,11 @@
+- ![image.png](../assets/image_1643943817529_0.png)
+- En el U6 te dice como exportar en vertical o cuadrado , utilizando la edición ya realizada
+- Como cortara, Básicamente lo mejor
+-
+-
+- Letra `i` punto de entrada
+- El Primer botón Inserta en nuevo video entre dos
+- El botón del centro, pone el nuevo clip siempre al final
+- Elimina el plano siguiente y lo remplaza con el nuevo plano el de la derecha
+- ![image.png](../assets/image_1644413360826_0.png)
+-

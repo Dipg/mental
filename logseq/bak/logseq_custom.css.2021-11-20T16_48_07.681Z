@@ -1,0 +1,11 @@
+.block-ref>div>span>span>span>div>.tag{
+	display: none !important;
+}
+.tag[data-ref*="lección"]{
+	content:  🔴 ;
+		transform: scale(2);
+		display:inline !important ;
+		width: 30px;
+	margin-left:10px !important;
+	margin-right:10px !important;
+	}
