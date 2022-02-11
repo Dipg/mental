@@ -151,7 +151,8 @@ div[data-refs-self*="colum"]  .block-children {
 
 div[data-refs-self*="colum"]  .block-children    div[data-refs-self*="port-1"]  {
  
-    background-color: red !important;
+    background-color: red !important
+    border-color: red !important;
            }
         
 
