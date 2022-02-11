@@ -164,7 +164,6 @@ div[data-refs-self*="colum"]  .block-children     div[data-refs-self*="port"] .b
  
     display: flex !important;
     flex-direction: row !important; 
-    overflow: hidden !important;
             color: rgb(204, 0, 0) !important;
  
                    }
