@@ -127,7 +127,6 @@ div[data-refs-self*="colum"]  .block-children {
     /* background-color:red !important; */
     /* align-content: space-between !important; */
     justify-content: space-between; 
-    flex-direction: row-reverse !important;
     
 	}
 
