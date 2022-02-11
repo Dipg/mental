@@ -1,5 +1,10 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
+.block-content > span>div>div .image-resize {
+
+    padding-left: 0px !important;
+    width: 100% !important;
+}
 
 div[data-refs-self*="colum"] .block-children .block-children  .ls-block{
 
@@ -31,10 +36,10 @@ div[data-refs-self*="colum"]  .block-children {
         /* height: 120px !important; */
         margin: 5px !important;
         word-break: break-all;
-        padding-top: 10px !important;
+        /* padding-top: 10px !important;
         padding-bottom: 10px !important;
         padding-right: 20px !important;
-        padding-left: -10px !important;
+        padding-left: -10px !important; */
         text-align: center !important;
         }
 
