@@ -10,6 +10,8 @@
 
 
 
+}
+
 a[data-refs-self*="kanban"] > .block-children {
 	display: inline-flex;
 	position: relative;
