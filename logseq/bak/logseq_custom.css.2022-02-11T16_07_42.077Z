@@ -66,11 +66,11 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
    
    div[data-refs-self*="colum"]  .block-children    div[data-refs-self*="port"]   img{
     width: 100% !important;
-    height: 10px;
+    height: 130px;
     /* display: block; */
     /* position: relative; */
     /* overflow: hidden; */
-    object-fit: none !important;
+    object-fit: c !important;
    }
 
 
