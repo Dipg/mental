@@ -17,7 +17,7 @@ div[data-refs-self*="colum"]  .block-children   .ls-block>div .mr-1 {
 }
 
 .tag[data-ref*="port"] {
-    display:none !important;
+    visibility: hidden important;
 } 
 
 
