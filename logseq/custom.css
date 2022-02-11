@@ -642,4 +642,5 @@ div[data-refs-self*="kanban"] >.block-children > div {
                     max-width: 100%;
                     /* vertical-align: middle; */
                     margin-left: -80px !important;
+                    margin-left: -80px !important;
                 }
