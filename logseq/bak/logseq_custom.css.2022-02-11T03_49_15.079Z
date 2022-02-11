@@ -9,7 +9,7 @@ div[data-refs-self*="colum"]  .block-children {
     flex-wrap: wrap;
     /* background-color:red !important; */
     /* align-content: space-between !important; */
-    justify-content: space-between; 
+    align-items: flex-start;  
     
 	}
 
