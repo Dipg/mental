@@ -1,33 +1,6 @@
-[{:block/name "",
-  :block/created-at 1644607652159,
-  :block/updated-at 1644607652159}
- {:block/name " modelo de inversión- qtobi en ecuador",
+[{:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
- {:block/name "![imagen](https_",
-  :block/created-at 1644600284383,
-  :block/updated-at 1644600284383}
- {:block/name "![imagen](https_//quenoticias.com",
-  :block/created-at 1644600284383,
-  :block/updated-at 1644600284383}
- {:block/name "![imagen](https_//quenoticias.com/wp-content",
-  :block/created-at 1644600284383,
-  :block/updated-at 1644600284383}
- {:block/name "![imagen](https_//quenoticias.com/wp-content/uploads",
-  :block/created-at 1644600284383,
-  :block/updated-at 1644600284383}
- {:block/name
-  "![imagen](https_//quenoticias.com/wp-content/uploads/2021",
-  :block/created-at 1644600284383,
-  :block/updated-at 1644600284383}
- {:block/name
-  "![imagen](https_//quenoticias.com/wp-content/uploads/2021/06",
-  :block/created-at 1644600284383,
-  :block/updated-at 1644600284383}
- {:block/name
-  "![imagen](https_//quenoticias.com/wp-content/uploads/2021/06/dolares-pixabay-v-k.jpg)",
-  :block/created-at 1644600284383,
-  :block/updated-at 1644600284383}
  {:block/name
   "../assets/2.2_expo-test_heterocedasticidad_1639184490259_0.pdf",
   :block/created-at 1640183914952,
@@ -448,6 +421,12 @@
  {:block/name "draws/2022-01-31-17-30-46.excalidraw",
   :block/created-at 1644249275723,
   :block/updated-at 1644249275723}
+ {:block/name "draws/2022-02-07-08-19-30.excalidraw",
+  :block/created-at 1644607735835,
+  :block/updated-at 1644607735835}
+ {:block/name "draws/2022-02-07-08-22-54.excalidraw",
+  :block/created-at 1644607735835,
+  :block/updated-at 1644607735835}
  {:block/name "draws/piensa matricialmente.excalidraw",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -1111,9 +1090,6 @@
  {:block/name "trabajos u",
   :block/created-at 1642178166048,
   :block/updated-at 1644552616240}
- {:block/name "tue, 18-01-2022",
-  :block/created-at 1644600284383,
-  :block/updated-at 1644600284383}
  {:block/name "urgente",
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
