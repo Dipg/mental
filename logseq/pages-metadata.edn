@@ -1,6 +1,6 @@
 [{:block/name "",
-  :block/created-at 1644609395551,
-  :block/updated-at 1644609395551}
+  :block/created-at 1644612307361,
+  :block/updated-at 1644612307361}
  {:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -561,7 +561,7 @@
   :block/updated-at 1642172083936}
  {:block/name "feb 10th, 2022",
   :block/created-at 1644532752022,
-  :block/updated-at 1644600283525}
+  :block/updated-at 1644612138851}
  {:block/name "feb 11th, 2022",
   :block/created-at 1644537600000,
   :block/updated-at 1644537600000}
@@ -982,9 +982,18 @@
  {:block/name "política",
   :block/created-at 1644249275723,
   :block/updated-at 1644249275723}
- {:block/name "port",
-  :block/created-at 1644600284382,
-  :block/updated-at 1644600284382}
+ {:block/name "port-1",
+  :block/created-at 1644612307362,
+  :block/updated-at 1644612307362}
+ {:block/name "port-2",
+  :block/created-at 1644612307361,
+  :block/updated-at 1644612307361}
+ {:block/name "port-3",
+  :block/created-at 1644612307361,
+  :block/updated-at 1644612307361}
+ {:block/name "port-4",
+  :block/created-at 1644612307362,
+  :block/updated-at 1644612307362}
  {:block/name "probabilidad bayesiana",
   :block/created-at 1642172083937,
   :block/updated-at 1642172083937}
