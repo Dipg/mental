@@ -17,8 +17,7 @@ div[data-refs-self*="colum"]  .block-children {
 	}
 
 
-    div[data-refs-self*="colum"]  .block-children> div {
-
+    div[data-refs-self*="colum"]  .block-children> div
         
         }
 
