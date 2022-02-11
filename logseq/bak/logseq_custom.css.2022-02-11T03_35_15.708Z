@@ -39,6 +39,8 @@ div[data-refs-self*="colum"] .block-children .block-children {
 
     box-shadow: 0px 0px 0px 0px #35353500; 
     color: rgb(255, 254, 254) !important;
+
+    
     display: inline-block;
     width: 800px;
     padding-right: 3px;
