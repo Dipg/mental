@@ -9,7 +9,7 @@
 } */
 
 
-div[data-refs-self*="colum"] > .block-children {
+div[data-refs-self*="kanban"] > .block-children {
 	display: inline-flex;
 	position: relative;
 	overflow-x: auto;
@@ -18,7 +18,7 @@ div[data-refs-self*="colum"] > .block-children {
 	margin: 10px 
 	
 	}
-div[data-refs-self*="colum"] >.block-children > div {
+div[data-refs-self*="kanban"] >.block-children > div {
 	display: inline-block;
 	width: 400px;
 	padding-right: 3px;
