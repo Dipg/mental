@@ -65,7 +65,7 @@ div[data-refs-self*="colum"] .block-children .block-children {
     padding-right: 3px;
     background-color: rgba(6, 248, 6, 0.876) !important;
     flex-direction: column !important;
-    width: 100% !important; 
+    width: 200px !important; 
 	}
 
     div[data-refs-self*="colum"] .block-children .block-children >div{
