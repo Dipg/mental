@@ -60,7 +60,6 @@ div[data-refs-self*="colum"] .block-children .block-children {
     display: inline-block;
     padding-right: 3px;
     background-color: green !important;
-    width: 100%px 
 	}
 
     div[data-refs-self*="colum"] .block-children .block-children >div{
