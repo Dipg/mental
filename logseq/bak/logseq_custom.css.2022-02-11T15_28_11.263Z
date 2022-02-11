@@ -33,9 +33,9 @@ div[data-refs-self*="colum"]  .block-children   .ls-block  .flex {
     padding-top: 0px !important;
    
    }
-   .block-content > span>div>div .image-resize {
+
    width: 100% !important;
-   }
+
 /* div[data-refs-self*="colum"]  .block-children   .ls-block  .block-content{
 
     padding-left: 0px !important;
