@@ -16,7 +16,7 @@ div[data-refs-self*="colum"]  .block-children {
     align-items: flex-start;  
     /* background-color:red !important; */
     /* align-content: space-between !important; */
-    justify-content: space-between; 
+    /* justify-content: space-between;  */
     
 	}
 
