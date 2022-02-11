@@ -160,18 +160,18 @@ div[data-refs-self*="colum"]  .block-children    div[data-refs-self*="port-1"]  
     color: white !important;
     order: -1 !important; 
            }
-div[data-refs-self*="colum"]  .block-children     div[data-refs-self*="port"] .block-children >div  {
+div[data-refs-self*="colum"]  .block-children     div[data-refs-self*="port-1"] .block-children >div  {
  
         
             color: white !important;
  
                    }
-/* div[data-refs-self*="colum"]  .block-children     .ls-block>div:first-child  {
+div[data-refs-self*="colum"]  .block-children     .ls-block>div:first-child  {
  
         
             color: rgb(245, 0, 0) !important;
  
-                   } */
+                   }
 
 
         
