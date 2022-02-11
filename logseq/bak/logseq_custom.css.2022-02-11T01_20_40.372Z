@@ -2,7 +2,7 @@
 
 
 .dark-theme blockquote, html[data-theme=dark] blockquote {
-    background-color: red !important;
+    background-color: var(--cl-bokara);
     border-top: transparent;
     border-right: transparent;
     border-bottom: transparent;
