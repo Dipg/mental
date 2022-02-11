@@ -31,11 +31,6 @@ div[data-refs-self*="colum"]  .block-children {
         padding-left: -10px !important;
         }
 
-
-
-        .dark
-
-
 div[data-refs-self*="colum"] .block-children .block-children {
 
 
