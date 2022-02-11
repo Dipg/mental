@@ -153,7 +153,7 @@ div[data-refs-self*="colum"]  .block-children {
 div[data-refs-self*="colum"]  .block-children    div[data-refs-self*="port-1"]  {
  
     background-color: red !important;
-    color: white !important;
+    text-color: white !important;
     order: -1 !important; 
            }
 div[data-refs-self*="colum"]  .block-children>div     div[data-refs-self*="port-1"] {
