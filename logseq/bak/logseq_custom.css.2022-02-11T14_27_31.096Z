@@ -12,19 +12,6 @@ padding-top: 0px !important;
 }
 
 
-
-div[data-refs-self*="port"]  .block-children   .ls-block {
-
-    /* border-color: #00f; */
-padding-left: 0px !important;
-padding-right: 0px !important;
-padding-top: 0px !important;
-
-}
-
-
-
-
 div[data-refs-self*="colum"] .block-children .block-children  .ls-block{
 
     /* border-color: #00f; */
