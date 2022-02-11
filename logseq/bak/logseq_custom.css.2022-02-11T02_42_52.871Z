@@ -15,7 +15,7 @@ div[data-refs-self*="colum"]  .block-children {
     
 	}
 
-    div[data-refs-self*="colum"]  .block-children .ls-block {
+    div[data-refs-self*="colum"]  .block-children> div {
         /* display: flex; */
         width: 800px;
         /* flex-wrap: wrap; */
