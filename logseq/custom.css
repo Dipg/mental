@@ -1,14 +1,7 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 .block-content > span>div>div {
-    /* background-color: var(--cl-white);
-    border-top: 1px solid var(--cl-lilywhite);
-    border-right: 1px solid var(--cl-lilywhite);
-    border-bottom: 1px solid var(--cl-lilywhite);
-    border-left: 1px solid var(--cl-lilywhite);
-    border-radius: 0px !important;
-    box-shadow: none; */
-    /* --webkit-box-shadow: none; */
+
     padding: 0px;
     width: 100% !important;
 }
