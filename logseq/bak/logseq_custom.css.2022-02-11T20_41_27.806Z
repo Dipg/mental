@@ -26,8 +26,9 @@ padding-top: 0px !important;
 div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >div:first-child .mr-1 {
 
  /* display:none !important; */
-
- padding-left: 0px !important;
+ float: left;
+ margin-top: 10px !important;
+height: 175px !important;
 }
 
 
