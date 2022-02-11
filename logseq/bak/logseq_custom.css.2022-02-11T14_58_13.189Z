@@ -10,14 +10,11 @@ padding-right: 0px !important;
 padding-top: 0px !important;
 
 }
-
 div[data-refs-self*="colum"]  .block-children   .ls-block>div .mr-1 {
 
  display:none !important;
 
 }
-
-
 
 
 
@@ -685,3 +682,4 @@ div[data-refs-self*="kanban"] >.block-children > div {
                     margin-right: 0px !important; */
               
                 }
+
