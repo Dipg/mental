@@ -16,7 +16,7 @@ div[data-refs-self*="colum"]  .block-children   .ls-block>div .mr-1 {
  display:none !important;
 
 }
-div[data-refs-self*="colum"]  .block-children   .ls-block>div .flex-1 {
+div[data-refs-self*="colum"]  .block-children   .ls-block>div .flex {
 
     padding-top: 0px !important;
    
