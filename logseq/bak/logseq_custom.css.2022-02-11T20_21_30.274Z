@@ -149,7 +149,7 @@ div[data-refs-self*="colum"]  .block-children {
         text-align: center !important;
         }
 
-div[data-refs-self*="colum"]  .block-children    div[data-refs-self*="port"]   img{
+        div[data-refs-self*="colum"]  .block-children    div[data-refs-self*="port"]   img{
             width: 100% !important;
             height: 100%px;
             /* display: block; */
