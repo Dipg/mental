@@ -8,21 +8,27 @@
     
 } */
 
-div[data-refs-self*="colum"]  .block-children {
-	display: inline-flex !important;
-    width: 100% !important;
-	position: relative !important;
-	/* overflow-x: auto !important; */
-	/* overflow-y: hidden !important; */
-	margin: 10px !important ;
-	}
-div[data-refs-self*="colum"] .block-children .block-children {
-    display: inline-block;
-    width: 800px;
-    padding-right: 3px;
-	}
 
-    
+div[data-refs-self*="colum"]  .block-children {
+	display: inline-flex;
+	position: relative;
+	overflow-x: auto;
+	overflow-y: hidden;
+	
+	margin: 10px 
+	
+	}
+div[data-refs-self*="colum"] .block-children  .block-children  {
+	display: inline-block;
+	width: 400px;
+	padding-right: 3px;
+	}
+	
+	div[data-refs-self*="colum-2"] .block-children .block-children  {
+		display: inline-block;
+		width: 800px;
+		padding-right: 3px;
+		}
 
 
 
