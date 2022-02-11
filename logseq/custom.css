@@ -2,7 +2,7 @@
 
 
 
-div[data-refs-self*="colum"]   .block-children-container .block-children-left-border{
+div[data-refs-self*="colum"]   .block-children-left-border{
 
     display: none;
 
