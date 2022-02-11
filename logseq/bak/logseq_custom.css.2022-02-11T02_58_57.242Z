@@ -17,8 +17,12 @@ div[data-refs-self*="colum"]  .block-children {
 	}
 
 
-    div[data-refs-self*="colum"]  .block-children> div
-    background-color:red !important;
+    div[data-refs-self*="colum"]  .block-children {
+        display: flex;
+        /* width: 800px; */
+        flex-wrap: wrap;
+        background-color:red !important;
+        
         }
 
 div[data-refs-self*="colum"] .block-children .block-children {
