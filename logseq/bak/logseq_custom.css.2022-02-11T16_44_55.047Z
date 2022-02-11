@@ -1,13 +1,13 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 
-div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   .block-children>div {
-    /* padding-left: 0px !important;
-    padding-right: 0px !important;
-    padding-top: 0px !important; */
-    margin: 0 !important;
-    width: 100% !important;
-    display: inline !important;
+  div[data-refs-self*="port"]   .block-children:disabled >div {
+     padding-left: 0px !important;
+     padding-right: 0px !important;
+    padding-top: 0px !important; 
+    margin: 0px !important;
+    /* width: 100% !important;
+    display: inline !important; */
    }
 
 
