@@ -1,23 +1,6 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 
-
-div[data-refs-self*="kanban"] > .block-children {
-	display: inline-flex;
-	position: relative;
-	overflow-x: auto;
-	overflow-y: hidden;
-	margin: 10px;
-	}
-div[data-refs-self*="kanban"] >.block-children > div {
-	display: inline-block;
-	width: 400px;
-	padding-right: 3px;
-	}
-
-
-
-
 .dark-theme blockquote, html[data-theme=dark] blockquote {
     background-color: transparent !important;
     border-top: transparent;
