@@ -84,7 +84,7 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
 div[data-refs-self*="colum"] .block-children div[data-refs-self*="port"]   .block-children   .ls-block{
 
     /* border-color: #00f; */
-margin-left: -50px !important;
+margin-left: -20px !important;
 
 }
 
