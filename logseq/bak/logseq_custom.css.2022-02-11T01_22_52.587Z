@@ -113,7 +113,7 @@ blockquote:before {
     top: 0px;
     position: relative;
     font-size: 36px !important;
-    display: inline-block !important; 
+    display: block !important; 
 }
 
 blockquote:after {
