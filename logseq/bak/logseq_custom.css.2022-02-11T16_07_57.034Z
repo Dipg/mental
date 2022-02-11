@@ -66,7 +66,7 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
    
    div[data-refs-self*="colum"]  .block-children    div[data-refs-self*="port"]   img{
     width: 100% !important;
-    height: 100%px;
+    height: 10px;
     /* display: block; */
     /* position: relative; */
     /* overflow: hidden; */
@@ -738,3 +738,4 @@ div[data-refs-self*="kanban"] >.block-children > div {
                     margin-right: 0px !important; */
               
                 }
+
