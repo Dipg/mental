@@ -28,7 +28,7 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
  /* display:none !important; */
  position: relative !important;
  margin-top: 10px !important;
-height: 175px !important;
+height: 175px ;
 }
 
 
