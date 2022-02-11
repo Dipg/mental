@@ -94,7 +94,6 @@ div[data-refs-self*="colum"] .block-children .block-children {
     border-bottom: transparent;
     border-left: transparent;
     color: var(--cl-wildsand);
-    text-align: center !important;
 } 
 
 .ls-block{
