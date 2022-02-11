@@ -29,7 +29,7 @@ div[data-refs-self*="colum"]  .block-children {
         /* height: 120px !important; */
         margin: 5px !important;
         word-break: break-all;
-        padding-top: 10px !important;
+        padding: 10px !important;
         }
 
 div[data-refs-self*="colum"] .block-children .block-children {
