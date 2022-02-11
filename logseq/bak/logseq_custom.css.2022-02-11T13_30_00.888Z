@@ -1,15 +1,16 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
-.ls-block img {
-    background-color: var(--cl-white);
-    border-top: 1px solid var(--cl-lilywhite);
-    border-right: 1px solid var(--cl-lilywhite);
-    border-bottom: 1px solid var(--cl-lilywhite);
-    border-left: 1px solid var(--cl-lilywhite);
-    border-radius: 0px;
-    box-shadow: none;
-    --webkit-box-shadow: none;
-}
+ img {
+    /* display: none !important; */
+    /* border-radius: 0px !important;  */
+    /* position: absolute !important; */
+    height: 10rem;
+    width: 100% !important;
+    /* background-position: center; */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+  }
+
 
 div[data-refs-self*="colum"] .block-children .block-children  .ls-block{
 
