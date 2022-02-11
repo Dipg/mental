@@ -37,7 +37,7 @@ div[data-refs-self*="colum"]  .block-children {
 
 div[data-refs-self*="colum"] .block-children .block-children {
 
-    box-shadow: 0; 
+    box-shadow: none; 
 
 
 
