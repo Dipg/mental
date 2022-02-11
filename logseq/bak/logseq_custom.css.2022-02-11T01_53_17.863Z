@@ -2,14 +2,6 @@
 
 
 
-/* Editar # de Relevancia */
-.tag[data-ref*="colum"] {
-	/* visibility: hidden important; */
-    color: red !important;
-    opacity: 0.5;
-	} 
-
-
 div[data-refs-self*="kanban"] > .block-children {
 	display: inline-flex !important;
 	position: relative !important;
