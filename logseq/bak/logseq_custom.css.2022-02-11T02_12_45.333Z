@@ -10,7 +10,6 @@
 
 div[data-refs-self*="colum"]  .block-children {
 	display: inline-flex !important;
-    width: 400px !important;
 	position: relative !important;
 	/* overflow-x: auto !important; */
 	/* overflow-y: hidden !important; */
