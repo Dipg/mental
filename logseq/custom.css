@@ -45,8 +45,8 @@ div[data-refs-self*="colum"]  .block-children {
         word-break: break-all;
         padding-top: 10px !important;
         padding-bottom: 10px !important;
-        /* padding-right: 20px !important; */
-        /* padding-left: -10px !important; */
+        padding-right: 20px !important;
+        padding-left: -10px !important;
         text-align: center !important;
         }
 
