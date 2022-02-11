@@ -69,7 +69,7 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
 
     object-fit: cover;
     width: 100%px;
-    /* height: 100px; */
+    height: 100px;
    }
 
 
