@@ -7,9 +7,9 @@ img {
     /* position: absolute !important; */
     height: 10rem;
     width: 100%;
-    /* background-position: center; */
-    /* background-repeat: no-repeat; */
-    /* background-size: cover; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 
 
