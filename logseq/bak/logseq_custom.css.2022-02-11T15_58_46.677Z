@@ -69,8 +69,6 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
 
    width: 100% !important;
    height: 100px !important;
-   width: 100%;
-   display: block
    }
 
 
