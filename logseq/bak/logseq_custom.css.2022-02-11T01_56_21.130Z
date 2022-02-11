@@ -3,7 +3,7 @@
 
 
 
-div[data-refs-self*=["kanban"] > .block-children {
+div[data-refs-self*=`"kanban"] > .block-children {
 	display: inline-flex !important;
 	position: relative !important;
 	overflow-x: auto !important;
