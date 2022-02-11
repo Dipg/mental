@@ -635,7 +635,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
                 }
                 .ls-block {
 
-                    padding-left: -100px !important;
+                    padding-left: -10px !important;
                     padding-right: 20px !important;
                     /* height: auto; */
                     max-width: 100%;
