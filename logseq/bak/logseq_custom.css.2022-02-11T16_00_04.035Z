@@ -67,8 +67,9 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
    div[data-refs-self*="colum"]  .block-children    div[data-refs-self*="port"]   img{
     object-fit: cover !important;
 
-    width: 100% !important;
-    height: 100px;
+    object-fit: cover;
+    width: 100%px;
+    /* height: 100px; */
    }
 
 
