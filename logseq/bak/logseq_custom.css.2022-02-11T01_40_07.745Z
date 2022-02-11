@@ -1,9 +1,6 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
-.tag{
-
-    display: inline-block;
-}
+tag
 
 
 div[data-refs-self*="kanban"] > .block-children {
@@ -560,4 +557,5 @@ div[data-refs-self*="kanban"] >.block-children > div {
                     opacity: 0.7 !important;
                     border-radius: 10px !important;
                     padding-left: 5px !important;
-                    padding-right: 5px !import
+                    padding-right: 5px !important;
+                }
