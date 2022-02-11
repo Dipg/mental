@@ -15,13 +15,14 @@ div[data-refs-self*="colum"]  .block-children {
 	overflow-y: hidden !important;
 	margin: 10px !important ;
 	}
-/* div[data-refs-self*="colum"] .block-children > div {
+div[data-refs-self*="colum"] .block-children > div {
 	display: inline-block !important;
+    position: relative !important;
 	width: 400px !important;
 	padding-right: 3px  !important;
 	}
 
-     */
+    
 
 
 
