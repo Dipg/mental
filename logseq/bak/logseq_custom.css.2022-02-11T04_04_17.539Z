@@ -33,10 +33,9 @@ div[data-refs-self*="colum"]  .block-children {
         }
 
 
-h1{
+        div[data-refs-self*="colum"]  .block-children> div {
+        }
 
-    
-}
         
 
 
