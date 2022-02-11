@@ -156,7 +156,7 @@ div[data-refs-self*="colum"]  .block-children    div[data-refs-self*="port-1"]  
     color: white !important;
     order: -1 !important; 
            }
-div[data-refs-self*="colum"]  .block-children     div[data-refs-self*="port-1"] >div  {
+div[data-refs-self*="colum"]  .block-children    div[data-refs-self*="port-1"] {
  
         
             color: white !important;
