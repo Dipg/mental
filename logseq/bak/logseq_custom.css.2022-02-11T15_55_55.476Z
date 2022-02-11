@@ -8,7 +8,7 @@ div[data-refs-self*="colum"]  .block-children div[data-refs-self*="port"]  {
 padding-left: 0px !important;
 padding-right: 0px !important;
 padding-top: 0px !important;
-
+height: 10px !important;
 }
 
 div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >div:first-child .mr-1 {
@@ -32,7 +32,6 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
     padding-right: 0px !important;
     padding-top: 0px !important;
     width: calc(100% - 0px) !important;
-    height:calc(10% - 0px) !important;
    }
    div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   .asset-container {
     padding-left: 0px !important;
@@ -40,7 +39,7 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
     padding-top: 0px !important;
     margin-top: 0px !important;
     width: 100% !important;
-    height:20% !important;
+    /* height:20% !important; */
     /* width: calc(100% - 0px) !important; */
    }
 
@@ -69,7 +68,7 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
     object-fit: cover !important;
 
    width: 100% !important;
-   height:20% !important;
+   height:100% !important;
    }
 
 
