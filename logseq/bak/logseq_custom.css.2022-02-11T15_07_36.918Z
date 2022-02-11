@@ -25,9 +25,11 @@ div[data-refs-self*="colum"]  .block-children   .ls-block  .block-content{
    
    }
    
-   div[data-refs-self*="colum"]  .block-children   .ls-block  img{
+   div[data-refs-self*="colum"]  .block-children   .ls-block  .block-content{
 
-   width: ;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    padding-top: 0px !important;
    
    }
 
