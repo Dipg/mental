@@ -5,17 +5,17 @@
 
 
 
-    
+
 } */
 
-div[data-refs-self*="colum"] > .block-children {
+div[data-refs-self*="colum"] > .block{
 	display: inline-flex !important;
 	position: relative !important;
 	overflow-x: auto !important;
 	overflow-y: hidden !important;
 	margin: 10px !important ;
 	}
-div[data-refs-self*="colum"] >.block-children > div {
+div[data-refs-self*="colum"] >.block-c > div {
 	display: inline-block !important;
 	width: 400px !important;
 	padding-right: 3px  !important;
