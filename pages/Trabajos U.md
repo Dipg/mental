@@ -1,15 +1,15 @@
 - {{renderer :todomaster-VHJhYmFqb3MgVQ==}}
   id:: 6201acf8-f52b-47e6-9a04-0d50bb3bdd4e
 - #inmediato
-- DONE Aplicación Machine learning [[Jan 29th, 2022]]
+- LATER Aplicación Machine learning [[Jan 29th, 2022]]
 - #urgente
-- DONE [#B] Aplicación  [[Ecuaciones Estructurales]]  [[Jan 27th, 2022]]
+- LATER [#B] Aplicación  [[Ecuaciones Estructurales]]  [[Jan 27th, 2022]]
   :LOGBOOK:
   CLOCK: [2022-01-21 Fri 19:37:53]--[2022-01-21 Fri 19:38:54] =>  00:01:01
   CLOCK: [2022-01-30 Sun 14:14:41]--[2022-01-31 Mon 15:09:30] =>  24:54:49
   :END:
 - TODO Prueba Unidades 3 y 4 Informática [[[[Feb 2nd, 2022]]]]
-- DONE Sistemas de información gerencial de Laurol [[Jan 31st, 2022]] Capitulo 5 del Silabo
+- LATER Sistemas de información gerencial de Laurol [[Jan 31st, 2022]] Capitulo 5 del Silabo
 -
 -
 -
