@@ -68,7 +68,7 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
     width: 100% !important;
     height: 130px;
     /* display: block; */
-    /* position: relative; */
+    position: relative;
     /* overflow: hidden; */
 
    }
