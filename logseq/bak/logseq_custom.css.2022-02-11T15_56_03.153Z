@@ -39,7 +39,7 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
     padding-top: 0px !important;
     margin-top: 0px !important;
     width: 100% !important;
-    height:20% !important;
+    /* height:20% !important; */
     /* width: calc(100% - 0px) !important; */
    }
 
@@ -68,7 +68,7 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
     object-fit: cover !important;
 
    width: 100% !important;
-   height:20% !important;
+   height:10% !important;
    }
 
 
