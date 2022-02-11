@@ -14,9 +14,6 @@ div[data-refs-self*="colum"]  .block-children {
     flex-wrap: wrap;
     
 	}
-
-
-    
 div[data-refs-self*="colum"] .block-children .block-children {
     display: inline-block;
     width: 800px;
