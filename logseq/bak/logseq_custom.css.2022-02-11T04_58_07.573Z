@@ -5,8 +5,8 @@
 
 div[data-refs-self*="colum"] .block-children .block-children  .ls-block{
 
-padding-left: -
 
+    
 }
 
 div[data-refs-self*="colum"]  .block-children {
