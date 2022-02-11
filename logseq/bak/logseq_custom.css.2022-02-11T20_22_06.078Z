@@ -149,10 +149,13 @@ div[data-refs-self*="colum"]  .block-children {
         text-align: center !important;
         }
 
-div[data-refs-self*="colum"]  .block-children    div[data-refs-self*="port-1"]  {
- 
-
-    border-color: red !important;
+div[data-refs-self*="colum"]  .block-children    div[data-refs-self*="port-1"]   img{
+            width: 100% !important;
+            height: 100%px;
+            /* display: block; */
+            /* position: relative; */
+            /* overflow: hidden; */
+            object-fit: none !important;
            }
         
 
