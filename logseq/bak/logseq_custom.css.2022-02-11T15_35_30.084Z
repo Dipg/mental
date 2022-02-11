@@ -18,7 +18,7 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
 }
 
 
-div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >div .block-content-wrapper {
+div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >div {
 
     padding-left: 0px !important;
     padding-right: 0px !important;
