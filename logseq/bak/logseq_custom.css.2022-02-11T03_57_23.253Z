@@ -58,6 +58,7 @@ div[data-refs-self*="colum"] .block-children .block-children {
 
 
     display: inline-block;
+    width: 800px;
     padding-right: 3px;
     background-color: green !important;
 	}
@@ -65,7 +66,7 @@ div[data-refs-self*="colum"] .block-children .block-children {
     div[data-refs-self*="colum"] .block-children .block-children >div{
 
         box-shadow: 0px 0px 0px 0px #35353500; 
-        width: 800px;
+        
         /* background-color: green !important; */
         }
        
