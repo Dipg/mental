@@ -165,11 +165,7 @@ div[data-refs-self*="colum"]  .block-children    div[data-refs-self*="port-3"]  
 background-color: rgb(60, 85, 226) !important;
 order: -3 !important; 
     }            
-div[data-refs-self*="colum"]  .block-children    div[data-refs-self*="port-3"]  {
- 
-        background-color: rgb(60, 85, 226) !important;
-        order: -3 !important; 
-            }         
+
 
 h1{
 
