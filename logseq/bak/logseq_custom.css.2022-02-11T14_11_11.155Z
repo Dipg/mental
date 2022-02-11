@@ -651,6 +651,6 @@ div[data-refs-self*="kanban"] >.block-children > div {
 
                 div[data-refs-self*="colum"] .block-children> div img{
                     margin: -10px !important;
-                    padding: -10px !important;
+                    padding: 0px !important;
 
                 }
