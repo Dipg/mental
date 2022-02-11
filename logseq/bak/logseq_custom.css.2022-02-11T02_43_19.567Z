@@ -15,6 +15,12 @@ div[data-refs-self*="colum"]  .block-children {
     
 	}
 
+    /* div[data-refs-self*="colum"]  .block-children .ls-block {
+        /* display: flex; */
+        width: 800px;
+        /* flex-wrap: wrap; */
+        
+        } */
 
 div[data-refs-self*="colum"] .block-children .block-children {
     display: inline-block;
