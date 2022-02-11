@@ -19,7 +19,7 @@ div[data-refs-self*="colum"]  .block-children {
 
     div[data-refs-self*="colum"]  .block-children> div {
 
-        background-color:red !important;
+        
         }
 
 div[data-refs-self*="colum"] .block-children .block-children {

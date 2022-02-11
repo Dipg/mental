@@ -17,9 +17,9 @@ div[data-refs-self*="colum"]  .block-children {
 	}
 
 
-    div[data-refs-self*="colum"]  .block-children> div {
+    div[data-refs-self*="colum"]  .block-children {
 
-        background-color:red !important;
+        
         }
 
 div[data-refs-self*="colum"] .block-children .block-children {
