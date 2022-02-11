@@ -9,7 +9,7 @@
 } */
 
 
-div[data-refs-self*="colum"] .block-children {
+div[data-refs-self*="colum"] > .block-children {
 	display: inline-flex;
 	position: relative;
 	overflow-x: auto;
@@ -24,7 +24,7 @@ div[data-refs-self*="colum"] >.block-children > div {
 	padding-right: 3px;
 	}
 	
-	div[data-refs-self*="colum-2"] >.block-children > div {
+	div[data-refs-self*="colum2-2"] >.block-children > div {
 		display: inline-block;
 		width: 800px;
 		padding-right: 3px;
