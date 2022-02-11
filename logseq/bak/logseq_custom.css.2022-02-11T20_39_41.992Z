@@ -26,9 +26,9 @@ padding-top: 0px !important;
 div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >div:first-child .mr-1 {
 
  /* display:none !important; */
- position: relative !important;
- margin-top: 10px !important;
-height: 175px !important;
+ position: relative;
+ margin-top: 10px;
+ height: 175px;
 }
 
 
@@ -791,4 +791,5 @@ div[data-refs-self*="kanban"] >.block-children > div {
                     /* margin-left: -80px !important;
                     margin-right: 0px !important; */
               
-         
+                }
+
