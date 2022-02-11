@@ -24,7 +24,6 @@ div[data-refs-self*="colum"]  .block-children {
         width: 120px !important;
         height: 120px !important;
         margin: 10px !important;
-        word-break: break-all;
         }
 
 div[data-refs-self*="colum"] .block-children .block-children {
