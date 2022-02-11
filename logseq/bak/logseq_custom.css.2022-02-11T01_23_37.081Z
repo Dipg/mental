@@ -133,7 +133,7 @@ blockquote{
     text-align: center !important;
     margin-top: 0px !important; 
   margin-bottom: -15px !important;  
-  display: inline !important;
+  display: inline-block !important;
 }
 
 
