@@ -33,10 +33,10 @@ div[data-refs-self*="colum"]  .block-children {
 
 
 
-        
+        .dark
 
 
-        .dark     div[data-refs-self*="colum"]  .block-children> div {
+        div[data-refs-self*="colum"]  .block-children> div {
             border-radius: 7px !important;
     
             /* background-color:rgb(0, 0, 0) !important; */
