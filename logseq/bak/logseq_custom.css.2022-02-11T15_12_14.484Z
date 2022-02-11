@@ -2,7 +2,7 @@
 
 
 
-div[data-refs-self*="colum"] div[data-refs-self*="port"]  .block-children   .ls-block {
+div[data-refs-self*="colum"] div[data-refs-self*="colum"]  .block-children   .ls-block {
 
     /* border-color: #00f; */
 padding-left: 0px !important;
@@ -11,7 +11,7 @@ padding-top: 0px !important;
 
 }
 
-div[data-refs-self*="colum"] div[data-refs-self*="port"]  .block-children   .ls-block>div .mr-1 {
+div[data-refs-self*="colum"]  .block-children   .ls-block>div .mr-1 {
 
  display:none !important;
 
