@@ -169,7 +169,7 @@ div[data-refs-self*="colum"]  .block-children     div[data-refs-self*="port-1"] 
 div[data-refs-self*="colum"]  .block-children     .ls-block>div:first-child  {
  
         
-            color: white !important;
+            color: rgb(245, 0, 0) !important;
  
                    }
 
