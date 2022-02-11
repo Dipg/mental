@@ -10,7 +10,7 @@
 
 
 @supports(object-fit: cover){
-    .ls-block  img{
+    .box img{
       height: 100%;
       object-fit: cover;
       object-position: center center;

@@ -9,15 +9,6 @@
 }
 
 
-@supports(object-fit: cover){
-    .ls-block  img{
-      height: 100%;
-      object-fit: cover;
-      object-position: center center;
-    }
-}
-
-
 div[data-refs-self*="colum"] .block-children .block-children  .ls-block{
 
     /* border-color: #00f; */
