@@ -58,7 +58,7 @@ div[data-refs-self*="colum"] .block-children .block-children {
 
 
     display: inline-block;
-    /* width: 800px; */
+    width: 800px;
     padding-right: 3px;
     /* background-color: green !important; */
 	}
