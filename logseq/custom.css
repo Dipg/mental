@@ -2,8 +2,8 @@
 
 .profile-img {
     width: 8rem !important;
-    clip-path: circle(60px at center);
-    margin-top: 4.5rem;
+    clip-path: circle(60px at center) !important;
+    margin-top: 4.5rem !important;
   }
   
 
