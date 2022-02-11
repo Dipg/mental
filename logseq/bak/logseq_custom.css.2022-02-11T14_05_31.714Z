@@ -649,8 +649,4 @@ div[data-refs-self*="kanban"] >.block-children > div {
                     padding: 0 !important;
                 }
 
-                .ls-block img{
-                    margin: 0 !important;
-                    padding: 0 !important;
-
-                }
+                .ls-block im
