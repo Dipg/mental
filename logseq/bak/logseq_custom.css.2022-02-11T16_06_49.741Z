@@ -70,7 +70,7 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
     /* display: block; */
     /* position: relative; */
     /* overflow: hidden; */
-    object-fit: cover !important;
+    object-fit: cover;
    }
 
 
