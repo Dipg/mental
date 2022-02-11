@@ -487,17 +487,11 @@ div[data-refs-self*="kanban"] >.block-children > div {
     }
 
 
-/* Editar # de Relevancia */
-.tag[data-ref*="colum"] {
-	/* visibility: hidden important; */
-    color: red !important;
-    opacity: 0.5;
-	} 
 
 
 
 
-    
+
 .tag[data-ref*=in] {
 		visibility: hidden important;
 	} 
