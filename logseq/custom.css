@@ -5,7 +5,7 @@
     position: absolute !important;
     /* background-image: url(https://images.unsplash.com/photo-1582727657635-c771002bdada?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ); */
     height: 10rem !important;
-    width: 100% !important;
+    width: 300px !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover  !important;
