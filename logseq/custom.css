@@ -160,6 +160,9 @@ div[data-refs-self*="colum"]  .block-children    div[data-refs-self*="port-1"]  
     color: white !important;
     order: -1 !important; 
            }
+
+
+/*            
 div[data-refs-self*="colum"]  .block-children     div[data-refs-self*="port"] .block-children >div:first-child>div  {
     overflow: auto;
     width: 100%;
@@ -168,7 +171,7 @@ div[data-refs-self*="colum"]  .block-children     div[data-refs-self*="port"] .b
     overflow: hidden !important;
             color: rgb(204, 0, 0) !important;
  
-                   }
+                   } */
 /* div[data-refs-self*="colum"]  .block-children     .ls-block>div:first-child  {
  
         
