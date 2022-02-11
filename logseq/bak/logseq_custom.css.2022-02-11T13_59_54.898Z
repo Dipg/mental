@@ -3,7 +3,7 @@
 
 .ls-block img {
 
-    width: 30px !important;
+    width: 100%;
   height: auto !important;
 
 }
