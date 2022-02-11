@@ -16,7 +16,7 @@ div[data-refs-self*="colum"]  .block-children {
 	/* overflow-y: hidden !important; */
 	margin: 10px !important ;
 	}
-div[data-refs-self*="colum-2"] .block-children .block-children {
+div[data-refs-self*="colum"] .block-children .block-children {
     display: inline-block;
     width: 800px;
     padding-right: 3px;
