@@ -123,7 +123,7 @@ div[data-refs-self*="colum"]  .block-children {
     display: flex;
     /* width: 800px; */
     flex-wrap: wrap;
-    align-items: stretch !important;
+    align-items: flex-start;  
     /* background-color:red !important; */
     /* align-content: space-between !important; */
     justify-content: space-between; 
