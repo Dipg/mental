@@ -10,7 +10,7 @@ padding-right: 0px !important;
 padding-top: 0px !important;
 
 }
-div[data-refs-self*="colum"]  .block-children   .ls-block>div>mr-1 {
+div[data-refs-self*="colum"]  .block-children   .ls-block>div> {
 
  display:none !important;
 
