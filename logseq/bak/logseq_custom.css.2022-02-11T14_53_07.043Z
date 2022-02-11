@@ -17,11 +17,7 @@ div[data-refs-self*="colum"]  .block-children   .ls-block>div .mr-1 {
 }
 
 
-img{
-
-
-    
-}
+img.
 
 .tag[data-ref*="port"] {
     display:none !important;
