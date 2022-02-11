@@ -21,7 +21,7 @@ div[data-refs-self*="colum"]  .block-children {
     div[data-refs-self*="colum"]  .block-children> div {
 
         background-color:rgb(30, 255, 0) !important;
-        width: 170px !important;
+        width: 180px !important;
         /* height: 120px !important; */
         margin: 10px !important;
         word-break: break-all;
