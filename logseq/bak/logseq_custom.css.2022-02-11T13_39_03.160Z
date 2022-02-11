@@ -1,6 +1,6 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
-.block-content > span>div {
+.block-content > span>div>div {
     /* background-color: var(--cl-white);
     border-top: 1px solid var(--cl-lilywhite);
     border-right: 1px solid var(--cl-lilywhite);
@@ -9,7 +9,8 @@
     border-radius: 0px !important;
     box-shadow: none; */
     /* --webkit-box-shadow: none; */
-    width: 100px !important;
+    padding: auto;
+    width: 100% !important;
 }
 
 div[data-refs-self*="colum"] .block-children .block-children  .ls-block{
