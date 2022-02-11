@@ -5,7 +5,7 @@
 div[data-refs-self*="colum"]  .block-children  .ls-block{
 
     /* border-color: #00f; */
-padding-left: 0px !important;
+padding-left: -20px !important;
 
 }
 
