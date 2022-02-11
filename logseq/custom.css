@@ -1,7 +1,14 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 
-
+.dark-theme blockquote, html[data-theme=dark] blockquote {
+    background-color: var(--cl-bokara);
+    border-top: transparent;
+    border-right: transparent;
+    border-bottom: transparent;
+    border-left: transparent;
+    color: var(--cl-wildsand);
+} 
 
 .ls-block{
 
