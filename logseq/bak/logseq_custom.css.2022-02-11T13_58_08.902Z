@@ -3,7 +3,7 @@
 
 .ls-block img {
 
-    object-fit: cover !important;
+    object-fit: cover;
 
 }
 
