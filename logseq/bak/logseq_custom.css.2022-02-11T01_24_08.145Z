@@ -129,13 +129,11 @@ blockquote:after {
     box-shadow: 1px 1px 8px 1px #5050504b !important; 
 } */
 
-/* block-body */
-
 blockquote{
     text-align: center !important;
     margin-top: 0px !important; 
   margin-bottom: -15px !important;  
-  display: inline-block !important;
+  display: inline !important;
 }
 
 
