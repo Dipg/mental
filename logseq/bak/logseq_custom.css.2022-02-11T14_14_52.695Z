@@ -645,6 +645,12 @@ div[data-refs-self*="kanban"] >.block-children > div {
                     /* vertical-align: middle; */
                     /* margin-left: -80px !important;
                     margin-right: 0px !important; */
-              
+                    margin: 0 !important;
+                    padding: 0 !important;
                 }
 
+                div[data-refs-self*="colum"] .block-children> div img{
+                    /* margin: -20px !important;
+                    padding: -10px !important; */
+
+                }
