@@ -3,11 +3,13 @@
 
 
 /* Editar # de Relevancia */
-.tag[data-ref*="colum"] {
-	/* visibility: hidden important; */
-    color: red !important;
-    opacity: 0.5;
-	} 
+.tag[data-ref*="colum"] > .block-children {
+	display: inline-flex !important;
+	position: relative !important;
+	overflow-x: auto !important;
+	overflow-y: hidden !important;
+	margin: 10px !important ;
+	}
 
 
 div[data-refs-self*="kanban"] > .block-children {
