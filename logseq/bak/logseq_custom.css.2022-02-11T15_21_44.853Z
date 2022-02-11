@@ -18,12 +18,6 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
 }
 
 
-div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >div .flex{
-
-    display:none !important;
-   
-   }
-   
 
 div[data-refs-self*="colum"]  .block-children   .ls-block  .flex {
     padding-left: 0px !important;
