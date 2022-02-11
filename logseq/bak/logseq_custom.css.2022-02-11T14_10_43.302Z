@@ -649,7 +649,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
                     padding: 0 !important;
                 }
 
-                div[data-refs-self*="colum"] .block-children> div img{
+                div[data-refs-self*="colum"] .block-children> div {
                     margin: 0px !important;
                     padding: 0px !important;
 
