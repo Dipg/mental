@@ -488,7 +488,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
 
 
 /* Editar # de Relevancia */
-.tag[data-ref*="colum"] {
+.tag[data-ref*=""] {
 	/* visibility: hidden important; */
     color: red !important;
     opacity: 0.5;
