@@ -60,7 +60,7 @@ h1{
 
 div[data-refs-self*="colum"] .block-children .block-children {
 
-    padding-left: -10px;
+    padding-left: -3px;
     /* display: flex; */
     padding-right: 3px;
     background-color: rgba(6, 248, 6, 0) !important;
