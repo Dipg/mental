@@ -4,7 +4,7 @@
 
 div[data-refs-self*="colum"]   .block-children-left-border{
 
-    display: none !important;
+    display: none;
 
 }
 
