@@ -27,7 +27,7 @@ div[data-refs-self*="colum"]  .block-children   .ls-block  .block-content{
    
    div[data-refs-self*="colum"]  .block-children   .ls-block  img{
 
-   width: 100%px !important;
+   width: 30px !important;
    
    }
 
