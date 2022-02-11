@@ -15,8 +15,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
 
     
 .tag[data-ref*="red"]{
-display: inline-flex;
-
+display
 }
 
 
