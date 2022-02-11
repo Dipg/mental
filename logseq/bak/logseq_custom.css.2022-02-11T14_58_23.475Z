@@ -17,13 +17,6 @@ div[data-refs-self*="colum"]  .block-children   .ls-block>div .mr-1 {
 
 }
 
-div[data-refs-self*="colum"]  .block-children   .ls-block>div .mr-1 {
-
-    display:none !important;
-   
-   }
-   
-
 
 
 
