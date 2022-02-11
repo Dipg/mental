@@ -67,7 +67,7 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
    div[data-refs-self*="colum"]  .block-children    div[data-refs-self*="port"]   img{
     position: absolute;
     width: 100% !important;
-    height: 200px !important;
+    height: 200px;
    }
 
 
