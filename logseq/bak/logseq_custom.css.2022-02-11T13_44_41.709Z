@@ -634,9 +634,3 @@ div[data-refs-self*="kanban"] >.block-children > div {
                     padding-right: 5px !important;
                 }
 
-
-                .block-content > span>div>div .image-resize {
-
-                    padding-left: 0px !important;
-                    width: 100% !important;
-                }
