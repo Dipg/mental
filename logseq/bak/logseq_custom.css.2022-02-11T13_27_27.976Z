@@ -5,7 +5,7 @@
     /* border-radius: 0px !important;  */
     /* position: absolute !important; */
     height: 10rem;
-    width: 100% !important;
+    width: 100%;
     /* background-position: center; */
     /* background-repeat: no-repeat; */
     /* background-size: cover; */
