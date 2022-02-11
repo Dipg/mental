@@ -3,11 +3,7 @@
 
 
 
-div[data-refs-self*="colum"] .block-children .block-children  .ls-block{
-
-pad
-
-}
+div[data-refs-self*="colum"] .block-children .block-children  .ls-block
 
 div[data-refs-self*="colum"]  .block-children {
     display: flex;
