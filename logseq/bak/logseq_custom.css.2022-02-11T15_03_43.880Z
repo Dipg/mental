@@ -680,7 +680,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
                 }
 
                 .block-content > span>div>div .image-resize {
-                    object-fit: cover !important;
+                    /* object-fit: cover !important; */
                     /* padding-left: -10px !important; */
                     /* padding-right: 0px !important; */
                     /* height: auto; */
