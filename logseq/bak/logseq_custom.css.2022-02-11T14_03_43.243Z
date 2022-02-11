@@ -1,6 +1,12 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 
+img{
+
+    max-width: 100%;
+    max-height: 100%;
+}
+
 div[data-refs-self*="colum"] .block-children .block-children  .ls-block{
 
     /* border-color: #00f; */
