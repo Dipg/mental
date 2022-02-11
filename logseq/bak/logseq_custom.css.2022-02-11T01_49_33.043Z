@@ -16,7 +16,10 @@ div[data-refs-self*="kanban"] >.block-children > div {
 	}
 
     
-
+.tag[data-ref*="red"]{
+display: inline-flex;
+color: red !important;
+}
 
 
 .dark-theme blockquote, html[data-theme=dark] blockquote {
