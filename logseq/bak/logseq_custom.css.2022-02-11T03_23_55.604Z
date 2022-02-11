@@ -29,7 +29,6 @@ div[data-refs-self*="colum"]  .block-children {
         /* height: 120px !important; */
         margin: 5px !important;
         word-break: break-all;
-        padd
         }
 
 div[data-refs-self*="colum"] .block-children .block-children {
