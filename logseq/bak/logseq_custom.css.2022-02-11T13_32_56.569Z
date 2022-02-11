@@ -1,6 +1,6 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
-.block-content .ls-block img {
+.ls-block img {
     background-color: var(--cl-white);
     border-top: 1px solid var(--cl-lilywhite);
     border-right: 1px solid var(--cl-lilywhite);
