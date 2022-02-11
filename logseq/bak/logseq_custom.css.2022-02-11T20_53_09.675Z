@@ -162,8 +162,8 @@ div[data-refs-self*="colum"]  .block-children    div[data-refs-self*="port-1"]  
            }
 div[data-refs-self*="colum"]  .block-children     div[data-refs-self*="port"] .block-children >div:first-child  {
  
-    display: flex !important;
-    flex-direction: row !important; 
+    display: flex;
+    flex-direction: row; 
             color: white !important;
  
                    }
