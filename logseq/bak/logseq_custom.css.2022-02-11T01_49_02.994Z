@@ -10,7 +10,8 @@ div[data-refs-self*="kanban"] > .block-children {
 	margin: 10px !important ;
 	}
 div[data-refs-self*="kanban"] >.block-children > div {
-	display: inline-block ;
+	display: inline-block  !important ;
+};
 	width: 400px;
 	padding-right: 3px;
 	}
