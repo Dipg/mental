@@ -23,7 +23,7 @@ div[data-refs-self*="colum"]  .block-children {
         background-color:rgb(255, 255, 255) !important;
     
         box-shadow: 4px 3px 8px 1px #969696; 
-        color: black !important;
+        color: ;
         width: 189px !important;
         /* height: 120px !important; */
         margin: 5px !important;
