@@ -6,7 +6,7 @@
     border-right: 1px solid var(--cl-lilywhite);
     border-bottom: 1px solid var(--cl-lilywhite);
     border-left: 1px solid var(--cl-lilywhite);
-    border-radius: 0px !important;
+    border-radius: 0px;
     box-shadow: none;
     --webkit-box-shadow: none;
 }
