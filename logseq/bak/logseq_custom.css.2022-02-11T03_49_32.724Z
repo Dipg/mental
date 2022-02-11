@@ -21,7 +21,7 @@ div[data-refs-self*="colum"]  .block-children {
     
         box-shadow: 4px 3px 8px 1px #353535be; 
         color: rgb(255, 254, 254) !important;
-        /* width: 189px !important; */
+        width: 189px !important;
         /* height: 120px !important; */
         margin: 5px !important;
         word-break: break-all;
