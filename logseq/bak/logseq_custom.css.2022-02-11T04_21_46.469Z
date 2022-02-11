@@ -30,7 +30,7 @@ div[data-refs-self*="colum"]  .block-children {
         padding-bottom: 10px !important;
         padding-right: 20px !important;
         padding-left: -10px !important;
-        text-align: center !important;
+        text-align: left !important;
         }
 
 
