@@ -16,11 +16,7 @@ div[data-refs-self*="colum"]  .block-children   .ls-block>div .mr-1 {
  display:none !important;
 
 }
-div[data-refs-self*="colum"]  .block-children   .ls-block>div .flex {
 
-    display:none !important;
-   
-   }
 
 
 
