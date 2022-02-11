@@ -4,7 +4,7 @@
 div[data-refs-self*="colum"] .block-children .block-children  .ls-block{
 
     border-color: #00f;
-margin-left: -20px !important;
+margin-left: -80px !important;
 
 }
 
