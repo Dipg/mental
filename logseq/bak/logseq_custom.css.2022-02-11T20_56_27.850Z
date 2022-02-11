@@ -161,8 +161,7 @@ div[data-refs-self*="colum"]  .block-children    div[data-refs-self*="port-1"]  
     order: -1 !important; 
            }
 div[data-refs-self*="colum"]  .block-children     div[data-refs-self*="port"] .block-children >div:first-child  {
-    overflow: auto;
-    width: 100%;
+ 
     display: flex !important;
     flex-direction: row !important; 
     overflow: hidden !important;
