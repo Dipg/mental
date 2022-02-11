@@ -16,7 +16,8 @@ div[data-refs-self*="colum"]  .block-children   .ls-block>div .mr-1 {
 
 }
 
-.tag[data-ref*="port"] {
+.tag[data-ref*=
+2port] {
     visibility: hidden important;
 } 
 
