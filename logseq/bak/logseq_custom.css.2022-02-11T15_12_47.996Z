@@ -11,7 +11,7 @@ padding-top: 0px !important;
 
 }
 
-div[data-refs-self*="colum"] > div[data-refs-self*="port"]  .block-children   .ls-block>div .mr-1 {
+div[data-refs-self*="colum"] div[data-refs-self*="port"]  .block-children   .ls-block>div .mr-1 {
 
  display:none !important;
 
