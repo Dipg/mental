@@ -17,7 +17,7 @@ div[data-refs-self*="colum"]  .block-children {
 	}
 div[data-refs-self*="colum"] .block-children > div {
 	display: inline-block !important;
-	width: 900px !important;
+	width: 800px !important;
 	padding-right: 3px  !important;
 	}
 
