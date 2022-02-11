@@ -17,14 +17,6 @@ div[data-refs-self*="colum"]  .block-children   .ls-block>div>div >div>div> div 
 }
 
 
-div[data-refs-self*="colum"]  .block-children   .ls-block>div>div >div>div> div {
-
-    display:in !important;
-   
-   }
-   
-
-
 /* div[data-refs-self*="colum"]  .block-children   .ls-block {
 
 padding-left: 0px !important;
