@@ -34,7 +34,7 @@ div[data-refs-self*="colum"]  .block-children   .ls-block  .flex {
    
    }
 
-   width: 100% !important;
+
 
 /* div[data-refs-self*="colum"]  .block-children   .ls-block  .block-content{
 
