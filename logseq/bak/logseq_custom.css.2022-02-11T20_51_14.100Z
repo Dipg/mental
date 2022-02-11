@@ -166,7 +166,7 @@ div[data-refs-self*="colum"]  .block-children     div[data-refs-self*="port-1"] 
             color: white !important;
  
                    }
-div[data-refs-self*="colum"]  .block-children     .ls-block>div:first-child  {
+div[data-refs-self*="colum"]  .block-children     .ls-block>div  {
  
         
             color: white !important;
