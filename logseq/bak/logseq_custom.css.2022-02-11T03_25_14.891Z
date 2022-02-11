@@ -32,7 +32,6 @@ div[data-refs-self*="colum"]  .block-children {
         padding-top: 10px !important;
         padding-bottom: 10px !important;
         padding-right: 3px !important;
-        padding-right: 3px !important;
         }
 
 div[data-refs-self*="colum"] .block-children .block-children {
