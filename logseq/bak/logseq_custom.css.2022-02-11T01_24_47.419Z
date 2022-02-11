@@ -131,7 +131,7 @@ blockquote:after {
 
 block-body{
 
-    display: inline !important; 
+    display: inline-block !important; 
 
 } 
 
