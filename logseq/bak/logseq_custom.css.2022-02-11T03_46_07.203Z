@@ -2,6 +2,18 @@
 
 
 
+div[data-refs-self*="colum"]   .block-children-left-border{
+
+    display: none !important;
+
+}
+
+
+.block-children-left-border{
+    display: none !important;
+
+}
+
 
 div[data-refs-self*="colum"]  .block-children {
     display: flex;
