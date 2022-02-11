@@ -18,13 +18,13 @@ div[data-refs-self*="colum"]  .block-children {
 	margin: 10px 
 	
 	}
-div[data-refs-self*="colum"] .block-children  .block-children  {
+div[data-refs-self*="colum"] .block-children  {
 	display: inline-block;
 	width: 400px;
 	padding-right: 3px;
 	}
 	
-	div[data-refs-self*="colum-2"] .block-children .block-children  {
+	div[data-refs-self*="colum-2"] >.block-children > div {
 		display: inline-block;
 		width: 800px;
 		padding-right: 3px;
