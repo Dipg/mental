@@ -6,7 +6,6 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   .b
     padding-right: 0px !important;
     padding-top: 0px !important; */
     width: 100% !important;
-    display: block !important;
    }
 
 
