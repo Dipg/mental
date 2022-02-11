@@ -7,7 +7,7 @@ div[data-refs-self*="kanban"] > .block-children {
 	position: relative !important;
 	overflow-x: auto !important;
 	overflow-y: hidden !important;
-	margin: 10px !important ;
+	margin: 10px;
 	}
 div[data-refs-self*="kanban"] >.block-children > div {
 	display: inline-block;
