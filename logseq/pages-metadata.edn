@@ -1,6 +1,6 @@
 [{:block/name "",
-  :block/created-at 1644585431616,
-  :block/updated-at 1644585431616}
+  :block/created-at 1644587761324,
+  :block/updated-at 1644587761324}
  {:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -67,12 +67,12 @@
   :block/updated-at 1641992433040}
  {:block/name
   "../assets/estimación_de_la_tasa_de_interes_neutral-ecuador_1644339940566_0.pdf",
-  :block/created-at 1644585431616,
-  :block/updated-at 1644585431616}
+  :block/created-at 1644587761325,
+  :block/updated-at 1644587761325}
  {:block/name
   "../assets/estimación_de_la_tasa_de_interes_neutral_1644327769151_0.pdf",
-  :block/created-at 1644585431616,
-  :block/updated-at 1644585431616}
+  :block/created-at 1644587761324,
+  :block/updated-at 1644587761324}
  {:block/name "../assets/experimental_teory_es_1639493823887_0.pdf",
   :block/created-at 1640183914952,
   :block/updated-at 1640183914952}
@@ -320,8 +320,8 @@
   :block/created-at 1642172083943,
   :block/updated-at 1643652324120}
  {:block/name "colum",
-  :block/created-at 1644585431616,
-  :block/updated-at 1644585431616}
+  :block/created-at 1644587761325,
+  :block/updated-at 1644587761325}
  {:block/name "comments",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -341,8 +341,8 @@
   :block/created-at 1642172083942,
   :block/updated-at 1643589165247}
  {:block/name "curva de philips",
-  :block/created-at 1644585431616,
-  :block/updated-at 1644585431616}
+  :block/created-at 1644587761324,
+  :block/updated-at 1644587761324}
  {:block/name "daily briefing _ the economist",
   :block/created-at 1642172083943,
   :block/updated-at 1642172083943}
@@ -458,11 +458,11 @@
   :block/created-at 1643557229762,
   :block/updated-at 1643570638564}
  {:block/name "ecuador",
-  :block/created-at 1644585431616,
-  :block/updated-at 1644585431616}
+  :block/created-at 1644587761325,
+  :block/updated-at 1644587761325}
  {:block/name "efecto estimulo recompensa",
-  :block/created-at 1644585431616,
-  :block/updated-at 1644585431616}
+  :block/created-at 1644587761324,
+  :block/updated-at 1644587761324}
  {:block/name "efecto reputación",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -543,7 +543,7 @@
   :block/updated-at 1642172083936}
  {:block/name "feb 10th, 2022",
   :block/created-at 1644532752022,
-  :block/updated-at 1644585318645}
+  :block/updated-at 1644587746112}
  {:block/name "feb 11th, 2022",
   :block/created-at 1644537600000,
   :block/updated-at 1644537600000}
@@ -716,8 +716,8 @@
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
  {:block/name "informatica",
-  :block/created-at 1644585431616,
-  :block/updated-at 1644585431616}
+  :block/created-at 1644587761324,
+  :block/updated-at 1644587761324}
  {:block/name "inmediato",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
@@ -923,8 +923,8 @@
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
  {:block/name "organización vertical",
-  :block/created-at 1644585431617,
-  :block/updated-at 1644585431617}
+  :block/created-at 1644587761326,
+  :block/updated-at 1644587761326}
  {:block/name "pandas",
   :block/created-at 1642172083940,
   :block/updated-at 1644124957899}
@@ -1001,8 +1001,8 @@
   :block/created-at 1638961917543,
   :block/updated-at 1638961917543}
  {:block/name "regla de taylor",
-  :block/created-at 1644585431617,
-  :block/updated-at 1644585431617}
+  :block/created-at 1644587761326,
+  :block/updated-at 1644587761326}
  {:block/name "regulación",
   :block/created-at 1642172083942,
   :block/updated-at 1643120028875}
@@ -1031,8 +1031,8 @@
   :block/created-at 1643164699344,
   :block/updated-at 1643164740054}
  {:block/name "ses",
-  :block/created-at 1644585431616,
-  :block/updated-at 1644585431616}
+  :block/created-at 1644587761324,
+  :block/updated-at 1644587761324}
  {:block/name "sesgo cognitivo",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
@@ -1064,8 +1064,8 @@
   :block/created-at 1642172083940,
   :block/updated-at 1642172083940}
  {:block/name "tasa de interés neutral",
-  :block/created-at 1644585431617,
-  :block/updated-at 1644585431617}
+  :block/created-at 1644587761327,
+  :block/updated-at 1644587761327}
  {:block/name "tasa de interés pasivas referenciales plazo 361 y más",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
@@ -1073,8 +1073,8 @@
   :block/created-at 1644341470732,
   :block/updated-at 1644341655189}
  {:block/name "tasa natural",
-  :block/created-at 1644585431616,
-  :block/updated-at 1644585431616}
+  :block/created-at 1644587761324,
+  :block/updated-at 1644587761324}
  {:block/name "templates",
   :block/created-at 1642805872131,
   :block/updated-at 1643141394758}
@@ -1091,8 +1091,8 @@
   :block/created-at 1642178166048,
   :block/updated-at 1644552616240}
  {:block/name "tue, 18-01-2022",
-  :block/created-at 1644585431617,
-  :block/updated-at 1644585431617}
+  :block/created-at 1644587761327,
+  :block/updated-at 1644587761327}
  {:block/name "urgente",
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
