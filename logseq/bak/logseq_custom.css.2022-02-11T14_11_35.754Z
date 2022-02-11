@@ -650,7 +650,7 @@ div[data-refs-self*="kanban"] >.block-children > div {
                 }
 
                 div[data-refs-self*="colum"] .block-children> div img{
-                    /* margin: -20px !important;
-                    padding: -10px !important; */
+                    margin: -20px !important;
+                    padding: -10px !important;
 
                 }
