@@ -9,10 +9,7 @@ div[data-refs-self*="colum"]   .block-children-left-border{
 }
 
 
-block-children-left-border{
-    display: none !important;
 
-}
 
 
 div[data-refs-self*="colum"]  .block-children {
