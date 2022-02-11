@@ -50,10 +50,10 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
    } */
 
 
-   /* .block-content > span>div>div .image-resize {
+   .block-content > span>div>div .image-resize {
        
    width: 100% !important;
-   } */
+   }
 /* div[data-refs-self*="colum"]  .block-children   .ls-block  .block-content{
 
     padding-left: 0px !important;
