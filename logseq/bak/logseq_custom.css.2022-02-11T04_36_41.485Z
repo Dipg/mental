@@ -61,7 +61,7 @@ h1{
 div[data-refs-self*="colum"] .block-children .block-children {
 
 
-    display: flex;
+    display: inline-block;
     padding-right: 3px;
     background-color: rgba(0, 128, 0, 0) !important;
     
