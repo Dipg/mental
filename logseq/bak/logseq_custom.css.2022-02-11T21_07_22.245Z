@@ -34,7 +34,7 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
 
 }
 
-div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >div:first-child .block-control{
+div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >div:first-child .bullet-container{
 
     /* display:none !important; */
    
