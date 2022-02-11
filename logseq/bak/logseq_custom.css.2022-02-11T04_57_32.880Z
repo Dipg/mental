@@ -3,8 +3,6 @@
 
 
 
-ls-block
-
 div[data-refs-self*="colum"]  .block-children {
     display: flex;
     /* width: 800px; */
