@@ -30,7 +30,6 @@ div[data-refs-self*="colum"]  .block-children {
         margin: 5px !important;
         word-break: break-all;
         padding-top: 10px !important;
-        padding-bottom: 10px !important;
         }
 
 div[data-refs-self*="colum"] .block-children .block-children {
