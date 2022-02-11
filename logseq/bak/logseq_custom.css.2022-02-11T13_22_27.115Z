@@ -15,7 +15,6 @@
 
 div[data-refs-self*="colum"] .block-children .block-children  .ls-block{
 
-    bor
 margin-left: -20px !important;
 
 }
