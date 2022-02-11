@@ -8,7 +8,7 @@
     border-left: 1px solid var(--cl-lilywhite);
     border-radius: 0px !important;
     box-shadow: none;
-    --webkit-box-shadow: none;
+    /* --webkit-box-shadow: none; */
 }
 
 div[data-refs-self*="colum"] .block-children .block-children  .ls-block{
