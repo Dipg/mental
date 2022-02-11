@@ -559,9 +559,3 @@ div[data-refs-self*="kanban"] >.block-children > div {
                     padding-right: 5px !important;
                 }
 
-
-                .tag{
-
-                    display: inline-block !important;
-                }
-                
