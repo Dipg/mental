@@ -8,7 +8,7 @@
     
 } */
 
-div[data-refs-self*="colum"]  .block-children {
+div[data-refs-self*="colum"] > .block-children {
 	display: inline-flex !important;
 	position: relative !important;
 	overflow-x: auto !important;
