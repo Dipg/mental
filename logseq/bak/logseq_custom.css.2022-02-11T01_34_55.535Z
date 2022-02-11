@@ -1,16 +1,6 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
-.tag[data-ref*="kanban"]> .block-children {
-	display: inline-flex;
-	position: relative;
-	overflow-x: auto;
-	overflow-y: hidden;
-	margin: 10px;
-	}
-
-
-
-}
+.tag[data-ref*="kanban"]
 
 a[data-refs-self*="kanban"] > .block-children {
 	display: inline-flex;
