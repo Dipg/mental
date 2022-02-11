@@ -3,8 +3,8 @@
 
 
 .block-children-container .block-children-left-border{
-    
-    display: none;
+
+display:none !important;
 
 }
 
