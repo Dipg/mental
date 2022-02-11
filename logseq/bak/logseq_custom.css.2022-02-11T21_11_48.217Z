@@ -29,7 +29,7 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
  /* display:none !important; */
 
  position: absolute;
- top: 55%;
+ top: 50%;
  width: 100%;
 
 }
@@ -39,7 +39,7 @@ div[data-refs-self*="colum"]  .block-children   div[data-refs-self*="port"]   >d
     /* display:none !important; */
    
     position: absolute;
-    top: 100%;
+    top: 95%;
     width: 10%;
    
    }
