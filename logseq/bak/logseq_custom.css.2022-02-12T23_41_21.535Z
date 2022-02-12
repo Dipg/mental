@@ -14,10 +14,6 @@ display: none !important;
     margin-top: 5px !important;
     margin-bottom: 5px !important;
 }
-*:is(.editor-inner .uniline-block.h2, .editor-inner .h3, .ls-block h3) {
-    margin-top: 5px !important;
-    margin-bottom: 5px !important;
-}
 
 
 .block-ref {
