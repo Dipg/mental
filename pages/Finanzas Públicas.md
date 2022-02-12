@@ -166,7 +166,7 @@
 				- Selección adversa
 				  collapsed:: true
 					- Se venden productos de diferente calidad a un mismo precio, debido a la información asimétrica, vendiendo así muchos productos de baja calidad  y  pocos de alta calidad.
-					- Esconfo
+					- Escondo información para obterner mejores precios o servicios
 				-
 			- Externalidades
 			  collapsed:: true
