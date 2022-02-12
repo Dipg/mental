@@ -152,7 +152,7 @@
 				- Vendo mas y cobra más.
 				- Genera Perdida Social
 				- #[[Ejercicios Numéricos]] [[Monopolio]]
-				-
+					-
 				-
 			- Información Incompleta
 			  collapsed:: true

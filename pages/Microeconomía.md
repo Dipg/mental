@@ -100,7 +100,8 @@
 	- Optimo del monopolo
 	  collapsed:: true
 		- Se da cuando:
-		- $$IMg=CMg$$
+		- id:: 6201acf7-9e58-4b90-a0fd-de03b7155bf3
+		  $$IMg=CMg$$
 	- ¿Qué pasa con las ventas y las ganancias?
 	  collapsed:: true
 		- Vendo menos y cobro mas
