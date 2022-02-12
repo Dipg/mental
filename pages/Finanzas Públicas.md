@@ -38,7 +38,7 @@
 		- Política Fiscal Contractiva #red
 		  collapsed:: true
 			- ¿ Que es una política fiscal Contractiva?
-				- Es aquella que se da en situaciones inflacionistas🧐 ![image.png](../assets/image_1644629320122_0.png){:height 46, :width 72} *Si se tienen una alta inflación esto quiere decir que según la [[Curva de Philips]]  el Empleo será menor, por lo que la politica contractiva se aplica cuando existe poco desempleo*🧐, provocada esta por un exceso de [[Demanda Agregada]] , reduciendo así el [[Gasto Agregado]] .
+				- Es aquella que se da en situaciones inflacionistas🧐 ![image.png](../assets/image_1644629320122_0.png){:height 46, :width 72} *Si se tienen una alta inflación esto quiere decir que según la [[Curva de Philips]]  el Empleo será menor, por lo que la política contractiva se aplica cuando existe poco desempleo*🧐, provocada esta por un exceso de [[Demanda Agregada]] , reduciendo así el [[Gasto Agregado]] .
 				- Acciones:
 				  collapsed:: true
 					- Reducción del gasto público
