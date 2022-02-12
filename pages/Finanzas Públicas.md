@@ -100,7 +100,7 @@
 				- ### Curva de Contrato
 				- ((619cf6b7-2835-4ed1-a3cd-6c24b8ac674f))
 				- ¿Cual es el limitando de las Curvas de Contrato?
-				-
+					-
 			- ¿Qué resume las preferencias sociales?
 			  collapsed:: true
 				- Una función de bienestar social resume las preferencias sociales en relación con la utilidad de cada uno de su componentes.
@@ -812,4 +812,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578294
+	- ![image.png](../assets/image_1644241578294_0.png)
