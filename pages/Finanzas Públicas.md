@@ -19,7 +19,7 @@
 		  collapsed:: true
 			- ¿Qué es una política expansiva?
 			  collapsed:: true
-				- Es una [[Política]] que se lleva acabo en situaciones de [[Crecimiento Económico]]  y cuando existen altos niveles de paro , es por esto que el gobierno debera aplicar una política expansiva con la finalidad {{cloze de aumentar el [[Gasto Agregado]] }},  para aumentar la {{cloze renta efectiva}} y así disminuir {{cloze los niveles de paro.}}
+				- Es una [[Política]] que se lleva acabo en situaciones de [[Crecimiento Económico]]  y cuando existen altos niveles de paro , es por esto que el gobierno debera aplicar una política expansiva con la finalidad {{cloze de aumentar el  }} [[Gasto Agregado]],  para aumentar la {{cloze renta efectiva}} y así disminuir {{cloze los niveles de paro.}}
 				- Esta política expansiva  puede ser de cinco tipos o vías de aplicación.
 					- [](#1.) Reducción de los impuestos
 					  collapsed:: true
