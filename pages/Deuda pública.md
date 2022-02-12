@@ -1,4 +1,4 @@
-- ¿Cual es el porcentaje de deuda pública que según el [[Código de Finanzas Públicas]] ?
+- ¿Cual es el porcentaje de deuda pública que se debería aplicar sen el  según el [[Código de Finanzas Públicas]] ?
 - Deuda Pública Ecuador
   title:: Deuda Pública
 	- Acceder a los boletines de Deuda Pública del Ecuador
