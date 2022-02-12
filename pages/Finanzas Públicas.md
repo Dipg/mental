@@ -83,9 +83,10 @@
 			- ¿ Que hace la economía del bienestar? #Red
 			  collapsed:: true
 				- Análisis de la deseabilidad social de situaciones  económicas alternativas, se da el uso de [[Curvas de Indiferencia]]
-			- ¿Qué es la Caja de Edgeworth ?
+			- ¿Qué es la [[Caja de Edgeworth ]] ?
 			  collapsed:: true
 				- ((619cf6b7-2835-4ed1-a3cd-6c24b8ac674f))
+			-
 			- {{embed ((619cf53b-fce0-40c3-b7e3-02e285fcfc34))}}
 			- ¿Qué resume las preferencias sociales?
 			  collapsed:: true
