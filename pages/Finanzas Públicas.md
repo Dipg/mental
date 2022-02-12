@@ -161,7 +161,7 @@
 			  collapsed:: true
 				- Riesgo Moral
 				  collapsed:: true
-					- Como cambio mi comportamiento
+					- Como cambio mi comportamiento ante el pago de un acontecimiento en especifico
 					- La parte cuyas acciones no se observan pueden influir en la probabilidad o en la magnitud relacionado con un acontecimiento.
 				- Selección adversa
 				  collapsed:: true
@@ -840,4 +840,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578294_0.png)       
+	- ![image.png](../assets/image_1644241578294_0.png)
