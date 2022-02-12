@@ -77,7 +77,7 @@
 				- El {{cloze consumó}} y el {{cloze Empleo}}
 	- # Análisis Normativo 🔴
 	  collapsed:: true
-	  Entra en Juego lo que se conoce como [[Economía del Bienestar]], la cual, en resumen, realiza un análisis de la deseabilidad social de situaciones econ
+	  Entra en Juego lo que se conoce como [[Economía del Bienestar]], la cual, en resumen, realiza un análisis de la deseabilidad social de situaciones económicas alternativas
 		- Economía del bienestar
 		  collapsed:: true
 			- ¿ Que hace la economía del bienestar? #Red
