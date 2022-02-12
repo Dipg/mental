@@ -1,1 +1,2 @@
+-
 - Consumo + Inversión + Gasto + Exportaciones – Importaciones
