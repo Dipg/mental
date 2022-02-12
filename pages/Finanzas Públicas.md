@@ -95,7 +95,7 @@
 				- ¿Qué encuentra la función de bienestar Social?
 				  collapsed:: true
 					- EL Máximo de Bienestar Social
-		- En este tipo de análisis las fianzas públicas pueden buscar ser eficientes en el sentido de Pareto, encontrando un optimo que sacrifica recursos de un sector para asignarlos a otros sector, o las fiannzas públicas pueden buscar la mejora en el sentido de pareto, encontrar un optimo que NO sacrifica recueros de un sector para mejorar otro, s
+		- En este tipo de análisis las fianzas públicas pueden buscar ser eficientes en el sentido de Pareto, encontrando un optimo que sacrifica recursos de un sector para asignarlos a otros sector, o las fiannzas públicas pueden buscar la mejora en el sentido de pareto, encontrar un optimo que NO sacrifica recueros de un sector para mejorar otro, sino que los recursos son optineidos mediante el incremtno
 	- ## Ventajas absolutas y ventajas comparativas #yellow
 	  collapsed:: true
 		- Ventajas Absolutas
