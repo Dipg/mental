@@ -187,7 +187,8 @@
 					  collapsed:: true
 						- {{youtube https://www.youtube.com/watch?v=JP-9nQr3mek}}
 						- {{youtube-timestamp 183}}  Movimiento de la Curva de beneficio, hacia la derecha
-				- ¿ Como se corrigen la externalidades
+				- ¿ Como se corrigen la externalidades?
+					- Mediante Tasas o Nomras
 			- Bienes Públicos
 			  collapsed:: true
 				- Sin Embargo dentro del [[Sector Público]] Existen problemas Como:
