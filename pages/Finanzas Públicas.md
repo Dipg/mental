@@ -238,6 +238,8 @@
 						- Ventajas
 							- Los que se benefician soportan los costos
 						- Desventajas
+							- Provocan Subconsumo
+							-
 					- Precio Uniforme
 					- Colas
 					- ¿Cuándo se hace cargo el estado?
