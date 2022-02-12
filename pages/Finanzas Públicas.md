@@ -189,6 +189,7 @@
 						- {{youtube-timestamp 183}}  Movimiento de la Curva de beneficio, hacia la derecha
 				- ¿ Como se corrigen la externalidades negativas?
 					- Mediante Tasas o Normas
+				-
 			- Bienes Públicos
 			  collapsed:: true
 				- Sin Embargo dentro del [[Sector Público]] Existen problemas Como:
