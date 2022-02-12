@@ -3,7 +3,7 @@
 - # TODO Unida 1- Economía del Sector Público  ![📑](../assets/UNIDAD_1_1637632758053_0.pdf) ![​📚​ ](../assets/La_Economía_del_Sector_Público_1637674931911_0.pdf)
   collapsed:: true
   Se parte de dos tipos de análisis, el [[Análisis Positivo]]  y el [[Análisis Normativo]]:
-	- ## Análisis Positivo 🟡
+	- ### Análisis Positivo 🟡
 	  Se parte de algo empírico y técnicamente comprobado para la toma de decisiones, usa [[Encuestas]], [[Experimentos]], [[Econometría]], [[Investigación Empírica]] , desde esta base se parte a los objetivos de la política fiscal:
 		- Objetivos de la [[Política Fiscal]] 🟢
 		  collapsed:: true
