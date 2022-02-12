@@ -11,7 +11,7 @@ div[data-refs-self*="video"]  .block-children>div:first-child>div> .block-conten
 }
 
 
-div[data-refs-self*="video"]  .block-children>div:first-child>div> .block-content-wrapper>div>div>span>div  {
+div[data-refs-self*="video"]  .block-children .iframe   {
 
     background-color: red !important;
 height: 600px !important;
