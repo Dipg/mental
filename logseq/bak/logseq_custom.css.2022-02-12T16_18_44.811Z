@@ -7,28 +7,35 @@ display: none !important;
 }
 
 
+body {
+    counter-reset: chapter section subsection;
+  }
+  
+  h1.chapter::before {
+    counter-increment: chapter;
+    content: "Chapter " counter(chapter) ": ";
+  }
+  
+  h1.chapter {
+    counter-reset: section;
+  }
+  
+  h2.section::before {
+    counter-increment: section;
+    content: "Section " counter(chapter) "." counter(section) ": ";
+  }
+  
+  h2.section {
+    counter-reset: subsection;
+  }
+  
+  h3.subsection::before {
+    counter-increment: subsection;
+    content: "Subsection " counter(chapter) "." counter(section) "." counter(subsection) ": ";
+  }
 
-body{
-    counter-reset: Seccion 1;
- }
- h1{
-    counter-reset: SubSeccion ;
- }
- h1:before{
-    counter-increment: Seccion ;
-    content: "Unidad " counter(Seccion)". ";
- }
- h2{
-    counter-reset: SubSubSeccion ;
- }
- h2:before{
-    counter-increment: SubSeccion ;
-    content: counter(Seccion) "." counter(SubSeccion)". ";
- }
- h3:before{
-    counter-increment: SubSubSeccion;
-    content: counter(Seccion) "." counter(SubSeccion)"." counter(SubSubSeccion)". ";
- }
+
+  
 
 *:is(.editor-inner .uniline-block.h2, .editor-inner .h2, .ls-block h2) {
     margin-top: 5px !important;
