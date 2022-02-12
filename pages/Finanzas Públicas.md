@@ -236,7 +236,7 @@
 					- Tasa de Uso
 						- Se paga por el uso o beneficio del [[Bien Público]]
 						- Ventajas
-							-
+							- Los que se benefician soportan los costos
 						- Desventajas
 					- Precio Uniforme
 					- Colas
