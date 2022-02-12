@@ -212,7 +212,7 @@
 				- Por que el [[Cmg]] de suministrar a más personas es alto , Ej. Educación; Salud
 				- ((619d2ea5-50c4-466d-a141-8258ac5d065d))
 				- ¿Como se encuentra la cantidad eficiente en un bien publico ?
-					- Cuadno el precio o ()
+					- Cuadno el precio o ([[Funcion  ]])
 			- Mecanismos para racionalizar los bienes Públicos
 			  collapsed:: true
 				- ¿Cuándo se hace cargo el estado?
