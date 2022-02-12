@@ -224,6 +224,7 @@
 			  Existen 3 Formas
 				- [](#1.)  Provisión Uniforme
 					- Se da la misma cantidad de bienes y servicios a todas las personas
+					- ![image.png](../assets/image_1644709612764_0.png)
 					- ¿Qué distorsión genera la provisión uniforme?
 						- Unos obtienen un nivel del bien superior al eficiente y otros un  nivel menor al eficeinte
 				- Mecanismos para racionalizar los bienes Públicos
