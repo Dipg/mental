@@ -104,6 +104,7 @@
 					- Solo permite hacer el análisis de 2 bienes  o servicios o sectores en
 			- ¿Qué resume las preferencias sociales?
 			  collapsed:: true
+			  background-color:: #978626
 				- Una función de bienestar social resume las preferencias sociales en relación con la utilidad de cada uno de su componentes.
 				- ¿Qué encuentra la función de bienestar Social?
 				  collapsed:: true
