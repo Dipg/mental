@@ -1,2 +1,2 @@
-- El gasto agregado es una de las formas de medir el PIB, ya que se toma en cuenta el gasto de las personas (Consumo), el gasto de las empresas(Inversión) y el gasto del gobierno (Gasto) , así como también los gasto de los extrangeros (Exportaciones) y
+- El gasto agregado es una de las formas de medir el PIB, ya que se toma en cuenta el gasto de las personas (Consumo), el gasto de las empresas(Inversión) y el gasto del gobierno (Gasto) , así como también los gasto de los extranjeros (Exportaciones) y se restan los gastos de los nacionales en el extrajera (Importaciones)
 - Consumo + Inversión + Gasto + Exportaciones – Importaciones
