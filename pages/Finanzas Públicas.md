@@ -77,7 +77,7 @@
 				- El {{cloze consumó}} y el {{cloze Empleo}}
 	- ## Análisis Normativo 🔴
 	  collapsed:: true
-	  Entra en Juego lo que se conoce como [[Economía del Bienestar]], la cual, en resumen, realiza un análisis de la deseabilidad social de situaciones económicas alternativas
+	  Entra en Juego lo que se conoce como [[Economía del Bienestar]], la cual, en resumen, realiza un análisis de la deseabilidad social de situaciones económicas alternativas¡
 		- Economía del bienestar
 		  collapsed:: true
 			- ¿ Que hace la economía del bienestar? #Red
@@ -93,13 +93,6 @@
 				- ¿Qué encuentra la función de bienestar Social?
 				  collapsed:: true
 					- EL Máximo de Bienestar Social
-	- ### wfsdf
-	- ### asdasdas
-	- sadf
-	- ## dasd
-	- ### asdad
-	- ### adasdasd
-	-
 	- ## Ventajas absolutas y ventajas comparativas #yellow
 	  collapsed:: true
 		- Ventajas Absolutas
@@ -801,4 +794,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578294_0.png)
+	- ![image.png](../assets/image_1644241578294_0.png) 
