@@ -23,8 +23,6 @@ div[data-refs-self*="video"]  .block-children iframe  {
 
 
 
-
-
 div[data-refs-self*="colum"]  .block-children div[data-refs-self*="port"]  {
 
     /* border-color: #00f; */
