@@ -2,7 +2,7 @@
   id:: 620716d8-26c4-43af-b7cd-e77b077f78b8
 - # TODO Unida 1 ![📑](../assets/UNIDAD_1_1637632758053_0.pdf) ![​📚​ ](../assets/La_Economía_del_Sector_Público_1637674931911_0.pdf)
   collapsed:: true
-	-
+	- # Análisis Positivo
 	- Objetivos de la [[Política Fiscal]] 🟢
 	  collapsed:: true
 		- ¿Cuáles son los objetivos de la política fiscal?
