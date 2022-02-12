@@ -58,7 +58,7 @@
 			- Su intervención se da a través de la {{cloze  variación}} del [[Gasto Público]] y de los [[Impuestos]].
 		- ¿ Cuales son las funciones de las finanzas Públicas? #red
 		  collapsed:: true
-			- [](#1.) Formular la [[Política Fiscal]] y financiera de corto, mediano y lago plazo en función de la [[Política Económica]] y social del Gobierno.
+			- [](#1.) Formular la [[Política Fiscal]] y financiera de corto, mediano y lago plazo en función de la [[Política Económica]] y social del [[Gobierno]].
 			- [](#2.)Proponer al organismo Ejecutivo, la [[Política Presupuestaria]] y las normas para su ejecución, {{cloze dirigiendo}}, {{cloze coordinando }}y {{cloze consolidando}} la formulación del proyecto del [[PGE]] de Ingresos y Egresos del Estado. ([[Deuda Pública]])
 			- [](#3.) Proponer al [[SRI]], las{{cloze  normas para la desconcentración}} en la percepción de ingresos y  la {{cloze programación del flujo de ingresos}} provenientes de la {{cloze recaudación}} de los [[Impuestos]] .
 			- [](#4.)  {{cloze Transferir }}a los organismos y entidades del Estado los {{cloze recursos financieros asignados }}en sus respectivos presupuestos, de acuerdo con {{cloze la captación de los ingresos}}.
