@@ -179,7 +179,7 @@
 						- {{youtube-timestamp 183}}  Movimiento de la Curva de beneficio, hacia la derecha
 			- Bienes Públicos
 			  collapsed:: true
-				- Sin Embargo dentro del
+				- Sin Embargo dentro del [[Sector Público]] Existen problemas Como:
 				- No- Exclusivos
 				  collapsed:: true
 					- No se pude excluir a ningún consumidor de su consumo
