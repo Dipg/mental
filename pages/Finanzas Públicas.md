@@ -85,8 +85,8 @@
 				- Análisis de la {{cloze deseabilidad }} social de situaciones  económicas alternativas, se da el uso de [[Curvas de Indiferencia]]
 			- ¿Qué es la [[Caja de Edgeworth ]] ?
 			  collapsed:: true
+				- ((6207e853-e41c-4ff4-85da-04385cc67972))
 				- ((619cf6b7-2835-4ed1-a3cd-6c24b8ac674f))
-			- ((6207e853-e41c-4ff4-85da-04385cc67972))
 			- {{embed ((619cf53b-fce0-40c3-b7e3-02e285fcfc34))}}
 			- ¿Qué resume las preferencias sociales?
 			  collapsed:: true
