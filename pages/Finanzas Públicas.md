@@ -59,7 +59,7 @@
 			- Su intervención se da a través de la {{cloze  variación}} del [[Gasto Público]] y de los [[Impuestos]].
 		- ¿ Cuales son las funciones de las finanzas Públicas? #red
 		  collapsed:: true
-			- [](#1.)  Evaluar la {{cloze ejecución}} del [[Presupuesto General del Estado]] de {{cloze ingresos}} y {{cloze egresos}} del Estado y proponer al Ejecutivo medidas correctivas de su competencia.
+			- [](#1.)  Evaluar la {{cloze ejecución}} del [[Presupuesto General del Estado]] de {{cloze ingresos}} y {{cloze egresos}} del Estado y {{cloze proponer}} al Ejecutivo {{cloze medidas correctivas de su competencia}}.
 			- [](#2.) Cierre contable y liquidar el presupuesto general de ingresos y egresos del estado
 			- [](#3.) Consolidar el registro de los bienes que contribuyen activos del estado y llevar la contabilidad patrimonial correspondiente.
 			- [](#4.) Definir con base en la política económica para la formulación, priorización , evaluación y selección de proyectos de inversión y programas a ser ejecutados con recursos internos, financiamiento y cooperatividad para la formulación,
