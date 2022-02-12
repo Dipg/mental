@@ -90,7 +90,7 @@
 			- {{embed ((619cf53b-fce0-40c3-b7e3-02e285fcfc34))}}
 			- ¿Qué resume las preferencias sociales?
 			  collapsed:: true
-				- Una función de bienestar social resume las preferencias sociales en relación con la utilidad de cada uno de susu componentes.
+				- Una función de bienestar social resume las preferencias sociales en relación con la utilidad de cada uno de su componentes.
 				- ¿Qué encuentra la función de bienestar Social?
 				  collapsed:: true
 					- EL Máximo de Bienestar Social
