@@ -1,28 +1,28 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
-body {
-    counter-reset: chapter 3 section 0 slide 2;
-  }
-  
-  h2 {
-    counter-increment: slide -2 section;
-  }
-  
-  h3 {
-    counter-increment: slide;
-  }
-  
-  h1:before {
-    content: counter(chapter)". ";
-  }
-  
-  h2:before {
-    content: counter(chapter)"." counter(section)" ";
-  }
-  
-  h3:before {
-    content: counter(chapter)"." counter(section)"." counter(slide)" ";
-  }
+
+body{
+    counter-reset: Seccion;
+ }
+ h1{
+    counter-reset: SubSeccion;
+ }
+ h1:before{
+    counter-increment: Seccion;
+    content: "" counter(Seccion)". ";
+ }
+ h2{
+    counter-reset: SubSubSeccion;
+ }
+ h2:before{
+    counter-increment: SubSeccion;
+    content: counter(Seccion) "." counter(SubSeccion)". ";
+ }
+ h3:before{
+    counter-increment: SubSubSeccion;
+    content: counter(Seccion) "." counter(SubSeccion)"." counter(SubSubSeccion)". ";
+ }
+
 
 
 *:is(.editor-inner .uniline-block.h2, .editor-inner .h2, .ls-block h2) {
