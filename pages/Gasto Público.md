@@ -1,0 +1,1 @@
+alias:: Gasto del Gobierno
