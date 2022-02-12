@@ -97,7 +97,7 @@
 					- RMS= RMST
 						- ¿Qué es RMST?
 							- La relación de los precios de los factores (Salario y renta )
-				-
+				- ### Curva de Contrato
 				- ((619cf6b7-2835-4ed1-a3cd-6c24b8ac674f))
 			- {{embed ((619cf53b-fce0-40c3-b7e3-02e285fcfc34))}}
 			- ¿Qué resume las preferencias sociales?
