@@ -234,6 +234,7 @@
 				- Mecanismos para racionalizar los bienes Públicos
 				  collapsed:: true
 					- Tasa de Uso
+						-
 					- Precio Uniforme
 					- Colas
 					- ¿Cuándo se hace cargo el estado?
