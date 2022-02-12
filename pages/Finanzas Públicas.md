@@ -239,7 +239,7 @@
 							- Los que se benefician soportan los costos
 						- Desventajas
 							- Provocan Subconsumo
-							- La administración
+							- La administración de sistemas de precios aumetna los costos de transacción
 					- Precio Uniforme
 					- Colas
 					- ¿Cuándo se hace cargo el estado?
