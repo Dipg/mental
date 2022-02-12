@@ -25,9 +25,9 @@ display: none !important;
     /* transition: .3s; */
 }
 
-/* .block-ref a{
+.block-ref a{
     display: none !important;
-} */
+}
 
 div[data-refs-self*="video"]  .block-children iframe  {
 
