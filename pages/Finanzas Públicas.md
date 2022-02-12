@@ -165,7 +165,8 @@
 					- La parte cuyas acciones no se observan pueden influir en la probabilidad o en la magnitud relacionado con un acontecimiento.
 				- Selección adversa
 				  collapsed:: true
-					- Se venden productos de diferente calidad a un mismo precio, debido a la información asimétrica, vendiendo así muchos productos de baja calidad  y  pocos de alta calidad
+					- Se venden productos de diferente calidad a un mismo precio, debido a la información asimétrica, vendiendo así muchos productos de baja calidad  y  pocos de alta calidad.
+					- Esconfo
 				-
 			- Externalidades
 			  collapsed:: true
