@@ -86,6 +86,7 @@
 			- ¿Qué es la [[Caja de Edgeworth ]] ?
 			  collapsed:: true
 				- ((6207e853-e41c-4ff4-85da-04385cc67972))
+				- ((6207f6e6-e3df-43c1-bd0c-6e8035f1d64c))
 				- ((619cf6b7-2835-4ed1-a3cd-6c24b8ac674f))
 				- Como se encontraba la relación de Eficiencia en la [[caja de edgeworth]]
 			- {{embed ((619cf53b-fce0-40c3-b7e3-02e285fcfc34))}}
