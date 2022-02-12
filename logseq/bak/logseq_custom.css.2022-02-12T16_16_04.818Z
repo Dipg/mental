@@ -8,29 +8,27 @@ display: none !important;
 
 
 
-body {
-    counter-reset: chapter; /*we reset the chapter once*/
-  }
-  h1.chapter {
-    counter-reset: section; /*we reset the section each chapter*/
-  }
-  h1.chapter::before {
-    counter-increment: chapter;
-    content: "Chapter " counter(chapter) ": ";
-  }
-  
-  h2.section {
-    counter-reset: subsection; /*we reset the subsection each section*/
-  }
-  h2.section::before {
-    counter-increment: section;
-    content: "Section " counter(chapter) "." counter(section) ": ";
-  }
-  
-  h3.subsection::before {
-    counter-increment: subsection;
-    content: "Subsection " counter(chapter) "." counter(section) "." counter(subsection) ": ";
-  }
+body{
+    counter-reset: Seccion;
+ }
+ h1{
+    counter-reset: SubSeccion;
+ }
+ h1:before{
+    counter-increment: Seccion;
+    content: "Capítulo " counter(Seccion)". ";
+ }
+ h2{
+    counter-reset: SubSubSeccion;
+ }
+ h2:before{
+    counter-increment: SubSeccion;
+    content: counter(Seccion) "." counter(SubSeccion)". ";
+ }
+ h3:before{
+    counter-increment: SubSubSeccion;
+    content: counter(Seccion) "." counter(SubSeccion)"." counter(SubSubSeccion)". ";
+ }
 
 *:is(.editor-inner .uniline-block.h2, .editor-inner .h2, .ls-block h2) {
     margin-top: 5px !important;
