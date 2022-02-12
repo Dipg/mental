@@ -214,6 +214,7 @@
 				- ((619d2ea5-50c4-466d-a141-8258ac5d065d))
 				- ¿Como se encuentra la cantidad eficiente  (o Valor de eficiencia) de un bien público ?
 					- Cuadno el precio ( 0 [[Función  de Demanda Inversa]] ) es igual al [[Cmg]]
+					- En estos
 			- Mecanismos para racionalizar los bienes Públicos
 			  collapsed:: true
 				- ¿Cuándo se hace cargo el estado?
