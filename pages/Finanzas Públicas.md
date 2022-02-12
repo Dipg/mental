@@ -89,6 +89,7 @@
 				- ((6207f6e6-e3df-43c1-bd0c-6e8035f1d64c))
 				- Condición de Eficiencia de Intercambio
 					- RMS = RMS
+					-
 				- Eficiencia en la Producción
 					- RMS= RMT
 				- ((619cf6b7-2835-4ed1-a3cd-6c24b8ac674f))
