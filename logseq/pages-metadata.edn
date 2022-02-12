@@ -1,6 +1,6 @@
 [{:block/name "",
-  :block/created-at 1644613099471,
-  :block/updated-at 1644613099471}
+  :block/created-at 1644635737696,
+  :block/updated-at 1644635737696}
  {:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -411,7 +411,7 @@
   :block/updated-at 1639008000000}
  {:block/name "demanda agregada",
   :block/created-at 1638961917540,
-  :block/updated-at 1638961917540}
+  :block/updated-at 1644634416981}
  {:block/name "deuda interna",
   :block/created-at 1643348495992,
   :block/updated-at 1643348504978}
@@ -550,6 +550,9 @@
  {:block/name "experimentos  en linea -prueba a/b través de facebook",
   :block/created-at 1642180004251,
   :block/updated-at 1642913066951}
+ {:block/name "exportaciones netas",
+  :block/created-at 1644635737697,
+  :block/updated-at 1644635737697}
  {:block/name "exámenes",
   :block/created-at 1643061761600,
   :block/updated-at 1643729299361}
@@ -561,10 +564,10 @@
   :block/updated-at 1642172083936}
  {:block/name "feb 10th, 2022",
   :block/created-at 1644532752022,
-  :block/updated-at 1644612905731}
+  :block/updated-at 1644616162578}
  {:block/name "feb 11th, 2022",
   :block/created-at 1644537600000,
-  :block/updated-at 1644537600000}
+  :block/updated-at 1644631805560}
  {:block/name "feb 1st, 2022",
   :block/created-at 1643757190230,
   :block/updated-at 1643757190230}
@@ -594,7 +597,7 @@
   :block/updated-at 1641992433040}
  {:block/name "finanzas públicas",
   :block/created-at 1642172083942,
-  :block/updated-at 1644277098157}
+  :block/updated-at 1644635490746}
  {:block/name "flashcard",
   :block/created-at 1642980776760,
   :block/updated-at 1642980776760}
@@ -609,7 +612,7 @@
   :block/updated-at 1642875320015}
  {:block/name "gasto agregado",
   :block/created-at 1643590663783,
-  :block/updated-at 1643590663783}
+  :block/updated-at 1644631748000}
  {:block/name "gasto público",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -742,6 +745,9 @@
  {:block/name "inversión",
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
+ {:block/name "inversión privada",
+  :block/created-at 1644635737697,
+  :block/updated-at 1644635737697}
  {:block/name "jan 10th, 2022",
   :block/created-at 1641772800000,
   :block/updated-at 1643134153805}
@@ -969,7 +975,7 @@
   :block/updated-at 1644467677973}
  {:block/name "pib",
   :block/created-at 1640183914954,
-  :block/updated-at 1640183914954}
+  :block/updated-at 1644630489715}
  {:block/name "plan nacional de desarrollo",
   :block/created-at 1644249275724,
   :block/updated-at 1644249275724}
@@ -982,18 +988,21 @@
  {:block/name "política",
   :block/created-at 1644249275723,
   :block/updated-at 1644249275723}
+ {:block/name "política fiscal contractiva",
+  :block/created-at 1644635012389,
+  :block/updated-at 1644635025655}
  {:block/name "port-1",
-  :block/created-at 1644613099472,
-  :block/updated-at 1644613099472}
+  :block/created-at 1644635737697,
+  :block/updated-at 1644635737697}
  {:block/name "port-2",
-  :block/created-at 1644613099471,
-  :block/updated-at 1644613099471}
+  :block/created-at 1644635737696,
+  :block/updated-at 1644635737696}
  {:block/name "port-3",
-  :block/created-at 1644613099471,
-  :block/updated-at 1644613099471}
+  :block/created-at 1644635737697,
+  :block/updated-at 1644635737697}
  {:block/name "port-4",
-  :block/created-at 1644613099472,
-  :block/updated-at 1644613099472}
+  :block/created-at 1644635737697,
+  :block/updated-at 1644635737697}
  {:block/name "probabilidad bayesiana",
   :block/created-at 1642172083937,
   :block/updated-at 1642172083937}
@@ -1051,6 +1060,9 @@
  {:block/name "revisar",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
+ {:block/name "saldo presupuestario",
+  :block/created-at 1644635737697,
+  :block/updated-at 1644635737697}
  {:block/name "sat, 22-01-2022",
   :block/created-at 1642895339060,
   :block/updated-at 1642942662270}
@@ -1150,6 +1162,9 @@
  {:block/name "ver",
   :block/created-at 1640183914955,
   :block/updated-at 1640183914955}
+ {:block/name "video",
+  :block/created-at 1644635737697,
+  :block/updated-at 1644635737697}
  {:block/name "vocabulario",
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
