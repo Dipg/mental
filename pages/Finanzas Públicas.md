@@ -233,12 +233,12 @@
 					  #+END_NOTE
 				- Mecanismos para racionalizar los bienes Públicos
 				  collapsed:: true
-					- ¿Cuándo se hace cargo el estado?
-					  collapsed:: true
-						- Cuando los costos de transacción son bastante elevados , es mejor que el estado suministre ese Bien
 					- Tasa de Uso
 					- Precio Uniforme
 					- Colas
+					- ¿Cuándo se hace cargo el estado?
+					  collapsed:: true
+						- Cuando los costos de transacción son bastante elevados , es mejor que el estado suministre ese Bien
 			-
 	- Demanda Agregada de un bien público  en función de demandas individuales
 	  collapsed:: true
