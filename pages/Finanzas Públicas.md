@@ -150,6 +150,7 @@
 				  collapsed:: true
 					- {{embed ((619d1fd5-eb00-418b-b85e-5d724d64e93f))}}
 				- Vendo mas y cobra más.
+				- Genera Perdida Social
 			- Información Incompleta
 			  collapsed:: true
 				- Riesgo Moral
