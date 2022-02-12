@@ -161,6 +161,7 @@
 			  collapsed:: true
 				- Riesgo Moral
 				  collapsed:: true
+					-
 					- La parte cuyas acciones no se observan pueden influir en la probabilidad o en la magnitud relacionado con un acontecimiento.
 				- Selección adversa
 				  collapsed:: true
