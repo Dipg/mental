@@ -60,7 +60,7 @@
 		  collapsed:: true
 			- [](#1.) Formular la [[Política Fiscal]] y financiera de corto, mediano y lago plazo en función de la [[Política Económica]] y social del Gobierno.
 			- [](#2.)Proponer al organismo Ejecutivo, la [[Política Presupuestaria]] y las normas para su ejecución, {{cloze dirigiendo}}, {{cloze coordinando }}y {{cloze consolidando}} la formulación del proyecto del [[PGE]] de Ingresos y Egresos del Estado. ([[Deuda Pública]])
-			- [](#3.) Proponer al [[SRI]], las{{cloze  normas para la desconcentración}} en la percepción de ingresos y  la {{cloze programación del flujo de ingresos}} provenientes de la recaudación de los impuestos.
+			- [](#3.) Proponer al [[SRI]], las{{cloze  normas para la desconcentración}} en la percepción de ingresos y  la {{cloze programación del flujo de ingresos}} provenientes de la {{cloze recaudación}} de los [[Impuestos]] .
 			- [](#4.)  Transferir los organismos y entidades del Estado los recursos financieros asignados en sus respectivos presupuestos, de acuerdo con la captación de los ingresos.
 			- [](#5.)  Evaluar la {{cloze ejecución}} del [[Presupuesto General del Estado]] de {{cloze ingresos}} y {{cloze egresos}} del Estado y {{cloze proponer}} al Ejecutivo {{cloze medidas correctivas de su competencia}}.
 			- [](#6.) {{cloze Cierre contable}} y {{cloze liquidar}} el [[PGE]] de ingresos y egresos
