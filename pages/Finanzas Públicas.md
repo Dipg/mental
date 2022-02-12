@@ -183,7 +183,7 @@
 					- Free Rider (Problema del Parasito ![image.png](../assets/image_1644703371277_0.png){:height 36, :width 40} )
 					  collapsed:: true
 						- Polizón , aprovecha los bienes públicos sin pagar por ellos
-					-
+					- Problema de Sobreutilizac
 				- No- Exclusivos
 				  collapsed:: true
 					- No se pude excluir a ningún consumidor de su consumo
