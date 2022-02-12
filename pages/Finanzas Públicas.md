@@ -229,7 +229,7 @@
 					- ¿Qué distorsión genera la provisión uniforme?
 						- Unos obtienen un nivel del bien superior al eficiente y otros un  nivel menor al eficeinte
 					- #+BEGIN_NOTE
-					  Como se vio, existen ineficiencias a la hora de promover estos bienen públicos, por lo cual se conocen metodos para controlar o racionalizar 
+					  Como se vio, existen ineficiencias a la hora de promover o estos vienen públicos, por lo cual se conocen metodos para controlar o racionalizar 
 					  #+END_NOTE
 				- Mecanismos para racionalizar los bienes Públicos
 				  collapsed:: true
