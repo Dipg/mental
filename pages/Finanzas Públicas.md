@@ -34,7 +34,7 @@
 						- A través de bonificaciones o exenciones fiscales, con la finalidad de provocar aumentos en la [[Demanda Agregada]]
 					- [](#4.) Incentivos fiscales
 					  collapsed:: true
-						- Para estimular la demanda de los no residente (mayores exportaciones netas)
+						- Para estimular la demanda de los no residente (mayores [[Exportaciones Netas]])
 		- Política Fiscal Contractiva #red
 		  collapsed:: true
 			- ¿ Que es una política fiscal Contractiva?
