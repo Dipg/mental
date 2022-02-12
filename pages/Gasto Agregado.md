@@ -3,7 +3,6 @@
 - $$Y=C+I+G+X-M $$
 - Mejor aplicación #video
 	- {{youtube https://www.youtube.com/watch?v=hmW-jFYQz-M}}
-	- sadas #video
 		- dasdas
 		- adsa
 		- sd
