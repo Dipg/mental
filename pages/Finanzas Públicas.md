@@ -224,6 +224,7 @@
 			  Existen 3 Formas
 				- [](#1.)  Provisión Uniforme
 					- Se da la misma cantidad de bienes y servicios a todas las personas
+					- ¿Qué distorsión genrea la providión uniforme?
 				- Mecanismos para racionalizar los bienes Públicos
 				  collapsed:: true
 					- ¿Cuándo se hace cargo el estado?
