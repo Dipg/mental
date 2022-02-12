@@ -8,10 +8,10 @@ body{
 
  
  h1{
-    counter-reset: SubSeccion ;
+    counter-reset: SubSeccion 0;
  }
  h1:before{
-    counter-increment: Seccion 0;
+    counter-increment: Seccion;
     content: "" counter(Seccion)". ";
  }
  h2{
