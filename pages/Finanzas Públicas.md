@@ -179,7 +179,7 @@
 						- {{youtube-timestamp 183}}  Movimiento de la Curva de beneficio, hacia la derecha
 			- Bienes Públicos
 			  collapsed:: true
-				-
+				- Sin Embargo dentro del
 				- No- Exclusivos
 				  collapsed:: true
 					- No se pude excluir a ningún consumidor de su consumo
