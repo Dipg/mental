@@ -3,7 +3,7 @@
 
 
 body {
-    counter-reset: h2counter;
+    counter-reset: h1counter;
 }
 h1 {
     counter-reset: h2counter;
