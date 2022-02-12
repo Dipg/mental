@@ -222,7 +222,7 @@
 				  #+END_NOTE
 			- ### Como se provisionan los Bienes privados suministrados por el [[Estado]]
 			  Existen 3 Formas
-				-
+				- [](#1.)  Provisión Uniforme
 				- Mecanismos para racionalizar los bienes Públicos
 				  collapsed:: true
 					- ¿Cuándo se hace cargo el estado?
