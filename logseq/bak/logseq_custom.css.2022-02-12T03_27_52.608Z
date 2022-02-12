@@ -20,7 +20,7 @@ div[data-refs-self*="video"]  .block-children iframe  {
     width:300px !important;
 }
 
-.image-resize:hover{
+img:hover{
     transform: scale(10);
     -webkit-transform: scale(10);
     -moz-transform: scale(10);
