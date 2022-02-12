@@ -16,7 +16,7 @@
 					- Equidad y redistribución de la renta
 	- Política Fiscal Expansiva #red
 	  collapsed:: true
-		- ¿Qué es una política expansiva? ![image.png](../assets/image_1644628769761_0.png)
+		- ¿Qué es una política expansiva?
 		  collapsed:: true
 			- Es una [[Política]] que se lleva acabo en situaciones de [[Crecimiento Económico]]  y cuando existen altos niveles de paro , es por esto que el gobierno debera aplicar una política expansiva con la finalidad {{cloze de aumentar el [[Gasto Agregado]]}},  para aumentar la {{cloze renta efectiva}} y así disminuir {{cloze los niveles de paro.}}
 			- Esta política expansiva  puede ser de cinco tipos o vías de aplicación.
