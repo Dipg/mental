@@ -245,6 +245,8 @@
 					- Precio Uniforme
 						- Precio uniforma
 						- Ventajas:
+							- Ahorra costes de transacción
+						- Desventajas:
 							-
 					- Colas
 					- ¿Cuándo se hace cargo el estado?
@@ -874,4 +876,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578294_0.png)
+	- ![image.png](../ass
