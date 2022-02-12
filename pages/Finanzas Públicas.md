@@ -243,7 +243,9 @@
 							- Provocan Subconsumo
 							- La administración de sistemas de precios aumenta los costos de transacción
 					- Precio Uniforme
-						-
+						- Precio uniforma
+						- Ventajas:
+							-
 					- Colas
 					- ¿Cuándo se hace cargo el estado?
 					  collapsed:: true
