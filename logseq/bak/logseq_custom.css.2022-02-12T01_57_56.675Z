@@ -10,10 +10,6 @@ div[data-refs-self*="video"]  .block-children>div:first-child {
 
 }
 
-.ytp-caption-window-container{
-    height: 600px !important;
-
-}
  
 
 
