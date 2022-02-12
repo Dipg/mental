@@ -1,6 +1,6 @@
 [{:block/name "",
-  :block/created-at 1644676488377,
-  :block/updated-at 1644676488377}
+  :block/created-at 1644677670875,
+  :block/updated-at 1644677670875}
  {:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -293,8 +293,8 @@
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
  {:block/name "activos",
-  :block/created-at 1644676488378,
-  :block/updated-at 1644676488378}
+  :block/created-at 1644677670876,
+  :block/updated-at 1644677670876}
  {:block/name "after effects",
   :block/created-at 1643908058783,
   :block/updated-at 1643908416704}
@@ -353,11 +353,11 @@
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
  {:block/name "consumo",
-  :block/created-at 1644676488377,
-  :block/updated-at 1644676488377}
+  :block/created-at 1644677670875,
+  :block/updated-at 1644677670875}
  {:block/name "contabilidad patrimonial",
-  :block/created-at 1644676488377,
-  :block/updated-at 1644676488377}
+  :block/created-at 1644677670875,
+  :block/updated-at 1644677670875}
  {:block/name "contents",
   :block/created-at 1642172083943,
   :block/updated-at 1642172083943}
@@ -458,8 +458,8 @@
   :block/created-at 1644249275723,
   :block/updated-at 1644249275723}
  {:block/name "draws/2022-02-07-08-19-30.excalidraw",
-  :block/created-at 1644676488378,
-  :block/updated-at 1644676488378}
+  :block/created-at 1644677670876,
+  :block/updated-at 1644677670876}
  {:block/name "draws/piensa matricialmente.excalidraw",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -527,8 +527,8 @@
   :block/created-at 1644249275723,
   :block/updated-at 1644249275723}
  {:block/name "estado",
-  :block/created-at 1644676488377,
-  :block/updated-at 1644676488377}
+  :block/created-at 1644677670875,
+  :block/updated-at 1644677670875}
  {:block/name "estimación de la tasa de interés neutral",
   :block/created-at 1644340140311,
   :block/updated-at 1644370043077}
@@ -566,8 +566,8 @@
   :block/created-at 1642180004251,
   :block/updated-at 1642913066951}
  {:block/name "exportaciones netas",
-  :block/created-at 1644676488378,
-  :block/updated-at 1644676488378}
+  :block/created-at 1644677670876,
+  :block/updated-at 1644677670876}
  {:block/name "exámenes",
   :block/created-at 1643061761600,
   :block/updated-at 1643729299361}
@@ -615,7 +615,7 @@
   :block/updated-at 1641992433040}
  {:block/name "finanzas públicas",
   :block/created-at 1642172083942,
-  :block/updated-at 1644676327963}
+  :block/updated-at 1644676808446}
  {:block/name "flashcard",
   :block/created-at 1642980776760,
   :block/updated-at 1642980776760}
@@ -632,8 +632,8 @@
   :block/created-at 1643590663783,
   :block/updated-at 1644631748000}
  {:block/name "gasto del gobierno",
-  :block/created-at 1644676488378,
-  :block/updated-at 1644676488378}
+  :block/created-at 1644677670876,
+  :block/updated-at 1644677670876}
  {:block/name "gasto público",
   :block/created-at 1638961917542,
   :block/updated-at 1644670000708}
@@ -643,6 +643,9 @@
  {:block/name "github",
   :block/created-at 1644249275724,
   :block/updated-at 1644249275724}
+ {:block/name "gobierno",
+  :block/created-at 1644677670875,
+  :block/updated-at 1644677670875}
  {:block/name "green",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -749,8 +752,8 @@
   :block/created-at 1642172083936,
   :block/updated-at 1642810365906}
  {:block/name "impuestos",
-  :block/created-at 1644676488377,
-  :block/updated-at 1644676488377}
+  :block/created-at 1644677670875,
+  :block/updated-at 1644677670875}
  {:block/name "in-progress",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
@@ -770,8 +773,8 @@
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
  {:block/name "inversión privada",
-  :block/created-at 1644676488378,
-  :block/updated-at 1644676488378}
+  :block/created-at 1644677670876,
+  :block/updated-at 1644677670876}
  {:block/name "jan 10th, 2022",
   :block/created-at 1641772800000,
   :block/updated-at 1643134153805}
@@ -995,8 +998,8 @@
   :block/created-at 1642215511672,
   :block/updated-at 1642215544421}
  {:block/name "pge",
-  :block/created-at 1644676488378,
-  :block/updated-at 1644676488378}
+  :block/created-at 1644677670876,
+  :block/updated-at 1644677670876}
  {:block/name "photoshop",
   :block/created-at 1644467600348,
   :block/updated-at 1644467677973}
@@ -1016,29 +1019,29 @@
   :block/created-at 1644249275723,
   :block/updated-at 1644249275723}
  {:block/name "política económica",
-  :block/created-at 1644676488377,
-  :block/updated-at 1644676488377}
+  :block/created-at 1644677670875,
+  :block/updated-at 1644677670875}
  {:block/name "política fiscal",
-  :block/created-at 1644676488377,
-  :block/updated-at 1644676488377}
+  :block/created-at 1644677670875,
+  :block/updated-at 1644677670875}
  {:block/name "política fiscal contractiva",
   :block/created-at 1644635012389,
   :block/updated-at 1644635025655}
  {:block/name "política presupuestaria",
-  :block/created-at 1644676488377,
-  :block/updated-at 1644676488377}
+  :block/created-at 1644677670875,
+  :block/updated-at 1644677670875}
  {:block/name "port-1",
-  :block/created-at 1644676488378,
-  :block/updated-at 1644676488378}
+  :block/created-at 1644677670876,
+  :block/updated-at 1644677670876}
  {:block/name "port-2",
-  :block/created-at 1644676488377,
-  :block/updated-at 1644676488377}
+  :block/created-at 1644677670875,
+  :block/updated-at 1644677670875}
  {:block/name "port-3",
-  :block/created-at 1644676488377,
-  :block/updated-at 1644676488377}
+  :block/created-at 1644677670875,
+  :block/updated-at 1644677670875}
  {:block/name "port-4",
-  :block/created-at 1644676488378,
-  :block/updated-at 1644676488378}
+  :block/created-at 1644677670876,
+  :block/updated-at 1644677670876}
  {:block/name "presupuesto general del estado",
   :block/created-at 1644670733185,
   :block/updated-at 1644670737702}
@@ -1100,8 +1103,8 @@
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
  {:block/name "saldo presupuestario",
-  :block/created-at 1644676488377,
-  :block/updated-at 1644676488377}
+  :block/created-at 1644677670875,
+  :block/updated-at 1644677670875}
  {:block/name "sat, 22-01-2022",
   :block/created-at 1642895339060,
   :block/updated-at 1642942662270}
@@ -1111,6 +1114,9 @@
  {:block/name "series",
   :block/created-at 1643164699344,
   :block/updated-at 1643164740054}
+ {:block/name "servicio de rentas internas",
+  :block/created-at 1644676623408,
+  :block/updated-at 1644676627014}
  {:block/name "ses",
   :block/created-at 1644600284382,
   :block/updated-at 1644600284382}
@@ -1126,6 +1132,9 @@
  {:block/name "sistema de ecuaciones simultaneas",
   :block/created-at 1644350857194,
   :block/updated-at 1644350859826}
+ {:block/name "sri",
+  :block/created-at 1644677670875,
+  :block/updated-at 1644677670875}
  {:block/name "stata",
   :block/created-at 1641992433040,
   :block/updated-at 1643216855680}
@@ -1202,8 +1211,8 @@
   :block/created-at 1640183914955,
   :block/updated-at 1640183914955}
  {:block/name "video",
-  :block/created-at 1644676488377,
-  :block/updated-at 1644676488377}
+  :block/created-at 1644677670875,
+  :block/updated-at 1644677670875}
  {:block/name "vocabulario",
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
