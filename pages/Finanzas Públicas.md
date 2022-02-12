@@ -184,7 +184,7 @@
 					  collapsed:: true
 						- Polizón , aprovecha los bienes públicos sin pagar por ellos
 					- Problema de Sobreutilización de un [[Bien Público]]
-					- Sobre Uso
+					- Sobre Uso o Sobredin
 				- No- Exclusivos
 				  collapsed:: true
 					- No se pude excluir a ningún consumidor de su consumo
