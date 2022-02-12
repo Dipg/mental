@@ -196,8 +196,6 @@
 				  collapsed:: true
 					- Cuado el Cmg de suministrar a una persona más , es cero
 					- ((619d2e19-d79b-4109-9c5b-4c3925f431b3))
-			-
-			-
 			- Bienes Privados Suministrados por el Estado
 			  collapsed:: true
 				- Cuando en CMg de suministrar a más personas es alto , Ej. Educación
