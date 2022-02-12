@@ -151,6 +151,8 @@
 					- {{embed ((619d1fd5-eb00-418b-b85e-5d724d64e93f))}}
 				- Vendo mas y cobra más.
 				- Genera Perdida Social
+				- #[[Ejercicios Numéricos]]
+				-
 			- Información Incompleta
 			  collapsed:: true
 				- Riesgo Moral
@@ -833,4 +835,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578294_0.png)
+	- ![image.png](../
