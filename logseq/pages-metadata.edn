@@ -1,6 +1,6 @@
 [{:block/name "",
-  :block/created-at 1644677670875,
-  :block/updated-at 1644677670875}
+  :block/created-at 1644708911275,
+  :block/updated-at 1644708911275}
  {:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -293,17 +293,29 @@
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
  {:block/name "activos",
-  :block/created-at 1644677670876,
-  :block/updated-at 1644677670876}
+  :block/created-at 1644708911279,
+  :block/updated-at 1644708911279}
+ {:block/name "adam smith",
+  :block/created-at 1644708911278,
+  :block/updated-at 1644708911278}
  {:block/name "after effects",
   :block/created-at 1643908058783,
   :block/updated-at 1643908416704}
  {:block/name "análisis multivariante",
   :block/created-at 1642172083936,
   :block/updated-at 1643213151211}
+ {:block/name "análisis normativo",
+  :block/created-at 1644708911275,
+  :block/updated-at 1644708911275}
+ {:block/name "análisis positivo",
+  :block/created-at 1644708911279,
+  :block/updated-at 1644708911279}
  {:block/name "aprender",
   :block/created-at 1642950922907,
   :block/updated-at 1642950922907}
+ {:block/name "asignación eficiente de pareto",
+  :block/created-at 1644708911278,
+  :block/updated-at 1644708911278}
  {:block/name "b",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -313,6 +325,12 @@
  {:block/name "bases de datos",
   :block/created-at 1642172083942,
   :block/updated-at 1642807955210}
+ {:block/name "bien público",
+  :block/created-at 1644708911278,
+  :block/updated-at 1644708911278}
+ {:block/name "bienes privados",
+  :block/created-at 1644708911278,
+  :block/updated-at 1644708911278}
  {:block/name "biólogos",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
@@ -325,6 +343,12 @@
  {:block/name "c923113e-05a6-4186-8401-3015d4c07281",
   :block/created-at 1640183914952,
   :block/updated-at 1640183914952}
+ {:block/name "caja de edgeworth",
+  :block/created-at 1644685398280,
+  :block/updated-at 1644685752078}
+ {:block/name "caja de edgeworth ",
+  :block/created-at 1644708911279,
+  :block/updated-at 1644708911279}
  {:block/name "canciones",
   :block/created-at 1642172083937,
   :block/updated-at 1642172083937}
@@ -343,30 +367,45 @@
  {:block/name "ciclo presupuestario",
   :block/created-at 1643249327733,
   :block/updated-at 1644674702808}
+ {:block/name "cmg",
+  :block/created-at 1644708911278,
+  :block/updated-at 1644708911278}
  {:block/name "code",
   :block/created-at 1642172083943,
   :block/updated-at 1643652324120}
  {:block/name "colum",
   :block/created-at 1644600284383,
   :block/updated-at 1644600284383}
+ {:block/name "colum_2",
+  :block/created-at 1644708911279,
+  :block/updated-at 1644708911279}
  {:block/name "comments",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
  {:block/name "consumo",
-  :block/created-at 1644677670875,
-  :block/updated-at 1644677670875}
+  :block/created-at 1644708911275,
+  :block/updated-at 1644708911275}
  {:block/name "contabilidad patrimonial",
-  :block/created-at 1644677670875,
-  :block/updated-at 1644677670875}
+  :block/created-at 1644708911278,
+  :block/updated-at 1644708911278}
  {:block/name "contents",
   :block/created-at 1642172083943,
   :block/updated-at 1642172083943}
  {:block/name "control sintético",
   :block/created-at 1644249275723,
   :block/updated-at 1644249275723}
+ {:block/name "cootad",
+  :block/created-at 1644708911275,
+  :block/updated-at 1644708911275}
  {:block/name "coste hundido",
   :block/created-at 1642172083937,
   :block/updated-at 1642172083937}
+ {:block/name "costo marginal",
+  :block/created-at 1644707510086,
+  :block/updated-at 1644707521740}
+ {:block/name "costos de oportunidad",
+  :block/created-at 1644708911276,
+  :block/updated-at 1644708911276}
  {:block/name "crecimiento económico",
   :block/created-at 1644249275726,
   :block/updated-at 1644249275726}
@@ -376,12 +415,27 @@
  {:block/name "curva de philips",
   :block/created-at 1644600284382,
   :block/updated-at 1644600284382}
+ {:block/name "curvas de indiferencia",
+  :block/created-at 1644708911278,
+  :block/updated-at 1644708911278}
+ {:block/name "curvas de indiferencias",
+  :block/created-at 1644708911276,
+  :block/updated-at 1644708911276}
+ {:block/name "código de finanzas públicas",
+  :block/created-at 1644708911275,
+  :block/updated-at 1644708911275}
+ {:block/name "código orgánico de organización territorial",
+  :block/created-at 1644678592057,
+  :block/updated-at 1644678680471}
  {:block/name "daily briefing _ the economist",
   :block/created-at 1642172083943,
   :block/updated-at 1642172083943}
  {:block/name "datos de panel",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
+ {:block/name "david ricardo",
+  :block/created-at 1644708911275,
+  :block/updated-at 1644708911275}
  {:block/name "davinci resolve",
   :block/created-at 1644249275722,
   :block/updated-at 1644413497255}
@@ -426,7 +480,7 @@
   :block/updated-at 1643348504978}
  {:block/name "deuda pública",
   :block/created-at 1642172083936,
-  :block/updated-at 1642774466133}
+  :block/updated-at 1644678492806}
  {:block/name "diagramas estructurales",
   :block/created-at 1644249275723,
   :block/updated-at 1644249275723}
@@ -458,8 +512,11 @@
   :block/created-at 1644249275723,
   :block/updated-at 1644249275723}
  {:block/name "draws/2022-02-07-08-19-30.excalidraw",
-  :block/created-at 1644677670876,
-  :block/updated-at 1644677670876}
+  :block/created-at 1644708911279,
+  :block/updated-at 1644708911279}
+ {:block/name "draws/2022-02-07-08-22-54.excalidraw",
+  :block/created-at 1644708911275,
+  :block/updated-at 1644708911275}
  {:block/name "draws/piensa matricialmente.excalidraw",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -472,6 +529,9 @@
  {:block/name "economía conductual",
   :block/created-at 1642172083939,
   :block/updated-at 1643731465914}
+ {:block/name "economía del bienestar",
+  :block/created-at 1644708911279,
+  :block/updated-at 1644708911279}
  {:block/name "economía ecuatoriana",
   :block/created-at 1642172083942,
   :block/updated-at 1642172083942}
@@ -487,6 +547,12 @@
  {:block/name "ecuaciones estructurales",
   :block/created-at 1643557229762,
   :block/updated-at 1643570638564}
+ {:block/name "ecuación",
+  :block/created-at 1644708911276,
+  :block/updated-at 1644708911276}
+ {:block/name "ecuación de la recta conociendo dos puntos",
+  :block/created-at 1644700220755,
+  :block/updated-at 1644702507153}
  {:block/name "ecuador",
   :block/created-at 1644600284382,
   :block/updated-at 1644600284382}
@@ -514,6 +580,9 @@
  {:block/name "elicitación",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
+ {:block/name "encuestas",
+  :block/created-at 1644708911276,
+  :block/updated-at 1644708911276}
  {:block/name "endeudamiento",
   :block/created-at 1643347574443,
   :block/updated-at 1644172552931}
@@ -527,8 +596,8 @@
   :block/created-at 1644249275723,
   :block/updated-at 1644249275723}
  {:block/name "estado",
-  :block/created-at 1644677670875,
-  :block/updated-at 1644677670875}
+  :block/created-at 1644708911276,
+  :block/updated-at 1644708911276}
  {:block/name "estimación de la tasa de interés neutral",
   :block/created-at 1644340140311,
   :block/updated-at 1644370043077}
@@ -551,6 +620,9 @@
  {:block/name "experimento en linea",
   :block/created-at 1642172083937,
   :block/updated-at 1642172083937}
+ {:block/name "experimentos",
+  :block/created-at 1644708911275,
+  :block/updated-at 1644708911275}
  {:block/name
   "experimentos  en linea - influencia del efecto gratis en la adquisición de un seguro de medicina prepagada a través de facebook",
   :block/created-at 1642172083941,
@@ -566,8 +638,8 @@
   :block/created-at 1642180004251,
   :block/updated-at 1642913066951}
  {:block/name "exportaciones netas",
-  :block/created-at 1644677670876,
-  :block/updated-at 1644677670876}
+  :block/created-at 1644708911279,
+  :block/updated-at 1644708911279}
  {:block/name "exámenes",
   :block/created-at 1643061761600,
   :block/updated-at 1643729299361}
@@ -615,7 +687,7 @@
   :block/updated-at 1641992433040}
  {:block/name "finanzas públicas",
   :block/created-at 1642172083942,
-  :block/updated-at 1644676808446}
+  :block/updated-at 1644708804418}
  {:block/name "flashcard",
   :block/created-at 1642980776760,
   :block/updated-at 1642980776760}
@@ -628,12 +700,18 @@
  {:block/name "fri, 21-01-2022",
   :block/created-at 1642723200000,
   :block/updated-at 1642875320015}
+ {:block/name "frontera de posibilidades de producción",
+  :block/created-at 1644708911278,
+  :block/updated-at 1644708911278}
+ {:block/name "función  de demanda inversa",
+  :block/created-at 1644708911279,
+  :block/updated-at 1644708911279}
  {:block/name "gasto agregado",
   :block/created-at 1643590663783,
   :block/updated-at 1644631748000}
  {:block/name "gasto del gobierno",
-  :block/created-at 1644677670876,
-  :block/updated-at 1644677670876}
+  :block/created-at 1644708911279,
+  :block/updated-at 1644708911279}
  {:block/name "gasto público",
   :block/created-at 1638961917542,
   :block/updated-at 1644670000708}
@@ -644,8 +722,8 @@
   :block/created-at 1644249275724,
   :block/updated-at 1644249275724}
  {:block/name "gobierno",
-  :block/created-at 1644677670875,
-  :block/updated-at 1644677670875}
+  :block/created-at 1644708911275,
+  :block/updated-at 1644708911275}
  {:block/name "green",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -752,8 +830,8 @@
   :block/created-at 1642172083936,
   :block/updated-at 1642810365906}
  {:block/name "impuestos",
-  :block/created-at 1644677670875,
-  :block/updated-at 1644677670875}
+  :block/created-at 1644708911275,
+  :block/updated-at 1644708911275}
  {:block/name "in-progress",
   :block/created-at 1638961917545,
   :block/updated-at 1638961917545}
@@ -773,8 +851,11 @@
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
  {:block/name "inversión privada",
-  :block/created-at 1644677670876,
-  :block/updated-at 1644677670876}
+  :block/created-at 1644708911279,
+  :block/updated-at 1644708911279}
+ {:block/name "investigación empírica",
+  :block/created-at 1644708911279,
+  :block/updated-at 1644708911279}
  {:block/name "jan 10th, 2022",
   :block/created-at 1641772800000,
   :block/updated-at 1643134153805}
@@ -909,7 +990,7 @@
   :block/updated-at 1638961917542}
  {:block/name "microeconomía",
   :block/created-at 1642172083941,
-  :block/updated-at 1644185399911}
+  :block/updated-at 1644704832017}
  {:block/name "modelo de inversión- qtobi en ecuador",
   :block/created-at 1642119189886,
   :block/updated-at 1642119884539}
@@ -925,6 +1006,9 @@
  {:block/name "modelos multivariados",
   :block/created-at 1644249275724,
   :block/updated-at 1644249275724}
+ {:block/name "monopolio",
+  :block/created-at 1644708911279,
+  :block/updated-at 1644708911279}
  {:block/name "musical",
   :block/created-at 1642172083941,
   :block/updated-at 1642172083941}
@@ -988,6 +1072,9 @@
  {:block/name "paradoja del falso positivo",
   :block/created-at 1642172083934,
   :block/updated-at 1642172083934}
+ {:block/name "perdida de eficiencia",
+  :block/created-at 1644708911278,
+  :block/updated-at 1644708911278}
  {:block/name "personal",
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
@@ -998,8 +1085,8 @@
   :block/created-at 1642215511672,
   :block/updated-at 1642215544421}
  {:block/name "pge",
-  :block/created-at 1644677670876,
-  :block/updated-at 1644677670876}
+  :block/created-at 1644708911279,
+  :block/updated-at 1644708911279}
  {:block/name "photoshop",
   :block/created-at 1644467600348,
   :block/updated-at 1644467677973}
@@ -1019,29 +1106,29 @@
   :block/created-at 1644249275723,
   :block/updated-at 1644249275723}
  {:block/name "política económica",
-  :block/created-at 1644677670875,
-  :block/updated-at 1644677670875}
+  :block/created-at 1644708911275,
+  :block/updated-at 1644708911275}
  {:block/name "política fiscal",
-  :block/created-at 1644677670875,
-  :block/updated-at 1644677670875}
+  :block/created-at 1644708911275,
+  :block/updated-at 1644708911275}
  {:block/name "política fiscal contractiva",
   :block/created-at 1644635012389,
   :block/updated-at 1644635025655}
  {:block/name "política presupuestaria",
-  :block/created-at 1644677670875,
-  :block/updated-at 1644677670875}
+  :block/created-at 1644708911276,
+  :block/updated-at 1644708911276}
  {:block/name "port-1",
-  :block/created-at 1644677670876,
-  :block/updated-at 1644677670876}
+  :block/created-at 1644708911279,
+  :block/updated-at 1644708911279}
  {:block/name "port-2",
-  :block/created-at 1644677670875,
-  :block/updated-at 1644677670875}
+  :block/created-at 1644708911275,
+  :block/updated-at 1644708911275}
  {:block/name "port-3",
-  :block/created-at 1644677670875,
-  :block/updated-at 1644677670875}
+  :block/created-at 1644708911275,
+  :block/updated-at 1644708911275}
  {:block/name "port-4",
-  :block/created-at 1644677670876,
-  :block/updated-at 1644677670876}
+  :block/created-at 1644708911279,
+  :block/updated-at 1644708911279}
  {:block/name "presupuesto general del estado",
   :block/created-at 1644670733185,
   :block/updated-at 1644670737702}
@@ -1103,11 +1190,14 @@
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
  {:block/name "saldo presupuestario",
-  :block/created-at 1644677670875,
-  :block/updated-at 1644677670875}
+  :block/created-at 1644708911275,
+  :block/updated-at 1644708911275}
  {:block/name "sat, 22-01-2022",
   :block/created-at 1642895339060,
   :block/updated-at 1642942662270}
+ {:block/name "sector público",
+  :block/created-at 1644708911275,
+  :block/updated-at 1644708911275}
  {:block/name "sem",
   :block/created-at 1644249275723,
   :block/updated-at 1644249275723}
@@ -1133,8 +1223,8 @@
   :block/created-at 1644350857194,
   :block/updated-at 1644350859826}
  {:block/name "sri",
-  :block/created-at 1644677670875,
-  :block/updated-at 1644677670875}
+  :block/created-at 1644708911275,
+  :block/updated-at 1644708911275}
  {:block/name "stata",
   :block/created-at 1641992433040,
   :block/updated-at 1643216855680}
@@ -1207,12 +1297,15 @@
  {:block/name "variables mediadoras",
   :block/created-at 1644249275722,
   :block/updated-at 1644249275722}
+ {:block/name "ventajas comparativas",
+  :block/created-at 1644708911278,
+  :block/updated-at 1644708911278}
  {:block/name "ver",
   :block/created-at 1640183914955,
   :block/updated-at 1640183914955}
  {:block/name "video",
-  :block/created-at 1644677670875,
-  :block/updated-at 1644677670875}
+  :block/created-at 1644708911275,
+  :block/updated-at 1644708911275}
  {:block/name "vocabulario",
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
