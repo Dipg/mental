@@ -26,7 +26,7 @@
 					- [](#1.) Reducción de los impuestos
 					  collapsed:: true
 						- Consiguiendo un impacto positivo sobre el consumo
-					- [](#2.) Aumento de los gastos del gobierno
+					- [](#2.) Aumento de los [[Gasto del Gobierno]]
 					  collapsed:: true
 						- Desplazando al alza el gasto agregado, sobre todo a través de obra pública, con la finalidad de incrementar el empleo
 					- [](#3.) Estímulos a la inversión privada
