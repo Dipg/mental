@@ -217,6 +217,7 @@
 					- Cuadno el precio ( 0 [[Función  de Demanda Inversa]] ) es igual al [[Cmg]]
 					- En estos
 				- ((620842c1-8fdf-49c8-b751-e767a5a70768))
+				-
 			- ### Como se provisionan los Bienes privados suministrados por el [[Estado]]
 				- Mecanismos para racionalizar los bienes Públicos
 				  collapsed:: true
