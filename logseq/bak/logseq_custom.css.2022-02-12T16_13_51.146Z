@@ -9,13 +9,13 @@ display: none !important;
 
 
 body{
-    counter-reset: Seccion ;
+    counter-reset: Seccion 1;
  }
  h1{
     counter-reset: SubSeccion ;
  }
  h1:before{
-    counter-increment: Seccion ;
+    counter-increment: Seccion 1;
     content: "Unidad " counter(Seccion)". ";
  }
  h2{
