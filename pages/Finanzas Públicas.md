@@ -248,7 +248,7 @@
 		- Es un circulo vicioso
 		- El aumento del deficit fiscal provoca ➡️ un alza en la inflación, la que a su ➡️ vez reduce el valor de la recaudación tributaria ➡️  Lo que as su vez aumenta el deficit fiscal  y se repite el ciclo 🔁
 		  background-color:: #264c9b
-- TODO  Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
+- # TODO  Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
 	- # Control del Gasto publico
@@ -285,7 +285,7 @@
 		- 5. Valoración del riesgo
 		- 6. Valoracion de las consideraciones distributivas
 			- ¿Como deben compararse loe efectos producidos en diferentes grupos?
-- # Unidad 4 ![📑](../assets/Unidad_4_1637751172084_0.pdf) ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf) ![📑 V2 ](../assets/Unidad_4_v2_1643754599695_0.pdf)
+- # TODO Unidad 4 ![📑](../assets/Unidad_4_1637751172084_0.pdf) ![📜](../assets/Incidencia_Tributaria-YANEZ_1638581778558_0.pdf) ![📑 V2 ](../assets/Unidad_4_v2_1643754599695_0.pdf)
   collapsed:: true
 	- 1. Introducción
 	- collapsed:: true
@@ -782,4 +782,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578294_0.png) 
+	- ![image.png](../assets/image_1644241578294_0.png)
