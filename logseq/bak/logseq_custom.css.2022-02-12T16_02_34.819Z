@@ -6,14 +6,14 @@ body{
  h1{
     counter-reset: SubSeccion;
  }
- h1:before{
+ h1:after{
     counter-increment: Seccion 1;
     content: "Unidad " counter(Seccion)". ";
  }
  h2{
     counter-reset: SubSubSeccion;
  }
- h2:before{
+ h2:after{
     counter-increment: SubSeccion;
     content: counter(Seccion) "." counter(SubSeccion)". ";
  }
