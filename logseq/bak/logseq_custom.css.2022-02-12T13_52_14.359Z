@@ -4,7 +4,7 @@
 .block-ref {
 
     color: rgb(53, 207, 60) !important;
-    border-bottom: 3px solid rgb(53, 207, 60) !important;
+    border-bottom: 3px solid red !important;
 }
 
 .block-ref a{
