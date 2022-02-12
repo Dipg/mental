@@ -5,24 +5,30 @@ body {
   }
   
 
-  h1{
-    counter-reset: SubSeccion;
- }
- h1:before{
-    counter-increment: Seccion;
-    content: "Capítulo " counter(Seccion)". ";
- }
- h2{
-    counter-reset: SubSubSeccion;
- }
- h2:before{
-    counter-increment: SubSeccion;
-    content: counter(Seccion) "." counter(SubSeccion)". ";
- }
- h3:before{
-    counter-increment: SubSubSeccion;
-    content: counter(Seccion) "." counter(SubSeccion)"." counter(SubSubSeccion)". ";
- }
+  h2 {
+    counter-increment: slide -1 section;
+  }
+
+  h2 {
+    counter-increment: slide -2 section;
+  }
+  
+  h3 {
+    counter-increment: slide;
+  }
+  
+  h1:before {
+    content: counter(chapter)". ";
+  }
+  
+  h2:before {
+    content: counter(chapter)"." counter(section)" ";
+  }
+  
+  h3:before {
+    content: counter(chapter)"." counter(section)"." counter(slide)" ";
+  }
+
 
 *:is(.editor-inner .uniline-block.h2, .editor-inner .h2, .ls-block h2) {
     margin-top: 5px !important;
