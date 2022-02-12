@@ -4,6 +4,9 @@
 body{
     counter-reset: Seccion;
  }
+
+
+ 
  h1{
     counter-reset: SubSeccion;
  }
