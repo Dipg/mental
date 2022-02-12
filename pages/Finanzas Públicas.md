@@ -252,7 +252,7 @@
 					- Colas
 						- Acceso al bien publico según tiempos de espera . ejem; Seguridad social
 						- Ventajas:
-							-
+							- Los bienes no se asignan necesariamente a los mas ricos
 					- ¿Cuándo se hace cargo el estado?
 					  collapsed:: true
 						- Cuando los costos de transacción son bastante elevados , es mejor que el estado suministre ese Bien
