@@ -254,7 +254,7 @@
 						- Ventajas:
 							- Los bienes no se asignan necesariamente a los mas ricos
 						- Desventajas
-							- Provoca ineficiencia en el acceso al consumo de ese bien
+							- Provoca ineficiencia en el acceso al consumo de ese bien, criterio de asignación
 					- ¿Cuándo se hace cargo el estado?
 					  collapsed:: true
 						- Cuando los costos de transacción son bastante elevados , es mejor que el estado suministre ese Bien
