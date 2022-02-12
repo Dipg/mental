@@ -565,7 +565,7 @@
 			- Corrupción baja presión fiscal
 		- Factores Sociales
 		- ![image.png](../assets/image_1644200709360_0.png)
-- # Unidad 5 ![📑](../assets/Unidad_5_1643754733902_0.pdf)
+- # TODO Unidad 5 ![📑](../assets/Unidad_5_1643754733902_0.pdf)
 	- Cuando se aplica un impuesto a bines de consumo que no son basico se produce un exceso de gradamen , aplicamos un impuesto mas de la utilidad que se le puede dar
 	- Efecto
 		- Restriccio en el consumo
@@ -581,7 +581,7 @@
 		-
 	- # Ley de Plusvalia
 		- https://www.sri.gob.ec/ley-organica-especulacion-sobre-valor-de-las-tierras
-- # Unidad 6 ![📑](../assets/CAPÍTULO_6_deuda_1643603712506_0.pdf) 🎞️
+- # TODO Unidad 6 ![📑](../assets/CAPÍTULO_6_deuda_1643603712506_0.pdf) 🎞️
 	- [[Endeudamiento]]
 - # Unidad 7 ![📑](../assets/CAPITULO_7_Presupuesto_Y_Planificación_1643603734698_0.pdf) 🎞️
 	- [[Ciclo Presupuestario]]
