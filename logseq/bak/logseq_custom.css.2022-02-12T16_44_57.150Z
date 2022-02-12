@@ -9,10 +9,9 @@ display: none !important;
 body {
     counter-reset: chapter 3 section 0 slide 0;
   }
-  h1 {
-    counter-increment: slide;
-  }
 
+
+  
   h2 {
     counter-reset: slide 0;
     counter-increment: section;
