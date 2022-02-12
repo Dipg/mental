@@ -202,7 +202,7 @@
 				- Bien público Puro
 				  collapsed:: true
 					- Cuado el Cmg de suministrar a una persona más , es cero
-					- El grafico de Cmg vs Facilidad de Exclusión
+					- El grafico de Cmg vs Facilidad de Exclusión, Muestra como
 					- ((619d2e19-d79b-4109-9c5b-4c3925f431b3))
 				- Sin Embargo dentro del [[Sector Público]] Existen problemas Como:
 					- Free Rider (Problema del Parasito ![image.png](../assets/image_1644703371277_0.png){:height 36, :width 40} )
