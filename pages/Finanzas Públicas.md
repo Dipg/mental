@@ -7,14 +7,14 @@
 			- Según el tiempo se dividen en 3: 🟢
 				- Objetivo A corto plazo 🟢
 				  collapsed:: true
-					- Estabilizar la economía y el ciclo a través del saldo presupuestario.
+					- Estabilizar la economía y el ciclo a través del [[Saldo Presupuestario]] .
 				- Objetivo A Largo plazo 🟢
 				  collapsed:: true
 					- Incrementar el crecimiento del país mediante I+D, educación  y del ingreso incentivos al ahorro
 				- Objetivo  Simultaneo 🟢
 				  collapsed:: true
 					- Equidad y redistribución de la renta
-	- Todos los recursos presupuestarios o  se asignan en función de qué tipo de política  se esta evidenciando
+	- Todos los recursos presupuestarios o [[Saldo Presupuestario]] se asignan en función de qué tipo de política  se esta evidenciando
 	- Política Fiscal Expansiva #red 😎
 	  collapsed:: true
 		- ¿Qué es una política expansiva?
