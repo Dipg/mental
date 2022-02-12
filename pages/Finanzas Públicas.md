@@ -14,7 +14,7 @@
 				- Objetivo  Simultaneo 🟢
 				  collapsed:: true
 					- Equidad y redistribución de la renta
-	- Todos los recursos presupuestarios se asignan en función de qué politica
+	- Todos los recursos presupuestarios se asignan en función de qué tipo de politica
 	- Política Fiscal Expansiva #red 😎
 	  collapsed:: true
 		- ¿Qué es una política expansiva?
