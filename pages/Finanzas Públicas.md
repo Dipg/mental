@@ -3,7 +3,7 @@
 - # TODO Unida 1 ![📑](../assets/UNIDAD_1_1637632758053_0.pdf) ![​📚​ ](../assets/La_Economía_del_Sector_Público_1637674931911_0.pdf)
   collapsed:: true
 	- # Análisis Positivo
-	- Se parte de algo empírico y técnicamente comprobado para la toma de decisiones
+	- Se parte de algo empírico y técnicamente comprobado para la toma de decisiones, desde esta base se parte a los objetios de la política fiscal
 	- Objetivos de la [[Política Fiscal]] 🟢
 	  collapsed:: true
 		- ¿Cuáles son los objetivos de la política fiscal?
