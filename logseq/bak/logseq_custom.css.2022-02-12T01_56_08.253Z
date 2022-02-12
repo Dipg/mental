@@ -5,7 +5,7 @@
 div[data-refs-self*="video"]  .block-children>div {
 
         background-color: red !important;
-    height: 300px !important;
+    height: 100px !important;
     
 
 }
