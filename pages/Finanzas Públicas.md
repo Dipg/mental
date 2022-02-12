@@ -59,6 +59,7 @@
 		- ¿ Cuales son las funciones de las finanzas Públicas? #red
 		  collapsed:: true
 			- Formular la política fiscal y financiera de corto, mediano y lago plazo en función de la política económica y social del Gobierno.
+			-
 			- [](#1.)  Evaluar la {{cloze ejecución}} del [[Presupuesto General del Estado]] de {{cloze ingresos}} y {{cloze egresos}} del Estado y {{cloze proponer}} al Ejecutivo {{cloze medidas correctivas de su competencia}}.
 			- [](#2.) {{cloze Cierre contable}} y {{cloze liquidar}} el [[PGE]] de ingresos y egresos
 			- [](#3.) Consolidar el {{cloze registro de los bienes}} que contribuyen [[Activos]] del [[Estado]] y {{cloze llevar la }} [[Contabilidad Patrimonial]] correspondiente.
