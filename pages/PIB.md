@@ -1,1 +1,1 @@
-- alias:
+- alias: Producto Inerno Bruto, Producto Interior Bruto
