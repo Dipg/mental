@@ -10,7 +10,7 @@ body {
     counter-reset: chapter 3 section 0 slide 0;
   }
   h1 {
-    counter-increment: chapter;
+    counter-increment: slide;
   }
 
   h2 {
