@@ -1,1 +1,2 @@
-- La formula para enc
+- La formula para encontrar la ecuación de una recta conociendo dos puntos es:
+- $$$$
