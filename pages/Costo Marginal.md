@@ -1,1 +1,1 @@
-- alias::CM
+alias:: Cmg
