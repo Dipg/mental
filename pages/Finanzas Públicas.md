@@ -89,7 +89,7 @@
 				- ((6207f6e6-e3df-43c1-bd0c-6e8035f1d64c))
 				- ((619cf6b7-2835-4ed1-a3cd-6c24b8ac674f))
 				- Como se encontraba la relación de Eficiencia en la [[caja de edgeworth]] de dos individuos
-					- Las  RMS
+					- Las  RMS Tienen que ser Iguales
 			- {{embed ((619cf53b-fce0-40c3-b7e3-02e285fcfc34))}}
 			- ¿Qué resume las preferencias sociales?
 			  collapsed:: true
