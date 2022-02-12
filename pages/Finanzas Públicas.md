@@ -136,7 +136,7 @@
 		- #[[Ejercicios Numéricos]]  [[Ventajas Comparativas]]
 			- ![image.png](../assets/image_1644692491761_0.png){:height 163, :width 300}
 			- Situación Inicial del Comercio al igualar la Producción
-				- Para esto debemos obtener la [[Frontera de Posibilidades de Producción]] de Cada Individuo o país, En el caso de las ventajas comparativas de dos productos , debido a que usan
+				- Para esto debemos obtener la [[Frontera de Posibilidades de Producción]] de Cada Individuo o país, En el caso de las ventajas comparativas de dos productos , se debe bu
 	- Fallas del mercado
 	  collapsed:: true
 		- ¿Cuáles son las fallas del mercado?
@@ -824,4 +824,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578294_0.png)
+	- ![image.png](../assets/image_164424157
