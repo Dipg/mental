@@ -200,7 +200,7 @@
 				  collapsed:: true
 					- El consumo del bien no reduce la cantidad disponible de consumo para otros consumidores
 				- ¿Qué pasa cuando un bien es no-excluyente y no-rival ?
-					- Se considera
+					- Se considera un bien público Puro
 				- Bien público Puro
 				  collapsed:: true
 					- Cuado el Cmg de suministrar a una persona más , es cero
