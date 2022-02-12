@@ -199,6 +199,7 @@
 				- No-Rivales
 				  collapsed:: true
 					- El consumo del bien no reduce la cantidad disponible de consumo para otros consumidores
+				-
 				- Bien público Puro
 				  collapsed:: true
 					- Cuado el Cmg de suministrar a una persona más , es cero
