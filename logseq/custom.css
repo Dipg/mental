@@ -9,6 +9,7 @@ body{
     counter-reset: SubSeccion;
  }
  h1{
+     
     counter-increment: Seccion;
     content: "Capítulo " counter(Seccion)". ";
  }
