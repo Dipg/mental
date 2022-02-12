@@ -3,11 +3,11 @@
 
 
 
-body {
+
+  h1{
+
     counter-reset: chapter 3 section 0 slide 2;
   }
-
-  
   
   h2 {
     counter-increment: slide -2 section;
