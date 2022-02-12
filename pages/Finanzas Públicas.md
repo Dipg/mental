@@ -141,7 +141,7 @@
 				- TODO Situación Inicial del Comercio y Resultados del Beneficio económico (Minuto 1:17 [Clase 1](https://drive.google.com/drive/u/1/folders/1HLDI-ohR65Evt3BmWr_TSQhJw0sdXEjS)) #Revisar
 	- # Fallas del mercado
 	  collapsed:: true
-	  Mediante las Fianzas Públicas, y la asignación de
+	  Mediante las Fianzas Públicas, y la asignación de recursos , se trata de co
 		- ¿Cuáles son las fallas del mercado?
 		  collapsed:: true
 			- Poder de mercado
