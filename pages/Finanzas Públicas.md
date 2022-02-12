@@ -120,7 +120,7 @@
 		- {{embed ((619cf53b-fce0-40c3-b7e3-02e285fcfc34))}}
 	- ## Ventajas absolutas y ventajas comparativas #yellow
 	  collapsed:: true
-		- Ventajas Absolutas
+		- Ventajas Absolutas →  [[Adam Smith]]
 		  collapsed:: true
 			- Por cantidad , siempre es mejor mayor
 			- Por precio siempres e smejor menor
