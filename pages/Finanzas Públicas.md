@@ -4,7 +4,7 @@
   collapsed:: true
   Se parte de dos tipos de análisis, el [[Análisis Positivo]]  y el [[Análisis Normativo]]:
 	- # Análisis Positivo
-	  Se parte de algo empírico y técnicamente comprobado para la toma de decisiones, desde esta base se parte a los objetivos de la política fiscal, usa [[Encuestas]], [[Experimentos]], [[Econometría]]
+	  Se parte de algo empírico y técnicamente comprobado para la toma de decisiones, desde esta base se parte a los objetivos de la política fiscal, usa [[Encuestas]], [[Experimentos]], [[Econometría]],
 		- Objetivos de la [[Política Fiscal]] 🟢
 		  collapsed:: true
 			- ¿Cuáles son los objetivos de la política fiscal?
