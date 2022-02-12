@@ -8,7 +8,7 @@ body{
 
  
  h1{
-    counter-reset: chapter section 1 page;
+    counter-reset: SubSeccion;
  }
  h1:before{
     counter-increment: Seccion;
