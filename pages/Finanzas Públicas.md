@@ -152,7 +152,8 @@
 				- Vendo mas y cobra más.
 				- Genera Perdida Social
 				- #[[Ejercicios Numéricos]] [[Monopolio]]
-					- #ecuación ((6201acf7-9e58-4b90-a0fd-de03b7155bf3))
+					- #ecuación ((6201acf7-9e58-4b90-a0fd-de03b7155bf3)) → Optimo del Monopolio
+					-
 					-
 				-
 			- Información Incompleta
