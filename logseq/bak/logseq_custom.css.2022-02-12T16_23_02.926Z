@@ -5,32 +5,14 @@
 
 display: none !important;
 }
-body {
-    counter-reset: chapter section subsection;
-  }
-  
-  h1.chapter::before {
-    counter-increment: chapter;
-    content: "Chapter " counter(chapter) ": ";
-  }
-  
-  h1.chapter {
-    counter-reset: section;
-  }
-  
-  h2.section::before {
-    counter-increment: section;
-    content: "Section " counter(chapter) "." counter(section) ": ";
-  }
-  
-  h2.section {
-    counter-reset: subsection;
-  }
-  
-  h3.subsection::before {
-    counter-increment: subsection;
-    content: "Subsection " counter(chapter) "." counter(section) "." counter(subsection) ": ";
-  }
+
+body {counter-reset: h1}
+h1 {counter-reset: h2}
+h2 {counter-reset: h3}
+h1:before {counter-increment: h1 2; content: counter(h1)". "}
+h2:before {counter-increment: h2 2; content: counter(h1)"." counter(h2)". "}
+h3:before {counter-increment: h3 2; content: counter(h1)"." counter(h2)"." counter(h3)". "}
+
 
 
 *:is(.editor-inner .uniline-block.h2, .editor-inner .h2, .ls-block h2) {
