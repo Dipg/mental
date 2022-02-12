@@ -7,27 +7,23 @@ display: none !important;
 } */
 
 body {
-    counter-reset: chapter; /*we reset the chapter once*/
+    counter-reset: chapter 3 section 0 slide 0;
   }
-  h1.chapter {
-    counter-reset: section; /*we reset the section each chapter*/
-  }
-  h1.chapter::before {
-    counter-increment: chapter;
-    content: "Chapter " counter(chapter) ": ";
-  }
-  
-  h2.section {
-    counter-reset: subsection; /*we reset the subsection each section*/
-  }
-  h2.section::before {
+  h2 {
+    counter-reset: slide 0;
     counter-increment: section;
-    content: "Section " counter(chapter) "." counter(section) ": ";
   }
-  
-  h3.subsection::before {
-    counter-increment: subsection;
-    content: "Subsection " counter(chapter) "." counter(section) "." counter(subsection) ": ";
+  h3 {
+    counter-increment: slide;
+  }
+  h1:before {
+    content: counter(chapter)". ";
+  }
+  h2:before {
+    content: counter(chapter)"." counter(section)" ";
+  }
+  h3:before {
+    content: counter(chapter)"." counter(section)"." counter(slide)" ";
   }
   
 
