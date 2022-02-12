@@ -66,7 +66,7 @@
 		- ¿Qué es el [[Gasto Público]] ? #red
 		  collapsed:: true
 			- Es al inversión que realiza el estado en distintos proyectos de interés, para poder concretar las inversiones se debe asegurar el recaudo de impuestos
-		- ¿ Que estimula el gasto Público ? #red
+		- ¿ Que estimula el gasto Público ?  #red
 		  collapsed:: true
 			- El consumó y el Empleo
 	- Análisis Normativo #red
