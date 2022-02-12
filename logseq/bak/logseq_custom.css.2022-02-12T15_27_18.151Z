@@ -2,8 +2,8 @@
 
 
 *:is(.editor-inner .uniline-block.h2, .editor-inner .h2, .ls-block h2) {
-    margin-top: 10px !important;
-    margin-bottom: 5px !important;
+    margin-top: 20px !important;
+    margin-bottom: 5px;
 }
 
 
