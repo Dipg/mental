@@ -136,7 +136,7 @@
 		- #[[Ejercicios Numéricos]]  [[Ventajas Comparativas]]
 			- ![image.png](../assets/image_1644692491761_0.png){:height 163, :width 300}
 			- Situación Inicial del Comercio al igualar la Producción
-				- Para esto debemos optener
+				- Para esto debemos optener las
 	- Fallas del mercado
 	  collapsed:: true
 		- ¿Cuáles son las fallas del mercado?
