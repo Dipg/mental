@@ -1,1 +1,1 @@
-- alias: Politica Fiscal
+- alias: Política Fiscal Restrictiva
