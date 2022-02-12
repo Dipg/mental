@@ -4,8 +4,7 @@
 
 div[data-refs-self*="video"] {
 
-    height: 100px !important;
-    
+    height: 100px;
 
 }
 
