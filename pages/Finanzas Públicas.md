@@ -235,7 +235,7 @@
 		- Problema
 			- Información oculta por parte de los consumidores
 	- Economía del sector Público
-- # TODO  Ingresos Fiscales ![📑](../assets/UNIDAD_2._1637746281546_0.pdf)
+- # TODO  [](#2.) Ingresos Fiscales ![📑](../assets/UNIDAD_2._1637746281546_0.pdf)
 	- ## asdasd
 	- ## sdsdfs
 	- ### sfsdfsdf
@@ -267,8 +267,6 @@
 		- Es un circulo vicioso
 		- El aumento del deficit fiscal provoca ➡️ un alza en la inflación, la que a su ➡️ vez reduce el valor de la recaudación tributaria ➡️  Lo que as su vez aumenta el deficit fiscal  y se repite el ciclo 🔁
 		  background-color:: #264c9b
-- ## sdfsdf
-- ## dsfsf
 - # TODO  Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
