@@ -5,8 +5,16 @@ body{
     counter-reset: Seccion;
  }
 
+ h1:first-child{
+    counter-reset: h1;
+ }
 
- 
+
+ h1:first-child:before{
+    counter-increment: Seccion;
+    content: "" counter(Seccion);
+ }
+
  h1{
     counter-reset: SubSeccion;
  }
