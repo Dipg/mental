@@ -199,16 +199,6 @@
 				- No-Rivales
 				  collapsed:: true
 					- El consumo del bien no reduce la cantidad disponible de consumo para otros consumidores
-				- ¿Qué pasa cuando un bien es no-excluyente y no-rival ?
-					- Se considera un bien público Puro  ⬇️
-				- Bien público Puro
-				  collapsed:: true
-					- Cuado el Cmg de suministrar a una persona más , es cero
-					- El grafico de Cmg vs Facilidad de Exclusión, Muestra cuando se presenta un bien público puro.
-					- Así pues, Ante un Menor costo Marginal de Uso en combinación con Una menor Facilidad de Exclusión → Se obtiene Un Bien Publico Puro (Ejemplo : Defensa Nacional)
-					- Comparación #colum_2
-						- ![image.png](../assets/image_1644707122393_0.png)
-						- ((619d2e19-d79b-4109-9c5b-4c3925f431b3))
 				- Sin Embargo dentro del [[Sector Público]] Existen problemas Como:
 					- Free Rider (Problema del Parasito ![image.png](../assets/image_1644703371277_0.png){:height 36, :width 40} )
 					  collapsed:: true
