@@ -10,7 +10,7 @@ body{
  }
 
 
- h1:first-child:before{
+ h1:before{
     counter-increment: Seccion;
     content: "" counter(Seccion)". ";
  }
