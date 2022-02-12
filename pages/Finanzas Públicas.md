@@ -77,7 +77,7 @@
 				- El {{cloze consumó}} y el {{cloze Empleo}}
 	- # Análisis Normativo 🔴
 	  collapsed:: true
-	  Entra en Juego lo que se conoce como [[Economía del Bienestar]]
+	  Entra en Juego lo que se conoce como [[Economía del Bienestar]], la cual
 		- Economía del bienestar
 		  collapsed:: true
 			- ¿ Que hace la economía del bienestar? #Red
