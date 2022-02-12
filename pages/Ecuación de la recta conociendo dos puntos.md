@@ -1,2 +1,2 @@
 - La formula para encontrar la ecuación de una recta conociendo dos puntos es:
-- $$$$
+- $$(y-y)=m()$$
