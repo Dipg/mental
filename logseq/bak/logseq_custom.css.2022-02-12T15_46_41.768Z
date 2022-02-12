@@ -2,13 +2,13 @@
 
 
 body{
-    counter-reset: Seccion 0;
+    counter-reset: Seccion;
  }
 
 
  
  h1{
-    counter-reset: SubSeccion;
+    counter-reset: SubSeccion 0;
  }
  h1:before{
     counter-increment: Seccion;
