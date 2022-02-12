@@ -250,7 +250,7 @@
 							- Unos consumen poco y otros consumen en exceso
 							- Sin embargo aquellos cuya demanda es alta pueden complementar el cosumo público, ^{ }ando los costes totales de trasacción
 					- Colas
-						-
+						- Acceso al bien publico según tiempos de espera
 					- ¿Cuándo se hace cargo el estado?
 					  collapsed:: true
 						- Cuando los costos de transacción son bastante elevados , es mejor que el estado suministre ese Bien
