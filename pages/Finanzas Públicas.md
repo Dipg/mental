@@ -161,7 +161,7 @@
 			  collapsed:: true
 				- Riesgo Moral
 				  collapsed:: true
-					- Como cambio mi comportamiento ante el pago de un acontecimiento en especifico(Cuidao menos mi cas acuando tengo un seguro anti robos )
+					- Como cambio mi comportamiento ante el pago de un acontecimiento en especifico(Cuidao menos mi cas acuando tengo un seguro anti robos)
 					- La parte cuyas acciones no se observan pueden influir en la probabilidad o en la magnitud relacionado con un acontecimiento.
 				- Selección adversa
 				  collapsed:: true
