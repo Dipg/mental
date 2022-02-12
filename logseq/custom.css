@@ -2,24 +2,27 @@
 
 
 
-body {
-    counter-reset: h2counter;
-}
-h1 {
-    counter-reset: h2counter;
-}
-h2:before {
-    content: counter(h2counter) ".\0000a0\0000a0";
-    counter-increment: h2counter;
-    counter-reset: h3counter;
-}
-h3:before {
-    content: counter(h2counter) "." counter(h3counter) ".\0000a0\0000a0";
-    counter-increment: h3counter;
-}
-
-
-
+body{
+    counter-reset: Seccion;
+ }
+ h1{
+    counter-reset: SubSeccion;
+ }
+ h1:before{
+    counter-increment: Seccion;
+    content: "Capítulo " counter(Seccion)". ";
+ }
+ h2{
+    counter-reset: SubSubSeccion;
+ }
+ h2:before{
+    counter-increment: SubSeccion;
+    content: counter(Seccion) "." counter(SubSeccion)". ";
+ }
+ h3:before{
+    counter-increment: SubSubSeccion;
+    content: counter(Seccion) "." counter(SubSeccion)"." counter(SubSubSeccion)". ";
+ }
 
 *:is(.editor-inner .uniline-block.h2, .editor-inner .h2, .ls-block h2) {
     margin-top: 5px !important;
