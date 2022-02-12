@@ -1,5 +1,5 @@
 - ¿Cual es el porcentaje de deuda pública que se debería aplicar en [[Ecuador]] según el [[Código de Finanzas Públicas]] ?
--
+	- El porcentaje es del 40%
 - Deuda Pública Ecuador
   title:: Deuda Pública
 	- Acceder a los boletines de Deuda Pública del Ecuador
