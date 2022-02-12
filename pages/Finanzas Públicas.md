@@ -132,7 +132,7 @@
 			- Por cantidad :
 			  collapsed:: true
 				- Divido la columna de alada por la columna que deseo encontrar y obtengo la celda de la columna que busco, de ogual forma elijo en la columna la que menor sea
-		-
+		- Se toman en cuenta los [[Costos de Oportunidad]]
 	- Fallas del mercado
 	  collapsed:: true
 		- ¿Cuáles son las fallas del mercado?
