@@ -135,7 +135,7 @@
 		- Se toman en cuenta los [[Costos de Oportunidad]]
 		- #[[Ejercicios Numéricos]]  [[Ventajas Comparativas]]
 			- ![image.png](../assets/image_1644692491761_0.png){:height 163, :width 300}
-			-
+			- ituación Inicial del Comercio al igualar la Producción
 	- Fallas del mercado
 	  collapsed:: true
 		- ¿Cuáles son las fallas del mercado?
