@@ -2,7 +2,7 @@
 
 
 body {
-    counter-reset: chapter 3 section 0 slide 2;
+    counter-reset: Seccion;
   }
   
   h2 {
