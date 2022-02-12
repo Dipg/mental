@@ -1,6 +1,6 @@
 [{:block/name "",
-  :block/created-at 1644635737696,
-  :block/updated-at 1644635737696}
+  :block/created-at 1644636845009,
+  :block/updated-at 1644636845009}
  {:block/name " modelo de inversión- qtobi en ecuador",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
@@ -551,8 +551,8 @@
   :block/created-at 1642180004251,
   :block/updated-at 1642913066951}
  {:block/name "exportaciones netas",
-  :block/created-at 1644635737697,
-  :block/updated-at 1644635737697}
+  :block/created-at 1644636845010,
+  :block/updated-at 1644636845010}
  {:block/name "exámenes",
   :block/created-at 1643061761600,
   :block/updated-at 1643729299361}
@@ -746,8 +746,8 @@
   :block/created-at 1641992433039,
   :block/updated-at 1641992433039}
  {:block/name "inversión privada",
-  :block/created-at 1644635737697,
-  :block/updated-at 1644635737697}
+  :block/created-at 1644636845010,
+  :block/updated-at 1644636845010}
  {:block/name "jan 10th, 2022",
   :block/created-at 1641772800000,
   :block/updated-at 1643134153805}
@@ -992,17 +992,17 @@
   :block/created-at 1644635012389,
   :block/updated-at 1644635025655}
  {:block/name "port-1",
-  :block/created-at 1644635737697,
-  :block/updated-at 1644635737697}
+  :block/created-at 1644636845010,
+  :block/updated-at 1644636845010}
  {:block/name "port-2",
-  :block/created-at 1644635737696,
-  :block/updated-at 1644635737696}
+  :block/created-at 1644636845009,
+  :block/updated-at 1644636845009}
  {:block/name "port-3",
-  :block/created-at 1644635737697,
-  :block/updated-at 1644635737697}
+  :block/created-at 1644636845009,
+  :block/updated-at 1644636845009}
  {:block/name "port-4",
-  :block/created-at 1644635737697,
-  :block/updated-at 1644635737697}
+  :block/created-at 1644636845010,
+  :block/updated-at 1644636845010}
  {:block/name "probabilidad bayesiana",
   :block/created-at 1642172083937,
   :block/updated-at 1642172083937}
@@ -1061,8 +1061,8 @@
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
  {:block/name "saldo presupuestario",
-  :block/created-at 1644635737697,
-  :block/updated-at 1644635737697}
+  :block/created-at 1644636845009,
+  :block/updated-at 1644636845009}
  {:block/name "sat, 22-01-2022",
   :block/created-at 1642895339060,
   :block/updated-at 1642942662270}
@@ -1163,8 +1163,8 @@
   :block/created-at 1640183914955,
   :block/updated-at 1640183914955}
  {:block/name "video",
-  :block/created-at 1644635737697,
-  :block/updated-at 1644635737697}
+  :block/created-at 1644636845009,
+  :block/updated-at 1644636845009}
  {:block/name "vocabulario",
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
