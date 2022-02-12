@@ -68,7 +68,7 @@
 			- [](#8.) Definir con base en la [[Política Económica]] para la ((6201acf6-7a52-4e9f-ae52-ca700803d367)) , {{cloze priorización}} , ((6201acf6-022b-45b5-9141-ecde55c7ef32)) y {{cloze selección}} de proyectos de inversión y programas a ser ejecutados con recursos internos, financiamiento y cooperatividad para la formulación,
 		- ¿Qué es el [[Gasto Público]] ? #red
 		  collapsed:: true
-			- Es al [[Inversión]] que realiza el [[Estado]] en {{cloze distintos proyectos de interés Social}}, para poder concretar las inversiones, es decir mantener el [[Gasto Público]] se {{cloze debe asegurar el recaudo}} de [[Impuestos]]
+			- Es al [[Inversión]] que realiza el [[Estado]] en {{cloze distintos proyectos de interés Social }}, para poder concretar las inversiones, es decir mantener el [[Gasto Público]] se {{cloze debe asegurar el recaudo}} de [[Impuestos]]
 		- ¿ Que estimula el gasto Público ?  #red
 		  collapsed:: true
 			- El {{cloze consumó}} y el {{cloze Empleo}}
