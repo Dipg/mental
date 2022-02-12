@@ -1,4 +1,4 @@
-- ¿Cual es el porcentaje de deuda pública que según
+- ¿Cual es el porcentaje de deuda pública que según el
 - Deuda Pública Ecuador
   title:: Deuda Pública
 	- Acceder a los boletines de Deuda Pública del Ecuador
