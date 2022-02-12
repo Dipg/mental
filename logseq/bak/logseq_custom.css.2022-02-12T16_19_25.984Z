@@ -6,31 +6,30 @@
 display: none !important;
 }
 
-body {
-    counter-reset: h1;
-  }
-  
-  h1:before { 
-    content: counter(h1) ". ";
-    counter-increment: h1;
-  }
-  h1 {
-    counter-reset: h2;
-  }
-  
-  div {
-    counter-reset: h2;
-  }
-  
-  h2:before {
-    content: counter(h1) "." counter(h2) ". ";
-    counter-increment: h2;
-  }
 
 
+body{
+    counter-reset: Seccion 1;
+ }
+ h1{
+    counter-reset: SubSeccion ;
+ }
+ h1:before{
+    counter-increment: Seccion ;
+    content: "Unidad " counter(Seccion)". ";
+ }
+ h2{
+    counter-reset: SubSubSeccion ;
+ }
+ h2:before{
+    counter-increment: SubSeccion ;
+    content: counter(Seccion) "." counter(SubSeccion)". ";
+ }
+ h3:before{
+    counter-increment: SubSubSeccion;
+    content: counter(Seccion) "." counter(SubSeccion)"." counter(SubSubSeccion)". ";
+ }
 
-
-  
 *:is(.editor-inner .uniline-block.h2, .editor-inner .h2, .ls-block h2) {
     margin-top: 5px !important;
     margin-bottom: 5px !important;
