@@ -15,33 +15,33 @@
 				  collapsed:: true
 					- Equidad y redistribución de la renta
 	- Todos los recursos presupuestarios o [[Saldo Presupuestario]] se asignan en función de qué tipo de política  se esta evidenciando, estas tipos de políticas son :
-	- Política Fiscal Expansiva #red 😎
-	  collapsed:: true
-		- ¿Qué es una política expansiva?
+		- Política Fiscal Expansiva #red 😎
 		  collapsed:: true
-			- Es una [[Política]] que se lleva acabo en situaciones de [[Crecimiento Económico]]  y cuando existen altos niveles de paro , es por esto que el gobierno debera aplicar una política expansiva con la finalidad {{cloze de aumentar el [[Gasto Agregado]]}},  para aumentar la {{cloze renta efectiva}} y así disminuir {{cloze los niveles de paro.}}
-			- Esta política expansiva  puede ser de cinco tipos o vías de aplicación.
-				- [](#1.) Reducción de los impuestos
-				  collapsed:: true
-					- Consiguiendo un impacto positivo sobre el consumo
-				- [](#2.) Aumento de los gastos del gobierno
-				  collapsed:: true
-					- Desplazando al alza el gasto agregado
-				- [](#3.) Estímulos a la inversión privada
-				  collapsed:: true
-					- A través de bonificaciones o exenciones fiscales, con la finalidad de provocar aumentos en la demanda agregada
-				- [](#4.) Incentivos fiscales
-				  collapsed:: true
-					- para estimular la demanda de los no residente (mayores exportaciones netas)
-	- Política Fiscal Contractiva #red
-	  collapsed:: true
-		- ¿ Que es una política fiscal Contractiva?
-			- Es aquella que se da en situaciones inflacionistas🧐 ![image.png](../assets/image_1644629320122_0.png){:height 46, :width 72} *Si se tienen una alta inflación esto quiere decir que según la [[Curva de Philips]]  el Empleo seera meor, por lo que la politica contractiva se aplica cuando existe poco desempleo*🧐, provocada esta por un exceso de [[Demanda Agregada]] , reduciendo así el gasto agregado.
-			- Acciones:
+			- ¿Qué es una política expansiva?
 			  collapsed:: true
-				- Reducción del gasto público
-				- Reducción del Gasto público
-				- Se actúa en post de desalientar la inversión privada y el gasto público(Se reducirian las exportaciones netas)
+				- Es una [[Política]] que se lleva acabo en situaciones de [[Crecimiento Económico]]  y cuando existen altos niveles de paro , es por esto que el gobierno debera aplicar una política expansiva con la finalidad {{cloze de aumentar el [[Gasto Agregado]]}},  para aumentar la {{cloze renta efectiva}} y así disminuir {{cloze los niveles de paro.}}
+				- Esta política expansiva  puede ser de cinco tipos o vías de aplicación.
+					- [](#1.) Reducción de los impuestos
+					  collapsed:: true
+						- Consiguiendo un impacto positivo sobre el consumo
+					- [](#2.) Aumento de los gastos del gobierno
+					  collapsed:: true
+						- Desplazando al alza el gasto agregado
+					- [](#3.) Estímulos a la inversión privada
+					  collapsed:: true
+						- A través de bonificaciones o exenciones fiscales, con la finalidad de provocar aumentos en la demanda agregada
+					- [](#4.) Incentivos fiscales
+					  collapsed:: true
+						- para estimular la demanda de los no residente (mayores exportaciones netas)
+		- Política Fiscal Contractiva #red
+		  collapsed:: true
+			- ¿ Que es una política fiscal Contractiva?
+				- Es aquella que se da en situaciones inflacionistas🧐 ![image.png](../assets/image_1644629320122_0.png){:height 46, :width 72} *Si se tienen una alta inflación esto quiere decir que según la [[Curva de Philips]]  el Empleo seera meor, por lo que la politica contractiva se aplica cuando existe poco desempleo*🧐, provocada esta por un exceso de [[Demanda Agregada]] , reduciendo así el gasto agregado.
+				- Acciones:
+				  collapsed:: true
+					- Reducción del gasto público
+					- Reducción del Gasto público
+					- Se actúa en post de desalientar la inversión privada y el gasto público(Se reducirian las exportaciones netas)
 	- Finanzas Públicas #red
 	  collapsed:: true
 		- ¿ Que son las finanzas públicas? #red
