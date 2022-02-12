@@ -115,7 +115,7 @@
 		- ((6207fb47-d363-43c7-9355-d7181e3c5a1e))
 		- La función de Utilidad nos permite compara la utilidad de dos individuos,  Esta función nos permite conocer si se esta siendo eficiente, esta función tiene una relación inversa, ya que al aumentar la utilidad de un individuo o ciudad , disminuye la utilidad del otro.
 		- En el Punto $H$ Se Esta ciendo Ineficiente, desperdicio recursos disponibles
-		- En el Punto
+		- En el Punto $L$ ,
 		- ### Teoremas Fundamentales de la Economía
 		- {{embed ((619cf53b-fce0-40c3-b7e3-02e285fcfc34))}}
 	- ## Ventajas absolutas y ventajas comparativas #yellow
