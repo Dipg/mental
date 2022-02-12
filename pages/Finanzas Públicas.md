@@ -221,6 +221,7 @@
 				  Ahora bien, Como suministro esto bienes privados suministrados por el estado  ⬇️⬇️
 				  #+END_NOTE
 			- ### Como se provisionan los Bienes privados suministrados por el [[Estado]]
+				-
 				- Mecanismos para racionalizar los bienes Públicos
 				  collapsed:: true
 					- ¿Cuándo se hace cargo el estado?
