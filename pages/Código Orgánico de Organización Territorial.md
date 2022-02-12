@@ -1,1 +1,1 @@
-alias:: COT
+alias:: COOTAD
