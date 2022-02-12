@@ -228,7 +228,6 @@
 		- Problema
 			- Información oculta por parte de los consumidores
 	- Economía del sector Público
--
 - # TODO  Ingresos Fiscales ![📑](../assets/UNIDAD_2._1637746281546_0.pdf)
 	- Videos
 		- Antiguos
