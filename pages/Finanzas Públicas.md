@@ -99,6 +99,7 @@
 							- La relación de los precios de los factores (Salario y renta )
 				- ### Curva de Contrato
 				- ((619cf6b7-2835-4ed1-a3cd-6c24b8ac674f))
+				-
 			- ¿Qué resume las preferencias sociales?
 			  collapsed:: true
 				- Una función de bienestar social resume las preferencias sociales en relación con la utilidad de cada uno de su componentes.
