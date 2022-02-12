@@ -53,7 +53,7 @@
 			- Es una rama de la economía que se encarga de analizar la {{cloze obtención}}, {{cloze gestión}} y {{cloze administración de fondos}} .
 		- ¿Cuál es el objetivo de las finanzas públicas? #red
 		  collapsed:: true
-			- Fomento de la plena ocupación y el control de la demanda agregada
+			- Fomento de la {{cloze plena ocupación}} y el control de la demanda agregada
 		- ¿Cómo interviene el estado en las fianzas públicas? #red
 		  collapsed:: true
 			- Su intervención se da a través de la variación del [[Gasto Público]] y de los impuestos.
