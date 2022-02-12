@@ -1,11 +1,7 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 
-.block-ref .block-content{
-
-    color: red
-
-}
+.block-ref .bloc
 
 .block-ref a{
     display: none !important;
