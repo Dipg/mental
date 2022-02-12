@@ -5,10 +5,8 @@ body{
     counter-reset: Seccion;
  }
 
- h1:first-child{
-    counter-reset: SubSeccion;
- }
 
+ 
  h1{
     counter-reset: SubSeccion;
  }
