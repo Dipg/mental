@@ -44,7 +44,7 @@
 					- Reducción del  los Impuestos
 					- Reducción del Gasto público
 					- Se actúa en post de desalientar la [[Inversión Privada]]
-					- (Se reducirian las [[Exportaciones Netas]] )
+					- Se reducirian las [[Exportaciones Netas]]
 		-
 	- Finanzas Públicas #red
 	  collapsed:: true
