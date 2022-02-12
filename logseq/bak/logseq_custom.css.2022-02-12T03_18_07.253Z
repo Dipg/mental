@@ -25,10 +25,7 @@ width:300px !important;
 
 }
 
-element.style {
-    width: 100px;
-    position: relative;
-}
+
 
 
 
