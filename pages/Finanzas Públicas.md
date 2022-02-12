@@ -56,7 +56,7 @@
 			- Fomento de la {{cloze plena ocupación}} y el {{cloze control de la  }} [[Demanda Agregada]]
 		- ¿Cómo interviene el estado en las fianzas públicas? #red
 		  collapsed:: true
-			- Su intervención se da a través de la variación del [[Gasto Público]] y de los impuestos.
+			- Su intervención se da a través de la variación del [[Gasto Público]] y de los [[Impuestos]].
 		- ¿ Cuales son las funciones de las finanzas Públicas? #red
 		  collapsed:: true
 			- [](#1.)  Evaluar la ejecución del presupuesto general de ingresos y egresos del Estado y proponer al Ejecutivo medidas correctivas de su competencia.
