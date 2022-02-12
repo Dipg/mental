@@ -124,7 +124,7 @@
 		  collapsed:: true
 			- Por cantidad , siempre es mejor mayor
 			- Por precio siempres e smejor menor
-		- Ventajas Comparativas
+		- Ventajas Comparativas → [[David Ricardo]]
 		  collapsed:: true
 			- Por coste o factor :
 			  collapsed:: true
