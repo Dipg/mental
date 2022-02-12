@@ -1,2 +1,2 @@
-- Que es lo Mismo que el
+- Que es lo Mismo que el [[Gasto Agregado]]
 -
