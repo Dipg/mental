@@ -1,12 +1,6 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 
-*:is(.editor-inner .uniline-block.h2, .editor-inner .h2, .ls-block h2) {
-    margin-top: 20px !important;
-    margin-bottom: 10px;
-}
-
-
 .block-ref {
 
     color: rgb(53, 207, 60) !important;
