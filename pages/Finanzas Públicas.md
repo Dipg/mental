@@ -3,24 +3,6 @@
 - # TODO [](#1.) Economía del Sector Público  ![📑](../assets/UNIDAD_1_1637632758053_0.pdf) ![​📚​ ](../assets/La_Economía_del_Sector_Público_1637674931911_0.pdf)
   collapsed:: true
   Se parte de dos tipos de análisis, el [[Análisis Positivo]]  y el [[Análisis Normativo]]:
-	- ## Análisis Normativo 🔴
-	  collapsed:: true
-	  Entra en Juego lo que se conoce como [[Economía del Bienestar]], la cual, en resumen, realiza un análisis de la deseabilidad social de situaciones económicas alternativas
-		- Economía del bienestar
-		  collapsed:: true
-			- ¿ Que hace la economía del bienestar? #Red
-			  collapsed:: true
-				- Análisis de la deseabilidad social de situaciones  económicas alternativas, se da el uso de curvas de indiferencia.
-			- ¿ QUe es la Caja de Edgeworth ?
-			  collapsed:: true
-				- ((619cf6b7-2835-4ed1-a3cd-6c24b8ac674f))
-			- {{embed ((619cf53b-fce0-40c3-b7e3-02e285fcfc34))}}
-			- ¿Qué resume las preferencias sociales?
-			  collapsed:: true
-				- Una función de bienestar social resume las preferencias sociales en relación con la utilidad de cada uno de susu componentes.
-				- ¿Qué encuentra la función de bienestar Social?
-				  collapsed:: true
-					- EL Máximo de Bienestar Social
 	- ## Análisis Positivo 🟡
 	  Se parte de algo empírico y técnicamente comprobado para la toma de decisiones, usa [[Encuestas]], [[Experimentos]], [[Econometría]], [[Investigación Empírica]] , desde esta base se parte a los objetivos de la política fiscal:
 		- Objetivos de la [[Política Fiscal]] 🟢
@@ -93,6 +75,24 @@
 			- ¿ Que estimula el gasto Público ?  #red
 			  collapsed:: true
 				- El {{cloze consumó}} y el {{cloze Empleo}}
+	- ## Análisis Normativo 🔴
+	  collapsed:: true
+	  Entra en Juego lo que se conoce como [[Economía del Bienestar]], la cual, en resumen, realiza un análisis de la deseabilidad social de situaciones económicas alternativas
+		- Economía del bienestar
+		  collapsed:: true
+			- ¿ Que hace la economía del bienestar? #Red
+			  collapsed:: true
+				- Análisis de la deseabilidad social de situaciones  económicas alternativas, se da el uso de curvas de indiferencia.
+			- ¿ QUe es la Caja de Edgeworth ?
+			  collapsed:: true
+				- ((619cf6b7-2835-4ed1-a3cd-6c24b8ac674f))
+			- {{embed ((619cf53b-fce0-40c3-b7e3-02e285fcfc34))}}
+			- ¿Qué resume las preferencias sociales?
+			  collapsed:: true
+				- Una función de bienestar social resume las preferencias sociales en relación con la utilidad de cada uno de susu componentes.
+				- ¿Qué encuentra la función de bienestar Social?
+				  collapsed:: true
+					- EL Máximo de Bienestar Social
 	- ### wfsdf
 	- ### asdasdas
 	- sadf
