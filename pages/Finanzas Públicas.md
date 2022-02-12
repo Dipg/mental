@@ -61,8 +61,8 @@
 			- [](#1.) Formular la política fiscal y financiera de corto, mediano y lago plazo en función de la política económica y social del Gobierno.
 			- [](#2.)Proponer al organismo Ejecutivo, la política presupuestaria y las normas para su ejecución, dirigiendo, coordinando y consolidando la formulación del proyecto del presupuesto General de Ingresos y Egresos del Estado. (DEUDA PÚBLICA)
 			- [](#3.) Proponer al SRI, las normas para la desconcentración en la percepción de ingresos y  la programación del flujo de ingresos provenientes de la recaudación de los impuestos.
-			- Transferir los organismos y entidades del Estado los recursos financieros asignados en sus respectivos presupuestos, de acuerdo con la captación de los ingresos.
-			- [](#1.)  Evaluar la {{cloze ejecución}} del [[Presupuesto General del Estado]] de {{cloze ingresos}} y {{cloze egresos}} del Estado y {{cloze proponer}} al Ejecutivo {{cloze medidas correctivas de su competencia}}.
+			- [](#4.)  Transferir los organismos y entidades del Estado los recursos financieros asignados en sus respectivos presupuestos, de acuerdo con la captación de los ingresos.
+			- [](#5.)  Evaluar la {{cloze ejecución}} del [[Presupuesto General del Estado]] de {{cloze ingresos}} y {{cloze egresos}} del Estado y {{cloze proponer}} al Ejecutivo {{cloze medidas correctivas de su competencia}}.
 			- [](#2.) {{cloze Cierre contable}} y {{cloze liquidar}} el [[PGE]] de ingresos y egresos
 			- [](#3.) Consolidar el {{cloze registro de los bienes}} que contribuyen [[Activos]] del [[Estado]] y {{cloze llevar la }} [[Contabilidad Patrimonial]] correspondiente.
 			- [](#4.) Definir con base en la [[Política Económica]] para la ((6201acf6-7a52-4e9f-ae52-ca700803d367)) , {{cloze priorización}} , ((6201acf6-022b-45b5-9141-ecde55c7ef32)) y {{cloze selección}} de proyectos de inversión y programas a ser ejecutados con recursos internos, financiamiento y cooperatividad para la formulación,
