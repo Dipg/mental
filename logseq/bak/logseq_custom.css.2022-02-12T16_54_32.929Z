@@ -6,7 +6,7 @@
 display: none !important;
 } */
 
-body {counter-reset: h1 h2}
+body {counter-reset: h1}
 .ls-block h1 {counter-reset: h2}
 .ls-block h1 {counter-reset: h3}
 h1:before {counter-increment: h1; content: counter(h1)". "}
