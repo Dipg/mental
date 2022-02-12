@@ -9,20 +9,20 @@ display: none !important;
 
 
 body{
-    counter-reset: Seccion ;
+    counter-reset: Seccion;
  }
  h1{
-    counter-reset: SubSeccion ;
+    counter-reset: SubSeccion;
  }
  h1:before{
-    counter-increment: Seccion ;
-    content: "Unidad " counter(Seccion)". ";
+    counter-increment: Seccion;
+    content: "Capítulo " counter(Seccion)". ";
  }
  h2{
-    counter-reset: SubSubSeccion ;
+    counter-reset: SubSubSeccion;
  }
  h2:before{
-    counter-increment: SubSeccion ;
+    counter-increment: SubSeccion;
     content: counter(Seccion) "." counter(SubSeccion)". ";
  }
  h3:before{
