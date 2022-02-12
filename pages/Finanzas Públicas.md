@@ -87,7 +87,8 @@
 			  collapsed:: true
 				- ((6207e853-e41c-4ff4-85da-04385cc67972))
 				- ((6207f6e6-e3df-43c1-bd0c-6e8035f1d64c))
-				-
+				- Condición de Eficiencia de Intercambio
+					- RMS = RMS
 				- ((619cf6b7-2835-4ed1-a3cd-6c24b8ac674f))
 				- Como se encontraba la relación de Eficiencia en la [[caja de edgeworth]] de dos individuos
 					- Las  RMS Tienen que ser Iguales
@@ -801,4 +802,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578294_0.png)
+	- ![image.png](../assets/image_1644241578294_
