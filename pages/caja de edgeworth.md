@@ -1,1 +1,1 @@
-- La caja de Edworth, en pocas pal muestra la asignación eficiente de Pareto
+- La caja de Edworth, en pocas palabras es como se  muestra la asignación eficiente de Pareto
