@@ -95,7 +95,7 @@
 				- ¿Qué encuentra la función de bienestar Social?
 				  collapsed:: true
 					- EL Máximo de Bienestar Social
-		- En este tipo de analisis las fiannzas públicas pueden buscar ser efecieintes en el sentido de pareto, cuando se busca
+		- En este tipo de análisis las fiannzas públicas pueden buscar ser efecieintes en el sentido de pareto, cuando se busca
 	- ## Ventajas absolutas y ventajas comparativas #yellow
 	  collapsed:: true
 		- Ventajas Absolutas
