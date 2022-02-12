@@ -94,7 +94,7 @@
 				- Eficiencia en la Producción
 					- RMS= RMST
 						- ¿Qué es RMST?
-							-
+							- La relación de los precios de los factores (Salario y renta )
 				- ((619cf6b7-2835-4ed1-a3cd-6c24b8ac674f))
 				- Como se encontraba la relación de Eficiencia en la [[caja de edgeworth]] de dos individuos
 					- Las  RMS Tienen que ser Iguales
