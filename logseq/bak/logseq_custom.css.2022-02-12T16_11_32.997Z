@@ -19,10 +19,10 @@ body{
     content: "Unidad " counter(Seccion)". ";
  }
  h2{
-    counter-reset: SubSubSeccion ;
+    counter-reset: SubSubSeccion 2;
  }
  h2:before{
-    counter-increment: SubSeccion 2;
+    counter-increment: SubSeccion;
     content: counter(Seccion) "." counter(SubSeccion)". ";
  }
  h3:before{

@@ -22,7 +22,7 @@ body{
     counter-reset: SubSubSeccion ;
  }
  h2:before{
-    counter-increment: SubSeccion 2;
+    counter-increment: SubSeccion;
     content: counter(Seccion) "." counter(SubSeccion)". ";
  }
  h3:before{
