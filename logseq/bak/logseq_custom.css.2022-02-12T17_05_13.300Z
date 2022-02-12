@@ -19,9 +19,9 @@ display: none !important;
 .block-ref {
 
     color: rgb(53, 207, 60) !important;
-    /* border-bottom: 3px solid rgb(53, 207, 60) !important;
+    border-bottom: 3px solid rgb(53, 207, 60) !important;
     border-radius: 3px;
-    padding: 0px; */
+    padding: 0px;
     /* transition: .3s; */
 }
 
