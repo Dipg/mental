@@ -193,13 +193,6 @@
 					- Ejemplo becas
 			- Bienes Públicos
 			  collapsed:: true
-				- Sin Embargo dentro del [[Sector Público]] Existen problemas Como:
-					- Free Rider (Problema del Parasito ![image.png](../assets/image_1644703371277_0.png){:height 36, :width 40} )
-					  collapsed:: true
-						- Polizón , aprovecha los bienes públicos sin pagar por ellos
-					- Problema de Sobreutilización de un [[Bien Público]]
-					- Sobre Uso o Sobredimensionamiento de un [[Bien Público]]
-						- Ejemplo el seguro Social +
 				- No- Exclusivos
 				  collapsed:: true
 					- No se pude excluir a ningún consumidor de su consumo
@@ -210,6 +203,13 @@
 				  collapsed:: true
 					- Cuado el Cmg de suministrar a una persona más , es cero
 					- ((619d2e19-d79b-4109-9c5b-4c3925f431b3))
+				- Sin Embargo dentro del [[Sector Público]] Existen problemas Como:
+					- Free Rider (Problema del Parasito ![image.png](../assets/image_1644703371277_0.png){:height 36, :width 40} )
+					  collapsed:: true
+						- Polizón , aprovecha los bienes públicos sin pagar por ellos
+					- Problema de Sobreutilización de un [[Bien Público]]
+					- Sobre Uso o Sobredimensionamiento de un [[Bien Público]]
+						- Ejemplo el seguro Social +
 			- Bienes Privados Suministrados por el Estado
 			  collapsed:: true
 				- Cuando en CMg de suministrar a más personas es alto , Ej. Educación
