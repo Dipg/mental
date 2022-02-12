@@ -23,9 +23,9 @@
 			  collapsed:: true
 				- Es una [[Política]] que se lleva acabo en situaciones de [[Crecimiento Económico]]  y cuando existen altos niveles de paro , es por esto que el gobierno debera aplicar una política expansiva con la finalidad {{cloze de aumentar el  }} [[Gasto Agregado]],  para aumentar la {{cloze renta efectiva}} y así disminuir {{cloze los niveles de paro.}}
 				- Esta política expansiva  puede ser de cinco tipos o vías de aplicación.
-					- [](#1.) Reducción de los impuestos
+					- [](#1.) Reducción de los [[Impuestos]]
 					  collapsed:: true
-						- Consiguiendo un impacto positivo sobre el consumo
+						- Consiguiendo un impacto positivo sobre el [[Consumo]]
 					- [](#2.) Aumento de los [[Gasto del Gobierno]]
 					  collapsed:: true
 						- Desplazando al alza el gasto agregado, sobre todo a través de obra pública, con la finalidad de incrementar el empleo
