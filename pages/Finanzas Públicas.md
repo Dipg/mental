@@ -99,6 +99,7 @@
 							- La relación de los precios de los factores (Salario y renta )
 				- ### Curva de Contrato
 				- ((619cf6b7-2835-4ed1-a3cd-6c24b8ac674f))
+				- ¿Cual es el limitando de las Curvas de Contrato?
 				-
 			- ¿Qué resume las preferencias sociales?
 			  collapsed:: true
@@ -811,4 +812,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578294_0.png)
+	- ![image.png](../assets/image_1644241578294
