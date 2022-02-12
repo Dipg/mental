@@ -248,7 +248,7 @@
 							- Ahorra costes de transacción
 						- Desventajas:
 							- Unos consumen poco y otros consumen en exceso
-							- Sin embargo aquellos cuya demanda es alta pueden complementar el cosumo público, ^{ }ando
+							- Sin embargo aquellos cuya demanda es alta pueden complementar el cosumo público, ^{ }ando los costes totales de trasacción
 					- Colas
 					- ¿Cuándo se hace cargo el estado?
 					  collapsed:: true
