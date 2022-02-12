@@ -192,6 +192,7 @@
 				- Free Rider (Problema del Parasito ![image.png](../assets/image_1644703371277_0.png){:height 36, :width 40} )
 				  collapsed:: true
 					- Polizón , aprovecha los bienes públicos sin pagar por ellos
+			-
 			- Bienes Privados Suministrados por el Estado
 			  collapsed:: true
 				- Cuando en CMg de suministrar a más personas es alto , Ej. Educación
