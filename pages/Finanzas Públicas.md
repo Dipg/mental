@@ -35,13 +35,12 @@
 	- Política Fiscal Contractiva #red
 	  collapsed:: true
 		- ¿ Que es una política fiscal Contractiva?
-			- Es aquella que se da en situaciones inflacionistas   , provocada esta por un exceso de [[Demanda Agregada]] , reduciendo así el gasto agregado.
+			- Es aquella que se da en situaciones inflacionistas🧐    , provocada esta por un exceso de [[Demanda Agregada]] , reduciendo así el gasto agregado.
 			- Acciones:
 			  collapsed:: true
 				- Reducción del gasto público
 				- Reducción del Gasto público
 				- Se actúa en post de desalientar la inversión privada y el gasto público(Se reducirian las exportaciones netas)
-			- 🧐🧐🧐
 	- Finanzas Públicas #red
 	  collapsed:: true
 		- ¿ Que son las finanzas públicas? #red
