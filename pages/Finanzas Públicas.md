@@ -28,7 +28,7 @@
 						- Consiguiendo un impacto positivo sobre el consumo
 					- [](#2.) Aumento de los gastos del gobierno
 					  collapsed:: true
-						- Desplazando al alza el gasto agregado
+						- Desplazando al alza el gasto agregado, sobre todo a tra ves de obra pública, con la finalidad de incrementar el empleo
 					- [](#3.) Estímulos a la inversión privada
 					  collapsed:: true
 						- A través de bonificaciones o exenciones fiscales, con la finalidad de provocar aumentos en la [[Demanda Agregada]]
