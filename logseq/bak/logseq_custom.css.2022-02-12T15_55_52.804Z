@@ -1,7 +1,7 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
 body {
-    counter-reset: section 0 slide 2;
+    counter-reset: chapter 0 section 0 slide 2;
   }
   
 
