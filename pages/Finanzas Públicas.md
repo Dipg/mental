@@ -41,7 +41,7 @@
 				- Es aquella que se da en situaciones inflacionistas🧐 ![image.png](../assets/image_1644629320122_0.png){:height 46, :width 72} *Si se tienen una alta inflación esto quiere decir que según la [[Curva de Philips]]  el Empleo será menor, por lo que la política contractiva se aplica cuando existe poco desempleo*🧐, provocada esta por un exceso de [[Demanda Agregada]] . En este caso sería [[Política Fiscal Contractiva]]  procediendo de forma contraria para reducir el [[Gasto Agregado]] .
 				- Acciones:
 				  collapsed:: true
-					- Reducción del gasto público
+					- Reducción del  los Impuestos
 					- Reducción del Gasto público
 					- Se actúa en post de desalientar la inversión privada y el gasto público(Se reducirian las exportaciones netas)
 	- Finanzas Públicas #red
