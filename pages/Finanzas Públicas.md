@@ -45,7 +45,6 @@
 					- 2. Reducción del [[Gasto Público]]
 					- 3. Se actúa en post de desalientar la [[Inversión Privada]]
 					- 4. Se reducirían las [[Exportaciones Netas]]
-		-
 	- Finanzas Públicas #red
 	  collapsed:: true
 		- ¿ Que son las finanzas públicas? #red
