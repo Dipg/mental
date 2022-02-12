@@ -43,7 +43,7 @@
 				  collapsed:: true
 					- Reducción del  los Impuestos
 					- Reducción del Gasto público
-					- Se actúa en post de desalientar la inversión privada y el [[gasto público]] (Se reducirian las exportaciones netas)
+					- Se actúa en post de desalientar la inversión privada y el [[Gasto Público]] (Se reducirian las exportaciones netas)
 	- Finanzas Públicas #red
 	  collapsed:: true
 		- ¿ Que son las finanzas públicas? #red
@@ -54,14 +54,14 @@
 			- Fomento de la plena ocupación y el control de la demanda agregada
 		- ¿Cómo interviene el estado en las fianzas públicas? #red
 		  collapsed:: true
-			- Su intervención se da a través de la variación del [[gasto público]] y de los impuestos.
+			- Su intervención se da a través de la variación del [[Gasto Público]] y de los impuestos.
 		- ¿ Cuales son las funciones de las finanzas Públicas? #red
 		  collapsed:: true
 			- [](#1.)  Evaluar la ejecución del presupuesto general de ingresos y egresos del Estado y proponer al Ejecutivo medidas correctivas de su competencia.
 			- [](#2.) Cierre contable y liquidar el presupuesto general de ingresos y egresos del estado
 			- [](#3.) Consolidar el registro de los bienes que contribuyen activos del estado y llevar la contabilidad patrimonial correspondiente.
 			- [](#4.) Definir con base en la política económica para la formulación, priorización , evaluación y selección de proyectos de inversión y programas a ser ejecutados con recursos internos, financiamiento y cooperatividad para la formulación,
-		- ¿Qué es el [[gasto público]] ? #red
+		- ¿Qué es el [[Gasto Público]] ? #red
 		  collapsed:: true
 			- Es al inversión que realiza el estado en distintos proyectos de interés, para poder concretar las inversiones se debe asegurar el recaudo de impuestos
 		- ¿ Que estimula el gasto Público ? #red
