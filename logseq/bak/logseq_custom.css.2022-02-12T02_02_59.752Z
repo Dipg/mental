@@ -2,7 +2,7 @@
 
 
 
-div[data-refs-self*="video"]  .block-children>div:first-child>div> .block-content-wrapper>div>div>span {
+div[data-refs-self*="video"]  .block-children>div:first-child>div> .block-content-wrapper {
 
         background-color: red !important;
     height: 600px !important;
