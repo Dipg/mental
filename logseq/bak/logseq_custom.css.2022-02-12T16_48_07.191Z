@@ -6,10 +6,9 @@
 display: none !important;
 } */
 
-body {
-    counter-reset: chapter 3 section 0 slide 0;
-  }
+
   h1 {
+    counter-reset:chapter;
     counter-increment: chapter;
   }
 
