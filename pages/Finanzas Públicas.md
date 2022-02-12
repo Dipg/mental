@@ -41,7 +41,7 @@
 				- Reducción del gasto público
 				- Reducción del Gasto público
 				- Se actúa en post de desalientar la inversión privada y el gasto público(Se reducirian las exportaciones netas)
-			- .
+			-
 	- Finanzas Públicas #red
 	  collapsed:: true
 		- ¿ Que son las finanzas públicas? #red
