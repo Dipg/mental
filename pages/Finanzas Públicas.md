@@ -225,7 +225,7 @@
 				- [](#1.)  Provisión Uniforme
 					- Se da la misma cantidad de bienes y servicios a todas las personas
 					- ¿Qué distorsión genera la provisión uniforme?
-						- unos optienen un nivel del bien superior al eficiente
+						- unos optienen un nivel del bien superior al eficiente y otros un menor
 				- Mecanismos para racionalizar los bienes Públicos
 				  collapsed:: true
 					- ¿Cuándo se hace cargo el estado?
