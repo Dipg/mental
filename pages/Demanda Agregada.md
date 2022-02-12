@@ -1,2 +1,2 @@
-- Que es lo Mismo que el gasto Agregado , U
+- Que es lo Mismo que el
 -
