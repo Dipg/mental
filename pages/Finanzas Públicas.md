@@ -14,7 +14,7 @@
 				- Objetivo  Simultaneo 🟢
 				  collapsed:: true
 					- Equidad y redistribución de la renta
-	- Política Fiscal Expansiva #red
+	- Política Fiscal Expansiva #red 😎
 	  collapsed:: true
 		- ¿Qué es una política expansiva?
 		  collapsed:: true
