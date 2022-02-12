@@ -21,7 +21,7 @@ div[data-refs-self*="video"]  .block-children iframe  {
 }
 
 .image-resize:hover{
-    transform: scale(1.5);
+width:150px !important;
 
 }
 
