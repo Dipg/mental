@@ -235,6 +235,8 @@
 				  collapsed:: true
 					- Tasa de Uso
 						- Se paga por el uso o beneficio del [[Bien Público]]
+						- Ventajas
+						-
 					- Precio Uniforme
 					- Colas
 					- ¿Cuándo se hace cargo el estado?
