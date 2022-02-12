@@ -218,7 +218,7 @@
 					- En estos
 				- ((620842c1-8fdf-49c8-b751-e767a5a70768))
 				- #+BEGIN_NOTE
-				  Ahora bien, Como suministro esto bienes privados suministrados por el estado  
+				  Ahora bien, Como suministro esto bienes privados suministrados por el estado  ⬇️⬇️
 				  #+END_NOTE
 			- ### Como se provisionan los Bienes privados suministrados por el [[Estado]]
 				- Mecanismos para racionalizar los bienes Públicos
