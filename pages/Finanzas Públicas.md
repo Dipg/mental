@@ -75,7 +75,7 @@
 			- ¿ Que estimula el gasto Público ?  #red
 			  collapsed:: true
 				- El {{cloze consumó}} y el {{cloze Empleo}}
-	- Análisis Normativo 🔴
+	- # Análisis Normativo 🔴
 	  collapsed:: true
 		- Economía del bienestar
 		  collapsed:: true
