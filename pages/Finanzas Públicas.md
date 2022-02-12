@@ -247,7 +247,7 @@
 						- Ventajas:
 							- Ahorra costes de transacción
 						- Desventajas:
-							-
+							- Unos consumen poco y otros consumen en exceso
 					- Colas
 					- ¿Cuándo se hace cargo el estado?
 					  collapsed:: true
