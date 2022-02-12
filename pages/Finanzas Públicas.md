@@ -31,7 +31,7 @@
 						- Desplazando al alza el gasto agregado, sobre todo a través de obra pública, con la finalidad de incrementar el empleo
 					- [](#3.) Estímulos a la inversión privada
 					  collapsed:: true
-						- A través de bonificaciones o exenciones fiscales, con la finalidad de provocar aumentos en la [[Demanda Agregada]]
+						- A través de bonificaciones o exenciones fiscales, con la finalidad de provocar aumentos en la [[Demanda Agregada]], estas excensiones tenen que tener como
 					- [](#4.) Incentivos fiscales
 					  collapsed:: true
 						- Para estimular la demanda de los no residente (mayores [[Exportaciones Netas]])
