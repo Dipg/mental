@@ -111,7 +111,8 @@
 					- Máximo de Bienestar Social
 					  id:: 6201acf7-892d-410e-b05e-de6008bb2bfb
 		- En este tipo de análisis las fianzas públicas pueden buscar ser eficientes en el sentido de Pareto, encontrando un optimo ( ((6201acf7-892d-410e-b05e-de6008bb2bfb)) ) que sacrifica recursos de un sector para asignarlos a otros sector, o las fianzas públicas pueden buscar la mejora en el sentido de Pareto, encontrar un optimo que NO sacrifica recursos de un sector para mejorar otro, sino que los recursos son optimados mediante una mejor recaudación de ingreosos (Es preciso mencionar que la eficiencia se encuentra cuando. La relación de precios = Relacionde Costos MArginales , o lo que es lo mismo  → RMS=RSMT)
-		- ### Funci
+		- ### Función de utilidad
+		- ((6207fb47-d363-43c7-9355-d7181e3c5a1e))
 		- ### Teoremas Fundamentales de la Economía
 		- {{embed ((619cf53b-fce0-40c3-b7e3-02e285fcfc34))}}
 	- ## Ventajas absolutas y ventajas comparativas #yellow
