@@ -210,7 +210,7 @@
 			  collapsed:: true
 				- Cuando en CMg de suministrar a más personas es alto , Ej. Educación
 				- ((619d2ea5-50c4-466d-a141-8258ac5d065d))
-			-
+			- Por que hay biene¡s
 			- Mecanismos para racionalizar los bienes Públicos
 			  collapsed:: true
 				- ¿Cuándo se hace cargo el estado?
