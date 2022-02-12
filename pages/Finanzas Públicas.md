@@ -62,7 +62,7 @@
 			- [](#1.)  Evaluar la {{cloze ejecución}} del [[Presupuesto General del Estado]] de {{cloze ingresos}} y {{cloze egresos}} del Estado y {{cloze proponer}} al Ejecutivo {{cloze medidas correctivas de su competencia}}.
 			- [](#2.) {{cloze Cierre contable}} y {{cloze liquidar}} el [[PGE]] de ingresos y egresos
 			- [](#3.) Consolidar el {{cloze registro de los bienes}} que contribuyen [[Activos]] del [[Estado]] y {{cloze llevar la }} [[Contabilidad Patrimonial]] correspondiente.
-			- [](#4.) Definir con base en la política económica para la formulación, priorización , evaluación y selección de proyectos de inversión y programas a ser ejecutados con recursos internos, financiamiento y cooperatividad para la formulación,
+			- [](#4.) Definir con base en la [[Pol]] para la formulación, priorización , evaluación y selección de proyectos de inversión y programas a ser ejecutados con recursos internos, financiamiento y cooperatividad para la formulación,
 		- ¿Qué es el [[Gasto Público]] ? #red
 		  collapsed:: true
 			- Es al inversión que realiza el estado en distintos proyectos de interés, para poder concretar las inversiones se debe asegurar el recaudo de impuestos
