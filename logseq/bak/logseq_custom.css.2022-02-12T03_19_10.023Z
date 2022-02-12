@@ -20,9 +20,14 @@ div[data-refs-self*="video"]  .block-children iframe  {
     width:300px !important;
 }
 
-.resize{
+.inline>div .resize{
 width:300px !important;
 
+}
+
+.inline>div element.style {
+    width: 100px;
+    position: relative;
 }
 
 
