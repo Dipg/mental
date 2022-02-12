@@ -12,10 +12,6 @@ body{
     counter-increment: Seccion;
     content: "Capítulo " counter(Seccion)". ";
  }
-
-
-
- 
  h2{
     counter-reset: SubSubSeccion;
  }
