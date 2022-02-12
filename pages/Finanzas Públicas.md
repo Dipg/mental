@@ -99,7 +99,6 @@
 							- La relación de los precios de los factores (Salario y renta )
 				- ### Curva de Contrato
 				- ((619cf6b7-2835-4ed1-a3cd-6c24b8ac674f))
-			- {{embed ((619cf53b-fce0-40c3-b7e3-02e285fcfc34))}}
 			- ¿Qué resume las preferencias sociales?
 			  collapsed:: true
 				- Una función de bienestar social resume las preferencias sociales en relación con la utilidad de cada uno de su componentes.
@@ -108,6 +107,7 @@
 					- Máximo de Bienestar Social
 					  id:: 6201acf7-892d-410e-b05e-de6008bb2bfb
 		- En este tipo de análisis las fianzas públicas pueden buscar ser eficientes en el sentido de Pareto, encontrando un optimo ( ((6201acf7-892d-410e-b05e-de6008bb2bfb)) ) que sacrifica recursos de un sector para asignarlos a otros sector, o las fianzas públicas pueden buscar la mejora en el sentido de Pareto, encontrar un optimo que NO sacrifica recursos de un sector para mejorar otro, sino que los recursos son optimados mediante una mejor recaudación de ingreos
+			- {{embed ((619cf53b-fce0-40c3-b7e3-02e285fcfc34))}}
 	- ## Ventajas absolutas y ventajas comparativas #yellow
 	  collapsed:: true
 		- Ventajas Absolutas
