@@ -14,7 +14,7 @@
 				- Objetivo  Simultaneo 🟢
 				  collapsed:: true
 					- Equidad y redistribución de la renta
-	- Todos los recursos presupuestarios o [[Saldo Presupuestario]] se asignan en función de qué tipo de política  se esta evidenciando,
+	- Todos los recursos presupuestarios o [[Saldo Presupuestario]] se asignan en función de qué tipo de política  se esta evidenciando, estas tipos de políticas son :
 	- Política Fiscal Expansiva #red 😎
 	  collapsed:: true
 		- ¿Qué es una política expansiva?
