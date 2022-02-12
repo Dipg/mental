@@ -1,2 +1,2 @@
-- Que es lo Mismo que el [[Gasto Agregado]]
+- Que es lo Mismo que el [[Gasto Agregado]] , una Forma de Calcular [[PIB]]
 -
