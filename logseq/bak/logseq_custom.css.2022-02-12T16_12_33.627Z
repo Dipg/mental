@@ -12,17 +12,17 @@ body{
     counter-reset: Seccion 1;
  }
  h1{
-    counter-reset: SubSeccion 1;
+    counter-reset: SubSeccion;
  }
  h1:before{
     counter-increment: Seccion 1;
     content: "Unidad " counter(Seccion)". ";
  }
  h2{
-    counter-reset: SubSubSeccion 1;
+    counter-reset: SubSubSeccion ;
  }
  h2:before{
-    counter-increment: SubSeccion 1;
+    counter-increment: SubSeccion ;
     content: counter(Seccion) "." counter(SubSeccion)". ";
  }
  h3:before{
