@@ -48,11 +48,11 @@ div[data-refs-self*="video"]  .block-children iframe  {
 }
 
 .image-resize:hover{
-    transform: scale(5);
-    -webkit-transform: scale(5);
-    -moz-transform: scale(5);
-    -ms-transform: scale(5);
-    -o-transform: scale(5);
+    transform: scale(10);
+    -webkit-transform: scale(10);
+    -moz-transform: scale(10);
+    -ms-transform: scale(10);
+    -o-transform: scale(10);
 }
 
 
