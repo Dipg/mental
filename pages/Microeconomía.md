@@ -95,6 +95,7 @@
 	- Indice de Lerner
 		- $$L=\frac{P-Cmg}{P}$$
 		- L= Inidce de lerner
+		- P= Precio
 		-
 		- Como medir el poder de mercado del Monopolio
 			- La clave para saber cuanto es el poder de mercado que tiene un monopolista es la elasticidad de la demandad  a la que se enfrenta.
