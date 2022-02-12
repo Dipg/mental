@@ -4,7 +4,7 @@
 .block-ref .block-content{
 
     color: rgb(53, 207, 60) !important;
-    border-bottom: 3px solid var(--cl-bunker);
+
 }
 
 .block-ref a{
