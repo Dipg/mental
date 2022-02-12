@@ -8,7 +8,6 @@ display: none !important;
 
 
   h1 {
-    counter-reset: slide 0 ;
     counter-increment: chapter;
   }
 
