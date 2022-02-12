@@ -50,7 +50,7 @@
 	  collapsed:: true
 		- ¿ Que son las finanzas públicas? #red
 		  collapsed:: true
-			- Es una rama de la economía que se encarga de analizar la obtención, gestión y administración de fondos .
+			- Es una rama de la economía que se encarga de analizar la {{cloze obtención}}, {{cloze gestión}} y administración de fondos .
 		- ¿Cuál es el objetivo de las finanzas públicas? #red
 		  collapsed:: true
 			- Fomento de la plena ocupación y el control de la demanda agregada
