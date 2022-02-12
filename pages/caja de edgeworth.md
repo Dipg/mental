@@ -1,1 +1,1 @@
-- La caja de Edworth, en pocas palabras es como se  muestra la asignación eficiente de Pareto, así pues analiza la deseabilidad de la asignación eficiente de recursos
+- La caja de Edworth, en pocas palabras es como se  muestra la [[Asignación Eficiente de Pareto]], así pues analiza la deseabilidad de la asignación eficiente de recursos
