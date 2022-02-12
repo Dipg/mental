@@ -89,6 +89,8 @@
 				- ((6207f6e6-e3df-43c1-bd0c-6e8035f1d64c))
 				- Condición de Eficiencia de Intercambio
 					- RMS = RMS
+				- Eficiencia en la Producción
+					-
 				- ((619cf6b7-2835-4ed1-a3cd-6c24b8ac674f))
 				- Como se encontraba la relación de Eficiencia en la [[caja de edgeworth]] de dos individuos
 					- Las  RMS Tienen que ser Iguales
@@ -802,4 +804,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578294_
+	- ![image.png](../assets/image_1644241578294_0.png)
