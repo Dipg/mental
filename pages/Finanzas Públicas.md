@@ -90,7 +90,7 @@
 				- Condición de Eficiencia de Intercambio
 					- RMS = RMS
 					- ¿Que es la RMS?
-						-
+						- Relación de Insumos
 				- Eficiencia en la Producción
 					- RMS= RMT
 				- ((619cf6b7-2835-4ed1-a3cd-6c24b8ac674f))
