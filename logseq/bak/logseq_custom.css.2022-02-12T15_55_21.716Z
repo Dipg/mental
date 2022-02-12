@@ -4,11 +4,6 @@ body {
     counter-reset: chapter 0 section 0 slide 2;
   }
   
-
-  h2 {
-    counter-increment: slide -1 section;
-  }
-
   h2 {
     counter-increment: slide -2 section;
   }
