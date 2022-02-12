@@ -123,7 +123,7 @@
 		- Ventajas Absolutas →  [[Adam Smith]]
 		  collapsed:: true
 			- Por cantidad , siempre es mejor mayor
-			- Por precio siempres e smejor menor
+			- Por precio siempre es mejor menor
 		- Ventajas Comparativas → [[David Ricardo]]
 		  collapsed:: true
 			- Por coste o factor :
