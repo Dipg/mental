@@ -228,6 +228,7 @@
 					- Ejemplos; salud - Precios del Diesel
 					- ¿Qué distorsión genera la provisión uniforme?
 						- Unos obtienen un nivel del bien superior al eficiente y otros un  nivel menor al eficeinte
+					-
 				- Mecanismos para racionalizar los bienes Públicos
 				  collapsed:: true
 					- ¿Cuándo se hace cargo el estado?
