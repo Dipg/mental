@@ -90,9 +90,10 @@
 				- Condición de Eficiencia de Intercambio
 					- RMS = RMS
 					- ¿Que es la RMS?
-						- Relación de Insumos
+						- Relación de Insumos en el caso de Empresas, y relación de Bienes en ek caso de Individuos
 				- Eficiencia en la Producción
 					- RMS= RMT
+						- ¿
 				- ((619cf6b7-2835-4ed1-a3cd-6c24b8ac674f))
 				- Como se encontraba la relación de Eficiencia en la [[caja de edgeworth]] de dos individuos
 					- Las  RMS Tienen que ser Iguales
