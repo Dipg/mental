@@ -8,7 +8,7 @@ body{
  }
  h1:before{
     counter-increment: Seccion 1;
-    content: "Unidad " counter(Seccion)". ";
+    content: "Unidad" counter(Seccion)". ";
  }
  h2{
     counter-reset: SubSubSeccion;
