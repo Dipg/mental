@@ -29,10 +29,7 @@ body {
     counter-increment: subsection;
     content: "Subsection " counter(chapter) "." counter(section) "." counter(subsection) ": ";
   }tent: counter(chapter)"." counter(section)"." counter(slide)" ";
-  
-
-
-  
+  }
 
 *:is(.editor-inner .uniline-block.h2, .editor-inner .h2, .ls-block h2) {
     margin-top: 5px !important;
