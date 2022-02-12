@@ -7,7 +7,7 @@ body{
     counter-reset: SubSeccion;
  }
  h1:before{
-    counter-increment: Seccion 2;
+    counter-increment: Seccion 1;
     content: "Capítulo " counter(Seccion)". ";
  }
  h2{
