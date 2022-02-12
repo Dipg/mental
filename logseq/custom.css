@@ -11,13 +11,6 @@ div[data-refs-self*="video"]  .block-children>div:first-child>div> .block-conten
 }
 
 
-div[data-refs-self*="video"]   .iframe   {
-
-    background-color: red !important;
-height: 600px !important;
-
-
-}
 
 
 
