@@ -134,7 +134,7 @@
 				- Divido la columna de alada por la columna que deseo encontrar y obtengo la celda de la columna que busco, de ogual forma elijo en la columna la que menor sea
 		- Se toman en cuenta los [[Costos de Oportunidad]]
 		- #[[Ejercicios Numéricos]]  [[Ventajas Comparativas]]
-			- ![image.png](../assets/image_1644692491761_0.png)
+			- ![image.png](../assets/image_1644692491761_0.png){:height 163, :width 300}
 	- Fallas del mercado
 	  collapsed:: true
 		- ¿Cuáles son las fallas del mercado?
