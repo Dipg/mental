@@ -1,1 +1,1 @@
-- La caja de Edworth
+- La caja de Edworth muestra
