@@ -1,2 +1,2 @@
 - La formula para encontrar la ecuación de una recta conociendo dos puntos es:
-- $$(y-y_1)=m(x-x_1) \\  m=\frac{y_2}{}$$
+- $$(y-y_1)=m(x-x_1) \\  m=\frac{y_2-y_1}{x_2-x_1}$$
