@@ -7,24 +7,26 @@ display: none !important;
 } */
 
 
-
 body {
-    counter-reset: chapter; /*we reset the chapter once*/
+    counter-reset: chapter section subsection;
   }
-  h1.chapter {
-    counter-reset: section; /*we reset the section each chapter*/
-  }
+  
   h1.chapter::before {
     counter-increment: chapter;
     content: "Chapter " counter(chapter) ": ";
   }
   
-  h2.section {
-    counter-reset: subsection; /*we reset the subsection each section*/
+  h1.chapter {
+    counter-reset: section;
   }
+  
   h2.section::before {
     counter-increment: section;
     content: "Section " counter(chapter) "." counter(section) ": ";
+  }
+  
+  h2.section {
+    counter-reset: subsection;
   }
   
   h3.subsection::before {
@@ -32,7 +34,7 @@ body {
     content: "Subsection " counter(chapter) "." counter(section) "." counter(subsection) ": ";
   }
 
-  
+
 
 *:is(.editor-inner .uniline-block.h2, .editor-inner .h2, .ls-block h2) {
     margin-top: 5px !important;
