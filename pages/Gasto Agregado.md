@@ -2,4 +2,5 @@
 - Consumo + Inversión + Gasto + Exportaciones – Importaciones  Formula  ➡️
 - $$Y=C+I+G+X-M $$
 - Mejor aplicación
+	- {{youtube https://www.youtube.com/watch?v=hmW-jFYQz-M}}
 	-
