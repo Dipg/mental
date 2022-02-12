@@ -3,4 +3,6 @@
 - $$Y=C+I+G+X-M $$
 - Mejor aplicación #video
 	- {{youtube https://www.youtube.com/watch?v=hmW-jFYQz-M}}
-	- {{youtube-timestamp 23}} Le Metodo  Ga
+	- {{youtube-timestamp 23}} Le Método  Gasto Agregado
+-
+-
