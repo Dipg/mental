@@ -144,7 +144,7 @@
 	  Mediante las Fianzas Públicas, y la asignación de recursos , se trata de corregir los fallos de mercado.
 		- ¿Cuáles son las fallas del mercado?
 		  collapsed:: true
-			- Poder de mercado
+			- Poder de mercado ()
 			  collapsed:: true
 				- Monopolio
 				  collapsed:: true
