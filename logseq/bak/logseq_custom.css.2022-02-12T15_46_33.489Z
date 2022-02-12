@@ -8,7 +8,7 @@ body{
 
  
  h1{
-    counter-reset: SubSeccion 0;
+    counter-reset: SubSeccion;
  }
  h1:before{
     counter-increment: Seccion;
