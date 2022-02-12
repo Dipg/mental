@@ -2,7 +2,7 @@
 
 
 body{
-    counter-reset: my-counter 1;
+    counter-reset: Seccion 0;
  }
 
 
