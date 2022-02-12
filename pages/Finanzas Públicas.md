@@ -153,6 +153,7 @@
 				- Genera Perdida Social
 				- #[[Ejercicios Numéricos]] [[Monopolio]]
 					- #ecuación ((6201acf7-9e58-4b90-a0fd-de03b7155bf3)) → Optimo del Monopolio
+						- ((6201acf7-ffd6-4e93-a0c0-ceccd113e49e))
 					- #ecuación ((6208340b-93aa-4cb6-bc32-b9869770ade4)) → Índice de Lerner
 					-
 				-

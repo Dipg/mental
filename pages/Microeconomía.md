@@ -112,6 +112,7 @@
 		- Vendo menos y cobro mas
 	- 👁️  El  ingreso marginal tiene  el mismo intercepto con el origen y el doble de pendiente que la función inversa de la curva de demanda
 	  collapsed:: true
+	  id:: 6201acf7-ffd6-4e93-a0c0-ceccd113e49e
 		- Ejem:
 			- Función de demanda Inversa
 			- $$ p=250- \frac{1}{2}q$$
