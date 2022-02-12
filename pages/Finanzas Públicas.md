@@ -5,76 +5,76 @@
   Se parte de dos tipos de análisis, el [[Análisis Positivo]]  y el [[Análisis Normativo]]:
 	- # Análisis Positivo
 	  Se parte de algo empírico y técnicamente comprobado para la toma de decisiones, desde esta base se parte a los objetivos de la política fiscal
-	- Objetivos de la [[Política Fiscal]] 🟢
-	  collapsed:: true
-		- ¿Cuáles son los objetivos de la política fiscal?
+		- Objetivos de la [[Política Fiscal]] 🟢
 		  collapsed:: true
-			- Según el tiempo se dividen en 3: 🟢
-				- Objetivo A corto plazo 🟢
-				  collapsed:: true
-					- Estabilizar la economía y el ciclo a través del [[Saldo Presupuestario]] .
-				- Objetivo A Largo plazo 🟢
-				  collapsed:: true
-					- Incrementar el crecimiento del país mediante I+D, educación  y del ingreso incentivos al ahorro
-				- Objetivo  Simultaneo 🟢
-				  collapsed:: true
-					- Equidad y redistribución de la renta
-	- Todos los recursos presupuestarios o [[Saldo Presupuestario]] se asignan en función de qué tipo de política  se esta evidenciando, estas tipos de políticas son :
-		- Política Fiscal Expansiva #red 😎
-		  collapsed:: true
-			- ¿Qué es una política expansiva?
+			- ¿Cuáles son los objetivos de la política fiscal?
 			  collapsed:: true
-				- Es una [[Política]] que se lleva acabo en situaciones de [[Crecimiento Económico]]  y cuando existen altos niveles de paro , es por esto que el gobierno debera aplicar una política expansiva con la finalidad {{cloze de aumentar el  }} [[Gasto Agregado]],  para aumentar la {{cloze renta efectiva}} y así disminuir {{cloze los niveles de paro.}}
-				- Esta política expansiva  puede ser de cinco tipos o vías de aplicación.
-					- [](#1.) Reducción de los [[Impuestos]]
+				- Según el tiempo se dividen en 3: 🟢
+					- Objetivo A corto plazo 🟢
 					  collapsed:: true
-						- Consiguiendo un impacto positivo sobre el [[Consumo]]
-					- [](#2.) Aumento de los [[Gasto del Gobierno]]
+						- Estabilizar la economía y el ciclo a través del [[Saldo Presupuestario]] .
+					- Objetivo A Largo plazo 🟢
 					  collapsed:: true
-						- Desplazando al alza el [[Gasto Agregado]] , sobre todo a través de obra pública, con la finalidad de incrementar el empleo
-					- [](#3.) Estímulos a la [[Inversión Privada]]
+						- Incrementar el crecimiento del país mediante I+D, educación  y del ingreso incentivos al ahorro
+					- Objetivo  Simultaneo 🟢
 					  collapsed:: true
-						- A través de bonificaciones o exenciones fiscales, con la finalidad de provocar aumentos en la [[Demanda Agregada]], estas extensiones tienen que tener como finalidad la reducción del desempleo.
-					- [](#4.) Incentivos fiscales
-					  collapsed:: true
-						- Para estimular la demanda de los no residente (mayores [[Exportaciones Netas]])
-		- Política Fiscal Contractiva #red
-		  collapsed:: true
-			- ¿ Que es una política fiscal Contractiva?
-				- Es aquella que se da en situaciones inflacionistas🧐 ![image.png](../assets/image_1644629320122_0.png){:height 24, :width 24} *Si se tienen una alta inflación esto quiere decir que según la [[Curva de Philips]]  el Empleo será menor, por lo que la política contractiva se aplica cuando existe poco desempleo*🧐, provocada esta por un exceso de [[Demanda Agregada]] . En este caso sería [[Política Fiscal Contractiva]]  procediendo de forma contraria para reducir el [[Gasto Agregado]] .
-				- Acciones:
+						- Equidad y redistribución de la renta
+		- Todos los recursos presupuestarios o [[Saldo Presupuestario]] se asignan en función de qué tipo de política  se esta evidenciando, estas tipos de políticas son :
+			- Política Fiscal Expansiva #red 😎
+			  collapsed:: true
+				- ¿Qué es una política expansiva?
 				  collapsed:: true
-					- 1. Reducción del  los [[Impuestos]]
-					- 2. Reducción del [[Gasto Público]]
-					- 3. Se actúa en post de desalientar la [[Inversión Privada]]
-					- 4. Se reducirían las [[Exportaciones Netas]]
-	- Finanzas Públicas #red
-	  collapsed:: true
-		- ¿ Que son las finanzas públicas? #red
+					- Es una [[Política]] que se lleva acabo en situaciones de [[Crecimiento Económico]]  y cuando existen altos niveles de paro , es por esto que el gobierno debera aplicar una política expansiva con la finalidad {{cloze de aumentar el  }} [[Gasto Agregado]],  para aumentar la {{cloze renta efectiva}} y así disminuir {{cloze los niveles de paro.}}
+					- Esta política expansiva  puede ser de cinco tipos o vías de aplicación.
+						- [](#1.) Reducción de los [[Impuestos]]
+						  collapsed:: true
+							- Consiguiendo un impacto positivo sobre el [[Consumo]]
+						- [](#2.) Aumento de los [[Gasto del Gobierno]]
+						  collapsed:: true
+							- Desplazando al alza el [[Gasto Agregado]] , sobre todo a través de obra pública, con la finalidad de incrementar el empleo
+						- [](#3.) Estímulos a la [[Inversión Privada]]
+						  collapsed:: true
+							- A través de bonificaciones o exenciones fiscales, con la finalidad de provocar aumentos en la [[Demanda Agregada]], estas extensiones tienen que tener como finalidad la reducción del desempleo.
+						- [](#4.) Incentivos fiscales
+						  collapsed:: true
+							- Para estimular la demanda de los no residente (mayores [[Exportaciones Netas]])
+			- Política Fiscal Contractiva #red
+			  collapsed:: true
+				- ¿ Que es una política fiscal Contractiva?
+					- Es aquella que se da en situaciones inflacionistas🧐 ![image.png](../assets/image_1644629320122_0.png){:height 24, :width 24} *Si se tienen una alta inflación esto quiere decir que según la [[Curva de Philips]]  el Empleo será menor, por lo que la política contractiva se aplica cuando existe poco desempleo*🧐, provocada esta por un exceso de [[Demanda Agregada]] . En este caso sería [[Política Fiscal Contractiva]]  procediendo de forma contraria para reducir el [[Gasto Agregado]] .
+					- Acciones:
+					  collapsed:: true
+						- 1. Reducción del  los [[Impuestos]]
+						- 2. Reducción del [[Gasto Público]]
+						- 3. Se actúa en post de desalientar la [[Inversión Privada]]
+						- 4. Se reducirían las [[Exportaciones Netas]]
+		- Finanzas Públicas #red
 		  collapsed:: true
-			- Es una rama de la economía que se encarga de analizar la {{cloze obtención}}, {{cloze gestión}} y {{cloze administración de fondos}} .
-		- ¿Cuál es el objetivo de las finanzas públicas? #red
-		  collapsed:: true
-			- Fomento de la {{cloze plena ocupación}} y el {{cloze control de la }} [[Demanda Agregada]]
-		- ¿Cómo interviene el estado en las fianzas públicas? #red
-		  collapsed:: true
-			- Su intervención se da a través de la {{cloze  variación}} del [[Gasto Público]] y de los [[Impuestos]].
-		- ¿ Cuales son las funciones de las finanzas Públicas? #red
-		  collapsed:: true
-			- [](#1.) Formular la [[Política Fiscal]] y financiera de corto, mediano y lago plazo en función de la [[Política Económica]] y social del [[Gobierno]].
-			- [](#2.)Proponer al organismo Ejecutivo, la [[Política Presupuestaria]] y las normas para su ejecución, {{cloze dirigiendo}}, {{cloze coordinando }}y {{cloze consolidando}} la formulación del proyecto del [[PGE]] de Ingresos y Egresos del Estado. ([[Deuda Pública]])
-			- [](#3.) Proponer al [[SRI]], las {{cloze  normas para la desconcentración}} en la percepción de ingresos y  la {{cloze programación del flujo de ingresos}} provenientes de la {{cloze recaudación}} de los [[Impuestos]] .
-			- [](#4.)  {{cloze Transferir }}a los organismos y entidades del Estado los {{cloze recursos financieros asignados }}en sus respectivos presupuestos asignados por la [[COOTAD]] , de acuerdo con {{cloze la captación de los ingresos}}.
-			- [](#5.)  Evaluar la {{cloze ejecución}} del [[Presupuesto General del Estado]] de {{cloze ingresos}} y {{cloze egresos}} del Estado y {{cloze proponer}} al Ejecutivo {{cloze medidas correctivas de su competencia}}.
-			- [](#6.) {{cloze Cierre contable}} y {{cloze liquidar}} el [[PGE]] de ingresos y egresos
-			- [](#7.) Consolidar el {{cloze registro de los bienes}} que contribuyen [[Activos]] del [[Estado]] y {{cloze llevar la }} [[Contabilidad Patrimonial]] correspondiente.
-			- [](#8.) Definir con base en la [[Política Económica]] para la ((6201acf6-7a52-4e9f-ae52-ca700803d367)) , {{cloze priorización}} , ((6201acf6-022b-45b5-9141-ecde55c7ef32)) y {{cloze selección}} de proyectos de inversión y programas a ser ejecutados con recursos internos, financiamiento y cooperatividad para la formulación,
-		- ¿Qué es el [[Gasto Público]] ? #red
-		  collapsed:: true
-			- Es al [[Inversión]] que realiza el [[Estado]] en {{cloze distintos proyectos de interés Social }}, para poder concretar las inversiones, es decir mantener el [[Gasto Público]] se {{cloze debe asegurar el recaudo}} de [[Impuestos]]
-		- ¿ Que estimula el gasto Público ?  #red
-		  collapsed:: true
-			- El {{cloze consumó}} y el {{cloze Empleo}}
+			- ¿ Que son las finanzas públicas? #red
+			  collapsed:: true
+				- Es una rama de la economía que se encarga de analizar la {{cloze obtención}}, {{cloze gestión}} y {{cloze administración de fondos}} .
+			- ¿Cuál es el objetivo de las finanzas públicas? #red
+			  collapsed:: true
+				- Fomento de la {{cloze plena ocupación}} y el {{cloze control de la }} [[Demanda Agregada]]
+			- ¿Cómo interviene el estado en las fianzas públicas? #red
+			  collapsed:: true
+				- Su intervención se da a través de la {{cloze  variación}} del [[Gasto Público]] y de los [[Impuestos]].
+			- ¿ Cuales son las funciones de las finanzas Públicas? #red
+			  collapsed:: true
+				- [](#1.) Formular la [[Política Fiscal]] y financiera de corto, mediano y lago plazo en función de la [[Política Económica]] y social del [[Gobierno]].
+				- [](#2.)Proponer al organismo Ejecutivo, la [[Política Presupuestaria]] y las normas para su ejecución, {{cloze dirigiendo}}, {{cloze coordinando }}y {{cloze consolidando}} la formulación del proyecto del [[PGE]] de Ingresos y Egresos del Estado. ([[Deuda Pública]])
+				- [](#3.) Proponer al [[SRI]], las {{cloze  normas para la desconcentración}} en la percepción de ingresos y  la {{cloze programación del flujo de ingresos}} provenientes de la {{cloze recaudación}} de los [[Impuestos]] .
+				- [](#4.)  {{cloze Transferir }}a los organismos y entidades del Estado los {{cloze recursos financieros asignados }}en sus respectivos presupuestos asignados por la [[COOTAD]] , de acuerdo con {{cloze la captación de los ingresos}}.
+				- [](#5.)  Evaluar la {{cloze ejecución}} del [[Presupuesto General del Estado]] de {{cloze ingresos}} y {{cloze egresos}} del Estado y {{cloze proponer}} al Ejecutivo {{cloze medidas correctivas de su competencia}}.
+				- [](#6.) {{cloze Cierre contable}} y {{cloze liquidar}} el [[PGE]] de ingresos y egresos
+				- [](#7.) Consolidar el {{cloze registro de los bienes}} que contribuyen [[Activos]] del [[Estado]] y {{cloze llevar la }} [[Contabilidad Patrimonial]] correspondiente.
+				- [](#8.) Definir con base en la [[Política Económica]] para la ((6201acf6-7a52-4e9f-ae52-ca700803d367)) , {{cloze priorización}} , ((6201acf6-022b-45b5-9141-ecde55c7ef32)) y {{cloze selección}} de proyectos de inversión y programas a ser ejecutados con recursos internos, financiamiento y cooperatividad para la formulación,
+			- ¿Qué es el [[Gasto Público]] ? #red
+			  collapsed:: true
+				- Es al [[Inversión]] que realiza el [[Estado]] en {{cloze distintos proyectos de interés Social }}, para poder concretar las inversiones, es decir mantener el [[Gasto Público]] se {{cloze debe asegurar el recaudo}} de [[Impuestos]]
+			- ¿ Que estimula el gasto Público ?  #red
+			  collapsed:: true
+				- El {{cloze consumó}} y el {{cloze Empleo}}
 	- Análisis Normativo #red
 	  collapsed:: true
 		- Economía del bienestar
