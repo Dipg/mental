@@ -620,7 +620,7 @@
 -
 -
 -
-- ![image.png](../assets/image_1644269802185_0.png){:height 740, :width 780}
+- ![image.png](../assets/image_1644269802185_0.png){:height 290, :width 780}
 -
 - # Video 2022
 - TODO Video 17 de Enero:
