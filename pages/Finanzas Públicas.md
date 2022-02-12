@@ -137,7 +137,7 @@
 			- ![image.png](../assets/image_1644692491761_0.png){:height 163, :width 300}
 			- Situación Inicial del Comercio al igualar la Producción
 				- Para esto debemos obtener la [[Frontera de Posibilidades de Producción]] de Cada Individuo o país, En el caso de las ventajas comparativas de dos productos , se debe encontrar la [[Ecuación de la recta conociendo dos puntos]]  donde esos 2 puntos serán los máximos de producción de cada sujeto o país , es decir cuando consumo 0 de un producto y el máximo (0, maxi) y el otro punto es el máximo de producción del otro bien (max,0)
-				- ((62082254-db3a-43dc-9e02-ac119ba95c05)) #
+				- ((62082254-db3a-43dc-9e02-ac119ba95c05)) #ecuación
 	- Fallas del mercado
 	  collapsed:: true
 		- ¿Cuáles son las fallas del mercado?
