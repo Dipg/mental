@@ -31,7 +31,7 @@
 						- Desplazando al alza el gasto agregado
 					- [](#3.) Estímulos a la inversión privada
 					  collapsed:: true
-						- A través de bonificaciones o exenciones fiscales, con la finalidad de provocar aumentos en la demanda agregada
+						- A través de bonificaciones o exenciones fiscales, con la finalidad de provocar aumentos en la [[Demanda Agregada]]
 					- [](#4.) Incentivos fiscales
 					  collapsed:: true
 						- para estimular la demanda de los no residente (mayores exportaciones netas)
