@@ -2,7 +2,7 @@
 
 
 body{
-    counter-reset: Seccion 0;
+    counter-reset: none;
  }
 
 
