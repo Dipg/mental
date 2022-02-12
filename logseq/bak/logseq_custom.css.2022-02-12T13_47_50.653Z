@@ -1,11 +1,5 @@
 /*  @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css");*/
 
-
-.block-ref .block-content{
-
-    
-}
-
 .block-ref a{
     display: none !important;
 }
@@ -850,4 +844,5 @@ div[data-refs-self*="kanban"] >.block-children > div {
                     /* margin-left: -80px !important;
                     margin-right: 0px !important; */
               
-          
+                }
+
