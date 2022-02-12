@@ -77,7 +77,7 @@
 				- El {{cloze consumó}} y el {{cloze Empleo}}
 	- ## Análisis Normativo 🔴
 	  collapsed:: true
-	  Entra en Juego lo que se conoce como [[Economía del Bienestar]], la cual, en resumen, realiza un análisis de la deseabilidad social de situaciones económicas alternativas, Para implantar este tipo de normativas , este tipo de economía se basan en la Teoría de la [[Caja de Edgeworth ]] uso de las [[Curvas de Indiferencias]] dentro de la
+	  Entra en Juego lo que se conoce como [[Economía del Bienestar]], la cual, en resumen, realiza un análisis de la deseabilidad social de situaciones económicas alternativas, Para implantar este tipo de normativas , este tipo de economía se basan en la Teoría de la [[Caja de Edgeworth ]]  que hace uso [[Curvas de Indiferencias]] dentro de la
 		- Economía del bienestar
 		  collapsed:: true
 			- ¿ Que hace la economía del bienestar? #Red
