@@ -213,6 +213,7 @@
 				- Por que en ese producto o servicio existe una [[Perdida de Eficiencia]] por exceso de [[Consumo]]
 				- Por que existe una se puede dar una sub utilización de un bien publico, ^{ }ando asi los costos de trnasaccion , debido a que no uso ese bien
 				- ((619d2ea5-50c4-466d-a141-8258ac5d065d))
+				- ((620842c1-8fdf-49c8-b751-e767a5a70768))
 				- ¿Como se encuentra la cantidad eficiente  (o Valor de eficiencia) de un bien público ?
 					- Cuadno el precio ( 0 [[Función  de Demanda Inversa]] ) es igual al [[Cmg]]
 					- En estos
