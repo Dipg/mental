@@ -215,7 +215,6 @@
 				- ((619d2ea5-50c4-466d-a141-8258ac5d065d))
 				- ¿Como se encuentra la cantidad eficiente  (o Valor de eficiencia) de un bien público ?
 					- Cuadno el precio ( 0 [[Función  de Demanda Inversa]] ) es igual al [[Cmg]]
-					- En estos
 				- ((620842c1-8fdf-49c8-b751-e767a5a70768))
 				- #+BEGIN_NOTE
 				  Ahora bien, Como suministro esto bienes privados suministrados por el estado  ⬇️⬇️
