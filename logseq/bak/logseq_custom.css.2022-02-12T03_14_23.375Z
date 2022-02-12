@@ -15,11 +15,6 @@ div[data-refs-self*="video"]  .block-children iframe  {
 }
 
 
-.asset-container img{
-
-    width:300px !important;
-}
-
 .inline>div .resize{
 width:300px !important;
 
