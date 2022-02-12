@@ -68,7 +68,7 @@
 			- Es al [[Inversión]] que realiza el [[Estado]] en {{cloze distintos proyectos de interés}}, para poder concretar las inversiones se {{cloze debe asegurar el recaudo}} de [[Impuestos]]
 		- ¿ Que estimula el gasto Público ?  #red
 		  collapsed:: true
-			- El consumó y el Empleo
+			- El {{cloze consumó}} y el {{cloze Empleo}}
 	- Análisis Normativo #red
 	  collapsed:: true
 		- Economía del bienestar
