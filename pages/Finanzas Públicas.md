@@ -835,6 +835,7 @@
 		- Pagina (Excel)
 			- https://www.bce.fin.ec/index.php/informacioneconomica/sector-fiscal
 			- ![image.png](../assets/image_1644273662876_0.png)
+	-
 -
 -
 -
