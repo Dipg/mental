@@ -327,7 +327,7 @@
 						- Pobres tienen precio en impuestos mas bajo, por lo que su nivel de gasto publico es mas alto
 						- Efecto sustitución(Precio en impuestos más bajo) es mayor al efecto renta
 						- Personas pobres desean mas bienes púbicos que los ricos
-						- ![image.png](../assets/image_1644723964735_0.png){:height 207, :width 608}
+						- ((62087f22-d109-4f16-8985-f0d16573c61a))
 				- Tributación Progresiva
 				  collapsed:: true
 				  id:: 6201acf7-af8f-4e3b-83dd-6693ddd8e241
