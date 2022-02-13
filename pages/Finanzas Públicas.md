@@ -348,7 +348,7 @@
 			- ((6201acf7-71bf-4b19-8940-0e48b97f6c9f))
 			- ((6201acf7-6194-4d7c-abf8-2023d1d238ab))
 	- ---
-	- TODO R3pasar Bien desde aqui
+	- TODO Repasar Bien desde aqui
 	- Problema de agregación de preferencias
 	  collapsed:: true
 		- Es difícil averiguar cual es la preferencia por un bien publico de cada persona, por  lo que se toma en consideración son las decisiones colectivas
