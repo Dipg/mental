@@ -15,8 +15,10 @@
 				- Para obtener el Optimo se plantea el Lagrangiano y se realizan las condiciones de primer orden , $$L_x, L_y, L_ \lambda$$
 				- $$L=U(x,y)-\lambda ( P_x(x)+ P_y(y)-M )$$
 				- Reslviendo obtenemos lo que se conoce como relación marginal de sustitución igual a los precios de los bienes, y la función de ingresos .
-				- $$\frac{UMg(x)}{UMg(y)} = \frac{P_x}{P_y}  \tag{1}  $$ $$   M=  P_x(x)+ P_y(y)  \tag{2} $$
+				- id:: 6201acf7-71bf-4b19-8940-0e48b97f6c9f
+				  $$\frac{UMg(x)}{UMg(y)} = \frac{P_x}{P_y}  \tag{1}  $$ $$   M=  P_x(x)+ P_y(y)  \tag{2} $$
 				- Esto se debe resolver y remplazar en la función de Ingreso y así se obtienen los óptimos de las cantidades que consumirá el individuo sujeto a su nivel de ingresos. y podemos asi obtener la utilidad que esto le generara
+				  id:: 6201acf7-6194-4d7c-abf8-2023d1d238ab
 			- Demandas Marshallianas (Ordinarias , No compensadas)
 			  collapsed:: true
 				- Demanda Marshallianas de $$X$$
