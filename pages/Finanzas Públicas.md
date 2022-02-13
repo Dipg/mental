@@ -290,7 +290,7 @@
 				  Deuda tributaria del Individuo= [[Precio en Impuesto]] * [[Gasto Público]] #ecuación
 				  #+END_CENTER
 			- Sin embargo  existen otros mecanismos para que se pague la deuda tributaria:
-				- [](#1.) Tipo de tributación
+				- Tipo de tributación, 
 				  collapsed:: true
 					- Tributación Uniforme
 						- Precio del Impuesto
@@ -315,7 +315,6 @@
 						- Ej.
 						- Si  mi renta es de 1000 → pago 100 ;
 						- Si mi renta es de 2000 → pago 220: → No 200 que seria proporcional al incremento
-				-
 	- Problema de agregación de preferencias
 	  collapsed:: true
 		- Es difícil averiguar cual es la preferencia por un bien publico de cada persona, por  lo que se toma en consideración son las decisiones colectivas
