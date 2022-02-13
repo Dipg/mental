@@ -382,11 +382,12 @@
 		- Antiguos
 			- Parte 1- 31 de Marzo
 			- Parte 2-  [8 De abril_Unidad_2_ingreoss](https://drive.google.com/drive/u/1/folders/1HLDI-ohR65Evt3BmWr_TSQhJw0sdXEjS)
-	- #
+	- #  El [[Sector Público]]
 	  :LOGBOOK:
 	  CLOCK: [2022-02-01 Tue 14:39:02]--[2022-02-01 Tue 14:39:03] =>  00:00:01
 	  CLOCK: [2022-02-01 Tue 14:39:04]--[2022-02-03 Thu 17:05:34] =>  50:26:30
 	  :END:
+	-
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
 		- Se plante hasta cuando puede el gobierno aumentar su nivel de recaudación
