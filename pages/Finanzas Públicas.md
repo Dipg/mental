@@ -836,6 +836,7 @@
 			- https://www.bce.fin.ec/index.php/informacioneconomica/sector-fiscal
 			- ![image.png](../assets/image_1644273662876_0.png)
 	- TODO de donde obtengo datos del IPI
+		- id:: 62093d75-ab00-4614-a65d-695b32a0e771
 -
 -
 -
