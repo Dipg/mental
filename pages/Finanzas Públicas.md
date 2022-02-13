@@ -567,6 +567,7 @@
 	- ##  TODO Normativa del Gasto público (No esta en als diapos actuales)
 		- ![image.png](../assets/image_1644790118856_0.png)
 		- ![image.png](../assets/image_1644790211478_0.png)
+		- ![image.png](../assets/image_1644790260849_0.png)
 	- # Control del Gasto publico
 		- Asamblea
 		- Contraloria general del estado
