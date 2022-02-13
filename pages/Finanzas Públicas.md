@@ -310,7 +310,8 @@
 					- Ejemplo : Tributación uniforme
 						- El IVA
 					- #### Preferencia en el nivel de gasto en bienes Públicos
-						- Solo se tienen efecto renta
+						- Solo se tienen efecto renta,
+							- Los ricos Prefieren un nivel de
 				- Tributación Proporcional
 				  collapsed:: true
 				  id:: 6201acf7-5558-4d58-89d3-3c3faebd66e2
