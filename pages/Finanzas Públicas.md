@@ -484,7 +484,7 @@
 		-
 - # TODO Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
 	- Videos 🎞️
-		- Parte 1 - 21 de Abril
+		- Parte 1 - [21 de Abril](https://drive.google.com/drive/u/1/folders/1HLDI-ohR65Evt3BmWr_TSQhJw0sdXEjS)
 			- ![image.png](../assets/image_1644780149868_0.png)
 	- ¿ Que es el [[Gasto Público]] ?
 		- Se entiende como todas las {{cloze  transferencias}} y {{cloze transacciones}} para adquirir {{cloze bienes}} y {{cloze servicios}} por parte del estado y para la prestación de {{cloze subsidios}} y {{cloze transferencias}}
