@@ -488,7 +488,7 @@
 	- ¿Cual es el objetivo del [[Gasto Público]] ?
 		- Satisfacer las {{cloze necesidades de sus habitantes}}, el {{cloze consumo público}} y para contribuir a la {{cloze redistribución de la riqueza}}
 	- #+BEGIN_NOTE
-	  Ok, 
+	  Ok,
 	  #+END_NOTE
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
