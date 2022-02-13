@@ -292,6 +292,7 @@
 				  #+END_CENTER
 			- Sin embargo  existen otros mecanismos para que se pague la deuda tributaria:
 				- Tributación Uniforme
+					- Paga
 					- Partimos de
 					- $$\text{Precio en Impuesto}=1/N$$
 					  $$ \text{Gasto Público} = G$$
