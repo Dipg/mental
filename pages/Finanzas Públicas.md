@@ -290,14 +290,14 @@
 				  Deuda tributaria del Individuo= [[Precio en Impuesto]] * [[Gasto Público]] #ecuación
 				  #+END_CENTER
 			- Sin embargo  existen otros mecanismos para que se pague la deuda tributaria:
+				- Tributación Uniforme
+					- Precio del Impuesto
+					- $$1/N$$
+					- Deuda Tributaria,  parte de multiplicar el gasto per cápita $$\frac{G}{N}$$ por el Precio en impuestos $$1/N$$
+					- $$\frac{G}{N ^{ 2}}$$
+					- Mayor es el efecto renta,  los ricos usan mas bienes públicos
+					-
 				- collapsed:: true
-					- Tributación Uniforme
-						- Precio del Impuesto
-						- $$1/N$$
-						- Deuda Tributaria,  parte de multiplicar el gasto per cápita $$\frac{G}{N}$$ por el Precio en impuestos $$1/N$$
-						- $$\frac{G}{N ^{ 2}}$$
-						- Mayor es el efecto renta,  los ricos usan mas bienes públicos
-						-
 					- Tributación Proporcional
 					  collapsed:: true
 						- Todos pagan el mismo porcentaje de la renta
