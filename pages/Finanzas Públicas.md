@@ -430,9 +430,10 @@
 						- Son los ingresos públicos que el estado a través de sus entidades, instituciones y organismos públicos reciben de manera continua, periódica y previsible.
 						- La generación de ingresos permanentes no ocasiona la disminución de la riqueza nacional. Por ello, los ingresos permanentes no pueden provenir de la enajenación, degradación o venta de activos públicos de ningún tipo o del [[Endeudamiento Público]].
 						- Un ejemplo de estos ingresos son
-							- El IVA
+							- El [[IVA]]
 							- El [[ICe]]
 							- [[Impuesto a la Renta]]
+							-
 				- Ingresos No permanentes
 					-
 	- # Curva de Lafer
