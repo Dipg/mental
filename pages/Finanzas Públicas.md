@@ -555,8 +555,8 @@
 			- El eefecto sustitución cambia ell precio del bien , los reduce
 			- ((62097ba2-749f-48ad-b9e6-3347bd39cc9e))
 	- ## Consecuencias distributivas (Incidencia) , Consecuencias de una subvención
-		- Corto plzao
-	- Largo Plazo
+		- Corto plazo
+		- Largo Plazo
 	- Se expande mi demanda
 		- En el corto plazo una subvención puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el precio
