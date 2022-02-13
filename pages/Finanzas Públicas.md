@@ -524,7 +524,8 @@
 			- #+BEGIN_CENTER
 			  [[#red]]==Resultado Fiscal Primario = Ingresos Totales - Gastos Totales- Intereses Por pago de Deuda==
 			  #+END_CENTER
-	- 💹 Datos de los Resultados fiscales Globales y
+		- 💹 Datos de los Resultados fiscales Globales y Primario Para ecuador
+			-
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
 	- # Control del Gasto publico
