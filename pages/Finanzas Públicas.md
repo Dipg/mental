@@ -544,7 +544,7 @@
 		- ((62097a2b-0718-484a-8f72-6dd14df9d797))
 	- ## Consecuencias de la Eficiencia del Gasto Público
 		- Efecto Sustitución
-			- siemprempre que e progrma pñublico reduce el precio de una mercancia el consumidor sustituye bienes que consume por el mas barato , Genera ind
+			- siémbreme que e programa publico reduce el precio de una mercancía el consumidor sustituye bienes que consume por el mas barato , Genera ineficiencia en el mercado
 		- Efecto renta
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
