@@ -578,7 +578,7 @@
 			- Gasto Público medido como consumo final del Gobierno General → Gasto publico total
 			- El nivel de Producción percapita
 		- ### ¿El gasto publico tiene siempre una interpretación univoca?
-			-
+			- Pues va a ser que no
 	- # Curva de Armey
 		- Tamaño del sector publico(Por gasto público()()) frente al crecimiento economico
 		- [[draws/2022-02-07-08-19-30.excalidraw]]
