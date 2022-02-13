@@ -297,7 +297,7 @@
 					  $$ \text{Gasto Público} = G$$
 					- Y recordando que
 						- ((62086fe5-f0ca-43f9-95c0-9e90f3037419))
-					- $$\frac{G}{N ^{ 2}}$$
+					- $$\text{}\frac{G}{N ^{ 2}}$$
 					- Mayor es el efecto renta,  los ricos usan mas bienes públicos
 					-
 				- Tributación Proporcional
