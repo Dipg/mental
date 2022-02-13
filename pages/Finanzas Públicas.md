@@ -421,7 +421,7 @@
 		- ## Constitución y Finanzas Públicas
 			- Articulo 280,- Todo ingreso debe estar validado o vinculado en el [[Plan Nacional de Desarrollo]]
 			- Articulo 285; Describe los objetivos de la  [[Política Fiscal]]
-			- Ariculo 286
+			- Articulo 286: Como deben ser las
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
 		- Se plante hasta cuando puede el gobierno aumentar su nivel de recaudación
