@@ -416,7 +416,7 @@
 				- El PGE también incluye el [[Gasto Público]], el gasto que el estado realiza para el funcionamiento de sus instituciones y la dotación de servicios y el {{cloze financiamiento público}} obtenido de gobiernos y otros organismos de ejecución de proyectos de inversión.
 				- Todos los ingresos recaudados se destinaran para cubrir la obligaciones contraídas por la prestación de bienes y servicios públicos .
 				- #+BEGIN_NOTE
-				  To
+				  Toda la generaci
 				  #+END_NOTE
 		-
 		-
