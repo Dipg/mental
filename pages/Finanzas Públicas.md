@@ -286,15 +286,15 @@
 						- Los ricos apuestan a que se gaste menos en bienes públicos, ya que como son los que mas impuesto pagan, se les genera mayor deuda tributaria
 		- ### Deuda Tributaria del individuo
 			- Esta deuda parte del [[Precio en Impuestos]] , y el gasto público , ya que
-				- #+BEGIN_CENTER
+				- id:: 62086fe5-f0ca-43f9-95c0-9e90f3037419
+				  #+BEGIN_CENTER
 				  Deuda tributaria del Individuo= [[Precio en Impuesto]] * [[Gasto Público]] #ecuación
 				  #+END_CENTER
 			- Sin embargo  existen otros mecanismos para que se pague la deuda tributaria:
 				- Tributación Uniforme
 					- Partimos de
 					- $$\text{Precio en Impuesto}=1/N$$
-					- ((6201acf7-5558-4d58-89d3-3c3faebd66e2))
-					- ((6201acf7-af8f-4e3b-83dd-6693ddd8e241))
+					-
 					- $$\frac{G}{N ^{ 2}}$$
 					- Mayor es el efecto renta,  los ricos usan mas bienes públicos
 					-
@@ -910,4 +910,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578294_0.png)
+	- !
