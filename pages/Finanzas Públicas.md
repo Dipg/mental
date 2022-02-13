@@ -427,7 +427,7 @@
 				- Ingresos Permanentes
 					- Cabe mencionar que no [[Ingresos Permanentes]] se financiarán [[Egresos Permanentes]] (Articulo 286), excepto en salud o justicia de que estos ingresos puedan provenir de gastos no permanentes
 					- ¿ Que son los ingresos permanentes?
-						- son los ingresos públicos que el estado a través de sus entidades, instituciones y organismos públicos reciben de manera continua
+						- son los ingresos públicos que el estado a través de sus entidades, instituciones y organismos públicos reciben de manera continua, periódica
 				- Ingresos No permanentes
 					-
 	- # Curva de Lafer
