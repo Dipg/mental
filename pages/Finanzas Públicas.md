@@ -281,7 +281,7 @@
 				- Estos impuestos que cubren el costo adicional del gasto publico, se los conoce tambien como [[Precio en Impuestos]] o lo que es lo mismo [[Impuestos]],
 					- #+BEGIN_NOTE
 					  Ahora, bien para que nos sirve conocer este [[Precio en Impuestos]] o [[Impuestos]] 
-					  #+END_NOTE ⬇️⬇️⬇️  , Nos sirve para conocer la
+					  #+END_NOTE ⬇️⬇️⬇️  , Nos sirve para conocer la [[Deuda Tributaria del Individuo]]
 		- Deuda Tributaria del individuo
 		-
 	- Demanda Agregada de un bien público  en función de demandas individuales
