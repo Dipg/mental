@@ -425,6 +425,7 @@
 		- ## Ley orgánica de Finanzas Publicas
 			- Dentro de Esta ley, tenemos dos clasificaciones de los ingresos:
 				- Ingresos Permanentes
+					-
 				- Ingresos No permanentes
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
