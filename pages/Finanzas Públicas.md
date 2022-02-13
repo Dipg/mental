@@ -392,7 +392,7 @@
 			- Los Gobiernos Autónomos Descentralizados.
 			- Prefecturas, Municipios y Juntas Parroquiales Rurales;
 			- Empresas Públicas: como Petroecuador o las empresas municipales de obras públicas;
-			- Banca pública, como el Banco Central del Ecuador y la Corporación Financiera Nacional; las instituciones de la Seguridad Social, entre otros.
+			- Banca pública, como el [[Banco Central]] del Ecuador y la Corporación Financiera Nacional; las instituciones de la Seguridad Social, entre otros.
 		-
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
