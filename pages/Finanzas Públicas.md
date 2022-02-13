@@ -263,7 +263,7 @@
 					- #+BEGIN_CENTER
 					  Curva de Demanda Total= Costo Marginal
 					  #+END_CENTER
-					- ¿ Como se calcula la curva de demanda de mercado? [[Curva de Demanda de Mercado]]
+					- ¿ Como se calcula la  [[Curva de Demanda de Mercado]] ?
 	- Demanda Agregada de un bien público  en función de demandas individuales
 	  collapsed:: true
 		- Esta se va a determinar en función de el precio que estén dispuestos a pagar los individuos.
