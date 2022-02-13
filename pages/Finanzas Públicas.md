@@ -564,8 +564,8 @@
 			- En el largo plazo un subvención  se altera mas la cantidad que el precio
 			- Existe una mayor producción que incremento de precio Beneficia  alos consumidores
 			- ((62098080-177e-46dd-b629-f8a1e442f16d))
-	- ##  TODO Normativa del Gasto público
-		-
+	- ##  TODO Normativa del Gasto público (No esta en als diapos actuales)
+		- ![image.png](../assets/image_1644790118856_0.png)
 	- # Control del Gasto publico
 		- Asamblea
 		- Contraloria general del estado
