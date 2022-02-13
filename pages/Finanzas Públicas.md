@@ -521,7 +521,7 @@
 		  #+END_CENTER
 		- ¿Cual es la diferencia con él resultado Fiscal Primario?
 			- #+BEGIN_CENTER
-			  [[#red]]==Resultado Fiscal Global = Ingresos Totales - Gastos Totales==
+			  [[#red]]==Resultado Fiscal Primario = Ingresos Totales - Gastos Totales==
 			  #+END_CENTER
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
