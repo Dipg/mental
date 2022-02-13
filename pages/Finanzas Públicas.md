@@ -469,6 +469,7 @@
 			  \tau_{t}=\frac{T_{t}}{P_{t}}=\frac{\bar{\tau}_{t-n}}{(1+\pi)^{n}}
 			  $$
 			- ((62093c31-d7d5-481e-aa9a-cf49849a6ccd))
+			-
 		- El aumento del deficit fiscal provoca ➡️ un alza en la inflación, la que a su ➡️ vez reduce el valor de la recaudación tributaria ➡️  Lo que as su vez aumenta el deficit fiscal  y se repite el ciclo 🔁
 		  background-color:: #264c9b
 		- ### Traslación del efecto Oliveratanzi a los consumidores
