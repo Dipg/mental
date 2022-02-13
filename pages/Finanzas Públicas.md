@@ -431,7 +431,7 @@
 						- La generación de ingresos permanentes no ocasiona la disminución de la riqueza nacional. Por ello, los ingresos permanentes no pueden provenir de la enajenación, degradación o venta de activos públicos de ningún tipo o del [[Endeudamiento Público]].
 						- Un ejemplo de estos ingresos son
 							- El IVA
-							- El ICE
+							- El [[ICe]]
 							- [[Impuesto a la Renta]]
 				- Ingresos No permanentes
 					-
