@@ -511,6 +511,7 @@
 		- Criterios Económicos
 			- Gasto Corriente o de consumo
 				- Destinados a proporcionar servicios públicos (sanidad, justicia, educación, defensa, etc), salarios de funcionarios y compra de bienes y servicios
+		- Trasnferecnias o gastos sin
 		-
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
@@ -1048,4 +1049,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578294_0.png)
+	- ![image.png](../assets/image_1644241578294_0.
