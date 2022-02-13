@@ -272,7 +272,7 @@
 		  #+END_NOTE
 		- 🧐Sabiendo que el voto de los ciudadanos brinda ese poder de gasto, ¿Qué debe hacer el agente publico?
 			- Averiguar cuáles son las preferencias de aquellas  personas en cuyo nombre  se toma la decisión
-		- Ahora bien , que influye en esas preferencias individuales por los bienes públicos que debe conocer el agente publico.
+		- Ahora bien , ¿Que influye en esas preferencias individuales por los bienes públicos que debe conocer el agente publico? .
 			-
 	- Demanda Agregada de un bien público  en función de demandas individuales
 	  collapsed:: true
