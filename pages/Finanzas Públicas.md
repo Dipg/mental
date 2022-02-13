@@ -397,7 +397,7 @@
 		  Para analizar el sector Público, este se dividir en dos , el sector publico financiero y el sector publico no financiero. 
 		  #+END_NOTE
 		- ### Sector Publico Finaicero
-			-
+			- Bancos o instituciones finaciera publuca
 	-
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
