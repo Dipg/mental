@@ -537,7 +537,7 @@
 	- Lo que mas pesa son los ingresos por recaudación mas que los petroleros
 	- ## Formas de Intervención del Estado
 		- Producción Pública
-		-
+		- Producción Privada con Impuestos y Sub
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
 	- # Control del Gasto publico
