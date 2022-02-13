@@ -595,7 +595,7 @@
 			- Tamaño del sector publico(Por gasto público()()) frente al crecimiento economico
 			- [[draws/2022-02-07-08-19-30.excalidraw]]
 				-
-	- Anlizar el gasto pero desglosado por solo un tipo de gasto a la vez
+	- 👁️  Anlizar el gasto pero desglosado por solo un tipo de gasto a la vez
 	- DIferenciación entre un proyecto publico y un privado
 		- Privado genera utilidad , Publico no la busca
 		-
