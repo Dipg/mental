@@ -413,7 +413,7 @@
 		- # Presupuesto General [[PGE]]
 			- ¿ Que es el [[PGE]] ?
 				- Es la {{cloze Estimación de los recursos financiero}} de un país; es decir , aquí están los ingresos estatales proveniente de la venta de petróleo, recaudación de [[Impuestos]]
-				- El PGE también incluye el [[Gasto Público]]
+				- El PGE también incluye el [[Gasto Público]], el gasto que el estado realiza
 				-
 		-
 	- # Curva de Lafer
