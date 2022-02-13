@@ -577,7 +577,7 @@
 				- Se obtiene de restar al gasto público total, el pago por intereses y amortizaciones de la deuda pública.
 			- Gasto Público medido como consumo final del Gobierno General → Gasto publico total
 			- El nivel de Producción percapita
-		- ### El gasto publico tiene Simpre una relA
+		- ### El gasto publico tiene Simpre una rel
 	- # Curva de Armey
 		- Tamaño del sector publico(Por gasto público()()) frente al crecimiento economico
 		- [[draws/2022-02-07-08-19-30.excalidraw]]
