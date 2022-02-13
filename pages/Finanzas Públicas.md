@@ -289,32 +289,32 @@
 				- #+BEGIN_CENTER
 				  Deuda tributaria del Individuo= [[Precio en Impuesto]] * [[Gasto Público]] #ecuación
 				  #+END_CENTER
-			- Sin embargo  existen otros mecanismos para que se pague la deuda tributaria
-	- Tipo de tributación, 
-	  collapsed:: true
-		- Tributación Uniforme
-			- Precio del Impuesto
-			- $$1/N$$
-			- Deuda Tributaria,  parte de multiplicar el gasto per cápita $$\frac{G}{N}$$ por el Precio en impuestos $$1/N$$
-			- $$\frac{G}{N ^{ 2}}$$
-			- Mayor es el efecto renta,  los ricos usan mas bienes públicos
-			-
-		- Tributación Proporcional
-		  collapsed:: true
-			- Todos pagan el mismo porcentaje de la renta
-			- $$Renta \,Total : N\overline Y$$
-			- $$Ingreso \, Total \, del \, Estado : tN \overline Y$$
-			- Se supone que el ingreso es igual al gasto
-			- $$Tipo \, impositivo: \frac{G}{N \overline Y}$$
-			- Multiplicamos el tipo impositivo antes encontrado que se representa con $t$ por la renta que tienen esos individuos $$Y_i$$
-			- $$Deuda\,  tributaria: \, t Y_i=\frac{GY_i}{N \overline Y}$$
-			- Efecto sustitución es mayor al efecto renta
-		- Tributación Progresiva
-		  collapsed:: true
-			- la deda tributaria aumenta mas que proporcionalmente,
-			- Ej.
-			- Si  mi renta es de 1000 → pago 100 ;
-			- Si mi renta es de 2000 → pago 220: → No 200 que seria proporcional al incremento
+			- Sin embargo  existen otros mecanismos para que se pague la deuda tributaria:
+				- Tipo de tributación, 
+				  collapsed:: true
+					- Tributación Uniforme
+						- Precio del Impuesto
+						- $$1/N$$
+						- Deuda Tributaria,  parte de multiplicar el gasto per cápita $$\frac{G}{N}$$ por el Precio en impuestos $$1/N$$
+						- $$\frac{G}{N ^{ 2}}$$
+						- Mayor es el efecto renta,  los ricos usan mas bienes públicos
+						-
+					- Tributación Proporcional
+					  collapsed:: true
+						- Todos pagan el mismo porcentaje de la renta
+						- $$Renta \,Total : N\overline Y$$
+						- $$Ingreso \, Total \, del \, Estado : tN \overline Y$$
+						- Se supone que el ingreso es igual al gasto
+						- $$Tipo \, impositivo: \frac{G}{N \overline Y}$$
+						- Multiplicamos el tipo impositivo antes encontrado que se representa con $t$ por la renta que tienen esos individuos $$Y_i$$
+						- $$Deuda\,  tributaria: \, t Y_i=\frac{GY_i}{N \overline Y}$$
+						- Efecto sustitución es mayor al efecto renta
+					- Tributación Progresiva
+					  collapsed:: true
+						- la deda tributaria aumenta mas que proporcionalmente,
+						- Ej.
+						- Si  mi renta es de 1000 → pago 100 ;
+						- Si mi renta es de 2000 → pago 220: → No 200 que seria proporcional al incremento
 	- Problema de agregación de preferencias
 	  collapsed:: true
 		- Es difícil averiguar cual es la preferencia por un bien publico de cada persona, por  lo que se toma en consideración son las decisiones colectivas
