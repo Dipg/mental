@@ -391,6 +391,7 @@
 			- El sector público lo conforman los ministerios y otras instituciones del Estado, como el Ministerio de Salud y la Secretaría Nacional de Gestión de Riesgos;
 			- Los Gobiernos Autónomos Descentralizados.
 			- Prefecturas, Municipios y Juntas Parroquiales Rurales;
+			- Empresas Públicas: como Petroecuador o las empresas municipales de obras públicas;
 		-
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
