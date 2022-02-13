@@ -308,7 +308,7 @@
 					- $$\text{Deuda tributaria}=  \frac{1}{N} \frac{G}{N} \\[0.5cm]
 					  \text{Deuda tributaria}=  \frac{G}{N ^{ 2}}$$
 					- Ejemplo : Tributación uniforme
-						-
+						- El IVA
 					- Mayor es el efecto renta,  los ricos usan mas bienes públicos
 					-
 				- Tributación Proporcional
