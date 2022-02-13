@@ -387,7 +387,8 @@
 	  CLOCK: [2022-02-01 Tue 14:39:02]--[2022-02-01 Tue 14:39:03] =>  00:00:01
 	  CLOCK: [2022-02-01 Tue 14:39:04]--[2022-02-03 Thu 17:05:34] =>  50:26:30
 	  :END:
-		- ¿ Que es el Sector Público=
+		- ¿ Que es el Sector Público?
+			- El sector publico lo
 		-
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
