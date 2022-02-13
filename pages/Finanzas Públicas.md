@@ -594,7 +594,7 @@
 		- # Curva de Armey
 			- Tamaño del sector publico(Por gasto público()()) frente al crecimiento economico
 			- [[draws/2022-02-07-08-19-30.excalidraw]]
-				-
+				- Se puede estimar por MCO o por Datos de panel con efectos fijos
 	- #+BEGIN_NOTE
 	   👁️  Analizar el gasto pero desglosado por solo un tipo de gasto a la vez
 	  #+END_NOTE
