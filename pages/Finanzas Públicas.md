@@ -559,11 +559,11 @@
 			- Incrmentan los precios mas que la cantiadad, esto puede beneficiar mas a los propietarios oo productos que a los consumidores , la curva de oferta del productor tiende a ser ma inelastica
 			- ((62098016-9d77-4465-85f6-0ad1e225ef55))
 		- Largo Plazo
+			- En el largo plazo un subvención  se altera mas la cantidad que el precio
 			- Existe una mayor producción que incremento de precio Beneficia  alos consumidores
 			- ((62098080-177e-46dd-b629-f8a1e442f16d))
 	- Se expande mi demanda
 		- En el corto plazo una subvención puede alterar mas el precio que la cantidad
-	- En el largo plazo un subvención  se altera mas la cantidad que el precio
 	- # Control del Gasto publico
 		- Asamblea
 		- Contraloria general del estado
