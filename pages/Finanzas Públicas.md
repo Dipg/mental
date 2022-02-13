@@ -519,7 +519,7 @@
 		- #+BEGIN_CENTER
 		  [[#red]]==Resultado Fiscal Global = Ingresos Totales - Gastos Totales==
 		  #+END_CENTER
-		- rESULTADO fISCAL
+		- ¿Cual es la diferencia con elm resultado
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
 	- # Control del Gasto publico
