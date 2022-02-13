@@ -325,6 +325,7 @@
 					- #### Como es la preferecniad del Nivel de gasto en bienes públicos, bajo la tarifación proporcional
 						- Pobres tienen precio en impuestos mas bajo, por lo que su nivel de gasto publico es mas alto
 						- Efecto sustitución(Precio en impuestos más bajo) es mayor al efecto renta
+						- Personas pobres deseean mas bienes pubicos que los ricos
 				- Tributación Progresiva
 				  collapsed:: true
 				  id:: 6201acf7-af8f-4e3b-83dd-6693ddd8e241
@@ -927,4 +928,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578294_0.png)
+	- ![image.png](../ass
