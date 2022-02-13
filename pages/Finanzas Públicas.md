@@ -277,7 +277,7 @@
 			- Diferencias entre rentas e impuestos
 		- ¿Que dice [[Stiglitz]] sobre las personas mas ricas?
 			- ***Personas mas ricas tienen rentas mas altas, normalmente prefieren gastar mas en todo***, sin embargo esto es debatible
-			- Cuando el estado gasta
+			- Cuando el estado gasta más en bienes públicos, las personas más ricas a menudo tienen que pagar una parte relativamente grande del
 	- Demanda Agregada de un bien público  en función de demandas individuales
 	  collapsed:: true
 		- Esta se va a determinar en función de el precio que estén dispuestos a pagar los individuos.
