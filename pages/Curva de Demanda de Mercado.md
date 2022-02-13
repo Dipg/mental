@@ -1,0 +1,1 @@
+- La Curva de demdaan de mercado se cacula como la suma de demandas inversa de demanda de todos los
