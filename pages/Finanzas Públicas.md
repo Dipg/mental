@@ -520,6 +520,7 @@
 		  [[#red]]==Resultado Fiscal Global = Ingresos Totales - Gastos Totales==
 		  #+END_CENTER
 		- ¿Cual es la diferencia con él resultado Fiscal Primario?
+			- No se consideran los intereses que el estado tiene que pagar por una deuda
 			- #+BEGIN_CENTER
 			  [[#red]]==Resultado Fiscal Primario = Ingresos Totales - Gastos Totales==
 			  #+END_CENTER
