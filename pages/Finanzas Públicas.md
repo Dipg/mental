@@ -293,11 +293,14 @@
 				- Tributación Uniforme
 					- Partimos de
 					- $$\text{Precio en Impuesto}=1/N$$
+					- ((6201acf7-5558-4d58-89d3-3c3faebd66e2))
+					- ((6201acf7-af8f-4e3b-83dd-6693ddd8e241))
 					- $$\frac{G}{N ^{ 2}}$$
 					- Mayor es el efecto renta,  los ricos usan mas bienes públicos
 					-
 				- Tributación Proporcional
 				  collapsed:: true
+				  id:: 6201acf7-5558-4d58-89d3-3c3faebd66e2
 					- Todos pagan el mismo porcentaje de la renta
 					- $$Renta \,Total : N\overline Y$$
 					- $$Ingreso \, Total \, del \, Estado : tN \overline Y$$
@@ -308,6 +311,7 @@
 					- Efecto sustitución es mayor al efecto renta
 				- Tributación Progresiva
 				  collapsed:: true
+				  id:: 6201acf7-af8f-4e3b-83dd-6693ddd8e241
 					- la deda tributaria aumenta mas que proporcionalmente,
 					- Ej.
 					- Si  mi renta es de 1000 → pago 100 ;
