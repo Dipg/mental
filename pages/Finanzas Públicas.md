@@ -425,7 +425,7 @@
 		- ## Ley orgánica de Finanzas Publicas
 			- Dentro de Esta ley, tenemos dos clasificaciones de los ingresos:
 				- Ingresos Permanentes
-					- Cabe mencionar que no [[Ingresos Permanentes]] se financiarán [[Egresos Permanentes]] (Articulo 286)
+					- Cabe mencionar que no [[Ingresos Permanentes]] se financiarán [[Egresos Permanentes]] (Articulo 286), exce
 				- Ingresos No permanentes
 					-
 	- # Curva de Lafer
