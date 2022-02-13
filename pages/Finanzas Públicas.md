@@ -390,7 +390,7 @@
 		- ¿ Que es el Sector Público?
 			- El sector público lo conforman los ministerios y otras instituciones del Estado, como el Ministerio de Salud y la Secretaría Nacional de Gestión de Riesgos;
 			- Los Gobiernos Autónomos Descentralizados.
-			- Los niveles de Gobierno o GADS como lo son las {{cloze Prefecturas}}, Municipios y Juntas Parroquiales Rurales;
+			- Los niveles de Gobierno o GADS como lo son las {{cloze Prefecturas}}, {{cloze Municipios}} y {{cloze Juntas Parroquiales Rurales}};
 			- Empresas Públicas: como Petroecuador o las empresas municipales de obras públicas;
 			- Banca pública, como el [[Banco Central]] del Ecuador y la Corporación Financiera Nacional; las instituciones de la Seguridad Social, entre otros.
 		-
