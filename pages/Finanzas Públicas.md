@@ -580,7 +580,7 @@
 		- ### ¿El gasto publico tiene siempre una interpretación univoca?
 			- Pues va a ser que no 🤨
 				- Efecto Negativo de Gasto publixo
-					- Se cuestiona
+					- Se cuestiona que los efectos de equidad y eficiencia del
 	- # Curva de Armey
 		- Tamaño del sector publico(Por gasto público()()) frente al crecimiento economico
 		- [[draws/2022-02-07-08-19-30.excalidraw]]
