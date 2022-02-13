@@ -452,7 +452,7 @@
 						- Un disminución de tipo impositivo ➡️ provoca aumento de  las rentass, del consumo, de la producción y finamlemtne una mayor recaudación
 					- EN los dos casos anteriores, entran en juego dos fueras que se contraponenen,
 						- [[Efecto Renta]]
-						- Efecto Sustitución
+						- [[Efecto Sustitución]]
 			- Endeudarse
 	- Efecto Olivera- Tanzi
 	  id:: 61fc51b8-4f8d-48f6-8165-6aa1e0c1c16d
