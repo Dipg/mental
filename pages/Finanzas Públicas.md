@@ -492,8 +492,9 @@
 	  #+END_NOTE
 	- Ejemplo de Una Política de gasto
 		- Cambio de la matriz productiva
-	- <nota
-	-
+	- #+BEGIN_NOTE
+	  Sin embargo esa politica de gasto 
+	  #+END_NOTE
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
 	- # Control del Gasto publico
