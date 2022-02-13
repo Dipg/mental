@@ -551,7 +551,7 @@
 		- Efecto renta
 			- Ayudas que facilitan el bienestar pero no alteran los precios a los que pueden comprar las diferentes mercancías tiene un efecto renta Modifican su estructura de gastos.
 			- El efecto renta cambia por completo mi restricción presupuestaria
-			-
+			- incrementa el consumo de todo los bienes en general
 			- ((62097ba2-749f-48ad-b9e6-3347bd39cc9e))
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
@@ -1090,4 +1090,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578294_0.png)
+	- ![image.png](../assets/image_1644241578294_0.png
