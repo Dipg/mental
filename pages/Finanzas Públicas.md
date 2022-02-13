@@ -432,7 +432,7 @@
 						- Un ejemplo de estos ingresos son
 							- El IVA
 							- El ICE
-							-
+							- [[Impuesto a la Renta]]
 				- Ingresos No permanentes
 					-
 	- # Curva de Lafer
