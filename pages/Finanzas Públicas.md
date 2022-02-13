@@ -266,7 +266,7 @@
 					- ¿ Como se calcula la ((6208584f-8ada-4cb3-9d1c-a0af22d9d69c)) ?
 						- ((62085866-557a-4476-8e66-4179fc54fcb0)) #ecuación #[[Ejercicios Numéricos]]
 	- # Elección Pública
-		- Es un mecanismo que nos permite
+		- Es un mecanismo que nos permite asignar recursos
 	- Demanda Agregada de un bien público  en función de demandas individuales
 	  collapsed:: true
 		- Esta se va a determinar en función de el precio que estén dispuestos a pagar los individuos.
@@ -890,4 +890,4 @@
 -
 -
 - Falta
-	- ![image.png](../a
+	- ![image.png](../assets/image_1644241578294_0.png)
