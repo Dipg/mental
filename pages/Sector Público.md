@@ -1,1 +1,1 @@
-- Sector P
+- Sector Público
