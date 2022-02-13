@@ -277,7 +277,7 @@
 			- Diferencias entre rentas e impuestos
 		- ¿Que dice [[Stiglitz]] sobre las personas mas ricas?
 			- ***Personas mas ricas tienen rentas mas altas, normalmente prefieren gastar mas en todo***, sin embargo esto es debatible
-			- Cuando el estado gasta más en [[Bienes Públicos]], las personas más ricas a menudo tienen que pagar una parte relativamente grande del [[Coste adicional]], ya que esos costos son cubiertos a traves de impuestos
+			- Cuando el estado gasta más en [[Bienes Públicos]], las personas más ricas a menudo tienen que pagar una parte relativamente grande del [[Coste adicional]], ya que esos costos son cubiertos a través de impuestos
 		- Deuda Tributaria del individuo
 		-
 	- Demanda Agregada de un bien público  en función de demandas individuales
