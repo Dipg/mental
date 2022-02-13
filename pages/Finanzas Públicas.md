@@ -75,7 +75,7 @@
 			- ¿ Que estimula el gasto Público ?  #red
 			  collapsed:: true
 				- El {{cloze consumó}} y el {{cloze Empleo}}
-	- ## Análisis Normativo 🔴
+	- ## Análisis Normativo :ywllow
 	  collapsed:: true
 	  Entra en Juego lo que se conoce como [[Economía del Bienestar]], la cual, en resumen, realiza un análisis de la deseabilidad social de situaciones económicas alternativas, Para implantar este tipo de normativas , este tipo de economía se basan en la Teoría de la [[Caja de Edgeworth ]]  que hace uso de las [[Curvas de Indiferencias]]
 		- Economía del bienestar
@@ -118,7 +118,7 @@
 		- En el Punto $L$ , Fuera de mis posibilidades, por lo Cual el Gobierno debe endeudarse
 		- ### Teoremas Fundamentales de la Economía
 		- {{embed ((619cf53b-fce0-40c3-b7e3-02e285fcfc34))}}
-	- ## Ventajas absolutas y ventajas comparativas #yellow
+	- ## Ventajas absolutas y ventajas comparativas 🟡
 	  collapsed:: true
 		- Ventajas Absolutas →  [[Adam Smith]]
 		  collapsed:: true
