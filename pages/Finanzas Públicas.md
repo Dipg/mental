@@ -596,8 +596,8 @@
 			- [[draws/2022-02-07-08-19-30.excalidraw]]
 				-
 	- #+BEGIN_NOTE
-	  
-	  #+END_NOTE 👁️  Analizar el gasto pero desglosado por solo un tipo de gasto a la vez
+	   👁️  Analizar el gasto pero desglosado por solo un tipo de gasto a la vez
+	  #+END_NOTE
 	- DIferenciación entre un proyecto publico y un privado
 		- Privado genera utilidad , Publico no la busca
 		-
