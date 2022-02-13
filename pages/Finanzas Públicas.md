@@ -412,7 +412,7 @@
 				- Empresas que conforman la Seguridad Social
 		- # Presupuesto General [[PGE]]
 			- ¿ Que es el [[PGE]] ?
-				- Es la {{cloze Estimación de los recursos financiero}} de un país; es decir , aquí están los ingresos estatales
+				- Es la {{cloze Estimación de los recursos financiero}} de un país; es decir , aquí están los ingresos estatales proveniente de la venta de petroleo
 		-
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
