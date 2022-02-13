@@ -401,6 +401,11 @@
 		- ## Sector Público no financiero
 			- Son las entidades que conforman el [[PGE]]
 				- ((62090a9c-a388-43f6-8280-2fa2e497d2b8))
+					- Ejecutiva
+					- Legislativa
+					- Judicial
+					- Electoral
+					- Transparencia y control Social
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
 		- Se plante hasta cuando puede el gobierno aumentar su nivel de recaudación
