@@ -556,7 +556,7 @@
 			- ((62097ba2-749f-48ad-b9e6-3347bd39cc9e))
 	- ## Consecuencias distributivas (Incidencia) , Consecuencias de una subvención
 		- Corto plazo
-			- Incrmentan los precios mas que la cantiad , la curva de oferta del productor tiende a ser ma inelastica
+			- Incrmentan los precios mas que la cantiadad , la curva de oferta del productor tiende a ser ma inelastica
 			- ((62098016-9d77-4465-85f6-0ad1e225ef55))
 		- Largo Plazo
 			-
