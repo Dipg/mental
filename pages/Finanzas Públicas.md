@@ -580,7 +580,6 @@
 		- ### ¿El gasto publico tiene siempre una interpretación univoca?
 			- Pues va a ser que no 🤨 , existen dos posiciones ante el efecto del gasto publico en la economía
 				- Efecto Negativo de Gasto publico
-					-
 					- Se cuestiona que los efectos de equidad y eficiencia del gato publico tienen un {{cloze coste en términos de desviación de recursos privados}} potencialmente productivos,
 					- Puede causar una distorsión  sobre el sistema de precios e incentivos , distorsionan la dinámica general de la economía
 					- Algunos autores defienden este argumento como los sigueitne:
