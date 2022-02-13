@@ -424,7 +424,7 @@
 			- Articulo 286: Como deben ser las [[Finanzas Públicas]]
 		- ## Ley orgánica de Finanzas Publicas
 			- Dentro de Esta ley, tenemos dos clasificaciones de los ingresos:
-				- Ingresos Permanentes
+				- ## Ingresos Permanentes
 					- Cabe mencionar que no [[Ingresos Permanentes]] se financiarán [[Egresos Permanentes]] (Articulo 286), excepto en salud o justicia de que estos ingresos puedan provenir de gastos no permanentes
 					- ¿ Que son los ingresos permanentes?
 						- Son los ingresos públicos que el estado a través de sus entidades, instituciones y organismos públicos reciben de manera continua, periódica y previsible.
@@ -435,7 +435,7 @@
 							- [[Impuesto a la Renta]]
 							- [[ISD]]
 							- Tasas Aduaneras
-				- Ingresos No permanentes
+				- ## Ingresos No permanentes
 					-
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
