@@ -484,7 +484,7 @@
 		-
 - # TODO Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
 	- ¿ Que es el [[Gasto Público]] ?
-	-
+		- Se entiende como todas las transferencias
 	-
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
