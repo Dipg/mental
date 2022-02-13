@@ -866,7 +866,7 @@
 			- ![image.png](../assets/image_1644273535111_0.png){:height 227, :width 234}
 		- Pagina (Excel)
 			- https://www.bce.fin.ec/index.php/informacioneconomica/sector-fiscal
-			- ![image.png](../assets/image_1644273662876_0.png)
+			- ![image.png](../assets/image_1644273662876_0.png){:height 91, :width 318}
 	- TODO de donde obtengo datos del IPI
 		- ((62093d72-2210-49ae-95af-2ddec5a64a2a))
 		  id:: 62093d75-ab00-4614-a65d-695b32a0e771
