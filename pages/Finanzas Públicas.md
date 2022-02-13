@@ -591,11 +591,10 @@
 					- Se debe actuar ante la pobreza y las desigualdades sociales, ya que estas se presentan como un lastre ante el crecimiento económico, evitando que se infrautilice el capital humano, y se impida a los individuos explotar y desarrollar sus talentos y capacidades
 					- Algunos autores que apoyan esta afección del desarrollo tenernos a
 						- ((6209897a-de6a-4641-9d21-560f6edfd95c))
-		-
-	- # Curva de Armey
-		- Tamaño del sector publico(Por gasto público()()) frente al crecimiento economico
-		- [[draws/2022-02-07-08-19-30.excalidraw]]
-			-
+		- # Curva de Armey
+			- Tamaño del sector publico(Por gasto público()()) frente al crecimiento economico
+			- [[draws/2022-02-07-08-19-30.excalidraw]]
+				-
 	- Anlizar el gasto pero desglosado por solo un tipo de gasto a la vez
 	- DIferenciación entre un proyecto publico y un privado
 		- Privado genera utilidad , Publico no la busca
