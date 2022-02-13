@@ -316,7 +316,7 @@
 						- ¿ Pero por que prefieren un gasto publico mayor?
 							- Esto se deben a que van a obtener un nivel de utilidad mayor , por lo que la Utilidad depende del gasto publico
 							- ![image.png](../assets/image_1644724491262_0.png){:height 279, :width 392}
-							- Los ricos prefieren mas gasto publico, que todos , después le siguen la clase media , y después la clase pobre
+							- Los ricos prefieren mas gasto publico, que todos , después le siguen la clase media , y despues la clase pobre
 				- Tributación Proporcional
 				  collapsed:: true
 				  id:: 6201acf7-5558-4d58-89d3-3c3faebd66e2
