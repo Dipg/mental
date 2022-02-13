@@ -260,7 +260,9 @@
 						- Cuando los costos de transacción son bastante elevados , es mejor que el estado suministre ese Bien
 			- ### Como se optimizan el bien Publico
 				- La Entrega de un bien publico se optimiza cuando
-					-
+					- #+BEGIN_CENTER
+					  Curva de Demanda Total= Costo Marginal
+					  #+END_CENTER
 	- Demanda Agregada de un bien público  en función de demandas individuales
 	  collapsed:: true
 		- Esta se va a determinar en función de el precio que estén dispuestos a pagar los individuos.
