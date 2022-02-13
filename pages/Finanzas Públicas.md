@@ -263,7 +263,7 @@
 					- #+BEGIN_CENTER
 					  Curva de Demanda Total= Costo Marginal
 					  #+END_CENTER
-					-
+					- [[Curva de Demanda de Mercado]]
 	- Demanda Agregada de un bien público  en función de demandas individuales
 	  collapsed:: true
 		- Esta se va a determinar en función de el precio que estén dispuestos a pagar los individuos.
