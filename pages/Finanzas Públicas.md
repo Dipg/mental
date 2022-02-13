@@ -270,7 +270,7 @@
 		- #+BEGIN_NOTE
 		  Es decir cuando votamos por un candidato, estamos decidiendo cual será la prioridad del [[Gasto Público]] 
 		  #+END_NOTE
-		- Sabiendo que el voto de los ciudadanos brinda ese poder de gasto,
+		- Sabiendo que el voto de los ciudadanos brinda ese poder de gasto, ¿Que debe hacer el agente publico?
 	- Demanda Agregada de un bien público  en función de demandas individuales
 	  collapsed:: true
 		- Esta se va a determinar en función de el precio que estén dispuestos a pagar los individuos.
@@ -894,4 +894,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578294_0.png)
+	- ![image.png](../assets/image_1644241578294_0.png)  
