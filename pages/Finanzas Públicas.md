@@ -291,7 +291,7 @@
 				  #+END_CENTER
 			- Sin embargo  existen otros mecanismos para que se pague la deuda tributaria:
 				- Tributación Uniforme
-					- Precio del Impuesto
+					- Partimos de
 					- $$1/N$$
 					- Deuda Tributaria,  parte de multiplicar el gasto per cápita $$\frac{G}{N}$$ por el Precio en impuestos $$1/N$$
 					- $$\frac{G}{N ^{ 2}}$$
