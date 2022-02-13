@@ -275,7 +275,7 @@
 		- Ahora bien , ¿Que influye en esas preferencias individuales por los bienes públicos que debe conocer el agente publico? .
 			- Diferencias por gustos y preferencias
 			- Diferencias entre rentas e impuestos
-		- Que dice
+		- Que dice [[Stiglitz]] de
 	- Demanda Agregada de un bien público  en función de demandas individuales
 	  collapsed:: true
 		- Esta se va a determinar en función de el precio que estén dispuestos a pagar los individuos.
