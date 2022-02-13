@@ -271,7 +271,7 @@
 		  Es decir cuando votamos por un candidato, estamos decidiendo cual será la prioridad del [[Gasto Público]] 
 		  #+END_NOTE
 		- Sabiendo que el voto de los ciudadanos brinda ese poder de gasto, ¿Qué debe hacer el agente publico?
-			- Averiguar cuáles son las preferencias  de las personas de aquellas en cuyo nombre toma l decisión
+			- Averiguar cuáles son las preferencias de aquellas  personas en cuyo nombre toma l decisión
 	- Demanda Agregada de un bien público  en función de demandas individuales
 	  collapsed:: true
 		- Esta se va a determinar en función de el precio que estén dispuestos a pagar los individuos.
