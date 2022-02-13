@@ -417,6 +417,7 @@
 				- Todos los ingresos recaudados se destinaran para cubrir la obligaciones contraídas por la prestación de bienes y servicios públicos .
 				-
 		-
+		-
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
 		- Se plante hasta cuando puede el gobierno aumentar su nivel de recaudación
