@@ -322,6 +322,7 @@
 					- $$Tipo \, impositivo: \frac{G}{N \overline Y}$$
 					- Multiplicamos el tipo impositivo antes encontrado que se representa con $t$ por la renta que tienen esos individuos $$Y_i$$
 					- $$Deuda\,  tributaria: \, t Y_i=\frac{GY_i}{N \overline Y}$$ #ecuación
+					-
 					- Efecto sustitución es mayor al efecto renta
 				- Tributación Progresiva
 				  collapsed:: true
