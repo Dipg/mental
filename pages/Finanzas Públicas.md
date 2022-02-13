@@ -297,7 +297,8 @@
 					  $$ \text{Gasto Público} = G$$
 					- Y recordando que
 						- ((62086fe5-f0ca-43f9-95c0-9e90f3037419))
-						- 👁️ 👁️  La única diferencia es que usaremos el  Gasto público
+						- 👁️ 👁️  La única diferencia es que usaremos el  Gasto público Per-capita
+						-
 					- $$\text{Deuda tributaria}=  \frac{1}{N} G$$
 					- Mayor es el efecto renta,  los ricos usan mas bienes públicos
 					-
