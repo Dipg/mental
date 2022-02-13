@@ -483,6 +483,8 @@
 		- ![image.png](../assets/image_1644772484645_0.png){:height 466, :width 450}
 		-
 - # TODO Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
+	- Videos 🎞️
+		-
 	- ¿ Que es el [[Gasto Público]] ?
 		- Se entiende como todas las {{cloze  transferencias}} y {{cloze transacciones}} para adquirir {{cloze bienes}} y {{cloze servicios}} por parte del estado y para la prestación de {{cloze subsidios}} y {{cloze transferencias}}
 	- ¿Cual es el objetivo del [[Gasto Público]] ?
