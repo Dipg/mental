@@ -310,6 +310,9 @@
  {:block/name "aprender",
   :block/created-at 1642950922907,
   :block/updated-at 1642950922907}
+ {:block/name "arthur laffer",
+  :block/created-at 1644766400653,
+  :block/updated-at 1644766524635}
  {:block/name "asignación eficiente de pareto",
   :block/created-at 1644723897290,
   :block/updated-at 1644723897290}
@@ -358,6 +361,9 @@
  {:block/name "cem",
   :block/created-at 1642950922909,
   :block/updated-at 1642950922909}
+ {:block/name "cfn",
+  :block/created-at 1644794568937,
+  :block/updated-at 1644794568937}
  {:block/name "checkme",
   :block/created-at 1642172083937,
   :block/updated-at 1642172083937}
@@ -382,6 +388,9 @@
  {:block/name "comments",
   :block/created-at 1641992433041,
   :block/updated-at 1641992433041}
+ {:block/name "constitución",
+  :block/created-at 1644794568937,
+  :block/updated-at 1644794568937}
  {:block/name "consumo",
   :block/created-at 1644723897289,
   :block/updated-at 1644723897289}
@@ -397,6 +406,9 @@
  {:block/name "cootad",
   :block/created-at 1644723897289,
   :block/updated-at 1644723897289}
+ {:block/name "corporación financiera nacional",
+  :block/created-at 1644759585142,
+  :block/updated-at 1644759589368}
  {:block/name "coste adicional",
   :block/created-at 1644723897290,
   :block/updated-at 1644723897290}
@@ -418,6 +430,9 @@
  {:block/name "curva de demanda de total",
   :block/created-at 1644713633410,
   :block/updated-at 1644714252160}
+ {:block/name "curva de laffer",
+  :block/created-at 1644766603466,
+  :block/updated-at 1644768633548}
  {:block/name "curva de philips",
   :block/created-at 1644600284382,
   :block/updated-at 1644600284382}
@@ -433,6 +448,9 @@
  {:block/name "código orgánico de organización territorial",
   :block/created-at 1644678592057,
   :block/updated-at 1644678680471}
+ {:block/name "código orgánico de planificación y fianzas públicas",
+  :block/created-at 1644794568937,
+  :block/updated-at 1644794568937}
  {:block/name "daily briefing _ the economist",
   :block/created-at 1642172083943,
   :block/updated-at 1642172083943}
@@ -508,9 +526,6 @@
  {:block/name "draws/2021-11-23-11-34-25.excalidraw",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
- {:block/name "draws/2021-11-23-11-37-20.excalidraw",
-  :block/created-at 1638961917542,
-  :block/updated-at 1638961917542}
  {:block/name "draws/2021-12-14-07-12-42.excalidraw",
   :block/created-at 1642950922906,
   :block/updated-at 1642950922906}
@@ -521,11 +536,11 @@
   :block/created-at 1644249275723,
   :block/updated-at 1644249275723}
  {:block/name "draws/2022-02-07-08-19-30.excalidraw",
-  :block/created-at 1644728282806,
-  :block/updated-at 1644728282806}
- {:block/name "draws/2022-02-07-08-22-54.excalidraw",
-  :block/created-at 1644728282806,
-  :block/updated-at 1644728282806}
+  :block/created-at 1644794568937,
+  :block/updated-at 1644794568937}
+ {:block/name "draws/2022-02-13-16-35-28.excalidraw",
+  :block/created-at 1644794568937,
+  :block/updated-at 1644794568937}
  {:block/name "draws/piensa matricialmente.excalidraw",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -568,15 +583,24 @@
  {:block/name "efecto estimulo recompensa",
   :block/created-at 1644600284382,
   :block/updated-at 1644600284382}
+ {:block/name "efecto renta",
+  :block/created-at 1644794568937,
+  :block/updated-at 1644794568937}
  {:block/name "efecto reputación",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
+ {:block/name "efecto sustitución",
+  :block/created-at 1644794568937,
+  :block/updated-at 1644794568937}
  {:block/name "efectos aleatorios",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
  {:block/name "efectos fijos",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
+ {:block/name "egresos permanentes",
+  :block/created-at 1644794568937,
+  :block/updated-at 1644794568937}
  {:block/name "ejercicio búsqueda de datos ",
   :block/created-at 1644249275724,
   :block/updated-at 1644249275724}
@@ -595,6 +619,9 @@
  {:block/name "endeudamiento",
   :block/created-at 1643347574443,
   :block/updated-at 1644172552931}
+ {:block/name "endeudamiento público",
+  :block/created-at 1644794568936,
+  :block/updated-at 1644794568936}
  {:block/name "english",
   :block/created-at 1642172083936,
   :block/updated-at 1643666279916}
@@ -667,6 +694,9 @@
  {:block/name "feb 12th, 2022",
   :block/created-at 1644624000000,
   :block/updated-at 1644624000000}
+ {:block/name "feb 13th, 2022",
+  :block/created-at 1644756720629,
+  :block/updated-at 1644756735190}
  {:block/name "feb 1st, 2022",
   :block/created-at 1643757190230,
   :block/updated-at 1643757190230}
@@ -696,7 +726,7 @@
   :block/updated-at 1641992433040}
  {:block/name "finanzas públicas",
   :block/created-at 1642172083942,
-  :block/updated-at 1644728090365}
+  :block/updated-at 1644794413656}
  {:block/name "flashcard",
   :block/created-at 1642980776760,
   :block/updated-at 1642980776760}
@@ -733,6 +763,9 @@
  {:block/name "gobierno",
   :block/created-at 1644723897289,
   :block/updated-at 1644723897289}
+ {:block/name "gobiernos autónomos descentralizados",
+  :block/created-at 1644794568937,
+  :block/updated-at 1644794568937}
  {:block/name "green",
   :block/created-at 1638961917542,
   :block/updated-at 1638961917542}
@@ -814,6 +847,12 @@
  {:block/name "hls__unidad_1_1637632758053_0",
   :block/created-at 1642172083940,
   :block/updated-at 1642172083940}
+ {:block/name "hls__unidad_2._1637746281546_0",
+  :block/created-at 1644772420102,
+  :block/updated-at 1644772420101}
+ {:block/name "hls__unidad_3_1637746412131_0",
+  :block/created-at 1644794568937,
+  :block/updated-at 1644794568937}
  {:block/name "hls__unidad_i_-_introducción_1637370795899_0",
   :block/created-at 1642172083936,
   :block/updated-at 1642172083936}
@@ -835,9 +874,24 @@
  {:block/name "html",
   :block/created-at 1642172083942,
   :block/updated-at 1642172083942}
+ {:block/name "ice",
+  :block/created-at 1644794568937,
+  :block/updated-at 1644794568937}
  {:block/name "ideas",
   :block/created-at 1642172083936,
   :block/updated-at 1642810365906}
+ {:block/name "impuesto a la renta",
+  :block/created-at 1644794568937,
+  :block/updated-at 1644794568937}
+ {:block/name "impuesto a la salida de divisas",
+  :block/created-at 1644762918629,
+  :block/updated-at 1644762919813}
+ {:block/name "impuesto a los consumos especiales",
+  :block/created-at 1644762654988,
+  :block/updated-at 1644762654988}
+ {:block/name "impuesto al valor agregado",
+  :block/created-at 1644762633064,
+  :block/updated-at 1644762635029}
  {:block/name "impuestos",
   :block/created-at 1644716641340,
   :block/updated-at 1644716926399}
@@ -853,6 +907,9 @@
  {:block/name "informatica",
   :block/created-at 1644600284382,
   :block/updated-at 1644600284382}
+ {:block/name "ingresos permanentes",
+  :block/created-at 1644794568937,
+  :block/updated-at 1644794568937}
  {:block/name "inmediato",
   :block/created-at 1641992433040,
   :block/updated-at 1641992433040}
@@ -865,6 +922,12 @@
  {:block/name "investigación empírica",
   :block/created-at 1644723897292,
   :block/updated-at 1644723897292}
+ {:block/name "isd",
+  :block/created-at 1644794568937,
+  :block/updated-at 1644794568937}
+ {:block/name "iva",
+  :block/created-at 1644794568937,
+  :block/updated-at 1644794568937}
  {:block/name "jan 10th, 2022",
   :block/created-at 1641772800000,
   :block/updated-at 1643134153805}
@@ -967,6 +1030,9 @@
  {:block/name "kanban",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
+ {:block/name "laffer",
+  :block/created-at 1644794568937,
+  :block/updated-at 1644794568937}
  {:block/name "later",
   :block/created-at 1638961917544,
   :block/updated-at 1638961917544}
@@ -982,6 +1048,9 @@
  {:block/name "ley de plusvalía 2016 (derogada)",
   :block/created-at 1642172083942,
   :block/updated-at 1642433618608}
+ {:block/name "ley orgánica de servicios públicos",
+  :block/created-at 1644794568937,
+  :block/updated-at 1644794568937}
  {:block/name "libros",
   :block/created-at 1643813586413,
   :block/updated-at 1643813601246}
@@ -1003,6 +1072,9 @@
  {:block/name "microeconomía",
   :block/created-at 1642172083941,
   :block/updated-at 1644727187688}
+ {:block/name "ministerio de trabajo",
+  :block/created-at 1644794568937,
+  :block/updated-at 1644794568937}
  {:block/name "modelo de inversión- qtobi en ecuador",
   :block/created-at 1642119189886,
   :block/updated-at 1642119884539}
@@ -1117,6 +1189,9 @@
  {:block/name "política",
   :block/created-at 1644249275723,
   :block/updated-at 1644249275723}
+ {:block/name "política de gasto",
+  :block/created-at 1644794568936,
+  :block/updated-at 1644794568936}
  {:block/name "política económica",
   :block/created-at 1644723897289,
   :block/updated-at 1644723897289}
@@ -1149,7 +1224,7 @@
   :block/updated-at 1644723897289}
  {:block/name "presupuesto general del estado",
   :block/created-at 1644670733185,
-  :block/updated-at 1644670737702}
+  :block/updated-at 1644759771859}
  {:block/name "probabilidad bayesiana",
   :block/created-at 1642172083937,
   :block/updated-at 1642172083937}
@@ -1215,7 +1290,7 @@
   :block/updated-at 1642942662270}
  {:block/name "sector público",
   :block/created-at 1644723897289,
-  :block/updated-at 1644723897289}
+  :block/updated-at 1644759643106}
  {:block/name "sem",
   :block/created-at 1644249275723,
   :block/updated-at 1644249275723}
