@@ -443,6 +443,7 @@
 		- Optimo de la [[Curva de Laffer]]
 			- ((62092deb-d2a7-435b-b24f-465ed831cae1))
 			- ((62092d38-2846-4a01-84d8-3b51ab2e7ace))
+			- ((62092e06-4dc9-401a-9a78-a0a4acd97963))
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
 		- Se plante hasta cuando puede el gobierno aumentar su nivel de recaudación
 		- ¿Cuándo el gobierno de un país decide aumentar su capacidad de recaudación que puede hacer ?
