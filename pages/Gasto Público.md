@@ -1,4 +1,5 @@
 alias:: Gasto del Gobierno
 
 - Gasto Publico Per Cápita
-	- $$g= frac$$
+	- $$g= \frac{G}{N}$$
+	-
