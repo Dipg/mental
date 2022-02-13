@@ -547,7 +547,7 @@
 			- Siempre que e programa publico reduce el precio de una mercancía el consumidor sustituye bienes que consume por el mas barato , Genera ineficiencia en el mercado
 		- Efecto renta
 			- Ayudas que facilitan el bienestar pero no alteran los precios a los que pueden comprar las diferentes mercancías tiene un efecto renta Modifican su estructura de gastos.
-			-
+			- ((62097ba2-749f-48ad-b9e6-3347bd39cc9e))
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
 	- # Control del Gasto publico
