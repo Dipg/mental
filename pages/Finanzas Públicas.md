@@ -279,9 +279,9 @@
 			- ***Personas mas ricas tienen rentas mas altas, normalmente prefieren gastar mas en todo***, sin embargo esto es debatible
 			- Cuando el estado gasta más en [[Bienes Públicos]], las personas más ricas a menudo tienen que pagar una parte relativamente grande del [[Coste adicional]], ya que esos costos son cubiertos a través de [[Impuestos]]
 				- Estos impuestos que cubren el costo adicional del gasto publico, se los conoce tambien como [[Precio en Impuestos]] o lo que es lo mismo [[Impuestos]],
-				- #+BEGIN_NOTE
-				  
-				  #+END_NOTE
+					- #+BEGIN_NOTE
+					  Ahora, bien para que nos sirve conocer este [[Precio en Impuestos]] 
+					  #+END_NOTE
 		- Deuda Tributaria del individuo
 		-
 	- Demanda Agregada de un bien público  en función de demandas individuales
