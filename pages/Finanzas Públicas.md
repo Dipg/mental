@@ -411,7 +411,7 @@
 				- Empresas públicas
 				- Empresas que conforman la Seguridad Social
 		- # Presupuesto General [[PGE]]
-			- ¿
+			- ¿ Que es el
 		-
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
