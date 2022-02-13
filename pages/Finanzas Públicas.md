@@ -394,7 +394,7 @@
 			- Empresas Públicas: como Petroecuador o las empresas municipales de obras públicas;
 			- Banca pública, como el [[Banco Central]] del Ecuador y la Corporación Financiera Nacional; las instituciones de la Seguridad Social, entre otros.
 	- #+BEGIN_NOTE
-	  Para analizar el sector Público, este se dividir en dos , el secto rpublico finaciero y el sector publico no 
+	  Para analizar el sector Público, este se dividir en dos , el secto publico finaciero y el sector publico no finaciero 
 	  #+END_NOTE
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
