@@ -578,7 +578,7 @@
 			- Gasto Público medido como consumo final del Gobierno General → Gasto publico total
 			- El nivel de Producción percapita
 		- ### ¿El gasto publico tiene siempre una interpretación univoca?
-			- Pues va a ser que no 🤨 , existen dos posiciones ante el efecto fe
+			- Pues va a ser que no 🤨 , existen dos posiciones ante el efecto del gasto publico en la economia
 				- Efecto Negativo de Gasto publixo
 					- Se cuestiona que los efectos de equidad y eficiencia del gato publico tienen un {{cloze coste en términos de desviación de recursos privados}} potencialmente productivos,
 					- Puede causar una distorsión  sobre el sistema de precios e incentivos , distorsionan la dinámica general de la economía
@@ -1116,4 +1116,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578
+	- ![image.png](../assets/image_1644241578294_0.png)
