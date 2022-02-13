@@ -589,6 +589,7 @@
 				- Efectos positivos del Gasto Publico
 					- El gasto publico contrarresta los fallos de mercado, ya que estos son impedimentos fuertes para el desarrollo, a diferencia de los bienes colectivos  que potencian el desarrollo.
 					- Se debe actuar ante la pobreza y las desigualdades sociales, ya que estas se presentan como un lastre ante el crecimiento económico, evitando que se infrautilice el capital humano, y se impida a los individuos explotar y desarrollar sus talentos y capacidades
+					- Al
 		-
 	- # Curva de Armey
 		- Tamaño del sector publico(Por gasto público()()) frente al crecimiento economico
