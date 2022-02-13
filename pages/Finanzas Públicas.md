@@ -506,10 +506,11 @@
 			- Con Ingresos permanentes, sine embargo existen excepciones plasmadas en la constitución.
 	- ## Como Se clasifican El Gasto Público
 		- Criterios Macroeconómicos
-			- Gasto de Capital:
+			- Gasto de Capital o Inversión:
 				- Para mantener o mejorar la capacidad productiva del país, sobre todo infraestructuras
 		- Criterios Económicos
 			- Gasto Corriente o de consumo
+				- Destinados a proporcionar servicios públicos (sanidad, justicia, educación, defensa, etc), salarios de funcionarios y compra de bienes y servicios
 		-
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
