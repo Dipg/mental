@@ -1,2 +1,2 @@
 - Sector Público Financiero (SPF)
-- Sector Público No Finaciero
+- Sector Público No Financiero
