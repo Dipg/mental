@@ -323,6 +323,7 @@
 					- Multiplicamos el tipo impositivo antes encontrado que se representa con $t$ por la renta que tienen esos individuos $$Y_i$$
 					- $$Deuda\,  tributaria: \, t Y_i=\frac{GY_i}{N \overline Y}$$ #ecuación
 					- #### Como es la preferecniad del Nivel de gasto en bienes públicos, bajo la tarifación proporcional
+						-
 						- Pobres tienen precio en impuestos mas bajo, por lo que su nivel de gasto publico es mas alto
 						- Efecto sustitución(Precio en impuestos más bajo) es mayor al efecto renta
 						- Personas pobres desean mas bienes púbicos que los ricos
