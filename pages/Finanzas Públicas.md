@@ -496,7 +496,7 @@
 	  Sin embargo esa politica de gasto , debe cumplir ciertas normativas que se indican en diferentes códigos ⬇️⬇️⬇️
 	  #+END_NOTE
 	- ##  ¿En que se Fundamenta el Gasto Público?
-		- Se fundamenta en lo que estipula en el
+		- Se fundamenta en lo que estipula en el [[Código Orgánico de Planificación y Fianzas Públicas]]
 		-
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
