@@ -139,7 +139,7 @@
 				- Para esto debemos obtener la [[Frontera de Posibilidades de Producción]] de Cada Individuo o país, En el caso de las ventajas comparativas de dos productos , se debe encontrar la [[Ecuación de la recta conociendo dos puntos]]  donde esos 2 puntos serán los máximos de producción de cada sujeto o país , es decir cuando consumo 0 de un producto y el máximo (0, maxi) y el otro punto es el máximo de producción del otro bien (max,0)
 				- ((62082254-db3a-43dc-9e02-ac119ba95c05)) #ecuación
 				- TODO Situación Inicial del Comercio y Resultados del Beneficio económico (Minuto 1:17 [Clase 1](https://drive.google.com/drive/u/1/folders/1HLDI-ohR65Evt3BmWr_TSQhJw0sdXEjS)) #Revisar
-	- # Fallas del mercado
+	- # Fallas del mercado 🟡
 	  collapsed:: true
 	  Mediante las Fianzas Públicas, y la asignación de recursos , se trata de corregir los fallos de mercado.
 		- ¿Cuáles son las fallas del mercado?
