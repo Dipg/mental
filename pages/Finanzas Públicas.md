@@ -307,13 +307,13 @@
 					- Multiplicamos el tipo impositivo antes encontrado que se representa con $t$ por la renta que tienen esos individuos $$Y_i$$
 					- $$Deuda\,  tributaria: \, t Y_i=\frac{GY_i}{N \overline Y}$$
 					- Efecto sustitución es mayor al efecto renta
+				- Tributación Progresiva
+				  collapsed:: true
+					- la deda tributaria aumenta mas que proporcionalmente,
+					- Ej.
+					- Si  mi renta es de 1000 → pago 100 ;
+					- Si mi renta es de 2000 → pago 220: → No 200 que seria proporcional al incremento
 				- collapsed:: true
-					- Tributación Progresiva
-					  collapsed:: true
-						- la deda tributaria aumenta mas que proporcionalmente,
-						- Ej.
-						- Si  mi renta es de 1000 → pago 100 ;
-						- Si mi renta es de 2000 → pago 220: → No 200 que seria proporcional al incremento
 	- Problema de agregación de preferencias
 	  collapsed:: true
 		- Es difícil averiguar cual es la preferencia por un bien publico de cada persona, por  lo que se toma en consideración son las decisiones colectivas
