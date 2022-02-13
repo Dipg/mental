@@ -470,8 +470,8 @@
 			  $$
 			- ((62093c31-d7d5-481e-aa9a-cf49849a6ccd))
 			- Para el Rezago se distinguen dos tipos de Rezagos
-				- El legal:  Previsto en las disposiciones legales del un país
-				-
+				- El rezago legal:  Previsto en las disposiciones legales del un país
+				- El Informar
 		- El aumento del deficit fiscal provoca ➡️ un alza en la inflación, la que a su ➡️ vez reduce el valor de la recaudación tributaria ➡️  Lo que as su vez aumenta el deficit fiscal  y se repite el ciclo 🔁
 		  background-color:: #264c9b
 		- ### Traslación del efecto Oliveratanzi a los consumidores
@@ -1012,4 +1012,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578294_0.png)
+	- ![image.png](../assets/image_1644241578294
