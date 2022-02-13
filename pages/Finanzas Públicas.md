@@ -539,7 +539,8 @@
 		- Producción Pública
 		- Producción Privada con Impuestos y Subvenciones destinadas a fomentar las actividades
 		- Producción privada con regulación estata
-	-
+	- ## La importancia de determinados rasgos en el diseño del programa
+		- drw
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
 	- # Control del Gasto publico
