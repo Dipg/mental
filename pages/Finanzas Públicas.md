@@ -314,6 +314,7 @@
 				  id:: 6201acf7-5558-4d58-89d3-3c3faebd66e2
 					- Todos pagan el mismo porcentaje de la renta que tengan
 					- $$Renta \,Total : N\overline Y$$
+					-
 					- $$Ingreso \, Total \, del \, Estado : tN \overline Y$$
 					- Se supone que el ingreso es igual al gasto
 					- $$Tipo \, impositivo: \frac{G}{N \overline Y}$$
