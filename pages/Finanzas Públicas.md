@@ -587,7 +587,8 @@
 					- Algunos autores defienden este argumento como los siguiente:
 						- ((62098842-aa72-4440-a1b1-dbf12079bbf6))
 				- Efectos positivos del Gasto Publico
-					- El gasto publico contrarresta los fallos de mercado, ya que estos son impedimentos fuertes para el desarrollo, a diferencia de los bienes colectivos  que potencian el desarrollo
+					- El gasto publico contrarresta los fallos de mercado, ya que estos son impedimentos fuertes para el desarrollo, a diferencia de los bienes colectivos  que potencian el desarrollo.
+					-
 		-
 	- # Curva de Armey
 		- Tamaño del sector publico(Por gasto público()()) frente al crecimiento economico
