@@ -293,7 +293,6 @@
 				- Tributación Uniforme
 					- Partimos de
 					- $$\text{Precio en Impuesto}=1/N$$
-					- Deuda Tributaria,  parte de multiplicar el gasto per cápita $$\frac{G}{N}$$ por el Precio en impuestos $$1/N$$
 					- $$\frac{G}{N ^{ 2}}$$
 					- Mayor es el efecto renta,  los ricos usan mas bienes públicos
 					-
