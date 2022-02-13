@@ -535,6 +535,7 @@
 				- ![image.png](../assets/image_1644273662876_0.png){:height 91, :width 318}
 	- ## Gasto Permanente(Egreso Permanente) y Gasto  no Permanente  (Egreso No Permanente)
 	- Lo que mas pesa son los ingresos por recaudación mas que los petroleros
+	-
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
 	- # Control del Gasto publico
