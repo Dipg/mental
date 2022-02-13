@@ -19,12 +19,10 @@ display: none !important;
     margin-bottom: 5px !important;
 }
 
-.block-ref  h1{
-    font-size: 12px !important;
-}
+
 
 .block-ref {
-    
+    font-size: 12px !important;
     color: rgb(53, 207, 60) !important;
     
     /* border-bottom: 3px solid rgb(53, 207, 60) !important;
