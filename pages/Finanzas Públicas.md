@@ -396,6 +396,7 @@
 	- #+BEGIN_NOTE
 	  Para analizar el sector Público, este se dividir en dos , el sector publico financiero y el sector publico no financiero. 
 	  #+END_NOTE
+	-
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
 		- Se plante hasta cuando puede el gobierno aumentar su nivel de recaudación
