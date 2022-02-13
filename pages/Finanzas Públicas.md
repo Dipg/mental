@@ -267,6 +267,9 @@
 						- ((62085866-557a-4476-8e66-4179fc54fcb0)) #ecuación #[[Ejercicios Numéricos]]
 	- # Elección Pública
 		- mediante la elección Pública (Los votos de las personas) Se obtiene  un mecanismo que nos permite conocer cual será la forma de asignar recursos (si se vota a alguien de derecha o si se vota a alguin de izquierda) acuerdo a un presupuesto.
+		- #+BEGIN_NOTE
+		  
+		  #+END_NOTE
 	- Demanda Agregada de un bien público  en función de demandas individuales
 	  collapsed:: true
 		- Esta se va a determinar en función de el precio que estén dispuestos a pagar los individuos.
