@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "62092deb-d2a7-435b-b24f-465ed831cae1", :page 29, :position {:bounding {:x1 55, :y1 29.6044921875, :x2 550, :y2 66.6044921875, :width 730, :height 410.625}, :rects (), :page 29}, :content {:text "[:span]", :image 1644768746694}, :properties {:color "yellow"}}]}
