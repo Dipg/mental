@@ -517,8 +517,8 @@
 		-
 	- ## ¿ Que es el Resultado Fiscal?
 		- #+BEGIN_CENTER
-		  
-		  #+END_CENTER Resultado Fiscal Global = Ingreso - Gastos
+		  {{cloze  Resultado Fiscal Global = Ingreso - Gastos
+		  }}#+END_CENTER
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
 	- # Control del Gasto publico
