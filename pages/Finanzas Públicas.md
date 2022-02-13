@@ -283,7 +283,8 @@
 					  Ahora, bien para que nos sirve conocer este [[Precio en Impuestos]] o [[Impuestos]] , Nos sirve para conocer la [[Deuda Tributaria del Individuo]] ⬇️⬇️⬇️
 					  #+END_NOTE
 		- ### Deuda Tributaria del individuo
-			- Esta deuda parte del [[Precio en Impuestos]] , y el gasto público , ya que  al
+			- Esta deuda parte del [[Precio en Impuestos]] , y el gasto público , ya que
+				-
 		-
 	- Demanda Agregada de un bien público  en función de demandas individuales
 	  collapsed:: true
