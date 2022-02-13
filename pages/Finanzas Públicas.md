@@ -316,7 +316,7 @@
 					- id:: 6201acf7-be50-4d7a-8a48-d2673b685a4f
 					  $$Renta \,Total : N\overline Y$$
 					- Donde $\overline Y$ es la renta promedio de los individuos de la poblacion
-					- $$Ingreso \, Total \, del \, Estado : tN \overline \\ [0.5cm]
+					- $$Ingreso \, Total \, del \, Estado : tN \overline\\[0.5cm]
 					  Gasto \, Total \, del \, Estado : tN \overline$$
 					- Se supone que el ingreso es igual al gasto
 					- $$Tipo \, impositivo: \frac{G}{N \overline Y}$$
