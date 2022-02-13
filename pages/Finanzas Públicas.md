@@ -499,6 +499,7 @@
 		- Se fundamenta en lo que estipula en el [[Código Orgánico de Planificación y Fianzas Públicas]]
 		- En La [[Ley orgánica de Servicios Públicos]]
 		- Resoluciones del [[Ministerio de Trabajo]]
+		- La Asignación
 		-
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
