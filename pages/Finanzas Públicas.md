@@ -268,7 +268,7 @@
 	- # Elección Pública
 		- mediante la elección Pública (Los votos de las personas) Se obtiene  un mecanismo que nos permite conocer cual será la forma de asignar recursos (si se vota a alguien de derecha o si se vota a alguin de izquierda) acuerdo a un presupuesto.
 		- #+BEGIN_NOTE
-		  Es decir cuando votamos por un candidato, estamos decidiendo cual sera la prioridad del 
+		  Es decir cuando votamos por un candidato, estamos decidiendo cual será la prioridad del [[Gasto Público]] 
 		  #+END_NOTE
 	- Demanda Agregada de un bien público  en función de demandas individuales
 	  collapsed:: true
