@@ -473,7 +473,7 @@
 				- El rezago legal:  Previsto en las disposiciones legales del un país
 				- El  rezago Informal: Se da cuando el pago se realiza luego de vencido el plazo legal
 		- #+BEGIN_CENTER
-		  
+		  Ciclo del Efecto olivera Tanzi
 		  #+END_CENTER
 		- El aumento del deficit fiscal provoca ➡️ un alza en la inflación, la que a su ➡️ vez reduce el valor de la recaudación tributaria ➡️  Lo que as su vez aumenta el deficit fiscal  y se repite el ciclo 🔁
 		  background-color:: #264c9b
