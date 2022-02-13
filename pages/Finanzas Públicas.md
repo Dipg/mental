@@ -292,7 +292,7 @@
 			- Sin embargo  existen otros mecanismos para que se pague la deuda tributaria:
 				- [](#1.) Tipo de tributación
 				  collapsed:: true
-					- Se paga igual
+					- Se paga igual independientemente de la renta
 					- Tributación Uniforme
 						- Precio del Impuesto
 						- $$1/N$$
