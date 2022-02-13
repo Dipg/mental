@@ -423,6 +423,7 @@
 			- Articulo 285; Describe los objetivos de la  [[Política Fiscal]]
 			- Articulo 286: Como deben ser las [[Finanzas Públicas]]
 		- ## Ley orgánica de Finanzas Publicas
+			-
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
 		- Se plante hasta cuando puede el gobierno aumentar su nivel de recaudación
