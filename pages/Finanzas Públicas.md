@@ -435,6 +435,7 @@
 							- [[Impuesto a la Renta]]
 							- [[ISD]]
 							- Tasas Aduaneras
+					-
 				- ## Ingresos No permanentes
 					-
 	- # Curva de Lafer
