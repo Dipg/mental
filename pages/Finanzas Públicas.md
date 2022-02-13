@@ -433,7 +433,7 @@
 							- El [[IVA]]
 							- El [[ICe]]
 							- [[Impuesto a la Renta]]
-							-
+							- [[ISD]]
 				- Ingresos No permanentes
 					-
 	- # Curva de Lafer
