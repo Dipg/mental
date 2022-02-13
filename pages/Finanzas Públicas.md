@@ -451,7 +451,7 @@
 					- 2. Como estabilizadores automáticos
 						- Un disminución de tipo impositivo ➡️ provoca aumento de  las rentass, del consumo, de la producción y finamlemtne una mayor recaudación
 					- EN los dos casos anteriores, entran en juego dos fueras que se contraponenen,
-						- Efecto renta
+						- [[Efecto Renta]]
 						- Efecto Sustitución
 			- Endeudarse
 	- Efecto Olivera- Tanzi
