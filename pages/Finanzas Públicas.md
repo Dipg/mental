@@ -289,12 +289,7 @@
 				- #+BEGIN_CENTER
 				  Deuda tributaria del Individuo= [[Precio en Impuesto]] * [[Gasto Público]] #ecuación
 				  #+END_CENTER
-			- Sin embargo  existen otros mecanismos para que se pafue la deuda tributaria
-			-
-	- Demanda Agregada de un bien público  en función de demandas individuales
-	  collapsed:: true
-		- Esta se va a determinar en función de el precio que estén dispuestos a pagar los individuos.
-		- Esto es sumo todas las demandas inversas
+			- Sin embargo  existen otros mecanismos para que se pague la deuda tributaria
 	- Tipo de tributación, 
 	  collapsed:: true
 		- Tributación Uniforme
