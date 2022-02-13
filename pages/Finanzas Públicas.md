@@ -898,4 +898,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/ima
+	- ![image.png](../assets/image_1644241578294_0.png)
