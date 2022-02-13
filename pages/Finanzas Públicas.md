@@ -486,7 +486,7 @@
 	- ¿ Que es el [[Gasto Público]] ?
 		- Se entiende como todas las {{cloze  transferencias}} y {{cloze transacciones}} para adquirir {{cloze bienes}} y {{cloze servicios}} y para la prestación de {{cloze subsidios}} y {{cloze transferencias}}
 	- ¿Cual es el objetivo del [[Gasto Público]] ?
-		- Satisfacer las necesidades de sus habitantes, el consumo público y para contribuir a la redistribución de la riqueza
+		- Satisfacer las {{cloze necesidades de sus habitantes}}, el consumo público y para contribuir a la redistribución de la riqueza
 	-
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
