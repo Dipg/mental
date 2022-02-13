@@ -472,6 +472,7 @@
 			- Para el Rezago se distinguen dos tipos de Rezagos
 				- El rezago legal:  Previsto en las disposiciones legales del un país
 				- El  rezago Informal: Se da cuando el pago se realiza luego de vencido el plazo legal
+		-
 		- El aumento del deficit fiscal provoca ➡️ un alza en la inflación, la que a su ➡️ vez reduce el valor de la recaudación tributaria ➡️  Lo que as su vez aumenta el deficit fiscal  y se repite el ciclo 🔁
 		  background-color:: #264c9b
 		- ### Traslación del efecto Oliveratanzi a los consumidores
