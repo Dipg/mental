@@ -314,7 +314,7 @@
 						- Los ricos Prefieren un nivel de [[Gasto Público]] Mas Alto
 						- ((62088007-cae3-4b3a-a50e-2ee6746143f3))
 						- ¿ Pero por que prefieren un gasto publico mayor?
-							- Esto se deve a que
+							- Esto se deve a que van a opterne un nivel de utilida mayor
 				- Tributación Proporcional
 				  collapsed:: true
 				  id:: 6201acf7-5558-4d58-89d3-3c3faebd66e2
