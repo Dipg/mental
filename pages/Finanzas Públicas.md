@@ -388,7 +388,7 @@
 	  CLOCK: [2022-02-01 Tue 14:39:04]--[2022-02-03 Thu 17:05:34] =>  50:26:30
 	  :END:
 		- ¿ Que es el Sector Público?
-			- El sector publico lo
+			- El sector público lo conforman los ministerios y otras instituciones del Estado, como el Ministerio de Salud y la Secretaría Nacional de Gestión de Riesgos;
 		-
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
