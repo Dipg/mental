@@ -464,6 +464,7 @@
 	  id:: 61fc51b8-4f8d-48f6-8165-6aa1e0c1c16d
 		- Analiza cual es el efecto que tiene la inflación, sobre la recaudación impositiva real
 		- Es un circulo vicioso
+		-
 		- El aumento del deficit fiscal provoca ➡️ un alza en la inflación, la que a su ➡️ vez reduce el valor de la recaudación tributaria ➡️  Lo que as su vez aumenta el deficit fiscal  y se repite el ciclo 🔁
 		  background-color:: #264c9b
 		- ### Traslación del efecto Oliveratanzi a los consumidores
