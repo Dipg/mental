@@ -582,7 +582,7 @@
 				- Efecto Negativo de Gasto publixo
 					- Se cuestiona que los efectos de equidad y eficiencia del gato publico tienen un {{cloze coste en términos de desviación de recursos privados}} potencialmente productivos,
 					- Puede causar una distorsión  sobre el sistema de precios e incentivos , distorsionan la dinámica general de la economía
-					- Algunos autoes defienden esta
+					- Algunos autores defienden este argumento como los sigueitne:
 	- # Curva de Armey
 		- Tamaño del sector publico(Por gasto público()()) frente al crecimiento economico
 		- [[draws/2022-02-07-08-19-30.excalidraw]]
