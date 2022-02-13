@@ -309,6 +309,7 @@
 					  \text{Deuda tributaria}=  \frac{G}{N ^{ 2}}$$
 					- Ejemplo : Tributación uniforme
 						- El IVA
+					- #### Prefere
 				- Tributación Proporcional
 				  collapsed:: true
 				  id:: 6201acf7-5558-4d58-89d3-3c3faebd66e2
@@ -930,4 +931,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578294_0.png)
+	- ![image.png](../assets/image_164424157829
