@@ -22,7 +22,7 @@ display: none !important;
 .block-ref  h1{
     font-size: 0.9rem !important;
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-    font-weight:lighter !important;
+    font-weight:normal !important;
 }
 
 .block-ref {
