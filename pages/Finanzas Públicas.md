@@ -344,6 +344,7 @@
 					- Si  mi renta es de 1000 → pago 100 ;
 					- Si mi renta es de 2000 → pago 220: → No 200 que seria proporcional al incremento
 			-
+		-
 	- Problema de agregación de preferencias
 	  collapsed:: true
 		- Es difícil averiguar cual es la preferencia por un bien publico de cada persona, por  lo que se toma en consideración son las decisiones colectivas
