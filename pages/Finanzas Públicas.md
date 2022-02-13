@@ -428,7 +428,7 @@
 					- Cabe mencionar que no [[Ingresos Permanentes]] se financiarán [[Egresos Permanentes]] (Articulo 286), excepto en salud o justicia de que estos ingresos puedan provenir de gastos no permanentes
 					- ¿ Que son los ingresos permanentes?
 						- Son los ingresos públicos que el estado a través de sus entidades, instituciones y organismos públicos reciben de manera continua, periódica y previsible.
-						- La generación de ingresos permanentes no ocasiona la disminución de la riqueza nacional. Por ello, los ingresos permanentes no pueden provenir de la enajenación, degradación o venta de activos públicos de ningún tipo
+						- La generación de ingresos permanentes no ocasiona la disminución de la riqueza nacional. Por ello, los ingresos permanentes no pueden provenir de la enajenación, degradación o venta de activos públicos de ningún tipo o del endeudamiento público.
 				- Ingresos No permanentes
 					-
 	- # Curva de Lafer
