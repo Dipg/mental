@@ -20,3 +20,9 @@ title:: hls__UNIDAD_2._1637746281546_0
   id:: 62093c31-d7d5-481e-aa9a-cf49849a6ccd
   hl-type:: area
   hl-stamp:: 1644772400366
+- [:span]
+  ls-type:: annotation
+  hl-page:: 50
+  id:: 62093c9e-fc68-4671-9b69-d7f66f7a3f39
+  hl-type:: area
+  hl-stamp:: 1644772509576

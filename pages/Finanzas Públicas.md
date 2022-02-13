@@ -472,6 +472,7 @@
 		- El aumento del deficit fiscal provoca ➡️ un alza en la inflación, la que a su ➡️ vez reduce el valor de la recaudación tributaria ➡️  Lo que as su vez aumenta el deficit fiscal  y se repite el ciclo 🔁
 		  background-color:: #264c9b
 		- ### Traslación del efecto Oliveratanzi a los consumidores
+		- ((62093c9e-fc68-4671-9b69-d7f66f7a3f39))
 		- ![image.png](../assets/image_1644772484645_0.png){:height 466, :width 450}
 		-
 - # DONE  Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
