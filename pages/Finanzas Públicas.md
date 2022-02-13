@@ -419,8 +419,8 @@
 				  Toda la generación de ingresos esta legalmente constituida, es decir todo ingreso tiene su propósito, esto se refleja en la [[Constitución]] 
 				  #+END_NOTE
 		- ## Constitución y Finanzas Públicas
-			- Según el articulo 280,- Todo ingreso debe estar validado o vinculado en el [[Plan Nacional de Desarrollo]]
-		-
+			- Articulo 280,- Todo ingreso debe estar validado o vinculado en el [[Plan Nacional de Desarrollo]]
+			- Articulo
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
 		- Se plante hasta cuando puede el gobierno aumentar su nivel de recaudación
