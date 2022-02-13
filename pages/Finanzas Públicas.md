@@ -565,6 +565,7 @@
 			- Existe una mayor producción que incremento de precio Beneficia  alos consumidores
 			- ((62098080-177e-46dd-b629-f8a1e442f16d))
 	- ##  TODO Normativa del Gasto público
+		-
 	- # Control del Gasto publico
 		- Asamblea
 		- Contraloria general del estado
