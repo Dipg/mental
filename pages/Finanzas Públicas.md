@@ -586,7 +586,8 @@
 					- Puede causar una distorsión  sobre el sistema de precios e incentivos , distorsionan la dinámica general de la economía
 					- Algunos autores defienden este argumento como los siguiente:
 						- ((62098842-aa72-4440-a1b1-dbf12079bbf6))
-				- Efectos
+				- Efectos positivos del Gasto Publico
+				-
 		-
 	- # Curva de Armey
 		- Tamaño del sector publico(Por gasto público()()) frente al crecimiento economico
