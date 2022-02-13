@@ -285,7 +285,7 @@
 		- ### Deuda Tributaria del individuo
 			- Esta deuda parte del [[Precio en Impuestos]] , y el gasto público , ya que
 				- #+BEGIN_CENTER
-				  Deuda tributaria del Individuo= [[Precio en Impuesto]] * [[Gasto Público]]
+				  Deuda tributaria del Individuo= [[Precio en Impuesto]] * [[Gasto Público]] 
 				  #+END_CENTER
 		-
 	- Demanda Agregada de un bien público  en función de demandas individuales
