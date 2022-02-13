@@ -1,6 +1,6 @@
 - {{renderer :todomaster-RmluYW56YXMgUPpibGljYXM=}}
   id:: 620716d8-26c4-43af-b7cd-e77b077f78b8
-- # TODO [](#1.) Economía del Sector Público  ![📑](../assets/UNIDAD_1_1637632758053_0.pdf) ![​📚​ ] (../assets/La_Economía_del_Sector_Público_1637674931911_0.pdf)
+- # TODO [](#1.) Economía del Sector Público  ![📑](../assets/UNIDAD_1_1637632758053_0.pdf) ![​📚​ ](../assets/La_Economía_del_Sector_Público_1637674931911_0.pdf)
   collapsed:: true
   Se parte de dos tipos de análisis, el [[Análisis Positivo]]  y el [[Análisis Normativo]]
 	- ## Análisis Positivo 🟡
