@@ -482,7 +482,7 @@
 		- ((62093c9e-fc68-4671-9b69-d7f66f7a3f39))
 		- ![image.png](../assets/image_1644772484645_0.png){:height 466, :width 450}
 		-
-- # LATER  Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
+- # TODO Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
 	- # Control del Gasto publico
