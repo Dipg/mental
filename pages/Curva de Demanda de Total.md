@@ -8,4 +8,4 @@ title:: Curva de Demanda de Total
 	- $$ P_T= P_1+P_2+P_3$$
 	- Donde $P_n$ Representan las funciones de demandas inversas de cada individuo
 	- ## ¿Cómo se calcula el nivel de eficiencia del Mercado ?
-		- $$P_T=Cmg$
+		- $$P_T=Cmg$$
