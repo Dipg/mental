@@ -75,7 +75,7 @@
 			- ¿ Que estimula el gasto Público ?  #red
 			  collapsed:: true
 				- El {{cloze consumó}} y el {{cloze Empleo}}
-	- ## Análisis Normativo :ywllow
+	- ## Análisis Normativo :yellow
 	  collapsed:: true
 	  Entra en Juego lo que se conoce como [[Economía del Bienestar]], la cual, en resumen, realiza un análisis de la deseabilidad social de situaciones económicas alternativas, Para implantar este tipo de normativas , este tipo de economía se basan en la Teoría de la [[Caja de Edgeworth ]]  que hace uso de las [[Curvas de Indiferencias]]
 		- Economía del bienestar
