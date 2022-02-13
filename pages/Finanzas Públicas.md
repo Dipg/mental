@@ -490,8 +490,8 @@
 	- #+BEGIN_NOTE
 	  Ok, ya sabemos que es el gasto publico y sus objetivos, sin embargo este gasto publico se rige ante una [[Política de Gasto]] , que determinara como se llevara a cabo dicho gasto publico según esa tenencia de política.
 	  #+END_NOTE
-	- Ejemplo de Una politica de gasto
-		-
+	- Ejemplo de Una Política de gasto
+		- Cambio de la matriz productiva
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
 	- # Control del Gasto publico
