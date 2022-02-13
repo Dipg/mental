@@ -276,7 +276,7 @@
 			- Diferencias por gustos y preferencias
 			- Diferencias entre rentas e impuestos
 		- ¿Que dice [[Stiglitz]] sobre las personas mas ricas?
-			-
+			- Personas mas ricas tiene
 	- Demanda Agregada de un bien público  en función de demandas individuales
 	  collapsed:: true
 		- Esta se va a determinar en función de el precio que estén dispuestos a pagar los individuos.
