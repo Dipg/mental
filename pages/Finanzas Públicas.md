@@ -263,7 +263,7 @@
 					- #+BEGIN_CENTER
 					  Curva de Demanda Total= Costo Marginal
 					  #+END_CENTER
-					- ¿ Como se calcula la   ?
+					- ¿ Como se calcula la ((6208584f-8ada-4cb3-9d1c-a0af22d9d69c)) ?
 			-
 	- Demanda Agregada de un bien público  en función de demandas individuales
 	  collapsed:: true
