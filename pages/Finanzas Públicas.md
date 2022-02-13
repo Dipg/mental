@@ -427,6 +427,7 @@
 				- Ingresos Permanentes
 					- Cabe mencionar que no [[Ingresos Permanentes]] se financiarán [[Egresos Permanentes]] (Articulo 286)
 				- Ingresos No permanentes
+					-
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
 		- Se plante hasta cuando puede el gobierno aumentar su nivel de recaudación
