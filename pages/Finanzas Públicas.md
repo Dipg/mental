@@ -426,6 +426,7 @@
 			- Dentro de Esta ley, tenemos dos clasificaciones de los ingresos:
 				- Ingresos Permanentes
 					- Cabe mencionar que no [[Ingresos Permanentes]] se financiarán [[Egresos Permanentes]] (Articulo 286), excepto en salud o justicia de que estos ingresos puedan provenir de gastos no permanentes
+					-
 				- Ingresos No permanentes
 					-
 	- # Curva de Lafer
