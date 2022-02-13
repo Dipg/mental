@@ -572,7 +572,7 @@
 		- Asamblea
 		- Contraloria general del estado
 	- ## Gasto Público y Crecimiento de un país
-		- Para analizar esta a
+		- Para analizar esta relación entre el gasto publico y el crecimiento nos basamos en algunas
 	- # Curva de Armey
 		- Tamaño del sector publico(Por gasto público()()) frente al crecimiento economico
 		- [[draws/2022-02-07-08-19-30.excalidraw]]
