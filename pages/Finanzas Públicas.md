@@ -298,6 +298,11 @@
 					- Y recordando que
 						- ((62086fe5-f0ca-43f9-95c0-9e90f3037419))
 						- 👁️ 👁️  La única diferencia es que usaremos el  Gasto público Per-capita
+						- ((62087388-b460-4140-a952-9836e3008eae))
+							- $$g= \frac{G}{N}$$
+							- Donde
+								- $G$ : Es el Gasto Publico Total
+								- $N$ : Población Total
 						-
 					- $$\text{Deuda tributaria}=  \frac{1}{N} G$$
 					- Mayor es el efecto renta,  los ricos usan mas bienes públicos
