@@ -505,7 +505,9 @@
 		- ¿Los gastos Permanentes?
 			- Con Ingresos permanentes, sine embargo existen excepciones plasmadas en la constitución.
 	- ## Como Se clasifican El Gasto Público
-		- Criterios Maroeconómicos
+		- Criterios Macroeconómicos
+			- Gasto de Capital:
+				-
 		- Criterios Económicos
 		-
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
