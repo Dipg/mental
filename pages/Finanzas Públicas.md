@@ -484,7 +484,7 @@
 		-
 - # TODO Unidad 3 ![📑](../assets/Unidad_3_1637746412131_0.pdf)
 	- ¿ Que es el [[Gasto Público]] ?
-		- Se entiende como todas las transferencias y transacciones para adquirir bienes y servicios y para la prestación de subsidios y transferencias
+		- Se entiende como todas las{{cloze  transferencias}} y {{cloze transacciones}} para adquirir bienes y servicios y para la prestación de subsidios y transferencias
 	- ¿Cual es el objetivo del Gasto público?
 		- Satisfacer las necesidades de sus habitantes, el consumo público y para contribuir a la redistribución de la riqueza
 	-
