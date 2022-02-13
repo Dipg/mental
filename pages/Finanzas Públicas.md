@@ -418,6 +418,7 @@
 				- #+BEGIN_NOTE
 				  Toda la generación de ingresos esta legalmente constituida, es decir todo ingreso tiene su propósito, esto se refleja en la [[Constitución]] 
 				  #+END_NOTE
+		- Constitución y Finazas Públicas
 		-
 		-
 	- # Curva de Lafer
