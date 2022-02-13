@@ -1,3 +1,4 @@
 alias:: Gasto del Gobierno
 
-- Gasto Publico Per Cápit
+- Gasto Publico Per Cápita
+	- $$$$
