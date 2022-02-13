@@ -266,7 +266,7 @@
 					- ¿ Como se calcula la ((6208584f-8ada-4cb3-9d1c-a0af22d9d69c)) ?
 						- ((62085866-557a-4476-8e66-4179fc54fcb0)) #ecuación #[[Ejercicios Numéricos]]
 	- # Elección Pública
-		- mediante la elección Pública (Los votos de las personas) Se obtiene  un mecanismo que nos permite asignar recursos di acuerdo a un presupuesto.
+		- mediante la elección Pública (Los votos de las personas) Se obtiene  un mecanismo que nos permite conocer cual será la asignar recursos di acuerdo a un presupuesto.
 	- Demanda Agregada de un bien público  en función de demandas individuales
 	  collapsed:: true
 		- Esta se va a determinar en función de el precio que estén dispuestos a pagar los individuos.
