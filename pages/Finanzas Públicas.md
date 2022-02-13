@@ -315,6 +315,7 @@
 						- ((62088007-cae3-4b3a-a50e-2ee6746143f3))
 						- ¿ Pero por que prefieren un gasto publico mayor?
 							- Esto se deben a que van a obtener un nivel de utilidad mayor , por lo que la Utilidad depende del gasto publico
+							- ![image.png](../assets/image_1644724491262_0.png){:height 279, :width 392}
 				- Tributación Proporcional
 				  collapsed:: true
 				  id:: 6201acf7-5558-4d58-89d3-3c3faebd66e2
