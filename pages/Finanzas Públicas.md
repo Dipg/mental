@@ -522,7 +522,7 @@
 		- ¿Cual es la diferencia con él resultado Fiscal Primario?
 			- No se consideran los intereses que el estado tiene que pagar por una deuda
 			- #+BEGIN_CENTER
-			  [[#red]]==Resultado Fiscal Primario = Ingresos Totales - Gastos Totales==
+			  [[#red]]==Resultado Fiscal Primario = Ingresos Totales - Gastos Totales- Intereses Por pago de Deuda==
 			  #+END_CENTER
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
