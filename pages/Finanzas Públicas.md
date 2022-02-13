@@ -516,7 +516,9 @@
 			- Entra todo lo que subsidios
 		-
 	- ## ¿ Que es el Resultado Fiscal?
-		- Resultado Fiscal Ingreso - Gastos
+		- #+BEGIN_CENTER
+		  
+		  #+END_CENTER Resultado Fiscal Global = Ingreso - Gastos
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
 	- # Control del Gasto publico
