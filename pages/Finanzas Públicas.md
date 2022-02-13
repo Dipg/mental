@@ -542,7 +542,8 @@
 	- ## La importancia de determinados rasgos en el diseño del programa
 		- [[draws/2022-02-13-16-35-28.excalidraw]]
 		- ((62097a2b-0718-484a-8f72-6dd14df9d797))
-	- ##
+	- ## Consecuencias de la Eficiencia del Gasto Público
+		-
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
 	- # Control del Gasto publico
