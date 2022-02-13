@@ -294,7 +294,7 @@
 				- Tributación Uniforme
 					- Partimos de
 					- $$\text{Precio en Impuesto}=1/N$$
-					  $$ Gasto Público = G$$
+					  $$ {Gasto Público = G$$
 					- ((62086fe5-f0ca-43f9-95c0-9e90f3037419))
 					- $$\frac{G}{N ^{ 2}}$$
 					- Mayor es el efecto renta,  los ricos usan mas bienes públicos
