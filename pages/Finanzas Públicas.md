@@ -447,7 +447,7 @@
 				- Subiendo el tipo impositivo medio
 				- ¿Pero que ecos hacen dudar de esta logica de incrementar los impuestos?
 					- 1. Los impuestos como desestabilizadores directos
-						- El aumento del impuesot ➡️produce descenso de la renta disponible ➡️ a sus  vez de la producción ➡️ reduciendo la base imponible sobre la que se aplica el impuesto
+						- El aumento del [[Impuestos]] ➡️produce descenso de la renta disponible ➡️ a sus  vez de la producción ➡️ reduciendo la base imponible sobre la que se aplica el impuesto
 					- 2. Como estabilizadores automáticos
 						- Un disminución de tipo impositivo ➡️ provoca aumento de  las rentass, del consumo, de la producción y finamlemtne una mayor recaudación
 			-
