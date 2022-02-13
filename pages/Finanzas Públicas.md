@@ -556,7 +556,8 @@
 			- ((62097ba2-749f-48ad-b9e6-3347bd39cc9e))
 	- ## Consecuencias distributivas (Incidencia) , Consecuencias de una subvención
 		- Corto plazo
-			- Incrmentan los precios , la curva de
+			- Incrmentan los precios , la curva de oferta del productor tiende a ser ma inelastica
+			-
 		- Largo Plazo
 	- Se expande mi demanda
 		- En el corto plazo una subvención puede alterar mas el precio que la cantidad
