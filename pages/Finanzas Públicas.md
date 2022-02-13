@@ -393,7 +393,9 @@
 			- Los niveles de Gobierno o GADS como lo son las {{cloze Prefecturas}}, {{cloze Municipios}} y {{cloze Juntas Parroquiales Rurales}};
 			- Empresas Públicas: como Petroecuador o las empresas municipales de obras públicas;
 			- Banca pública, como el [[Banco Central]] del Ecuador y la Corporación Financiera Nacional; las instituciones de la Seguridad Social, entre otros.
-		-
+	- #+BEGIN_NOTE
+	  
+	  #+END_NOTE
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
 		- Se plante hasta cuando puede el gobierno aumentar su nivel de recaudación
