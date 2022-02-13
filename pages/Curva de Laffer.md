@@ -1,1 +1,1 @@
-- cita::
+cita:: Laffer (1974)
