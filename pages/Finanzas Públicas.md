@@ -934,4 +934,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578294_0.pn
+	- ![image.png](../assets/image_1644241578294_0.png)
