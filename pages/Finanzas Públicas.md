@@ -596,7 +596,7 @@
 			- [[draws/2022-02-07-08-19-30.excalidraw]]
 				- Se puede estimar por MCO o por Datos de panel con efectos fijos
 	- #+BEGIN_NOTE
-	   👁️  Analizar el gasto pero desglosado por solo un tipo de gasto a la vez, esto ayudara a 
+	   👁️  Analizar el gasto pero desglosado por solo un tipo de gasto a la vez, esto ayudara a reducri la heterogenidad en niveles de desarrolo y estructura publica y economica
 	  #+END_NOTE
 	- DIferenciación entre un proyecto publico y un privado
 		- Privado genera utilidad , Publico no la busca
