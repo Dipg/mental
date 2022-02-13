@@ -450,7 +450,7 @@
 						- El aumento del [[Impuestos]] ➡️produce descenso de la renta disponible ➡️ a sus  vez de la producción ➡️ reduciendo la base imponible sobre la que se aplica el impuesto
 					- 2. Como estabilizadores automáticos
 						- Un disminución de tipo impositivo ➡️ provoca aumento de  las rentass, del consumo, de la producción y finamlemtne una mayor recaudación
-					- EN los dos casos anteriores
+					- EN los dos casos anteriores, entran en juego dos
 			- Endeudarse
 	- Efecto Olivera- Tanzi
 	  id:: 61fc51b8-4f8d-48f6-8165-6aa1e0c1c16d
