@@ -290,8 +290,7 @@
 				  Deuda tributaria del Individuo= [[Precio en Impuesto]] * [[Gasto Público]] #ecuación
 				  #+END_CENTER
 			- Sin embargo  existen otros mecanismos para que se pague la deuda tributaria:
-				- Tipo de tributación, 
-				  collapsed:: true
+				- collapsed:: true
 					- Tributación Uniforme
 						- Precio del Impuesto
 						- $$1/N$$
