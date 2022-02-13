@@ -409,7 +409,7 @@
 				- [[Gobiernos Autónomos Descentralizados]]
 				- Universidades públicas
 				- Empresas públicas
-				-
+				- Empresas que conforman la Seguridad Social
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
 		- Se plante hasta cuando puede el gobierno aumentar su nivel de recaudación
