@@ -504,7 +504,7 @@
 	- ¿ Como se financian los Gastos ?
 		- ¿Los gastos Permanentes?
 			- Con Ingresos permanentes, sine embargo existen excepciones plasmadas en la constitución.
-	-
+	- ## Como se clasifican El
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
 	- # Control del Gasto publico
