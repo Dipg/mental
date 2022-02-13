@@ -525,7 +525,7 @@
 			  [[#red]]==Resultado Fiscal Primario = Ingresos Totales - Gastos Totales- Intereses Por pago de Deuda==
 			  #+END_CENTER
 		- 💹 Datos de los Resultados fiscales Globales y Primario Para ecuador
-			-
+			- ((6201acf7-321b-4f9d-b852-e7fa9af7cc33))
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
 	- # Control del Gasto publico
@@ -876,6 +876,7 @@
 		- Video
 			- ![image.png](../assets/image_1644273535111_0.png){:height 227, :width 234}
 		- Pagina (Excel)
+		  id:: 6201acf7-321b-4f9d-b852-e7fa9af7cc33
 			- https://www.bce.fin.ec/index.php/informacioneconomica/sector-fiscal
 			- ![image.png](../assets/image_1644273662876_0.png){:height 91, :width 318}
 	- TODO de donde obtengo datos del IPI
@@ -1062,4 +1063,4 @@
 -
 -
 - Falta
-	- ![image.png](../assets/image_1644241578294_0.png)
+	- ![image.
