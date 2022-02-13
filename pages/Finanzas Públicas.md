@@ -399,7 +399,7 @@
 		- ### Sector Publico Finaicero
 			- Bancos o instituciones financiera públicas. Banco central , La CFN
 		- ## Sector Público no financiero
-			- [[PGE]]
+			- Son las entidades que conforman el [[PGE]]
 			-
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
