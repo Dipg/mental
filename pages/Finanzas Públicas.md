@@ -506,6 +506,7 @@
 			- Con Ingresos permanentes, sine embargo existen excepciones plasmadas en la constitución.
 	- ## Como Se clasifican El Gasto Público
 		- Criterios Maroeconómicos
+		- Criterios Económicos
 		-
 	- En el corto plazo una subencion puede alterar mas el precio que la cantidad
 	- En el largo plazo un subvención  se altera mas la cantidad que el recio
