@@ -460,7 +460,7 @@
 						- [[Efecto Renta]]
 						- [[Efecto Sustitución]]
 			- Endeudarse
-	- Efecto Olivera- Tanzi
+	- # Efecto Olivera- Tanzi
 	  id:: 61fc51b8-4f8d-48f6-8165-6aa1e0c1c16d
 		- Analiza cual es el efecto que tiene la inflación, sobre la recaudación impositiva real
 		- Es un circulo vicioso
