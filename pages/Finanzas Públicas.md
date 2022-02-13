@@ -545,7 +545,7 @@
 	- ## Consecuencias de la Eficiencia del Gasto Público
 		- Efecto Sustitución
 			- Siempre que e programa publico reduce el precio de una mercancía el consumidor sustituye bienes que consume por el mas barato , Genera ineficiencia en el mercado
-			-
+			- Ejemplo: El estado paga el 30% en alimentos
 			- ((62097bc7-794d-4e83-9df2-ec978c181b7f))
 		- Efecto renta
 			- Ayudas que facilitan el bienestar pero no alteran los precios a los que pueden comprar las diferentes mercancías tiene un efecto renta Modifican su estructura de gastos.
