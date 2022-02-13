@@ -3,4 +3,5 @@
 - [(Laffer,1974)]([[Curva de Laffer]])
 -
 - Optimo de la Curva de Laffer
-	- $$\text {T Optimo}=\frac{-\beta_1}{2*\beta_2}$$
+	- id:: 62092d38-2846-4a01-84d8-3b51ab2e7ace
+	  $$\text {T Optimo}=\frac{-\beta_1}{2*\beta_2}$$
