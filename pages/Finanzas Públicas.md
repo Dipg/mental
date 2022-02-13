@@ -304,7 +304,7 @@
 								- $G$ : Es el Gasto Publico Total
 								- $N$ : Población Total
 						-
-					- $$\text{Deuda tributaria}=  \frac{1}{N} \frac{G}{N} \\
+					- $$\text{Deuda tributaria}=  \frac{1}{N} \frac{G}{N} \\[0.5cm]
 					  \text{Deuda tributaria}=  \frac{G}{N ^{ 2}}$$
 					- Mayor es el efecto renta,  los ricos usan mas bienes públicos
 					-
