@@ -3,4 +3,4 @@
 - [(Laffer,1974)]([[Curva de Laffer]])
 -
 - Optimo de la Curva de Laffer
-	- $$$$
+	- $$T_Optimo=\frac{}{}$$
