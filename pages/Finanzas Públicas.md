@@ -415,6 +415,7 @@
 				- Es la {{cloze Estimación de los recursos financiero}} de un país; es decir , aquí están los ingresos estatales proveniente de la venta de petróleo, recaudación de [[Impuestos]]
 				- El PGE también incluye el [[Gasto Público]], el gasto que el estado realiza para el funcionamiento de sus instituciones y la dotación de servicios y el {{cloze financiamiento público}} obtenido de gobiernos y otros organismos de ejecución de proyectos de inversión.
 				-
+				-
 		-
 	- # Curva de Lafer
 		- [[draws/2022-02-07-08-22-54.excalidraw]]
