@@ -571,6 +571,7 @@
 	- # Control del Gasto publico
 		- Asamblea
 		- Contraloria general del estado
+	-
 	- # Curva de Armey
 		- Tamaño del sector publico(Por gasto público()()) frente al crecimiento economico
 		- [[draws/2022-02-07-08-19-30.excalidraw]]
